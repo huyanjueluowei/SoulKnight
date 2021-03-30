@@ -11,3 +11,15 @@
   （2）实现鼠标移动控制枪口方向
 
   （3）实现摄像机跟随主角移动，用到Cinemachine插件
+
+  
+
+- 3.30  
+
+  实现的功能
+
+  （1）创建了一系列ScriptableObject数据文件，包括CharacterData_SO，PlayerData_SO（继承CharacterData_SO)，包含人物的各项数据，如血量、防御、能量、攻击力、冷却时间等等
+
+  （2）创建人物左上角信息BarUI，血量、防御、能量三项滑动条与文字实时更新
+
+  （3）创建第一个怪物--普通哥布林，实现基本AI,可以跟随player，用到了PathFinding包
