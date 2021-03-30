@@ -19,6 +19,16 @@ public class Character_SO : ScriptableObject
     public float coolDown;
     public int minDamage;
     public int maxDamage;
-    public int criticalMutiplier;   //暴击加成
-    public int criticalChance;      //暴击率
+    public float criticalMutiplier;   //暴击加成
+    public float criticalChance;      //暴击率
+
+    public void ApplyWeaponData(WeaponData_SO weapon)
+    {
+        attackRange = weapon.attackRange;
+        coolDown = weapon.coolDown;
+        minDamage = weapon.minDamage;
+        maxDamage = weapon.maxDamage;
+        criticalMutiplier = weapon.criticalMutiplier;
+        criticalChance = weapon.criticalChance;
+    }
 }
