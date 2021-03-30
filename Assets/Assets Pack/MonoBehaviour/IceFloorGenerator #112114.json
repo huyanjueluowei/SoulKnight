@@ -1,0 +1,86 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2233849993903462943
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5142640038708462478
+  },
+  "m_Name": "",
+  "size": {
+    "x": 16,
+    "y": 16
+  },
+  "tileMap": {
+    "m_FileID": 0,
+    "m_PathID": -3626222428323007925
+  },
+  "tiles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7151773230867726955
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6729064782920210024
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5341945538246446501
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 786158877218721493
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5738247595036510813
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1135452723525794659
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1117918404998325323
+    }
+  ],
+  "coverRange": 0.934,
+  "startPoint": {
+    "x": 0,
+    "y": 0
+  },
+  "branchProbability": 0.49,
+  "onUpdatePositionEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "hasFusionTile": 0,
+  "fusionTileMap": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rightFusionTiles": [],
+  "upFusionTiles": [],
+  "leftFusionTiles": [],
+  "bottomFusionTiles": [],
+  "rightFusionIceTiles": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "upFusionIceTiles": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "leftFusionIceTiles": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bottomFusionIceTiles": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

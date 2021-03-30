@@ -1,0 +1,93 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1930145005348345452
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8535706622646743075
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 500,
+  "repeat": 0,
+  "statisticKey": "",
+  "itemType": 4,
+  "cnName": "兑换券",
+  "item_level": 0,
+  "tokenType": 0,
+  "ticketSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6323618929642663473
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7272608084319110631
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5751568254632694510
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7169479063950468667
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1404646857888592718
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -104379027286416632
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5751568254632694510
+    }
+  ],
+  "ticketSpritesWithTarget": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6323618929642663473
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3814658792386383025
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5751568254632694510
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7169479063950468667
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1404646857888592718
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -104379027286416632
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5751568254632694510
+    }
+  ]
+}

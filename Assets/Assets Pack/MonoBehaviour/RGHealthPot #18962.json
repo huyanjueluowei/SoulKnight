@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9037238039887709215
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6100758843440276659
+  },
+  "m_Name": "",
+  "health": 2,
+  "item_value": 25,
+  "item_name": "item_health_pot",
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 3150488904984120107
+  }
+}

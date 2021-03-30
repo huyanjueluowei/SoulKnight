@@ -1,0 +1,306 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4093726027451682054
+  },
+  "m_Name": "plant_config",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "plants": [
+    {
+      "plantName": "plant_banboo",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -6933446156341901612
+      },
+      "level": 4,
+      "value": 1000
+    },
+    {
+      "plantName": "plant_binary_tree",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 2643135762528849510
+      },
+      "level": 2,
+      "value": 400
+    },
+    {
+      "plantName": "plant_cactus",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 967253979955361675
+      },
+      "level": 4,
+      "value": 3000
+    },
+    {
+      "plantName": "plant_carrot",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 1734683566256916654
+      },
+      "level": 1,
+      "value": 50
+    },
+    {
+      "plantName": "plant_datura",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -532456099215629327
+      },
+      "level": 5,
+      "value": 10000
+    },
+    {
+      "plantName": "plant_defend_flower",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 3814637910030687954
+      },
+      "level": 3,
+      "value": 999
+    },
+    {
+      "plantName": "plant_dragon_tree",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -5400703778326548602
+      },
+      "level": 5,
+      "value": 10000
+    },
+    {
+      "plantName": "plant_eator",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 6360582557082920113
+      },
+      "level": 2,
+      "value": 300
+    },
+    {
+      "plantName": "plant_fantastic_flower",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 129193183364722236
+      },
+      "level": 3,
+      "value": 400
+    },
+    {
+      "plantName": "plant_gear_flower",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 7351520222070784720
+      },
+      "level": 0,
+      "value": 75
+    },
+    {
+      "plantName": "plant_gem_flower",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -8264388174606329708
+      },
+      "level": 0,
+      "value": 100
+    },
+    {
+      "plantName": "plant_gem_tree",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 1081389493755484030
+      },
+      "level": 4,
+      "value": 3000
+    },
+    {
+      "plantName": "plant_heptacolor",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -4700991456564741893
+      },
+      "level": 3,
+      "value": 300
+    },
+    {
+      "plantName": "plant_iron_tree",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 5868537895299700035
+      },
+      "level": 0,
+      "value": 75
+    },
+    {
+      "plantName": "plant_lotus",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 5446124163843174745
+      },
+      "level": 3,
+      "value": 750
+    },
+    {
+      "plantName": "plant_lycoris",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 7324118321854304486
+      },
+      "level": 2,
+      "value": 400
+    },
+    {
+      "plantName": "plant_magic_flower",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 4811340585526785538
+      },
+      "level": 4,
+      "value": 3000
+    },
+    {
+      "plantName": "plant_mandrake",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 7817288378345398482
+      },
+      "level": 5,
+      "value": 10000
+    },
+    {
+      "plantName": "plant_mirror_plane_flower",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -1128160400990886152
+      },
+      "level": 2,
+      "value": 400
+    },
+    {
+      "plantName": "plant_mushroom",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 220958573967338887
+      },
+      "level": 4,
+      "value": 3000
+    },
+    {
+      "plantName": "plant_mushroom_gold",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -5467850538292053572
+      },
+      "level": 5,
+      "value": 3000
+    },
+    {
+      "plantName": "plant_pumpkin",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 329709129081858440
+      },
+      "level": 4,
+      "value": 3000
+    },
+    {
+      "plantName": "plant_radar",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 7546178540737220251
+      },
+      "level": 2,
+      "value": 400
+    },
+    {
+      "plantName": "plant_shallot",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -4211201273853665855
+      },
+      "level": 0,
+      "value": 50
+    },
+    {
+      "plantName": "plant_strange_flower",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 2844749154605933263
+      },
+      "level": 1,
+      "value": 400
+    },
+    {
+      "plantName": "plant_tree",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 838670306620621878
+      },
+      "level": 1,
+      "value": 100
+    },
+    {
+      "plantName": "plant_trumpet",
+      "icon": {
+        "m_FileID": 4,
+        "m_PathID": -2809851119527911085
+      },
+      "level": 0,
+      "value": 100
+    },
+    {
+      "plantName": "plant_vine",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -7502688607222757032
+      },
+      "level": 0,
+      "value": 50
+    },
+    {
+      "plantName": "plant_watermelon",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 6329309195731093840
+      },
+      "level": 2,
+      "value": 400
+    },
+    {
+      "plantName": "plant_worm",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -6943569259657134328
+      },
+      "level": 5,
+      "value": 10000
+    },
+    {
+      "plantName": "plant_xmas",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -8358307210672171688
+      },
+      "level": 3,
+      "value": 1000
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7818152612997641416
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8820726727331586221
+  },
+  "m_Name": "",
+  "phantomWeaponSkin": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2954270940892976110
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3715988769964984037
+    }
+  ],
+  "phantomBulletProtos": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4360763024553731087
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7852627847705591903
+    }
+  ]
+}

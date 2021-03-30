@@ -1,0 +1,227 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2279644515801443387
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 283748021629019591
+  },
+  "m_Name": "",
+  "targetRange": {
+    "x": 1.5,
+    "y": 2.5
+  },
+  "idleDurationRange": {
+    "x": 1.0,
+    "y": 20.0
+  },
+  "moveDurationRange": {
+    "x": 0.2,
+    "y": 0.35
+  },
+  "angularSpeedRange": {
+    "x": -360.0,
+    "y": 360.0
+  },
+  "fadeDuration": 0.2,
+  "hitFadeDuration": 0.3,
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -8118728674674555449
+  },
+  "sprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6376666554543012610
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -984142326466549822
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5503052204916073312
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -524693895557263354
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6686454266250231186
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6185343455608897604
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3043804043282348935
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7286583957585094232
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6248030895217059063
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5358730797713150579
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8342873316235551032
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3290846033755014938
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7038556894980246339
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5447925201627497313
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8297807806570438491
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -640739528414490766
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3139688002385483620
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2662572001108315741
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7413508508937752687
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7665104683999706492
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7145860651250796741
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2792746791249260609
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2395637454421371411
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6740709269864410048
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4229778099250398458
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5169406601631753295
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3986332319424829890
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6800388826790838704
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3860861776706741959
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6298293706413309920
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7262070741408704102
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6338377699294029438
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1336269355935227937
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2996725056553379933
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2604594043691999475
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2359935245672746393
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3274693569615051881
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6990866961319250745
+    }
+  ],
+  "moveCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 8.420529,
+        "outSlope": 8.420529,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.09284352
+      },
+      {
+        "time": 0.130691245,
+        "value": 0.5367243,
+        "inSlope": 1.10796559,
+        "outSlope": 1.10796559,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.103504382
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "gravity": 10.0,
+  "radius": 0.5,
+  "obstacleMask": {
+    "m_Bits": 33693696
+  }
+}

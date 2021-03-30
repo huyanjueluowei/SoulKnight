@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5296798974969595923
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5740770970604898398
+  },
+  "m_Name": "",
+  "minDistance": 2.0,
+  "nextPoint": {
+    "m_FileID": 0,
+    "m_PathID": 1884804914046297700
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8219066111596633798
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6290393068812819417
+  },
+  "m_Name": "",
+  "damageType": 0,
+  "camp": 1,
+  "speed": 10.0,
+  "rigid2d": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "destroy_time": 2.0,
+  "rotate_angle": 0,
+  "awake": 0,
+  "can_rebound": 1,
+  "autoDirection": 1,
+  "repel": 0,
+  "critical": 0,
+  "rate": 0.1,
+  "speed_value": 0.5,
+  "min_speed": 1.0,
+  "max_speed": 100.0,
+  "explode_poly": {
+    "m_FileID": 0,
+    "m_PathID": 1993458540927366329
+  },
+  "time_interval": 0.5
+}

@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5596296357612109877
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5117262607742366954
+  },
+  "m_Name": "",
+  "mTerm": "tips/fishchip",
+  "mTermSecondary": "",
+  "PrimaryTermModifier": 0,
+  "SecondaryTermModifier": 0,
+  "TermPrefix": "",
+  "TermSuffix": "",
+  "LocalizeOnAwake": 1,
+  "IgnoreRTL": 0,
+  "MaxCharactersInRTL": 0,
+  "IgnoreNumbersInRTL": 1,
+  "CorrectAlignmentForRTL": 1,
+  "AddSpacesToJoinedLanguages": 0,
+  "AllowLocalizedParameters": 1,
+  "TranslatedObjects": [],
+  "LocalizeEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -9014851960534297423
+          },
+          "m_MethodName": "Flush",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "AlwaysForceLocalize": 0,
+  "LocalizeCallBack": {
+    "Target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "MethodName": ""
+  },
+  "mGUI_ShowReferences": 0,
+  "mGUI_ShowTems": 0,
+  "mGUI_ShowCallback": 0,
+  "mLocalizeTarget": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mLocalizeTargetName": "I2.Loc.LocalizeTarget_UnityUI_Text"
+}

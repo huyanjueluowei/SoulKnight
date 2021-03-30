@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 144
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 111
+  },
+  "m_Name": "",
+  "awake": 0,
+  "control_mode1": {
+    "m_FileID": 3,
+    "m_PathID": -2822826600538392723
+  },
+  "control_mode2": {
+    "m_FileID": 3,
+    "m_PathID": 4382148020075674095
+  },
+  "control_mode3": {
+    "m_FileID": 3,
+    "m_PathID": 6321971245537533780
+  },
+  "btn_clip": {
+    "m_FileID": 3,
+    "m_PathID": 1694913857533969541
+  }
+}

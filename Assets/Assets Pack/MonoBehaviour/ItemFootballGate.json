@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7690071398536999239
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5355288152584530627
+  },
+  "m_Name": "",
+  "coin": {
+    "m_FileID": 1,
+    "m_PathID": 738686776489015123
+  }
+}

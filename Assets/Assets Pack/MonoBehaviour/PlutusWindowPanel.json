@@ -1,0 +1,279 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1634762736375708432
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7505235106250129790
+  },
+  "m_Name": "",
+  "mainTransform": {
+    "m_FileID": 0,
+    "m_PathID": 3339378512831872181
+  },
+  "fadeInTime": 0.2,
+  "fadeOutTime": 0.2,
+  "fadeOutTargetPosition": {
+    "x": 0.0,
+    "y": 720.0
+  },
+  "donateRewardProgressTransform": {
+    "m_FileID": 0,
+    "m_PathID": -3286978765669345709
+  },
+  "donateRewardPreviewImage": {
+    "m_FileID": 0,
+    "m_PathID": -6856956144335310127
+  },
+  "donateRewardPreviewTransform": {
+    "m_FileID": 0,
+    "m_PathID": -3945930942062579218
+  },
+  "donateRewardText": {
+    "m_FileID": 0,
+    "m_PathID": -3927258012591438439
+  },
+  "initDonateRewardTextAnchorMin": {
+    "x": 0.0,
+    "y": 0.5
+  },
+  "donateRewardTextTransform": {
+    "m_FileID": 0,
+    "m_PathID": 7395406228005291456
+  },
+  "driedFishAmountText": {
+    "m_FileID": 0,
+    "m_PathID": 4805882793322421413
+  },
+  "driedFishItems": [
+    {
+      "driedFishCountText": {
+        "m_FileID": 0,
+        "m_PathID": -2815612131092273014
+      },
+      "driedFishPriceText": {
+        "m_FileID": 0,
+        "m_PathID": -1895727373923175913
+      }
+    },
+    {
+      "driedFishCountText": {
+        "m_FileID": 0,
+        "m_PathID": -8325805455192575249
+      },
+      "driedFishPriceText": {
+        "m_FileID": 0,
+        "m_PathID": 5532842337462305170
+      }
+    },
+    {
+      "driedFishCountText": {
+        "m_FileID": 0,
+        "m_PathID": -6459378833479380510
+      },
+      "driedFishPriceText": {
+        "m_FileID": 0,
+        "m_PathID": 3719125198620444871
+      }
+    }
+  ],
+  "progressBarParentObject": {
+    "m_FileID": 0,
+    "m_PathID": 8000624950380763727
+  },
+  "donateRewardController": {
+    "m_FileID": 0,
+    "m_PathID": -5918322320233597762
+  },
+  "fishChipPurchaseController": {
+    "m_FileID": 0,
+    "m_PathID": -6669124486063658721
+  },
+  "outlineShader": {
+    "m_FileID": 0,
+    "m_PathID": -4261525715189832952
+  },
+  "donateRewardTextKey": "donate/reward/next",
+  "rewardMaxTime": 1.5,
+  "rewardTimePerFishChip": 0.12,
+  "fishChipFxParentTransform": {
+    "m_FileID": 0,
+    "m_PathID": -32601084217826977
+  },
+  "fishChipFxTransforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1449356784300024630
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4214723781713337270
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7682076817183779529
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1619487959718978092
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8229332255475231653
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4559625287894864519
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1554947989055926621
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3024087341469212054
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3569314947708140638
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5459006081961441039
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4732310733161984443
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 902094379566782558
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4682046923152755029
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1823912126586257356
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3145687217615089428
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8780785471228050589
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8656666073317662082
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4429443846498492723
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8702376060002935560
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6986210148972130278
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5650395247986742699
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8534921819945291481
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 841337774249094419
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6849770930624387608
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1584645169501054862
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6282160723703048327
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 418653053081101568
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1569805541332689681
+    }
+  ],
+  "fishChipFxTargetTransform": {
+    "m_FileID": 0,
+    "m_PathID": 7369860396323436199
+  },
+  "fishChipFxFadeInTime": 0.2,
+  "fishChipFxMoveTimePercentage": 0.401,
+  "fishChipFxScaleTransforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5685222288224409194
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7369860396323436199
+    }
+  ],
+  "fxScale": 1.3,
+  "fxScaleSmoothTime": 0.05,
+  "fishChipStoreBtn": {
+    "m_FileID": 0,
+    "m_PathID": -3899388781969801556
+  },
+  "fishChipStore": {
+    "m_FileID": 0,
+    "m_PathID": -2064032063891681599
+  },
+  "rewardShowUpPrefab": {
+    "m_FileID": 1,
+    "m_PathID": -4090620192185837165
+  },
+  "cnFont": {
+    "m_FileID": 1,
+    "m_PathID": 5542306090058290256
+  },
+  "onFishReach": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 1295391757961163462
+          },
+          "m_MethodName": "PlayAudio",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  }
+}

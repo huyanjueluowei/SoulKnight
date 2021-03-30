@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3319767209222309779
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2243414822740203866
+  },
+  "m_Name": "",
+  "bulletInfo": {
+    "bulletProto": {
+      "m_FileID": 0,
+      "m_PathID": -7632747577889599517
+    },
+    "speed": 16.0,
+    "size": 1.0,
+    "damage": 3,
+    "critic": 0,
+    "repel": 3,
+    "throughCount": 0
+  }
+}

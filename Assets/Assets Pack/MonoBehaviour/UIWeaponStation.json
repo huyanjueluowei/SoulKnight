@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4526368754873644192
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2265978221778531400
+  },
+  "m_Name": "",
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "awake": 0,
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weaponInfoIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1120882446554331701
+  },
+  "mechInfoSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1226162864150255492
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7860914200261289126
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7181868210946157968
+    }
+  ]
+}

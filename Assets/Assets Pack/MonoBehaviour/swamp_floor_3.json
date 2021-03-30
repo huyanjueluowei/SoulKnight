@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 13312
+  },
+  "m_Name": "swamp_floor_3",
+  "m_Sprite": {
+    "m_FileID": 0,
+    "m_PathID": -4910237678903820627
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_Transform": {
+    "e00": 1.0,
+    "e01": 0.0,
+    "e02": 0.0,
+    "e03": 0.0,
+    "e10": 0.0,
+    "e11": 1.0,
+    "e12": 0.0,
+    "e13": 0.0,
+    "e20": 0.0,
+    "e21": 0.0,
+    "e22": 1.0,
+    "e23": 0.0,
+    "e30": 0.0,
+    "e31": 0.0,
+    "e32": 0.0,
+    "e33": 1.0
+  },
+  "m_InstancedGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Flags": 1,
+  "m_ColliderType": 1
+}

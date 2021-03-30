@@ -1,0 +1,119 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6272603043850193873
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8093137899683710821
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 0,
+    "m_PathID": -1091788974757895042
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 24,
+  "enemyTag": 532,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_lock_target": 0,
+  "enemy_id": "boss26",
+  "ai_level": 3,
+  "consume": 50,
+  "e_size": 2,
+  "reward_rate": 100,
+  "reward_value": [
+    3,
+    3,
+    0,
+    10
+  ],
+  "shoot_cd": 2.0,
+  "friction": 0.0,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 0.5,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bullets": [],
+  "boss_clip": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 4501051265373644572
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 8848558294856761920
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -3377858863748487834
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 1273969163101190416
+    }
+  ],
+  "angry_clip": {
+    "m_FileID": 0,
+    "m_PathID": 6756749243014537420
+  },
+  "boss_weapon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "levelModeDropWeapon": 1,
+  "doubleboss_offset": {
+    "x": 2.0,
+    "y": 0.0
+  },
+  "extraBodyRenderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3312836462308630786
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5934946073458204869
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1865915769170341338
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2061028630619746014
+    }
+  ],
+  "showGateDelay": 0.0,
+  "isKinematic": 0,
+  "onBossRoomClear": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

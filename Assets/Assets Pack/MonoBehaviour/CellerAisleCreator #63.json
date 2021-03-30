@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7719687888317349204
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3946223302303164924
+  },
+  "m_Name": "",
+  "exhibiteType": 5,
+  "directSign": -1,
+  "barrier": {
+    "m_FileID": 0,
+    "m_PathID": -8775573375209930461
+  },
+  "fixPositionTrans": []
+}

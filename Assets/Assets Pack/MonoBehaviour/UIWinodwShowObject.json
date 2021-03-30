@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2005414416291635144
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4832092907717427290
+  },
+  "m_Name": "",
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "awake": 0,
+  "textShader": {
+    "m_FileID": 1,
+    "m_PathID": 10101
+  },
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 3228828031039560833
+  }
+}

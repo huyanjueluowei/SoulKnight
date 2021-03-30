@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3136344598784284092
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7197708514470847702
+  },
+  "m_Name": "",
+  "sprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 736655886747073837
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1780959119618268992
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3605942191681909443
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2993820140379085396
+    }
+  ],
+  "frameRate": 8.0,
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 2205982307030039552
+  },
+  "mode": 0
+}

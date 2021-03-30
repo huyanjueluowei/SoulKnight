@@ -1,0 +1,13 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5374810038133428360
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -446911312619823175
+  },
+  "m_Name": "",
+  "aisleIceExtraFriction": 0.19
+}

@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -542016577361981967
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8797438317023542452
+  },
+  "m_Name": "",
+  "weapon_type": 0,
+  "weapon_tags": [
+    312,
+    304
+  ],
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "activate": 1,
+  "item_level": 0,
+  "item_value": 0,
+  "bulletsInfo": [],
+  "deviation": 0,
+  "consume": 0,
+  "weapon_speed": 1.0,
+  "atk_move_speed": 0.0,
+  "need_lock": 1,
+  "has_effect": 0,
+  "is_melee": 0,
+  "not_forgeable": 1,
+  "can_use": 1,
+  "limitUseInMultiRoom": 0,
+  "effectType": 7,
+  "intValue": 2,
+  "floatValue": 0.0,
+  "drinkId": "",
+  "icon": 0,
+  "statueIndex": 0
+}

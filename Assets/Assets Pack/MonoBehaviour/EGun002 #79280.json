@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7466156392672150868
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7411090801934341388
+  },
+  "m_Name": "",
+  "audio_clip": {
+    "m_FileID": 2,
+    "m_PathID": -1448364804562760397
+  },
+  "activate": 1,
+  "atk": 3,
+  "repel": 3,
+  "bullet": {
+    "m_FileID": 3,
+    "m_PathID": 5953277525510748478
+  },
+  "bullet_speed": 7.0,
+  "deviation": 0,
+  "can_through": 0,
+  "need_lock": 1,
+  "facing": 1,
+  "fx_play_alone": 0,
+  "speed_correction": 0.0,
+  "count": 3,
+  "angle": 45,
+  "has_trail": 0
+}

@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 776304281867000588
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8145869241428150966
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "damageFactor": 0.0,
+  "isTemp": 0,
+  "multiCount": 6,
+  "laserBullet": {
+    "bulletProto": {
+      "m_FileID": 0,
+      "m_PathID": -2799939652622950799
+    },
+    "speed": 16.0,
+    "size": 1.0,
+    "damage": 3,
+    "critic": 10,
+    "repel": 3,
+    "throughCount": 0
+  },
+  "buffBoosts": [
+    {
+      "boostType": 0,
+      "buffType": 24,
+      "value": 1.0
+    },
+    {
+      "boostType": 1,
+      "buffType": 3,
+      "value": 2.0
+    },
+    {
+      "boostType": 3,
+      "buffType": 2,
+      "value": 1.0
+    }
+  ]
+}

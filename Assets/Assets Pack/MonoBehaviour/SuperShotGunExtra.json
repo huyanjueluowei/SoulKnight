@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8111015644647955620
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 161479304048147257
+  },
+  "m_Name": "",
+  "hookRopeLineRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -7248198672414557694
+  },
+  "hookRopeTransform": {
+    "m_FileID": 0,
+    "m_PathID": 2958082977029927936
+  },
+  "rotationTransform": {
+    "m_FileID": 0,
+    "m_PathID": -8270388705148021222
+  },
+  "hookParentTransform": {
+    "m_FileID": 0,
+    "m_PathID": -8270388705148021222
+  },
+  "releaseSpeed": {
+    "initSpeed": 60.0,
+    "maxSpeed": 100.0,
+    "accelerateTime": 0.2
+  },
+  "shrinkSpeed": {
+    "initSpeed": 20.0,
+    "maxSpeed": 80.0,
+    "accelerateTime": 0.1
+  },
+  "hookRopeBulletIndex": 1,
+  "targetPosition": {
+    "x": 1.91,
+    "y": 0.06,
+    "z": 0.0
+  },
+  "triggerBoxSize": {
+    "x": 0.3,
+    "y": 0.1875
+  },
+  "triggerBoxOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "hookInitPosition": {
+    "x": 1.1338,
+    "y": -0.063
+  },
+  "receiveRadius": 1.16,
+  "maxDistance": 15.0,
+  "coldDown": 0.2,
+  "buffTime": 0.05,
+  "buff": {
+    "m_FileID": 0,
+    "m_PathID": 5256516787903864033
+  }
+}

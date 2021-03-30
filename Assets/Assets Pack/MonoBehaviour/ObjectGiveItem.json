@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -977179363929683329
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4896434146911923590
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "I_gambling",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "special_item": {
+    "m_FileID": 1,
+    "m_PathID": -7424116674232764160
+  },
+  "give_talk": "cage/npc_banker2_talk_2",
+  "given_clip": {
+    "m_FileID": 1,
+    "m_PathID": 5176889906864298679
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3301438385993938476
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2900487987233394196
+  },
+  "m_Name": "",
+  "sfx": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "effectPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2198417057593196537
+  },
+  "effectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 5545021084727755956
+  },
+  "effectPositionOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

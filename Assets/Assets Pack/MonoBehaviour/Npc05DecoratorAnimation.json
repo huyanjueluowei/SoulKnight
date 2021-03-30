@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8056558235679145823
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6763064959901613140
+  },
+  "m_Name": "",
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -8099627964719756668
+  },
+  "saturatorBase": 1.0,
+  "saturatorPeriod": 2.0,
+  "saturatorRange": 0.06
+}

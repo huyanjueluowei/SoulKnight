@@ -1,0 +1,315 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4052381242513945255
+  },
+  "m_Name": "buff_info",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "infos": [
+    {
+      "buffDesc": "无天赋",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -2309254629024759690
+      },
+      "buff": 0
+    },
+    {
+      "buffDesc": "子弹暴击会穿透敌人",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -2030481942624066319
+      },
+      "buff": 1
+    },
+    {
+      "buffDesc": "提升激光武器的宽度",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 5989910912416292074
+      },
+      "buff": 2
+    },
+    {
+      "buffDesc": "增加散弹枪的子弹数量",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 2138429284957383171
+      },
+      "buff": 3
+    },
+    {
+      "buffDesc": "使用近战武器反弹子弹",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -16070878057365892
+      },
+      "buff": 4
+    },
+    {
+      "buffDesc": "蓄力武器蓄力加快",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -6354246871136225918
+      },
+      "buff": 5
+    },
+    {
+      "buffDesc": "护盾被破坏时将不受到额外伤害",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -2906663484394192899
+      },
+      "buff": 6
+    },
+    {
+      "buffDesc": "免疫陷阱，免疫碰撞伤害",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -4412741290048675871
+      },
+      "buff": 7
+    },
+    {
+      "buffDesc": "免疫毒气及减速，对敌人中毒伤害提升",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 3603348036939427594
+      },
+      "buff": 8
+    },
+    {
+      "buffDesc": "降低爆炸伤害并免疫火焰，对敌人火焰伤害提升",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 5024818719896736171
+      },
+      "buff": 9
+    },
+    {
+      "buffDesc": "商店打5折",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -1889385729839616765
+      },
+      "buff": 10
+    },
+    {
+      "buffDesc": "击败敌人将有概率回复生命值",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -5922692205606329810
+      },
+      "buff": 11
+    },
+    {
+      "buffDesc": "提升药水恢复能力",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -1095168006377126366
+      },
+      "buff": 12
+    },
+    {
+      "buffDesc": "击败敌人将回复能量",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 6612872961157165114
+      },
+      "buff": 13
+    },
+    {
+      "buffDesc": "降低敌人子弹速度，拾起金币能量球范围提升",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -474693539157369469
+      },
+      "buff": 14
+    },
+    {
+      "buffDesc": "游戏结束时获得更多宝石奖励",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -2835184535398050426
+      },
+      "buff": 15
+    },
+    {
+      "buffDesc": "提升生命值上限",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 8151806040090137343
+      },
+      "buff": 16
+    },
+    {
+      "buffDesc": "加强宠物及随从",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 8252869298926435584
+      },
+      "buff": 17
+    },
+    {
+      "buffDesc": "护盾受到攻击时释放冲击波",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -7045381363949637378
+      },
+      "buff": 18
+    },
+    {
+      "buffDesc": "打破箱子可能掉落生命药水",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -8935102344805862042
+      },
+      "buff": 19
+    },
+    {
+      "buffDesc": "子弹更准更容易暴击",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 8805976684397697422
+      },
+      "buff": 20
+    },
+    {
+      "buffDesc": "减少技能冷却时间",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -8430215381842667
+      },
+      "buff": 21
+    },
+    {
+      "buffDesc": "雕像能够触发两次",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 2633927458922618960
+      },
+      "buff": 22
+    },
+    {
+      "buffDesc": "免疫冰冻, 对敌人的冰冻时间增加",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -4572647871134128248
+      },
+      "buff": 23
+    },
+    {
+      "buffDesc": "子弹拥有弹射效果",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 213448062882857275
+      },
+      "buff": 24
+    },
+    {
+      "buffDesc": "能额外携带一把武器",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -8326158415627183957
+      },
+      "buff": 25
+    },
+    {
+      "buffDesc": "元素效果子弹暴击也造成双倍伤害",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 215751955531722268
+      },
+      "buff": 26
+    },
+    {
+      "buffDesc": "加强法杖武器",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 2034555031548026969
+      },
+      "buff": 27
+    },
+    {
+      "buffDesc": "护甲+1",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 2769508890007282915
+      },
+      "buff": 28
+    },
+    {
+      "buffDesc": "增加近战武器攻击距离。",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -9045559073425014284
+      },
+      "buff": 29
+    },
+    {
+      "buffDesc": "能量上限+100",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 4428583566785537571
+      },
+      "buff": 30
+    },
+    {
+      "buffDesc": "连续攻击武器的连击次数增加。",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -3325011312652937620
+      },
+      "buff": 31
+    },
+    {
+      "buffDesc": "增加攻击速度。",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 7644618402226980424
+      },
+      "buff": 32
+    },
+    {
+      "buffDesc": "能量恢复+1",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 4164323399569543157
+      },
+      "buff": 1001
+    },
+    {
+      "buffDesc": "你的技能获得加强",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 251699053819577078
+      },
+      "buff": 1002
+    },
+    {
+      "buffDesc": "使你的副武器进入浮游状态",
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 2657253398293587669
+      },
+      "buff": 1003
+    }
+  ]
+}

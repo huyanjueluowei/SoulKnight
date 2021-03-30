@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2246562179425455250
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4193793126032932150
+  },
+  "m_Name": "",
+  "damageType": 2056,
+  "camp": 1,
+  "audioClip": {
+    "m_FileID": 0,
+    "m_PathID": 1420409875615434846
+  },
+  "type": 1,
+  "range": 0.0,
+  "lockPosition": 0,
+  "offsetHead": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "offsetTail": {
+    "x": 0.0,
+    "y": 0.5,
+    "z": 0.0
+  },
+  "bodyLengthFactor": 0.6666667
+}

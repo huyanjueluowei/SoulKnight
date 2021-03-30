@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4265439376124185628
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5189763879977083411
+  },
+  "m_Name": "",
+  "damageType": 8,
+  "camp": 1,
+  "resolution": 20,
+  "head": {
+    "m_FileID": 0,
+    "m_PathID": -5172965718119633663
+  },
+  "tail": {
+    "m_FileID": 0,
+    "m_PathID": 549093530808217967
+  },
+  "fadeInTime": 0.5,
+  "fadeOutTime": 0.2,
+  "idlePeriod": 0.2,
+  "idleScaleRange": 0.2,
+  "obstacleHitRange": 1.27,
+  "customScaleFactor": 1.0
+}

@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3887414787349977038
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6587798070535315336
+  },
+  "m_Name": "",
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 7494592237317156370
+  },
+  "move_angle": 0.0,
+  "damage": 5,
+  "hit_object": {
+    "m_FileID": 0,
+    "m_PathID": -7198334486031958363
+  },
+  "source_object": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "anim_name": [
+    "bullet_bat",
+    "bullet_bat",
+    "bullet_bat",
+    "bullet_bat",
+    "bullet_bat",
+    "bullet_bat",
+    "bullet_bat_s6",
+    "bullet_bat_s7",
+    "bullet_bat_s8"
+  ]
+}

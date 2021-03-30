@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5626908715736385235
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7819409184126883120
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "plant_trumpet",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "permanent": 0,
+  "restartState": 0,
+  "icon": {
+    "m_FileID": 4,
+    "m_PathID": -2809851119527911085
+  },
+  "usableState": 0,
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": -6719486939421190023
+  },
+  "count": 4,
+  "randomMaterial": 0,
+  "RandomMaterials": []
+}

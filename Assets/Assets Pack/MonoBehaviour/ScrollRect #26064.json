@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 555489015717629761
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3147000244519926149
+  },
+  "m_Name": "",
+  "m_Content": {
+    "m_FileID": 0,
+    "m_PathID": -109101745890661224
+  },
+  "m_Horizontal": 0,
+  "m_Vertical": 1,
+  "m_MovementType": 2,
+  "m_Elasticity": 0.1,
+  "m_Inertia": 1,
+  "m_DecelerationRate": 0.01,
+  "m_ScrollSensitivity": 25.0,
+  "m_Viewport": {
+    "m_FileID": 0,
+    "m_PathID": -2016372928993626139
+  },
+  "m_HorizontalScrollbar": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_VerticalScrollbar": {
+    "m_FileID": 0,
+    "m_PathID": -5254749374464329088
+  },
+  "m_HorizontalScrollbarVisibility": 2,
+  "m_VerticalScrollbarVisibility": 0,
+  "m_HorizontalScrollbarSpacing": -3.0,
+  "m_VerticalScrollbarSpacing": -3.0,
+  "m_OnValueChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -8319675061306303131
+          },
+          "m_MethodName": "UpdateItemsInTheList",
+          "m_Mode": 6,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  }
+}

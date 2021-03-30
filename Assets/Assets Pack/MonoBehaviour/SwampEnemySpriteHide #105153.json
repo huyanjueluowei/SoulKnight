@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9143705045276607512
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1362685496526934724
+  },
+  "m_Name": "",
+  "spriteAnimations": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7773186732820028561
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5488472622946238494
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9127805581447852872
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4325323350321237161
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8754900908349362259
+    }
+  ],
+  "deadColor": {
+    "r": 0.3018868,
+    "g": 0.3018868,
+    "b": 0.3018868,
+    "a": 1.0
+  },
+  "deadPosition": {
+    "x": 0.39,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "tentacleParent": {
+    "m_FileID": 0,
+    "m_PathID": 7423196119202258956
+  },
+  "enemyController": {
+    "m_FileID": 0,
+    "m_PathID": -7864083512432999736
+  }
+}

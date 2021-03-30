@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5850386917779388087
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1400447970365285418
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "level": "Sandbox",
+  "bgm_clip": {
+    "m_FileID": 2,
+    "m_PathID": 2525873456746858319
+  },
+  "camera_bg": {
+    "r": 0.5764706,
+    "g": 0.654902,
+    "b": 0.7137255,
+    "a": 1.0
+  },
+  "centerPoint": {
+    "x": 102,
+    "y": 102
+  },
+  "mapSize": {
+    "x": 102,
+    "y": 102
+  },
+  "floorTileId": 0,
+  "floorTile": {
+    "m_FileID": 0,
+    "m_PathID": -794824123115880729
+  },
+  "floorTileHorizontal": {
+    "m_FileID": 0,
+    "m_PathID": -3768178866869745584
+  },
+  "floorTileVerticle": {
+    "m_FileID": 0,
+    "m_PathID": 2949018333162264585
+  },
+  "floorTileCross": {
+    "m_FileID": 0,
+    "m_PathID": 2958257570226714600
+  },
+  "startPointProto": {
+    "m_FileID": 0,
+    "m_PathID": 7723122673581575908
+  }
+}

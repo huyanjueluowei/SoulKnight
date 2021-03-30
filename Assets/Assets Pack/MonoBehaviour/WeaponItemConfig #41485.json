@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5052778373184673716
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -291112090395600958
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "supportItems": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6873209007889335468
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3925598321951745938
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8060331790644334741
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6768223101760481311
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3805891058143179905
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1890244541225879579
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5511498642620255969
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8892772848919538696
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5939211318803841693
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1938224342840544195
+    }
+  ],
+  "itemDecidedByWeaponConfig": 1
+}

@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2664117998312009888
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7652761593101460615
+  },
+  "m_Name": "",
+  "damage": 2,
+  "offet_time": 0.0,
+  "show_time": 1.0,
+  "hide_time": 2.0,
+  "hit_player": 1,
+  "hit_enemy": 1
+}

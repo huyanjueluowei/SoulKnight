@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 932004609719734594
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9161838279867747095
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 2,
+    "m_PathID": 8184099885297121370
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 31,
+  "enemyTag": 69,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 2451076442162904732
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "e_tortoise",
+  "ai_level": 3,
+  "consume": 2,
+  "e_size": 2,
+  "reward_rate": 25,
+  "reward_value": [
+    0,
+    0,
+    2,
+    2
+  ],
+  "shoot_cd": 3.0,
+  "friction": 0.8,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 1.0,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "damage": 4,
+  "later_time": 1.5,
+  "atk1_cilp": {
+    "m_FileID": 2,
+    "m_PathID": 5896789235608708879
+  },
+  "bullet01": {
+    "m_FileID": 2,
+    "m_PathID": 3578711583494901616
+  },
+  "dead_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

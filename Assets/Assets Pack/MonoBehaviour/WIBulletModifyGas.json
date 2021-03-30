@@ -1,0 +1,113 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9034888281814073530
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7256284979223974876
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "wi11_poison_stone",
+  "item_value": 20,
+  "repeat": 0,
+  "statisticKey": "",
+  "supportWeaponList": [
+    {
+      "id": 0,
+      "weaponType": 1,
+      "supportWeaponScripts": []
+    },
+    {
+      "id": 1,
+      "weaponType": 2,
+      "supportWeaponScripts": []
+    },
+    {
+      "id": 2,
+      "weaponType": 10,
+      "supportWeaponScripts": []
+    },
+    {
+      "id": 3,
+      "weaponType": 13,
+      "supportWeaponScripts": [
+        "GunThrow"
+      ]
+    },
+    {
+      "id": 4,
+      "weaponType": 13,
+      "supportWeaponScripts": [
+        "GunThrowSword",
+        "GunInitRogue"
+      ]
+    },
+    {
+      "id": 5,
+      "weaponType": 14,
+      "supportWeaponScripts": [
+        "Gun001",
+        "Gun008"
+      ]
+    },
+    {
+      "id": 6,
+      "weaponType": 15,
+      "supportWeaponScripts": [
+        "Gun001"
+      ]
+    },
+    {
+      "id": 7,
+      "weaponType": 11,
+      "supportWeaponScripts": [
+        "Gun001",
+        "Gun008",
+        "GunThrow",
+        "GunLock"
+      ]
+    },
+    {
+      "id": 8,
+      "weaponType": 11,
+      "supportWeaponScripts": [
+        "Gun007"
+      ]
+    }
+  ],
+  "byWeapon": 0,
+  "processName": "",
+  "item_level": 1,
+  "show_level": -1,
+  "weapon_item_sprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_id": 0,
+  "probability": 0.1,
+  "effectorObject": {
+    "m_FileID": 0,
+    "m_PathID": 5840225107625292969
+  },
+  "bullet_color": {
+    "r": 0.0,
+    "g": 1.0,
+    "b": 0.2965517,
+    "a": 1.0
+  }
+}

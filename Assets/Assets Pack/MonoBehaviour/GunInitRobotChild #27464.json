@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3070546688509634692
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5266501863521872374
+  },
+  "m_Name": "",
+  "laser": 0,
+  "effect": {
+    "m_FileID": 0,
+    "m_PathID": 997752590225333898
+  },
+  "bullet": {
+    "m_FileID": 0,
+    "m_PathID": -2902564939183537992
+  },
+  "atk_clip": {
+    "m_FileID": 0,
+    "m_PathID": -1500053710922025673
+  },
+  "atk": 1,
+  "repel": 3.0,
+  "bullet_speed": 24.0,
+  "critical": 0,
+  "deviation": 5,
+  "scout_time": 1.0,
+  "multiCount": 1,
+  "can_through": 0
+}

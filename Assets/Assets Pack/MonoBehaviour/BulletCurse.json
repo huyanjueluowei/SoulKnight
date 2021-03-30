@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7384069096730657574
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5657330921886402315
+  },
+  "m_Name": "",
+  "buff": {
+    "m_FileID": 0,
+    "m_PathID": -3896455610771874469
+  },
+  "damage_radius": 3.0,
+  "damage": 1,
+  "hit_player": 1,
+  "hit_enemy": 0,
+  "duration": 6,
+  "hit_invert": 0.5
+}

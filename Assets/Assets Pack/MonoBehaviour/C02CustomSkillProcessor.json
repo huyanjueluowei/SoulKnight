@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 807205304274085047
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1550841590461937196
+  },
+  "m_Name": "",
+  "configs": [
+    {
+      "skinIndex": 8,
+      "skillIndex": 1,
+      "processingName": "HideSprite"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4537585709945415502
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3718103623543925376
+  },
+  "m_Name": "",
+  "unlock_key": "mspider",
+  "itemLevel": 1,
+  "itemValue": 15,
+  "defence": 0,
+  "canTriggerItem": 1,
+  "deadObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "deadClip": {
+    "m_FileID": 0,
+    "m_PathID": 8184099885297121370
+  },
+  "speedRate": 0.1,
+  "drivePosition": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "hands": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9036356009492000162
+    }
+  ],
+  "useControllerWeapon": 1,
+  "coverController": 0,
+  "runAnim": 1,
+  "idleAnim": 1,
+  "hideInactiveWeapon": 0,
+  "isCreature": 1,
+  "hasHp": 1,
+  "keep": 1,
+  "hasFx": 1
+}

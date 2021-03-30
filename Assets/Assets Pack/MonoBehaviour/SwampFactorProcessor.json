@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5829220408050279879
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5188502213502128135
+  },
+  "m_Name": "",
+  "windowShowPrefab": {
+    "m_FileID": 2,
+    "m_PathID": 2005414416291635144
+  },
+  "descTextPath": "desc_text",
+  "showDelay": 1.5,
+  "negativeFactor": 2005,
+  "banBuffs": [
+    {
+      "buff": 8,
+      "sprite": {
+        "m_FileID": 2,
+        "m_PathID": 3603348036939427594
+      }
+    },
+    {
+      "buff": 9,
+      "sprite": {
+        "m_FileID": 2,
+        "m_PathID": 5024818719896736171
+      }
+    },
+    {
+      "buff": 23,
+      "sprite": {
+        "m_FileID": 2,
+        "m_PathID": -4572647871134128248
+      }
+    }
+  ],
+  "buffImgPath": "ban_buff"
+}

@@ -1,0 +1,335 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2317074223457300321
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4793773959514871530
+  },
+  "m_Name": "",
+  "heavyAttackModel": {
+    "cd": 1.5,
+    "animationTriggerName": "atk_1",
+    "normalWeight": 4,
+    "angryWeight": 5,
+    "bulletCount": 6,
+    "initDelay": 0.5,
+    "prepareDuration": 0.8,
+    "bulletInfo": {
+      "bulletProto": {
+        "m_FileID": 3,
+        "m_PathID": -8579902367974667131
+      },
+      "speed": 8.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 6,
+      "throughCount": 0
+    },
+    "bulletEffectPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -4508265998002376555
+    },
+    "releaseTransform": {
+      "m_FileID": 0,
+      "m_PathID": -4961584811100329315
+    },
+    "positionOffset": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0
+    },
+    "radius": 2.0,
+    "hammerBulletInfo": {
+      "bulletProto": {
+        "m_FileID": 2,
+        "m_PathID": 815939732839467372
+      },
+      "speed": 16.0,
+      "size": 4.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 6,
+      "throughCount": 0
+    },
+    "polyBullet": {
+      "m_FileID": 2,
+      "m_PathID": -4822465842016716682
+    },
+    "hammerPositionOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "shoutEffectPrefab": {
+      "m_FileID": 0,
+      "m_PathID": 8445439574732160156
+    },
+    "shoutEffectOffset": {
+      "x": 0.91,
+      "y": 3.88,
+      "z": 0.0
+    },
+    "shoutDelay": 0.2,
+    "afterReleaseDelay": 1.075,
+    "clip": {
+      "m_FileID": 0,
+      "m_PathID": -3485552630414613363
+    }
+  },
+  "fastSlashModel": {
+    "cd": 0.0,
+    "animationTriggerName": "atk_3",
+    "normalWeight": 5,
+    "angryWeight": 2,
+    "scanRadius": 20.0,
+    "initDelay": 1.16666663,
+    "duration": 0.4,
+    "moveAmount": 2.5,
+    "maxReleaseCount": 8,
+    "targetLayerMask": {
+      "m_Bits": 512
+    },
+    "releaseTransform": {
+      "m_FileID": 0,
+      "m_PathID": -4961584811100329315
+    },
+    "shockOffset": {
+      "x": 4.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "shockBullet": {
+      "bulletProto": {
+        "m_FileID": 2,
+        "m_PathID": -6757785954580045473
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 6,
+      "critic": 10,
+      "repel": 10,
+      "throughCount": 0
+    },
+    "extraBullet": {
+      "bulletProto": {
+        "m_FileID": 3,
+        "m_PathID": -37881996363605730
+      },
+      "speed": 5.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 4,
+      "throughCount": 0
+    },
+    "extraBulletCount": 5,
+    "clip": {
+      "m_FileID": 0,
+      "m_PathID": -8379966004185332392
+    },
+    "clipDuration": 0.5
+  },
+  "jumpSlashModel": {
+    "cd": 1.0,
+    "animationTriggerName": "atk_2",
+    "normalWeight": 0,
+    "angryWeight": 10,
+    "targetMask": {
+      "m_Bits": 512
+    },
+    "scanRadius": 20.0,
+    "moveCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        },
+        {
+          "time": 0.567209363,
+          "value": 0.796604156,
+          "inSlope": 1.06054771,
+          "outSlope": 1.06054771,
+          "weightedMode": 0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.106679447
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": -0.0233343616,
+          "outSlope": -0.0233343616,
+          "weightedMode": 0,
+          "inWeight": 0.122001827,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "moveInitDelay": 1.0,
+    "moveDuration": 0.75,
+    "moveAmount": 7.0,
+    "initDelay": 1.95833337,
+    "bulletCount": 8,
+    "bullet": {
+      "bulletProto": {
+        "m_FileID": 3,
+        "m_PathID": 3852756144329336766
+      },
+      "speed": 6.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 6,
+      "throughCount": 0
+    },
+    "angryBullet": {
+      "bulletProto": {
+        "m_FileID": 3,
+        "m_PathID": 3852756144329336766
+      },
+      "speed": 6.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 6,
+      "throughCount": 0
+    },
+    "shockBullet": {
+      "bulletProto": {
+        "m_FileID": 2,
+        "m_PathID": 815939732839467372
+      },
+      "speed": 16.0,
+      "size": 2.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 6,
+      "throughCount": 0
+    },
+    "releaseTransform": {
+      "m_FileID": 0,
+      "m_PathID": -4961584811100329315
+    },
+    "positionOffset": {
+      "x": 4.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "afterReleaseWait": 0.75
+  },
+  "restoreArmorModel": {
+    "cd": 0.0,
+    "animationTriggerName": "atk_4",
+    "normalWeight": 0,
+    "angryWeight": 0,
+    "armor": {
+      "m_FileID": 0,
+      "m_PathID": -4670349809690932120
+    },
+    "effectPrefab": {
+      "m_FileID": 2,
+      "m_PathID": -2375317714768933770
+    },
+    "initDelay": 0.5,
+    "afterDelay": 1.25,
+    "effectTransform": {
+      "m_FileID": 0,
+      "m_PathID": 618293471444343720
+    },
+    "effectPositionOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "clip": {
+      "m_FileID": 0,
+      "m_PathID": -8379966004185332392
+    }
+  },
+  "summonScarabModel": {
+    "cd": 0.0,
+    "animationTriggerName": "atk_5",
+    "normalWeight": 5,
+    "angryWeight": 5,
+    "effectPrefab": {
+      "m_FileID": 2,
+      "m_PathID": -6795463131645046848
+    },
+    "enemyPrefabs": [
+      {
+        "m_FileID": 0,
+        "m_PathID": -3877662351982625086
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 602965549115031922
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -93871623640110529
+      }
+    ],
+    "countRange": {
+      "x": 5,
+      "y": 10
+    },
+    "releaseTransform": {
+      "m_FileID": 0,
+      "m_PathID": -4961584811100329315
+    },
+    "bullet": {
+      "bulletProto": {
+        "m_FileID": 2,
+        "m_PathID": 7402990369033026426
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 15,
+      "throughCount": 0
+    },
+    "positionOffset": {
+      "x": 2.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "duration": 0.1,
+    "initDelay": 0.125,
+    "radius": 2.0,
+    "maxCount": 10,
+    "enemyController": {
+      "m_FileID": 0,
+      "m_PathID": -4476388413604227884
+    }
+  },
+  "armorRestoreDuration": 5.0,
+  "enemyAi": {
+    "m_FileID": 0,
+    "m_PathID": -4476388413604227884
+  },
+  "animKeyBrokenArmor": "armor_break",
+  "boss27Armor": {
+    "m_FileID": 0,
+    "m_PathID": -4670349809690932120
+  },
+  "transportEffectPrefab": {
+    "m_FileID": 2,
+    "m_PathID": -6795463131645046848
+  },
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": -4338230258695896564
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4691950031961851272
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7197708514470847702
+  },
+  "m_Name": "",
+  "sprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8517290536851329193
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6070763093083871656
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1981398967756997332
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5773930364889684273
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 287839970343621398
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2518351695168589536
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3953648518964268528
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6971549953720834513
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3589891521301388760
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5109838948884062916
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8401542818636026069
+    }
+  ],
+  "frameRate": 16.0,
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 5460747703292337791
+  },
+  "mode": 0
+}

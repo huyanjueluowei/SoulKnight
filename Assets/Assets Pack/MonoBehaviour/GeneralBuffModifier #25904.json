@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4444852693794681759
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7455253401620379825
+  },
+  "m_Name": "",
+  "buff": 24,
+  "scriptTypeName": "JumpEnemyEffectTrigger",
+  "fieldName": "extraReflectCount",
+  "modifyType": 0,
+  "intModifyValue": 1,
+  "floatModifyValue": 0.0
+}

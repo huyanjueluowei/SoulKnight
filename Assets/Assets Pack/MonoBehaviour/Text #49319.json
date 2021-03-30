@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2791477931208539540
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1149782704495732950
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Color": {
+    "r": 0.365,
+    "g": 0.3294359,
+    "b": 0.237717956,
+    "a": 1.0
+  },
+  "m_RaycastTarget": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "m_FontData": {
+    "m_Font": {
+      "m_FileID": 0,
+      "m_PathID": 1976739107073487392
+    },
+    "m_FontSize": 24,
+    "m_FontStyle": 0,
+    "m_BestFit": 1,
+    "m_MinSize": 24,
+    "m_MaxSize": 50,
+    "m_Alignment": 4,
+    "m_AlignByGeometry": 0,
+    "m_RichText": 1,
+    "m_HorizontalOverflow": 0,
+    "m_VerticalOverflow": 0,
+    "m_LineSpacing": 1.0
+  },
+  "m_Text": "通关证书"
+}

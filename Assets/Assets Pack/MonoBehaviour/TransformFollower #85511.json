@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3160047964955060738
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6888108258024716673
+  },
+  "m_Name": "",
+  "targetTransform": {
+    "m_FileID": 0,
+    "m_PathID": 7642529550354945988
+  },
+  "followRotation": 1,
+  "followPosition": 0,
+  "followLocal": 0
+}

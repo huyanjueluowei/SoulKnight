@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 801653938131456758
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 872581166742266305
+  },
+  "m_Name": "",
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "awake": 0
+}

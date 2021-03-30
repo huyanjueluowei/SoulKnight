@@ -1,0 +1,230 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2699119045771131597
+  },
+  "m_Name": "sanbox_object_info",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "objectInfos": [
+    {
+      "id": 0,
+      "sandboxObject": {
+        "m_FileID": 0,
+        "m_PathID": -7492435267565035936
+      }
+    },
+    {
+      "id": 1,
+      "sandboxObject": {
+        "m_FileID": 0,
+        "m_PathID": -7436150169030953136
+      }
+    },
+    {
+      "id": 2,
+      "sandboxObject": {
+        "m_FileID": 0,
+        "m_PathID": 4336563100937397178
+      }
+    },
+    {
+      "id": 3,
+      "sandboxObject": {
+        "m_FileID": 0,
+        "m_PathID": -4813769992102127461
+      }
+    },
+    {
+      "id": 4,
+      "sandboxObject": {
+        "m_FileID": 0,
+        "m_PathID": -1253976871362524831
+      }
+    },
+    {
+      "id": 5,
+      "sandboxObject": {
+        "m_FileID": 0,
+        "m_PathID": -7220972765428255687
+      }
+    },
+    {
+      "id": 6,
+      "sandboxObject": {
+        "m_FileID": 0,
+        "m_PathID": -3810980633061199486
+      }
+    },
+    {
+      "id": 7,
+      "sandboxObject": {
+        "m_FileID": 0,
+        "m_PathID": 2664117998312009888
+      }
+    },
+    {
+      "id": 8,
+      "sandboxObject": {
+        "m_FileID": 0,
+        "m_PathID": 428462796946859896
+      }
+    },
+    {
+      "id": 9,
+      "sandboxObject": {
+        "m_FileID": 0,
+        "m_PathID": -4305781320286653532
+      }
+    },
+    {
+      "id": 10,
+      "sandboxObject": {
+        "m_FileID": 0,
+        "m_PathID": -3721210030938491993
+      }
+    },
+    {
+      "id": 11,
+      "sandboxObject": {
+        "m_FileID": 0,
+        "m_PathID": 5197134216732679504
+      }
+    }
+  ],
+  "tileInfos": [
+    {
+      "id": 0,
+      "tile": {
+        "m_FileID": 0,
+        "m_PathID": -794824123115880729
+      },
+      "background": {
+        "r": 0.5764706,
+        "g": 0.654902,
+        "b": 0.7137255,
+        "a": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "tile": {
+        "m_FileID": 0,
+        "m_PathID": -8138210180040168356
+      },
+      "background": {
+        "r": 0.0509803928,
+        "g": 0.0509803928,
+        "b": 0.0509803928,
+        "a": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "tile": {
+        "m_FileID": 0,
+        "m_PathID": 8914477361008055712
+      },
+      "background": {
+        "r": 0.09019608,
+        "g": 0.05882353,
+        "b": 0.08627451,
+        "a": 1.0
+      }
+    },
+    {
+      "id": 3,
+      "tile": {
+        "m_FileID": 0,
+        "m_PathID": -3726267752886232098
+      },
+      "background": {
+        "r": 0.0627451,
+        "g": 0.09019608,
+        "b": 0.08235294,
+        "a": 1.0
+      }
+    },
+    {
+      "id": 4,
+      "tile": {
+        "m_FileID": 0,
+        "m_PathID": -1863410825661625087
+      },
+      "background": {
+        "r": 0.0196078438,
+        "g": 0.121568628,
+        "b": 0.156862751,
+        "a": 1.0
+      }
+    },
+    {
+      "id": 5,
+      "tile": {
+        "m_FileID": 0,
+        "m_PathID": -380708255196204537
+      },
+      "background": {
+        "r": 0.02745098,
+        "g": 0.101960786,
+        "b": 0.192156866,
+        "a": 1.0
+      }
+    },
+    {
+      "id": 6,
+      "tile": {
+        "m_FileID": 0,
+        "m_PathID": 3609567746742294809
+      },
+      "background": {
+        "r": 0.0627451,
+        "g": 0.09019608,
+        "b": 0.08235294,
+        "a": 1.0
+      }
+    },
+    {
+      "id": 7,
+      "tile": {
+        "m_FileID": 0,
+        "m_PathID": 8622176986717129472
+      },
+      "background": {
+        "r": 0.09019608,
+        "g": 0.05882353,
+        "b": 0.08627451,
+        "a": 1.0
+      }
+    },
+    {
+      "id": 8,
+      "tile": {
+        "m_FileID": 0,
+        "m_PathID": 3148458678288153432
+      },
+      "background": {
+        "r": 0.0196078438,
+        "g": 0.121568628,
+        "b": 0.156862751,
+        "a": 1.0
+      }
+    }
+  ]
+}

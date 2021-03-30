@@ -1,0 +1,95 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6231679406441426644
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7395664834512197743
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "wi3_grindstone",
+  "item_value": 20,
+  "repeat": 0,
+  "statisticKey": "",
+  "supportWeaponList": [
+    {
+      "id": 0,
+      "weaponType": 4,
+      "supportWeaponScripts": []
+    },
+    {
+      "id": 1,
+      "weaponType": 6,
+      "supportWeaponScripts": [
+        "Gun005",
+        "Gun002",
+        "Gun001",
+        "GunHeroBow",
+        "Gun008"
+      ]
+    },
+    {
+      "id": 2,
+      "weaponType": 5,
+      "supportWeaponScripts": [
+        "Gun015",
+        "GunInitWerewolf",
+        "GunSpearSword",
+        "GunSpearLaser",
+        "GunSpearBullet"
+      ]
+    },
+    {
+      "id": 3,
+      "weaponType": 11,
+      "supportWeaponScripts": [
+        "Gun006",
+        "GunInitBaserker",
+        "GunBadminton"
+      ]
+    },
+    {
+      "id": 4,
+      "weaponType": 3,
+      "supportWeaponScripts": []
+    },
+    {
+      "id": 0,
+      "weaponType": 13,
+      "supportWeaponScripts": [
+        "GunThrowSword",
+        "GunInitRogue"
+      ]
+    }
+  ],
+  "byWeapon": 0,
+  "processName": "",
+  "item_level": 2,
+  "show_level": -1,
+  "weapon_item_sprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_id": 0,
+  "propertyTypes": [
+    0
+  ],
+  "values": [
+    3.0
+  ]
+}

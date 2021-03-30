@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -308826349950237421
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2304987012802771245
+  },
+  "m_Name": "",
+  "damageType": 48,
+  "camp": 0,
+  "big_clip": {
+    "m_FileID": 0,
+    "m_PathID": 3512445547072592762
+  },
+  "small_clip": {
+    "m_FileID": 0,
+    "m_PathID": 5896789235608708879
+  },
+  "hit_player": 0,
+  "hit_enemy": 1,
+  "small": 0,
+  "damage": 8,
+  "buff_fire": {
+    "m_FileID": 0,
+    "m_PathID": -7931409507605660868
+  },
+  "fire_rate": 40,
+  "smoke_object": {
+    "m_FileID": 0,
+    "m_PathID": -8413195906300639198
+  },
+  "keepSmoke": 0,
+  "nextExplode": {
+    "m_FileID": 0,
+    "m_PathID": -8610134429524409354
+  },
+  "damegeFactor": 0.2,
+  "delay": 0.0
+}

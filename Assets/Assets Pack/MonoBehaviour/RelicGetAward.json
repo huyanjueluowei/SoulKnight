@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3999864325193542613
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 452719450735185843
+  },
+  "m_Name": "",
+  "emptyWeight": 60,
+  "coinWeight": 3,
+  "potWeight": 3,
+  "enemyWeight": 34,
+  "weaponWeight": 0,
+  "coinCount": 6,
+  "hasCoinCat": 0,
+  "energyPotProbability": 40,
+  "enemyPrefabs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3877662351982625086
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 602965549115031922
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -93871623640110529
+    }
+  ],
+  "enemyCountRange": {
+    "x": 2,
+    "y": 5
+  },
+  "enemyInstantiateRadius": 0.3,
+  "enemyInstantiateDuration": 0.1,
+  "enemyShowDelay": 0.2,
+  "enemyInstantiateEffectPrefab": {
+    "m_FileID": 2,
+    "m_PathID": -6795463131645046848
+  },
+  "weaponLevel": 0,
+  "instantiatePositionOffset": {
+    "x": 0.0,
+    "y": 0.3,
+    "z": 0.0
+  },
+  "generateParent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3765826598227518279
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 283748021629019591
+  },
+  "m_Name": "",
+  "targetRange": {
+    "x": 1.5,
+    "y": 2.5
+  },
+  "idleDurationRange": {
+    "x": 1.0,
+    "y": 20.0
+  },
+  "moveDurationRange": {
+    "x": 0.3,
+    "y": 0.5
+  },
+  "angularSpeedRange": {
+    "x": -360.0,
+    "y": 360.0
+  },
+  "fadeDuration": 0.2,
+  "hitFadeDuration": 0.3,
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -8077291061776798734
+  },
+  "sprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 418457762506112006
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4061211031252727601
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4572685560975027808
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6080808893042426788
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2997244538369073592
+    }
+  ],
+  "moveCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 8.420529,
+        "outSlope": 8.420529,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.09284352
+      },
+      {
+        "time": 0.130691245,
+        "value": 0.5367243,
+        "inSlope": 1.10796559,
+        "outSlope": 1.10796559,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.103504382
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "gravity": 10.0,
+  "radius": 0.5,
+  "obstacleMask": {
+    "m_Bits": 33693696
+  }
+}

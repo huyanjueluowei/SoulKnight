@@ -1,0 +1,352 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1362892416031361088
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -402775243675510749
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 0,
+    "m_PathID": -6468979230156615102
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 23,
+  "enemyTag": 534,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "boss24",
+  "ai_level": 1,
+  "consume": 50,
+  "e_size": 2,
+  "reward_rate": 100,
+  "reward_value": [
+    5,
+    3,
+    0,
+    10
+  ],
+  "shoot_cd": 2.0,
+  "friction": 0.0,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 0.3,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bullets": [],
+  "boss_clip": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -1765832051076196083
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -2865623502321454289
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 4857498937171492428
+    }
+  ],
+  "angry_clip": {
+    "m_FileID": 0,
+    "m_PathID": 2801229351656685142
+  },
+  "boss_weapon": {
+    "m_FileID": 2,
+    "m_PathID": -3027019064858245822
+  },
+  "levelModeDropWeapon": 1,
+  "doubleboss_offset": {
+    "x": 2.0,
+    "y": 0.0
+  },
+  "atk3Bullet": {
+    "bulletProto": {
+      "m_FileID": 2,
+      "m_PathID": 4219549348039003915
+    },
+    "speed": 16.0,
+    "size": 1.0,
+    "damage": 3,
+    "critic": 10,
+    "repel": 3,
+    "throughCount": 0
+  },
+  "atk4": {
+    "bulletInfo": {
+      "bulletProto": {
+        "m_FileID": 3,
+        "m_PathID": 5322852688707898350
+      },
+      "speed": 10.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "count": 5,
+    "scatterCount": 6,
+    "scatterMaxAngle": 180.0,
+    "angryCount": 8,
+    "angryScatterCount": 12,
+    "angryScatterMaxAngle": 270.0,
+    "releaseDelay": 0.1,
+    "releasePositionOffset": {
+      "x": 0.2,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "burrowDisplacement": 4.0,
+  "burrowMoveCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.00234985352,
+        "inSlope": 1.05575788,
+        "outSlope": 1.05575788,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.112745091
+      },
+      {
+        "time": 0.85,
+        "value": 1.0,
+        "inSlope": 0.28862825,
+        "outSlope": "Infinity",
+        "weightedMode": 0,
+        "inWeight": 0.220588222,
+        "outWeight": 0.4351491
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "burrowDuration": 0.3,
+  "nodeSize": 1.0,
+  "burrowBullet": {
+    "bulletProto": {
+      "m_FileID": 3,
+      "m_PathID": -740664540428081167
+    },
+    "speed": 12.0,
+    "size": 1.0,
+    "damage": 5,
+    "critic": 10,
+    "repel": 3,
+    "throughCount": 0
+  },
+  "burrowBulletCount": 4,
+  "snakeModel": {
+    "bodyPrefab": {
+      "m_FileID": 0,
+      "m_PathID": 8853436004055464856
+    },
+    "tailPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -2352982200095300595
+    },
+    "head": {
+      "m_FileID": 0,
+      "m_PathID": 8800325973706369091
+    },
+    "minDistance": 0.3,
+    "outMinDistance": 0.1,
+    "lerpMax": 0.15,
+    "nodeLength": 0.5,
+    "initBodyCount": 5,
+    "burrowMoveSpeed": 20.0,
+    "dirtPrefab": {
+      "m_FileID": 0,
+      "m_PathID": 3573733988258129758
+    },
+    "dirtActiveSortingLayer": "Character",
+    "dirtActiveSortingOrder": 10,
+    "dirtInActiveSortingLayer": "Shadow",
+    "dirtInActiveSortingOrder": 10,
+    "dirtPositionOffset": {
+      "x": -0.6,
+      "y": -1.33,
+      "z": 0.0
+    },
+    "outDirtPositionOffset": {
+      "x": -0.35,
+      "y": -0.86,
+      "z": 0.0
+    },
+    "dirtEndSprite": {
+      "m_FileID": 0,
+      "m_PathID": 557388537558100922
+    },
+    "hideOffset": 0.05,
+    "addNodeFxPrefab": {
+      "m_FileID": 0,
+      "m_PathID": 2981925710374379626
+    },
+    "bodyBulletInfo": {
+      "bulletProto": {
+        "m_FileID": 3,
+        "m_PathID": -37881996363605730
+      },
+      "speed": 8.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "bodyBulletReleaseDuration": 4.0,
+    "angryBodyBulletReleaseDuration": 3.0,
+    "bodyBulletReleaseCount": 4,
+    "bodyBulletAnimTriggerName": "release",
+    "maxBodyCount": 40,
+    "intensiveScale": 1.5
+  },
+  "eatRestoreHpAmount": 50,
+  "thornDuration": 0.25,
+  "thornBullet": {
+    "bulletProto": {
+      "m_FileID": 2,
+      "m_PathID": 4397361648867959987
+    },
+    "speed": 16.0,
+    "size": 1.0,
+    "damage": 3,
+    "critic": 10,
+    "repel": 3,
+    "throughCount": 0
+  },
+  "thornLifeTime": 0.65,
+  "thornEndBullet": {
+    "bulletProto": {
+      "m_FileID": 3,
+      "m_PathID": 1625139264594392924
+    },
+    "speed": 6.0,
+    "size": 1.0,
+    "damage": 3,
+    "critic": 10,
+    "repel": 3,
+    "throughCount": 0
+  },
+  "thornEndBulletCount": 4,
+  "thornEndBulletCountAngry": 6,
+  "iceNailModel": {
+    "iceNailBullet": {
+      "bulletProto": {
+        "m_FileID": 2,
+        "m_PathID": -8014143316531512531
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "nailCount": 8,
+    "extraNailCountFactor": 0.4,
+    "iceNailDurationRange": {
+      "x": 0.02,
+      "y": 0.07
+    }
+  },
+  "iceStone": {
+    "initPoolCount": 20,
+    "stoneFinalExplode": {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 1219282234811906202
+      },
+      "speed": 16.0,
+      "size": 2.0,
+      "damage": 5,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "finalBullet": {
+      "bulletProto": {
+        "m_FileID": 3,
+        "m_PathID": -8581832644604583940
+      },
+      "speed": 6.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "finalBulletCount": 6,
+    "stonePrefab": {
+      "m_FileID": 0,
+      "m_PathID": -5434534601706260908
+    },
+    "stoneCount": 4,
+    "extraCountFactor": 0.2,
+    "showDurationRange": {
+      "x": 0.05,
+      "y": 0.1
+    },
+    "explodeDurationRange": {
+      "x": 0.03,
+      "y": 0.07
+    },
+    "animShowTrigger": "show",
+    "animExplodeTrigger": "explode",
+    "animFadeTrigger": "fade",
+    "explodeAnimTime": 1.2,
+    "iceStoneMinDistance": 2.0,
+    "iceEndPrefab": {
+      "m_FileID": 0,
+      "m_PathID": 5255398967701288586
+    },
+    "iceEatMinDistance": 4.0,
+    "randomProvider": {
+      "m_FileID": 0,
+      "m_PathID": -8518331747320106018
+    }
+  },
+  "atk3Particle": {
+    "m_FileID": 0,
+    "m_PathID": 454949011965645714
+  }
+}

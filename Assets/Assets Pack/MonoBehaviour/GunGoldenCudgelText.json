@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5222967085326139472
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8940736908715946788
+  },
+  "m_Name": "",
+  "defaultDamage": "4",
+  "defaultConsume": "0",
+  "defaultCritical": "0",
+  "defaultDeviation": "0"
+}

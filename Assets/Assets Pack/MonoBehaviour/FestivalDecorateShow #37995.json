@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2820003215810731065
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5627762077608061420
+  },
+  "m_Name": "",
+  "festivalKey": "christmas_4",
+  "festivalDecorateConfig": {
+    "m_FileID": 0,
+    "m_PathID": 6279161777412161753
+  },
+  "isInversed": 0
+}

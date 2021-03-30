@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 604258654272933384
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2968582164014057121
+  },
+  "m_Name": "",
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "awake": 0,
+  "delete_clip": {
+    "m_FileID": 0,
+    "m_PathID": -3560891428521014032
+  }
+}

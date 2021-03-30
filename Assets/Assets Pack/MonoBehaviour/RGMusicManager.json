@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 28
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 38
+  },
+  "m_Name": "",
+  "audioMixer": {
+    "m_FileID": 2,
+    "m_PathID": -4222393755045846675
+  },
+  "_open_effect": 1,
+  "_open_bgm": 0,
+  "effect_list": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -2680306846748068910
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -511322287158782533
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -5260857906297617616
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 9208900048884022347
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 8843492065809850083
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 2263313490480250367
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 6700921415384263270
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -6259934648382794811
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 1694913857533969541
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 7806563905662163925
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 7494592237317156370
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 5176889906864298679
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 18
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 3150488904984120107
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -2662607896134422115
+    }
+  ]
+}

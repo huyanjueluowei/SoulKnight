@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2337674475094054787
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8855959395496421001
+  },
+  "m_Name": "",
+  "distance": 10.0,
+  "thornSize": 1.0,
+  "thornCount": 8,
+  "thorn": {
+    "bulletProto": {
+      "m_FileID": 2,
+      "m_PathID": -815819067649729413
+    },
+    "speed": 8.0,
+    "size": 1.0,
+    "damage": 3,
+    "critic": 10,
+    "repel": 3,
+    "throughCount": 0
+  },
+  "thornDelay": 0.1
+}

@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -977179363929683329
+  },
+  "m_Enabled": 0,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2973552115961527508
+  },
+  "m_Name": "",
+  "escape_talk": "cage/npc_banker2_talk_1",
+  "talk_transform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "label_height": 3.0
+}

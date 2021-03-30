@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7947237732622912572
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2761002295930820589
+  },
+  "m_Name": "",
+  "maxHpType": 1,
+  "skillIdx": 2
+}

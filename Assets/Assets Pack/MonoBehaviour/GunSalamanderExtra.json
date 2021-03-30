@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6001114405524435266
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 322869128614391748
+  },
+  "m_Name": "",
+  "wingManTransform": {
+    "m_FileID": 0,
+    "m_PathID": 5932312892122022931
+  },
+  "wingManSprite": {
+    "m_FileID": 0,
+    "m_PathID": 6497282965201457654
+  },
+  "gunSprite": {
+    "m_FileID": 0,
+    "m_PathID": -3233999407161170161
+  },
+  "wingManWeapon": {
+    "m_FileID": 0,
+    "m_PathID": 5748478563667051957
+  },
+  "targetPoint": {
+    "x": -0.75,
+    "y": 1.5,
+    "z": 0.0
+  },
+  "activeSmoothTime": 0.1,
+  "inActiveTime": 0.5
+}

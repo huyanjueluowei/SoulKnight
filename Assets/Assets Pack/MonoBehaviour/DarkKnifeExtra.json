@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7478797662633398491
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3389785700768128455
+  },
+  "m_Name": "",
+  "petPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -6385313516845986974
+  },
+  "petPrefab2": {
+    "m_FileID": 0,
+    "m_PathID": -2009003479384446813
+  },
+  "smokeEffect": {
+    "m_FileID": 0,
+    "m_PathID": 6201245497394906223
+  },
+  "probability": 40
+}

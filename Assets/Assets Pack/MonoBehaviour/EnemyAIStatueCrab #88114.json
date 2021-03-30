@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2457910376913826547
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8363531625864634477
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "awake": 1,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 12,
+  "enemyTag": 4,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 1,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "e_statueCrab",
+  "ai_level": 3,
+  "consume": 1,
+  "e_size": 2,
+  "reward_rate": 40,
+  "reward_value": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "shoot_cd": 3.0,
+  "friction": 0.9,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 1.0,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "atkDistance": 2.0,
+  "bullet_count": 2,
+  "bullet01": {
+    "m_FileID": 0,
+    "m_PathID": -8351851195851307200
+  },
+  "bullet_speed": 8.0,
+  "need_random_speed": 0,
+  "damage": 2,
+  "angle": 36.0,
+  "atk1_clip": {
+    "m_FileID": 2,
+    "m_PathID": -1448364804562760397
+  },
+  "shootTime": 2.0
+}

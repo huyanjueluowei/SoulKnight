@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7324908190329561116
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1855954000996372361
+  },
+  "m_Name": "",
+  "rot_speed": 90.0,
+  "camp": 0,
+  "laser_len": 10.0,
+  "duration_time": 6.0
+}

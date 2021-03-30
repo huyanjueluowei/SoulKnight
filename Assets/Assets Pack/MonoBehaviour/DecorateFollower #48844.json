@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5514212248788033044
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1339499106266477256
+  },
+  "m_Name": "",
+  "followTarget": {
+    "m_FileID": 0,
+    "m_PathID": 5926866321913029167
+  },
+  "distance": 0.05,
+  "isArrive": 0,
+  "hero": 8,
+  "skinIndex": 5,
+  "followerPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -8259287134389445777
+  }
+}

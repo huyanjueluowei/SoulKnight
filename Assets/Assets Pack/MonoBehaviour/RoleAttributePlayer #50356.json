@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7827214302052179859
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -573559918552630961
+  },
+  "m_Name": "",
+  "camp": 1,
+  "speed": 6.5,
+  "speed_rate": 0.5,
+  "max_hp": 3,
+  "hp": 3,
+  "critical": 0,
+  "max_armor": 6,
+  "armor": 6,
+  "max_energy": 180,
+  "_energy": 180,
+  "atk": 3,
+  "in_skill_time": 5.0,
+  "c_index": 12,
+  "c_level": 0,
+  "default_buff": 2,
+  "skill_release_count": 0
+}

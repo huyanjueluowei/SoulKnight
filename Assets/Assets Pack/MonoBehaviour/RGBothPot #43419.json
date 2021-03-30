@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5765449222884284047
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6712457179625303294
+  },
+  "m_Name": "",
+  "health": 99,
+  "energy": 999,
+  "item_value": 35,
+  "item_name": "item_restore_pot_Max",
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 3150488904984120107
+  }
+}

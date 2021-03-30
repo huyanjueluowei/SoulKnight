@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1000824568207334980
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8281397712299014298
+  },
+  "m_Name": "",
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": -7319475116925131574
+  },
+  "statisticKey": "chest02",
+  "object_list": [],
+  "level": 2,
+  "bossWeaponProbability": 25,
+  "onEmptyChestOpen": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -4086100284370993808
+          },
+          "m_MethodName": "OnEmptyChestOpen",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  }
+}

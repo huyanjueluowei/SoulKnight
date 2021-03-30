@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7658511954546348478
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -614380450687167176
+  },
+  "m_Name": "",
+  "initDelay": 1.5,
+  "duration": 2.0,
+  "sourceBullet": {
+    "m_FileID": 0,
+    "m_PathID": -8317287531479150034
+  },
+  "bullet": {
+    "bulletProto": {
+      "m_FileID": 0,
+      "m_PathID": -8212249049256507820
+    },
+    "speed": 6.0,
+    "size": 1.0,
+    "damage": 3,
+    "critic": 10,
+    "repel": 3,
+    "throughCount": 0
+  },
+  "followTransform": {
+    "m_FileID": 0,
+    "m_PathID": 9210518966042385571
+  },
+  "onReleaseBullet": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -1917889652740200917
+          },
+          "m_MethodName": "Animation",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "followAngle": 1
+}

@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2143411218749993806
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1775213011523714532
+  },
+  "m_Name": "",
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "awake": 0,
+  "sprite_info_list": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8010858842719761144
+    }
+  ],
+  "sprite_info_en": {
+    "m_FileID": 0,
+    "m_PathID": 4285906127152830320
+  },
+  "title_cn": {
+    "m_FileID": 0,
+    "m_PathID": 8720133728202654482
+  },
+  "title_en": {
+    "m_FileID": 0,
+    "m_PathID": -4072784963319767199
+  },
+  "e_index": 0,
+  "unlock_char_index": 0,
+  "unlock_skin_index": 2,
+  "tip": "分享到朋友圈获得皮肤"
+}

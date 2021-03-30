@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4663597255603292121
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6636291582587485598
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "damageFactor": 1.0,
+  "isTemp": 0,
+  "target": {
+    "m_FileID": 0,
+    "m_PathID": -582718948666604326
+  },
+  "delayTime": 0.6,
+  "autoAngle": 0,
+  "destroyAfterCreate": 0,
+  "count": 2,
+  "angleInBetween": 120.0,
+  "followTarget": 0
+}

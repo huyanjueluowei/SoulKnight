@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4371569125711932229
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5077273488963033729
+  },
+  "m_Name": "",
+  "weapon": {
+    "m_FileID": 0,
+    "m_PathID": -4359732483464680979
+  },
+  "modFactor": 2004,
+  "attack": 1
+}

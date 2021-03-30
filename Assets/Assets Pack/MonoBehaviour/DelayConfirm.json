@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8792411153045598075
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2227694104699100375
+  },
+  "m_Name": "",
+  "NeedDealyTime": 1,
+  "DelayTime": 10,
+  "DefaultAgreeString": "确认注册",
+  "AgreeButton": {
+    "m_FileID": 0,
+    "m_PathID": -3535356749811381233
+  },
+  "DisagreeButton": {
+    "m_FileID": 0,
+    "m_PathID": -2103053429783282275
+  },
+  "afterAgreeClick": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "afterDisagreeClick": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1340266337134668219
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4526898329976442950
+  },
+  "m_Name": "",
+  "forceLerp": 0.8,
+  "swampSinkLerp": 0.0
+}

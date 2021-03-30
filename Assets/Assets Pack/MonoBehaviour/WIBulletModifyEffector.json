@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1428126257844951142
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1293244822465865338
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "wi11_poison_stone",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "supportWeaponList": [],
+  "byWeapon": 0,
+  "processName": "",
+  "item_level": 0,
+  "show_level": -1,
+  "weapon_item_sprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_id": 0,
+  "probability": 1.0,
+  "effectorObject": {
+    "m_FileID": 0,
+    "m_PathID": 5840225107625292969
+  }
+}

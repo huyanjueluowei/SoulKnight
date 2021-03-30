@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3828548588815452610
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3854947869511444129
+  },
+  "m_Name": "",
+  "lightSpriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -1336052972721124340
+  },
+  "shadowSpriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 6317497649841387108
+  },
+  "inactiveSpriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -4240997865093879827
+  }
+}

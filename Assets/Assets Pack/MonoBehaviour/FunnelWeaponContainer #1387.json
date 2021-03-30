@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2967940762458986941
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5117756469935123616
+  },
+  "m_Name": "",
+  "awake": 1,
+  "dead": 0,
+  "p_index": 0,
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rigibody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "target_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fixed_angle": 0.0,
+  "effect": {
+    "m_FileID": 0,
+    "m_PathID": 6760193054124681342
+  },
+  "scout_time": 0.2,
+  "atk_cd": 2.0,
+  "focusTime": 1.0
+}

@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 141816198924442433
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7484565364498847463
+  },
+  "m_Name": "",
+  "enemyId": "e_swampTentacle",
+  "hideEnemyCountMin": 2,
+  "hideEnemyCountMax": 2,
+  "multiEnemyRadius": 2.5
+}

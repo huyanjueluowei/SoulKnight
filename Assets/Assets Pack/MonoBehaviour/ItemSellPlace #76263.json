@@ -1,0 +1,87 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6744326710081137804
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7564406540769960226
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "priceFactor": 1.0,
+  "consumeToken": 1,
+  "tokenTextColor": "#00FF00",
+  "offset": {
+    "x": 0.0,
+    "y": -0.25,
+    "z": 0.0
+  },
+  "ranData": {
+    "objectType": 1,
+    "level": 0,
+    "maxLevel": 0,
+    "distributeProbability": 0.0,
+    "objectDistribution": [
+      {
+        "gameObject": {
+          "m_FileID": 1,
+          "m_PathID": -5439262334410242579
+        },
+        "weight": 3
+      },
+      {
+        "gameObject": {
+          "m_FileID": 1,
+          "m_PathID": -6122657205513627587
+        },
+        "weight": 3
+      },
+      {
+        "gameObject": {
+          "m_FileID": 1,
+          "m_PathID": -6514262360103862801
+        },
+        "weight": 5
+      },
+      {
+        "gameObject": {
+          "m_FileID": 1,
+          "m_PathID": -1482948003582051486
+        },
+        "weight": 5
+      },
+      {
+        "gameObject": {
+          "m_FileID": 1,
+          "m_PathID": 1576043270255979014
+        },
+        "weight": 3
+      },
+      {
+        "gameObject": {
+          "m_FileID": 1,
+          "m_PathID": 9065911452765175217
+        },
+        "weight": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7960582826028723563
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6845801019939469305
+  },
+  "m_Name": "",
+  "getHurtKey": "IceCaveGetHurtHp",
+  "rebornKey": "IceCaveReborn",
+  "troopDeadKey": "IceCaveTroopDead"
+}

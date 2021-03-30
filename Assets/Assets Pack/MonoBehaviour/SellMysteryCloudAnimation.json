@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3420202342922423872
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2996594486598434950
+  },
+  "m_Name": "",
+  "period": 1.0,
+  "basePosition": 7.0,
+  "positionRange": 0.1
+}

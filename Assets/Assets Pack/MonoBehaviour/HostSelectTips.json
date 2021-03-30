@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6236305167469876507
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8712557033253267634
+  },
+  "m_Name": "",
+  "bg": {
+    "m_FileID": 0,
+    "m_PathID": -4611009873819074956
+  },
+  "hostRoot": {
+    "m_FileID": 0,
+    "m_PathID": 4123735598765187273
+  },
+  "hostText": {
+    "m_FileID": 0,
+    "m_PathID": 7820592044376067690
+  },
+  "hostTips": {
+    "m_FileID": 0,
+    "m_PathID": -688663583775649014
+  },
+  "hostCdText": {
+    "m_FileID": 0,
+    "m_PathID": -4092097549224864744
+  },
+  "clientRoot": {
+    "m_FileID": 0,
+    "m_PathID": 1538413279699748065
+  },
+  "hostStateText": {
+    "m_FileID": 0,
+    "m_PathID": 2399785663992821366
+  },
+  "clientTips": {
+    "m_FileID": 0,
+    "m_PathID": -1933185974366439200
+  },
+  "miniBg": {
+    "m_FileID": 0,
+    "m_PathID": -538880556175028115
+  },
+  "minihostCdText": {
+    "m_FileID": 0,
+    "m_PathID": 7782450569395938083
+  }
+}

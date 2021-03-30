@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8713385358868364836
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2190193481195203761
+  },
+  "m_Name": "",
+  "boss_id": "boss22",
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 8235758314568880983
+  },
+  "onHideHpBar": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onShowHpBar": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

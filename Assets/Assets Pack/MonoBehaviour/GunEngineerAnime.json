@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6181554823634273395
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -229650083363520083
+  },
+  "m_Name": "",
+  "checkTime": 3.5,
+  "animeTriggerName": "anim",
+  "probability": 0.8
+}

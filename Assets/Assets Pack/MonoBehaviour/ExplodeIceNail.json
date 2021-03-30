@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8014143316531512531
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -263582894501079866
+  },
+  "m_Name": "",
+  "damageType": 0,
+  "camp": 0,
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 1705599016201267756
+  },
+  "hit_player": 1,
+  "hit_enemy": 0,
+  "damage": 6,
+  "scaleFactor": 2.0,
+  "shakeCamera": 0,
+  "destroyTime": 1.5,
+  "immureWithShieldIce": 1
+}

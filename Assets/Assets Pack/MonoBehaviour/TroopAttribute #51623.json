@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2546848550727900256
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -432463461943524217
+  },
+  "m_Name": "",
+  "camp": 1,
+  "speed": 6.0,
+  "speed_rate": 0.5,
+  "max_hp": 80,
+  "hp": 80,
+  "critical": 0,
+  "max_armor": 24,
+  "armor": 24,
+  "skill_cd": 10.0,
+  "defence": 1
+}

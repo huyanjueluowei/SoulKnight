@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5920203489714196401
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7966136535662796406
+  },
+  "m_Name": "",
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": -7319475116925131574
+  },
+  "statisticKey": "chest02",
+  "level": 2,
+  "itemParent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "hasCustomOpenEffect": 0,
+  "openEffectPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "onEmptyChestOpen": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

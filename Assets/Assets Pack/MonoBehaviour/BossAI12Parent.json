@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4000254691159985750
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5433627508652369207
+  },
+  "m_Name": "",
+  "boss1_obj": {
+    "m_FileID": 0,
+    "m_PathID": -2810406575736902421
+  },
+  "boss2_obj": {
+    "m_FileID": 0,
+    "m_PathID": 333990181328328297
+  },
+  "single": 0
+}

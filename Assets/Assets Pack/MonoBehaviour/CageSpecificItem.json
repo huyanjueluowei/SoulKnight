@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4000521194820732564
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 755326053054210354
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "object/cage",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "cage_obj",
+  "explosion": {
+    "m_FileID": 1,
+    "m_PathID": -1617597536786052396
+  },
+  "fx_cage_broken": {
+    "m_FileID": 0,
+    "m_PathID": -7254760492024171180
+  },
+  "npc": {
+    "m_FileID": 0,
+    "m_PathID": 8514117741085534597
+  },
+  "onInstantiateNpc": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

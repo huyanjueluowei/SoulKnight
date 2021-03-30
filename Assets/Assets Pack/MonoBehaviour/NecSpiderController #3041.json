@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4344612004950458177
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5499106297374901343
+  },
+  "m_Name": "",
+  "awake": 1,
+  "dead": 0,
+  "p_index": 0,
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rigibody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "target_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fixed_angle": 0.0,
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "state": 1,
+  "damage": 2,
+  "move_direction": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "min_distance": 100.0,
+  "scout_rate": 0.5,
+  "atk_cd": 1.0,
+  "summon": 0,
+  "can_atk": 1,
+  "master_tf": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "min_follow_distance": 2.0,
+  "max_follow_distance": 20.0,
+  "OnAttackStart": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "ignoreAllAlone": 0,
+  "lifeTime": 10.0,
+  "bornInitDealy": 0.15,
+  "bornTime": 0.4,
+  "bornYHeight": 2.0,
+  "bornXOffset": 3.6
+}

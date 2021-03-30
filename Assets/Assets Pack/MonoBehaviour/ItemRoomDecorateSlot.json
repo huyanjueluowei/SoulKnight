@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7040454107050062599
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3989241067146389459
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "decorate_item": 0,
+  "decorate_container": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "empty_sprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "old_room_decorate": 0
+}

@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7519525949089209421
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8391641038299227590
+  },
+  "m_Name": "",
+  "purchaseGroups": [
+    {
+      "productId": "pkg_0",
+      "txBuy": {
+        "m_FileID": 0,
+        "m_PathID": 2265135866254276816
+      },
+      "btnBuy": {
+        "m_FileID": 0,
+        "m_PathID": 869242419671734163
+      },
+      "maxPurchase": 1
+    },
+    {
+      "productId": "pkg_1",
+      "txBuy": {
+        "m_FileID": 0,
+        "m_PathID": -2986668443771291516
+      },
+      "btnBuy": {
+        "m_FileID": 0,
+        "m_PathID": -1489560590138665840
+      },
+      "maxPurchase": 1
+    }
+  ]
+}

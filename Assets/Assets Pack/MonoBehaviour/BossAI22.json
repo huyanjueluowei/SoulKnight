@@ -1,0 +1,156 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3321446368897076795
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3935518376322677036
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 2,
+    "m_PathID": -4352075669260968922
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 12,
+  "enemyTag": 30,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "boss22",
+  "ai_level": 1,
+  "consume": 50,
+  "e_size": 3,
+  "reward_rate": 100,
+  "reward_value": [
+    3,
+    3,
+    0,
+    10
+  ],
+  "shoot_cd": 5.0,
+  "friction": 0.9,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 0.5,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bullets": [],
+  "boss_clip": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7474052986276340876
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7474052986276340876
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -6217308780362500328
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7474052986276340876
+    }
+  ],
+  "angry_clip": {
+    "m_FileID": 2,
+    "m_PathID": -6217308780362500328
+  },
+  "boss_weapon": {
+    "m_FileID": 2,
+    "m_PathID": 1018068624032726751
+  },
+  "levelModeDropWeapon": 1,
+  "doubleboss_offset": {
+    "x": 4.0,
+    "y": 0.0
+  },
+  "stone1": {
+    "m_FileID": 2,
+    "m_PathID": 3578711583494901616
+  },
+  "stone2": {
+    "m_FileID": 2,
+    "m_PathID": 3578711583494901616
+  },
+  "safe_area": {
+    "m_FileID": 0,
+    "m_PathID": 5467927319656720344
+  },
+  "vine_obj": {
+    "m_FileID": 2,
+    "m_PathID": -587558169764449512
+  },
+  "enemy_obj01": {
+    "m_FileID": 0,
+    "m_PathID": 6571657546889346398
+  },
+  "enemy_obj02": {
+    "m_FileID": 0,
+    "m_PathID": -3041795989124079337
+  },
+  "invers_buff": {
+    "m_FileID": 0,
+    "m_PathID": -7655416441721142439
+  },
+  "shake_obj": {
+    "m_FileID": 2,
+    "m_PathID": 4204733812830383210
+  },
+  "move_shake_obj": {
+    "m_FileID": 0,
+    "m_PathID": -193149304665261120
+  },
+  "child_ctrl01": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "child_ctrl02": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "face_points": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2534846379233134662
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8815836877834041076
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2293805785718667836
+    }
+  ],
+  "dead_face_point": {
+    "m_FileID": 0,
+    "m_PathID": 2099977931544604530
+  }
+}

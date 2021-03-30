@@ -1,0 +1,950 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8859232040402647611
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 937142185572746048
+  },
+  "m_Name": "",
+  "awake": 0,
+  "dead": 0,
+  "p_index": 0,
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rigibody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "target_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fixed_angle": 0.0,
+  "clip_skill": {
+    "m_FileID": 0,
+    "m_PathID": -2275825970350691716
+  },
+  "clip_hit": {
+    "m_FileID": 0,
+    "m_PathID": 5278866526355173490
+  },
+  "skills": [
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -1599025496053915175
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -2275825970350691716
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 6948962129555425408
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 0,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": -1154029282371985927
+      },
+      "maxTime": 0.0,
+      "maxCount": 0,
+      "cd": 11.0,
+      "price": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 710899940145386192
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 2138041291659840983
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 2570081485740010342
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 0,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 3684632524398779325
+      },
+      "maxTime": 0.0,
+      "maxCount": 0,
+      "cd": 9.0,
+      "price": 7000
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 4796953909950786455
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 2138041291659840983
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -6901998472998474127
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2927567092387673241
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 1,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 5228214278477648583
+      },
+      "maxTime": 6.0,
+      "maxCount": 0,
+      "cd": 6.0,
+      "price": 7000
+    }
+  ],
+  "in_battle": 0,
+  "statuePosition": {
+    "x": 0.0,
+    "y": 0.04,
+    "z": 0.0
+  },
+  "skillIndex": 0,
+  "trail_color": [
+    {
+      "key0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.784313738
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.392156869
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 16384,
+      "ctime2": 32768,
+      "ctime3": 49151,
+      "ctime4": 65535,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 16384,
+      "atime2": 32768,
+      "atime3": 49151,
+      "atime4": 65535,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 5,
+      "m_NumAlphaKeys": 5
+    },
+    {
+      "key0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.784313738
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.392156869
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 16384,
+      "ctime2": 32768,
+      "ctime3": 49151,
+      "ctime4": 65535,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 16384,
+      "atime2": 32768,
+      "atime3": 49151,
+      "atime4": 65535,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 5,
+      "m_NumAlphaKeys": 5
+    },
+    {
+      "key0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.784313738
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.392156869
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 16384,
+      "ctime2": 32768,
+      "ctime3": 49151,
+      "ctime4": 65535,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 16384,
+      "atime2": 32768,
+      "atime3": 49151,
+      "atime4": 65535,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 5,
+      "m_NumAlphaKeys": 5
+    },
+    {
+      "key0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.784313738
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.392156869
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 16384,
+      "ctime2": 32768,
+      "ctime3": 49151,
+      "ctime4": 65535,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 16384,
+      "atime2": 32768,
+      "atime3": 49151,
+      "atime4": 65535,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 5,
+      "m_NumAlphaKeys": 5
+    },
+    {
+      "key0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.784313738
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.392156869
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 16384,
+      "ctime2": 32768,
+      "ctime3": 49151,
+      "ctime4": 65535,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 16384,
+      "atime2": 32768,
+      "atime3": 49151,
+      "atime4": 65535,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 5,
+      "m_NumAlphaKeys": 5
+    },
+    {
+      "key0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.784313738
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.392156869
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 16384,
+      "ctime2": 32768,
+      "ctime3": 49151,
+      "ctime4": 65535,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 16384,
+      "atime2": 32768,
+      "atime3": 49151,
+      "atime4": 65535,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 5,
+      "m_NumAlphaKeys": 5
+    },
+    {
+      "key0": {
+        "r": 0.447058827,
+        "g": 0.0156862754,
+        "b": 0.0156862754,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.447058827,
+        "g": 0.0156862754,
+        "b": 0.0156862754,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.447058827,
+        "g": 0.0156862754,
+        "b": 0.0156862754,
+        "a": 0.784313738
+      },
+      "key3": {
+        "r": 0.447058827,
+        "g": 0.0156862754,
+        "b": 0.0156862754,
+        "a": 0.392156869
+      },
+      "key4": {
+        "r": 0.447058827,
+        "g": 0.0156862754,
+        "b": 0.0156862754,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 16384,
+      "ctime2": 32768,
+      "ctime3": 49151,
+      "ctime4": 65535,
+      "ctime5": 65535,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 16384,
+      "atime2": 32768,
+      "atime3": 49151,
+      "atime4": 65535,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 5,
+      "m_NumAlphaKeys": 5
+    },
+    {
+      "key0": {
+        "r": 0.447058827,
+        "g": 0.0156862754,
+        "b": 0.0156862754,
+        "a": 1.0
+      },
+      "key1": {
+        "r": 0.447058827,
+        "g": 0.0156862754,
+        "b": 0.0156862754,
+        "a": 1.0
+      },
+      "key2": {
+        "r": 0.447058827,
+        "g": 0.0156862754,
+        "b": 0.0156862754,
+        "a": 0.784313738
+      },
+      "key3": {
+        "r": 0.447058827,
+        "g": 0.0156862754,
+        "b": 0.0156862754,
+        "a": 0.392156869
+      },
+      "key4": {
+        "r": 0.447058827,
+        "g": 0.0156862754,
+        "b": 0.0156862754,
+        "a": 0.0
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 16384,
+      "ctime2": 32768,
+      "ctime3": 49151,
+      "ctime4": 65535,
+      "ctime5": 65535,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 16384,
+      "atime2": 32768,
+      "atime3": 49151,
+      "atime4": 65535,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 5,
+      "m_NumAlphaKeys": 5
+    },
+    {
+      "key0": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.784313738
+      },
+      "key3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.392156869
+      },
+      "key4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.392156869
+      },
+      "key5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key6": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "key7": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "ctime0": 0,
+      "ctime1": 65535,
+      "ctime2": 65535,
+      "ctime3": 65535,
+      "ctime4": 65535,
+      "ctime5": 0,
+      "ctime6": 0,
+      "ctime7": 0,
+      "atime0": 0,
+      "atime1": 65535,
+      "atime2": 32768,
+      "atime3": 50308,
+      "atime4": 50308,
+      "atime5": 0,
+      "atime6": 0,
+      "atime7": 0,
+      "m_Mode": 0,
+      "m_NumColorKeys": 2,
+      "m_NumAlphaKeys": 2
+    }
+  ],
+  "sword_obj": {
+    "m_FileID": 0,
+    "m_PathID": 6948962129555425408
+  },
+  "sword_obj_opera": {
+    "m_FileID": 0,
+    "m_PathID": 3172487924000220223
+  },
+  "skill2_effect_anims": [
+    {
+      "anim_list": [],
+      "use_normal_color": 0,
+      "show_effects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      ],
+      "delay_create_phantom": 0.8
+    },
+    {
+      "anim_list": [],
+      "use_normal_color": 0,
+      "show_effects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      ],
+      "delay_create_phantom": 0.8
+    },
+    {
+      "anim_list": [],
+      "use_normal_color": 0,
+      "show_effects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      ],
+      "delay_create_phantom": 0.8
+    },
+    {
+      "anim_list": [],
+      "use_normal_color": 0,
+      "show_effects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      ],
+      "delay_create_phantom": 0.8
+    },
+    {
+      "anim_list": [],
+      "use_normal_color": 0,
+      "show_effects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      ],
+      "delay_create_phantom": 0.8
+    },
+    {
+      "anim_list": [],
+      "use_normal_color": 0,
+      "show_effects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      ],
+      "delay_create_phantom": 0.8
+    },
+    {
+      "anim_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -1105284718708640366
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3959887865183201284
+        }
+      ],
+      "use_normal_color": 0,
+      "show_effects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      ],
+      "delay_create_phantom": 0.8
+    },
+    {
+      "anim_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 6958861115212167901
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2021233591429325221
+        }
+      ],
+      "use_normal_color": 0,
+      "show_effects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      ],
+      "delay_create_phantom": 0.8
+    },
+    {
+      "anim_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -2682837974323407233
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5862877026572488124
+        }
+      ],
+      "use_normal_color": 1,
+      "show_effects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 3215877228592817146
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8068092136331419239
+        }
+      ],
+      "delay_create_phantom": 0.8
+    },
+    {
+      "anim_list": [],
+      "use_normal_color": 0,
+      "show_effects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -2105314224573167542
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7795710744436553946
+        }
+      ],
+      "delay_create_phantom": 0.8
+    }
+  ],
+  "normal_color_mat": {
+    "m_FileID": 0,
+    "m_PathID": -3954192810514800198
+  }
+}

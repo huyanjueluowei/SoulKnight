@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5558080487987260756
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 953257730095916160
+  },
+  "m_Name": "",
+  "lightningSprite": {
+    "m_FileID": 0,
+    "m_PathID": -1569462014726882887
+  },
+  "angle": 15.0,
+  "bulletIndex": 1,
+  "attackStateName": "w_laser",
+  "bulletCount": 5,
+  "stayDuration": 0.4,
+  "countEnhanceBuff": 3,
+  "extraBulletCount": 2
+}

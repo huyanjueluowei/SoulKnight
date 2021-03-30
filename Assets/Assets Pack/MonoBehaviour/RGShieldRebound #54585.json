@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4344627891924545134
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2834143440859630944
+  },
+  "m_Name": "",
+  "damageType": 0,
+  "camp": 0,
+  "duration": 6.0,
+  "fadeSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5171831946560332035
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5229962370498837763
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2759417770270562406
+    }
+  ],
+  "fadeShader": {
+    "m_FileID": 0,
+    "m_PathID": 3178199599507871209
+  },
+  "rotateTransforms": [],
+  "angleSpeed": 0.0
+}

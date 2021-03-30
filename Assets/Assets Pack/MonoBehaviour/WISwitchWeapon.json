@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9070113913792246661
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7734632357659042577
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "wi16_auto_pistol",
+  "item_value": 20,
+  "repeat": 0,
+  "statisticKey": "",
+  "supportWeaponList": [
+    {
+      "id": 0,
+      "weaponType": 14,
+      "supportWeaponScripts": []
+    }
+  ],
+  "byWeapon": 0,
+  "processName": "",
+  "item_level": 0,
+  "show_level": -1,
+  "weapon_item_sprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_id": 0,
+  "continuous": 0
+}

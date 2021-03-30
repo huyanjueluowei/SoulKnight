@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9160636467302860172
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2401125762876924439
+  },
+  "m_Name": "",
+  "damageType": 0,
+  "camp": 0,
+  "speed": 10.0,
+  "rigid2d": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "destroy_time": 5.0,
+  "rotate_angle": 0,
+  "awake": 1,
+  "can_rebound": 1,
+  "autoDirection": 1,
+  "repel": 0,
+  "critical": 0,
+  "thunderPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -4013369351976038272
+  },
+  "textTalkWrapper": {
+    "m_FileID": 0,
+    "m_PathID": -3019748400297024838
+  },
+  "cameraShaker": {
+    "m_FileID": 0,
+    "m_PathID": 8160780795454309310
+  },
+  "thunderRadius": 14.0,
+  "isIntensive": 0
+}

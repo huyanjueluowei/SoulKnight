@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6995109092825567019
+  },
+  "m_Name": "zb_floor",
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 395548852579289482
+  },
+  "colliderType": 0,
+  "distribute": [
+    {
+      "sprite": {
+        "m_FileID": 0,
+        "m_PathID": 395548852579289482
+      },
+      "probability": 0.4
+    },
+    {
+      "sprite": {
+        "m_FileID": 0,
+        "m_PathID": 8377103062492097013
+      },
+      "probability": 0.2
+    },
+    {
+      "sprite": {
+        "m_FileID": 0,
+        "m_PathID": 4611647022103181899
+      },
+      "probability": 0.2
+    },
+    {
+      "sprite": {
+        "m_FileID": 0,
+        "m_PathID": 8616012469746993181
+      },
+      "probability": 0.2
+    }
+  ]
+}

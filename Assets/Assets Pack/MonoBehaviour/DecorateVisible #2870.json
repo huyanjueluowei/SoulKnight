@@ -1,0 +1,113 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5637851934692424101
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5871805532927772379
+  },
+  "m_Name": "",
+  "validSkins": [
+    {
+      "hero": 0,
+      "skinIndex": 0,
+      "position": {
+        "x": -0.095,
+        "y": -0.125,
+        "z": 0.0
+      }
+    },
+    {
+      "hero": 3,
+      "skinIndex": 0,
+      "position": {
+        "x": -0.051,
+        "y": -0.126,
+        "z": 0.0
+      }
+    },
+    {
+      "hero": 5,
+      "skinIndex": 0,
+      "position": {
+        "x": -0.147,
+        "y": -0.126,
+        "z": 0.0
+      }
+    },
+    {
+      "hero": 6,
+      "skinIndex": 0,
+      "position": {
+        "x": -0.157,
+        "y": -0.126,
+        "z": 0.0
+      }
+    },
+    {
+      "hero": 9,
+      "skinIndex": 0,
+      "position": {
+        "x": -0.255,
+        "y": 0.249,
+        "z": 0.0
+      }
+    },
+    {
+      "hero": 12,
+      "skinIndex": 0,
+      "position": {
+        "x": -0.068,
+        "y": -0.126,
+        "z": 0.0
+      }
+    },
+    {
+      "hero": 13,
+      "skinIndex": 0,
+      "position": {
+        "x": -0.089,
+        "y": -0.254,
+        "z": 0.0
+      }
+    },
+    {
+      "hero": 1,
+      "skinIndex": 0,
+      "position": {
+        "x": -0.17,
+        "y": 0.08,
+        "z": 0.0
+      }
+    },
+    {
+      "hero": 7,
+      "skinIndex": 0,
+      "position": {
+        "x": -0.15,
+        "y": 0.12,
+        "z": 0.0
+      }
+    },
+    {
+      "hero": 16,
+      "skinIndex": 0,
+      "position": {
+        "x": -0.216,
+        "y": 0.171,
+        "z": 0.0
+      }
+    },
+    {
+      "hero": 4,
+      "skinIndex": 0,
+      "position": {
+        "x": -0.172,
+        "y": 0.137,
+        "z": 0.0
+      }
+    }
+  ]
+}

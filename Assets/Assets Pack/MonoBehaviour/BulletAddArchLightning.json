@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3391088337092620443
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7996244787943578244
+  },
+  "m_Name": "",
+  "max_count": 4,
+  "time_interval": 0.5,
+  "max_range": 10.0,
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 7064950869084921188
+  },
+  "thunder_object": {
+    "m_FileID": 0,
+    "m_PathID": -2000313622806355764
+  }
+}

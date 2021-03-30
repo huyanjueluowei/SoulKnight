@@ -1,0 +1,124 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3374562404804324543
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9077791191794914832
+  },
+  "m_Name": "",
+  "weapon_type": 3,
+  "weapon_tags": [],
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": -5320813973430249721
+  },
+  "activate": 1,
+  "item_level": 5,
+  "item_value": 20,
+  "bulletsInfo": [
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 4150368921488556493
+      },
+      "speed": 0.0,
+      "size": 2.0,
+      "damage": 6,
+      "critic": 20,
+      "repel": 2,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 7409905540515182383
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 6,
+      "critic": 20,
+      "repel": 2,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 8785796106206141948
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 6,
+      "critic": 20,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 5093987110657124808
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 2,
+      "critic": 20,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -503111169807812307
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 2,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -6996424814462084459
+      },
+      "speed": 0.0,
+      "size": 2.0,
+      "damage": 6,
+      "critic": 20,
+      "repel": 2,
+      "throughCount": 0
+    }
+  ],
+  "deviation": 5,
+  "consume": 1,
+  "weapon_speed": 1.0,
+  "atk_move_speed": 0.1,
+  "need_lock": 0,
+  "has_effect": 0,
+  "is_melee": 1,
+  "not_forgeable": 0,
+  "can_use": 1,
+  "limitUseInMultiRoom": 0,
+  "rightRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -6628894071047127088
+  },
+  "leftRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -961755073830180791
+  },
+  "rightHandTransform": {
+    "m_FileID": 0,
+    "m_PathID": 8169984700880308985
+  },
+  "leftHandTransform": {
+    "m_FileID": 0,
+    "m_PathID": 6874294948929423797
+  },
+  "attack1Offset": -0.2,
+  "stingIndex": 5,
+  "force": 20.0
+}

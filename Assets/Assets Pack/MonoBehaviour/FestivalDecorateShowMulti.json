@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6701299970675562427
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 383647263656706855
+  },
+  "m_Name": "",
+  "items": [
+    {
+      "festivals": [
+        {
+          "key": "christmas_2",
+          "isInversed": 1
+        }
+      ],
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -5345610678571642462
+      }
+    },
+    {
+      "festivals": [
+        {
+          "key": "christmas_2",
+          "isInversed": 0
+        }
+      ],
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -3319862316506050529
+      }
+    }
+  ],
+  "festivalDecorateConfig": {
+    "m_FileID": 0,
+    "m_PathID": 6279161777412161753
+  }
+}

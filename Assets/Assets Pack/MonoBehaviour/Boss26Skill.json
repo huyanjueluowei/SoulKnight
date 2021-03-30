@@ -1,0 +1,266 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6272603043850193873
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7635440666035264397
+  },
+  "m_Name": "",
+  "summonEnemyModel": {
+    "cd": 3.0,
+    "animationTriggerName": "atk_1",
+    "normalWeight": 10,
+    "angryWeight": 10,
+    "enemyPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -4547763795012205250
+    },
+    "summonCount": 4,
+    "initDelay": 1.0,
+    "duration": 0.8333333,
+    "shadowObject": {
+      "m_FileID": 0,
+      "m_PathID": -5587985252474846470
+    },
+    "effectParticle": {
+      "m_FileID": 0,
+      "m_PathID": 2504327475907445756
+    },
+    "summonClip": {
+      "m_FileID": 0,
+      "m_PathID": 7570224080692844283
+    },
+    "enemy": {
+      "m_FileID": 0,
+      "m_PathID": 2038734562152568234
+    }
+  },
+  "ultimateSkillModel": {
+    "cd": 2.0,
+    "animationTriggerName": "atk_2",
+    "normalWeight": 0,
+    "angryWeight": 20,
+    "bossController": {
+      "m_FileID": 0,
+      "m_PathID": 2038734562152568234
+    },
+    "scaleLevelCount": 3,
+    "characterMaskPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -4995953732842771348
+    },
+    "maskShowEffectPrefab": {
+      "m_FileID": 2,
+      "m_PathID": 8844498908568191491
+    },
+    "triggerShowEffectPrefab": {
+      "m_FileID": 2,
+      "m_PathID": 8844498908568191491
+    },
+    "buffTriggerPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -4179631333592839131
+    },
+    "enlargeTriggerKey": "enlarge",
+    "shrinkTriggerKey": "shrink",
+    "initWait": 0.5,
+    "buffWait": 0.5,
+    "explodeWait": 7.0,
+    "swampFloorPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -8556326359322885922
+    },
+    "explodeDamage": 5,
+    "characterImgPath": "img/body",
+    "counterPositionOffset": {
+      "x": 0.0,
+      "y": 2.2,
+      "z": 0.0
+    },
+    "counterPrefab": {
+      "m_FileID": 0,
+      "m_PathID": 9034349806703842536
+    },
+    "explodeEffectPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -3050049867974718641
+    },
+    "effectTransform": {
+      "m_FileID": 0,
+      "m_PathID": -3854504613444609728
+    },
+    "effectOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "releaseClip": {
+      "m_FileID": 0,
+      "m_PathID": -3109281613124096042
+    }
+  },
+  "followBulletModel": {
+    "cd": 1.0,
+    "animationTriggerName": "atk_3",
+    "normalWeight": 10,
+    "angryWeight": 5,
+    "bullet": {
+      "bulletProto": {
+        "m_FileID": 3,
+        "m_PathID": -2856328720342704434
+      },
+      "speed": 8.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "count": 10,
+    "initDelay": 0.5,
+    "duration": 0.1,
+    "releaseRadius": 0.7,
+    "releaseTransform": {
+      "m_FileID": 0,
+      "m_PathID": 7698399236179049793
+    },
+    "positionOffset": {
+      "x": 0.0,
+      "y": 2.0,
+      "z": 0.0
+    }
+  },
+  "snakeBulletModel": {
+    "cd": 3.0,
+    "animationTriggerName": "atk_4",
+    "normalWeight": 5,
+    "angryWeight": 10,
+    "snakeBullet": {
+      "bulletProto": {
+        "m_FileID": 3,
+        "m_PathID": -4349985058343749156
+      },
+      "speed": 8.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "snakeSpiralCount": 11,
+    "snakeOverallDuration": 3.0,
+    "snakeCount": 30,
+    "circularBullet": {
+      "bulletProto": {
+        "m_FileID": 3,
+        "m_PathID": -582718948666604326
+      },
+      "speed": 6.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "circularBulletCount": 45,
+    "circularBulletTimes": 2,
+    "circularBulletDuration": 0.5,
+    "initDelay": 0.625,
+    "releaseOffset": {
+      "x": 0.0,
+      "y": 1.6,
+      "z": 0.0
+    },
+    "releaseTransform": {
+      "m_FileID": 0,
+      "m_PathID": 7698399236179049793
+    }
+  },
+  "circularEnlargeModel": {
+    "cd": 3.0,
+    "animationTriggerName": "atk_5",
+    "normalWeight": 10,
+    "angryWeight": 15,
+    "bullet": {
+      "bulletProto": {
+        "m_FileID": 3,
+        "m_PathID": -6925374481345440871
+      },
+      "speed": 6.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "angleInBetween": 45.0,
+    "initDelay": 0.3,
+    "duration": 0.1,
+    "releaseTimes": 5,
+    "bulletCount": 15,
+    "centerSpeed": 6.0,
+    "angularSpeed": 60.0,
+    "enlargeSpeed": 6.0,
+    "maxRadius": 4.0,
+    "releaseTransform": {
+      "m_FileID": 0,
+      "m_PathID": 7698399236179049793
+    },
+    "positionOffset": {
+      "x": 0.0,
+      "y": 1.5,
+      "z": 0.0
+    }
+  },
+  "circularRandomModel": {
+    "cd": 0.0,
+    "animationTriggerName": "atk_6",
+    "normalWeight": 10,
+    "angryWeight": 5,
+    "bullet": {
+      "bulletProto": {
+        "m_FileID": 3,
+        "m_PathID": 7157361826537836943
+      },
+      "speed": 12.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "startAngle": 62.0,
+    "angleRange": {
+      "x": -15.0,
+      "y": 15.0
+    },
+    "duration": 1.5,
+    "angleSpeed": 240.0,
+    "bulletInterval": 0.05,
+    "leftTransform": {
+      "m_FileID": 0,
+      "m_PathID": 7512886325378223796
+    },
+    "leftOffset": {
+      "x": -0.5,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rightTransform": {
+      "m_FileID": 0,
+      "m_PathID": -5089643896294201618
+    },
+    "rightOffset": {
+      "x": 0.5,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": -2599202374592887792
+  }
+}

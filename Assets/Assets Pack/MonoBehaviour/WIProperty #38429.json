@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3862822175494663530
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7395664834512197743
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "wi1_energycollector",
+  "item_value": 20,
+  "repeat": 0,
+  "statisticKey": "",
+  "supportWeaponList": [
+    {
+      "id": 0,
+      "weaponType": 8,
+      "supportWeaponScripts": []
+    },
+    {
+      "id": 3,
+      "weaponType": 11,
+      "supportWeaponScripts": [
+        "Gun003",
+        "GunRainbowLaser"
+      ]
+    }
+  ],
+  "byWeapon": 0,
+  "processName": "",
+  "item_level": 4,
+  "show_level": 1,
+  "weapon_item_sprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_id": 0,
+  "propertyTypes": [
+    0
+  ],
+  "values": [
+    2.0
+  ]
+}

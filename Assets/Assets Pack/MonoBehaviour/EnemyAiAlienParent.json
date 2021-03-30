@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1287690462190697591
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5714781706191404000
+  },
+  "m_Name": "",
+  "alien1_obj": {
+    "m_FileID": 0,
+    "m_PathID": -1872688252397343946
+  },
+  "alien2_obj": {
+    "m_FileID": 0,
+    "m_PathID": -4429061961169745172
+  },
+  "angry": 0
+}

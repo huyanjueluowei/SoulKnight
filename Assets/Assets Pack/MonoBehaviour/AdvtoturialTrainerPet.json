@@ -1,0 +1,214 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9155655755650608697
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4110909952171683648
+  },
+  "m_Name": "",
+  "awake": 1,
+  "dead": 0,
+  "p_index": 0,
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rigibody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "target_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fixed_angle": 0.0,
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "state": 0,
+  "damage": 2,
+  "move_direction": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "min_distance": 100.0,
+  "scout_rate": 0.2,
+  "atk_cd": 4.0,
+  "summon": 1,
+  "can_atk": 1,
+  "master_tf": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "min_follow_distance": 2.0,
+  "max_follow_distance": 12.0,
+  "OnAttackStart": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "ignoreAllAlone": 0,
+  "trainer_talk_group_list": [
+    {
+      "talk_list": [
+        {
+          "talk": "adv_toturial/toturial_1",
+          "dur_time": 0.0
+        }
+      ],
+      "loop": 1
+    },
+    {
+      "talk_list": [
+        {
+          "talk": "adv_toturial/toturial_2",
+          "dur_time": 0.0
+        }
+      ],
+      "loop": 0
+    },
+    {
+      "talk_list": [
+        {
+          "talk": "adv_toturial/toturial_3",
+          "dur_time": 0.0
+        }
+      ],
+      "loop": 0
+    },
+    {
+      "talk_list": [
+        {
+          "talk": "adv_toturial/toturial_4",
+          "dur_time": 0.0
+        }
+      ],
+      "loop": 0
+    },
+    {
+      "talk_list": [
+        {
+          "talk": "adv_toturial/toturial_5",
+          "dur_time": 0.0
+        }
+      ],
+      "loop": 0
+    },
+    {
+      "talk_list": [
+        {
+          "talk": "adv_toturial/toturial_6",
+          "dur_time": 0.0
+        }
+      ],
+      "loop": 0
+    },
+    {
+      "talk_list": [
+        {
+          "talk": "adv_toturial/toturial_7",
+          "dur_time": 0.0
+        }
+      ],
+      "loop": 0
+    },
+    {
+      "talk_list": [
+        {
+          "talk": "adv_toturial/toturial_8",
+          "dur_time": 0.0
+        }
+      ],
+      "loop": 0
+    },
+    {
+      "talk_list": [
+        {
+          "talk": "adv_toturial/toturial_9",
+          "dur_time": 0.0
+        }
+      ],
+      "loop": 0
+    },
+    {
+      "talk_list": [
+        {
+          "talk": "adv_toturial/toturial_10",
+          "dur_time": 0.0
+        }
+      ],
+      "loop": 0
+    },
+    {
+      "talk_list": [
+        {
+          "talk": "adv_toturial/toturial_11",
+          "dur_time": 0.0
+        }
+      ],
+      "loop": 0
+    },
+    {
+      "talk_list": [
+        {
+          "talk": "adv_toturial/toturial_13",
+          "dur_time": 0.0
+        }
+      ],
+      "loop": 0
+    },
+    {
+      "talk_list": [
+        {
+          "talk": "adv_toturial/toturial_14",
+          "dur_time": 0.0
+        }
+      ],
+      "loop": 0
+    }
+  ],
+  "battle_talk_list": [
+    {
+      "talk": "adv_toturial/battle_talk_1",
+      "dur_time": 0.0
+    },
+    {
+      "talk": "adv_toturial/battle_talk_2",
+      "dur_time": 0.0
+    },
+    {
+      "talk": "adv_toturial/battle_talk_3",
+      "dur_time": 0.0
+    },
+    {
+      "talk": "adv_toturial/battle_talk_4",
+      "dur_time": 0.0
+    }
+  ],
+  "other_talk_list": [
+    {
+      "talk": "adv_toturial/talk_1",
+      "dur_time": 0.0
+    },
+    {
+      "talk": "adv_toturial/talk_2",
+      "dur_time": 0.0
+    },
+    {
+      "talk": "adv_toturial/talk_3",
+      "dur_time": 0.0
+    },
+    {
+      "talk": "adv_toturial/talk_4",
+      "dur_time": 0.0
+    },
+    {
+      "talk": "adv_toturial/talk_5",
+      "dur_time": 0.0
+    }
+  ]
+}

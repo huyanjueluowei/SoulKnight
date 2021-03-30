@@ -1,0 +1,108 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -473514082263138621
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7575492375437405675
+  },
+  "m_Name": "",
+  "awake": 1,
+  "dead": 0,
+  "p_index": 0,
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rigibody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "target_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fixed_angle": 0.0,
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "state": 1,
+  "damage": 5,
+  "move_direction": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "min_distance": 100.0,
+  "scout_rate": 0.2,
+  "atk_cd": 0.5,
+  "summon": 0,
+  "can_atk": 1,
+  "master_tf": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "min_follow_distance": 2.0,
+  "max_follow_distance": 20.0,
+  "OnAttackStart": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -1836060174643012541
+          },
+          "m_MethodName": "Call",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "ignoreAllAlone": 0,
+  "deadParticlePosition": {
+    "x": -0.033,
+    "y": 1.374,
+    "z": 0.0
+  },
+  "deadParticles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5007396012998052557
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8215752103484072165
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1432432730921958931
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5836399227162853279
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2303843532147873584
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2477717420827735408
+    }
+  ],
+  "lifeTime": 15.0
+}

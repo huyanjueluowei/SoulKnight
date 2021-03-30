@@ -1,0 +1,95 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1358312100101424824
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5193313968503136396
+  },
+  "m_Name": "",
+  "weapon_type": 16,
+  "weapon_tags": [
+    303,
+    309,
+    310
+  ],
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 3150488904984120107
+  },
+  "activate": 1,
+  "item_level": 5,
+  "item_value": 15,
+  "bulletsInfo": [],
+  "deviation": 0,
+  "consume": 0,
+  "weapon_speed": 1.0,
+  "atk_move_speed": 0.0,
+  "need_lock": 0,
+  "has_effect": 0,
+  "is_melee": 1,
+  "not_forgeable": 1,
+  "can_use": 1,
+  "limitUseInMultiRoom": 0,
+  "colors": [
+    {
+      "r": 0.9843138,
+      "g": 0.7725491,
+      "b": 0.215686291,
+      "a": 1.0
+    },
+    {
+      "r": 0.909804,
+      "g": 0.4431373,
+      "b": 0.333333343,
+      "a": 1.0
+    },
+    {
+      "r": 0.9803922,
+      "g": 0.92549026,
+      "b": 0.8705883,
+      "a": 1.0
+    },
+    {
+      "r": 0.7411765,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 1.0
+    },
+    {
+      "r": 0.411764741,
+      "g": 0.694117665,
+      "b": 0.129411772,
+      "a": 1.0
+    }
+  ],
+  "sprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8258558982620780255
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8535485221681580395
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7496982687596083725
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3335471367721958075
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3772523224388605533
+    }
+  ],
+  "duration": 6.0,
+  "showHpbarHeight": 2.3,
+  "noneHpbarHeight": 1.6,
+  "maxMixCount": 3,
+  "isSpecialWeapon": 1
+}

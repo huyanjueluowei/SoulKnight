@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1962333877470974151
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 622037664378974929
+  },
+  "m_Name": "",
+  "emoticonProto": {
+    "m_FileID": 0,
+    "m_PathID": -1233972421547960004
+  },
+  "emoticonBtn": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

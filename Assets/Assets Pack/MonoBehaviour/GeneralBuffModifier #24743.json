@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7817173358049089799
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7455253401620379825
+  },
+  "m_Name": "",
+  "buff": 31,
+  "scriptTypeName": "GunSpearTriple",
+  "fieldName": "multiCount",
+  "modifyType": 0,
+  "intModifyValue": 2,
+  "floatModifyValue": 0.0
+}

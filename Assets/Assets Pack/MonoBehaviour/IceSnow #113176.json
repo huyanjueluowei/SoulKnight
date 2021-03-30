@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2319013128215232490
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5656955639456953623
+  },
+  "m_Name": "",
+  "particlePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 1634085843548462416
+  },
+  "snowDensity": 0.05,
+  "roomOffset": {
+    "x": 0.0,
+    "y": 0.5,
+    "z": 0.0
+  },
+  "scaleExtra": {
+    "x": 5.0,
+    "y": 5.0
+  },
+  "particleOffset": {
+    "x": 0.0,
+    "y": 4.0,
+    "z": 0.0
+  }
+}

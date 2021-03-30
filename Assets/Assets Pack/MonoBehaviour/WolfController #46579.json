@@ -1,0 +1,71 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6339368851033058037
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7752162005379059140
+  },
+  "m_Name": "",
+  "awake": 1,
+  "dead": 0,
+  "p_index": 0,
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rigibody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "target_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fixed_angle": 0.0,
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "state": 1,
+  "damage": 5,
+  "move_direction": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "min_distance": 100.0,
+  "scout_rate": 0.5,
+  "atk_cd": 1.0,
+  "summon": 0,
+  "can_atk": 1,
+  "master_tf": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "min_follow_distance": 2.0,
+  "max_follow_distance": 20.0,
+  "OnAttackStart": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "ignoreAllAlone": 0,
+  "strengthen": 0,
+  "showSmoke": 0,
+  "bullet1": {
+    "m_FileID": 0,
+    "m_PathID": 6470617809603894396
+  },
+  "bullet2": {
+    "m_FileID": 0,
+    "m_PathID": 3903237364616455352
+  },
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 9208900048884022347
+  },
+  "index": 1,
+  "swordScale": 0.0
+}

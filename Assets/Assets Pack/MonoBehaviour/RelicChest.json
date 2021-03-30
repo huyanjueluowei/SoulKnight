@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4922553255219308010
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8296562432237637287
+  },
+  "m_Name": "",
+  "openEffect": {
+    "m_FileID": 2,
+    "m_PathID": 8844498908568191491
+  },
+  "openEffectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 3527308105490853764
+  },
+  "openEffectPositionOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": -6650133410313271498
+  },
+  "openAnimKey": "OPEN",
+  "onRoomClear": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 3599058031407810531
+          },
+          "m_MethodName": "OnBoxDestroy",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  }
+}

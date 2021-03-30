@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1812229631211040723
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3980433178709217410
+  },
+  "m_Name": "",
+  "singleton": 1,
+  "minimumHeight": 200.0,
+  "startInPopupMode": 1,
+  "clearCommandAfterExecution": 1,
+  "commandHistorySize": 15,
+  "receiveLogcatLogsInAndroid": 0,
+  "logcatArguments": "",
+  "logItemPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -425302133493124691
+  },
+  "infoLog": {
+    "m_FileID": 0,
+    "m_PathID": 8551665973173004661
+  },
+  "warningLog": {
+    "m_FileID": 0,
+    "m_PathID": 8131076079266819554
+  },
+  "errorLog": {
+    "m_FileID": 0,
+    "m_PathID": -4214055789084302105
+  },
+  "collapseButtonNormalColor": {
+    "r": 0.316176474,
+    "g": 0.316176474,
+    "b": 0.316176474,
+    "a": 1.0
+  },
+  "collapseButtonSelectedColor": {
+    "r": 0.441176474,
+    "g": 0.4346886,
+    "b": 0.4346886,
+    "a": 1.0
+  },
+  "filterButtonsNormalColor": {
+    "r": 0.316176474,
+    "g": 0.316176474,
+    "b": 0.316176474,
+    "a": 1.0
+  },
+  "filterButtonsSelectedColor": {
+    "r": 0.441176474,
+    "g": 0.4346886,
+    "b": 0.4346886,
+    "a": 1.0
+  },
+  "logWindowTR": {
+    "m_FileID": 0,
+    "m_PathID": 219588055364391425
+  },
+  "logItemsContainer": {
+    "m_FileID": 0,
+    "m_PathID": -109101745890661224
+  },
+  "commandInputField": {
+    "m_FileID": 0,
+    "m_PathID": -1949983969459308081
+  },
+  "collapseButton": {
+    "m_FileID": 0,
+    "m_PathID": 3082398368887790679
+  },
+  "filterInfoButton": {
+    "m_FileID": 0,
+    "m_PathID": 1297602461841867636
+  },
+  "filterWarningButton": {
+    "m_FileID": 0,
+    "m_PathID": 2297178294948590148
+  },
+  "filterErrorButton": {
+    "m_FileID": 0,
+    "m_PathID": -2687041766638962386
+  },
+  "infoEntryCountText": {
+    "m_FileID": 0,
+    "m_PathID": -7714058720900701734
+  },
+  "warningEntryCountText": {
+    "m_FileID": 0,
+    "m_PathID": -5099607748598286127
+  },
+  "errorEntryCountText": {
+    "m_FileID": 0,
+    "m_PathID": 3821820914365771265
+  },
+  "snapToBottomButton": {
+    "m_FileID": 0,
+    "m_PathID": -6220196161966783930
+  },
+  "deviceInfoText": {
+    "m_FileID": 0,
+    "m_PathID": -4183499399977310870
+  },
+  "funcText1": {
+    "m_FileID": 0,
+    "m_PathID": -6984060031658367994
+  },
+  "funcBtn1": {
+    "m_FileID": 0,
+    "m_PathID": 78373434679965960
+  },
+  "logWindowCanvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": -3908699520362936393
+  },
+  "popupManager": {
+    "m_FileID": 0,
+    "m_PathID": -8091881503750720678
+  },
+  "logItemsScrollRect": {
+    "m_FileID": 0,
+    "m_PathID": -1319666832319885862
+  },
+  "recycledListView": {
+    "m_FileID": 0,
+    "m_PathID": -8319675061306303131
+  }
+}

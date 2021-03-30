@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1353544225015482181
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7949544198366364486
+  },
+  "m_Name": "",
+  "energy": 150,
+  "item_value": 30,
+  "item_name": "item_energy_pot_L",
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 3150488904984120107
+  }
+}

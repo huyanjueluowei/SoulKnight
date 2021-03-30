@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 373209707592296099
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6273752686318595164
+  },
+  "m_Name": "",
+  "dest_sprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "skins": []
+}

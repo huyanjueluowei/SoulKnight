@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1970489166316415317
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3805941533336088679
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "Object_chest",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "audioClip": {
+    "m_FileID": 2,
+    "m_PathID": -7319475116925131574
+  },
+  "level": 1,
+  "count": 3,
+  "boss_objs": [],
+  "onEmptyChestOpen": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "given_objs": []
+}

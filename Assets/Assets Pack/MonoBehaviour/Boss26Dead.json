@@ -1,0 +1,111 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6272603043850193873
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4131099858506437056
+  },
+  "m_Name": "",
+  "deadAnimDuration": 3.0,
+  "deadFadeCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0,
+        "inSlope": -3.23528886,
+        "outSlope": -3.23528886,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.03132531
+      },
+      {
+        "time": 0.05,
+        "value": 0.3,
+        "inSlope": -0.7090872,
+        "outSlope": -0.7090872,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.06336297
+      },
+      {
+        "time": 0.8069336,
+        "value": 0.07155762,
+        "inSlope": -0.0436481051,
+        "outSlope": -0.0436481051,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.9500122,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0578311346,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "deadParticle": {
+    "m_FileID": 0,
+    "m_PathID": -3462901691980648328
+  },
+  "renderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5369850801732361406
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8177936200761697381
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6723669040279571086
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2798915433595443044
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4380008166179489390
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3312836462308630786
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5934946073458204869
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1865915769170341338
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2061028630619746014
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1503988486840823386
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4426199110609449003
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8829296533307999333
+    }
+  ],
+  "materialFadeKey": "_FadeAmount"
+}

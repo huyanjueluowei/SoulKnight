@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4179631333592839131
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4072575231359031142
+  },
+  "m_Name": "",
+  "triggerEffect": {
+    "m_FileID": 2,
+    "m_PathID": 8844498908568191491
+  },
+  "triggerTags": [
+    "Body_P"
+  ],
+  "triggerModels": [
+    {
+      "key": "enlarge",
+      "sprites": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 100489171419271691
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8051882995477426974
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -840005836598394061
+        }
+      ],
+      "buffPrefab": {
+        "m_FileID": 2,
+        "m_PathID": -5297728988883429902
+      },
+      "scaleValue": 1
+    },
+    {
+      "key": "shrink",
+      "sprites": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 9190302916475153952
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8543418906140597111
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8795271035997386205
+        }
+      ],
+      "buffPrefab": {
+        "m_FileID": 2,
+        "m_PathID": 4096960917115007091
+      },
+      "scaleValue": -1
+    }
+  ],
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -3992212314147014996
+  },
+  "effectRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -8755218266928823078
+  },
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": -5829902237379589049
+  },
+  "showAnimKey": "active"
+}

@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -586080017450448801
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7549025859025981524
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 2,
+    "m_PathID": -7526106155176443709
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 10,
+  "enemyTag": 12,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": -1481325827686515841
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "e_succulent",
+  "ai_level": 3,
+  "consume": 3,
+  "e_size": 2,
+  "reward_rate": 30,
+  "reward_value": [
+    0,
+    0,
+    1,
+    2
+  ],
+  "shoot_cd": 5.0,
+  "friction": 0.9,
+  "kinematic": 1,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 1.0,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "dead_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

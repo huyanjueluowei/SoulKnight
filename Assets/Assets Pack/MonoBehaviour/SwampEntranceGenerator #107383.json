@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6233143850049553271
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5827050527278780393
+  },
+  "m_Name": "",
+  "swampEntrancePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -3880752676811627926
+  },
+  "normalRoomType": 1,
+  "probability": 70,
+  "maxCount": 2
+}

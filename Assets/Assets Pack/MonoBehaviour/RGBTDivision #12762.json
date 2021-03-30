@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5074047550696452862
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4647969076817040677
+  },
+  "m_Name": "",
+  "damage": 0,
+  "critical": 0,
+  "hit_object": {
+    "m_FileID": 0,
+    "m_PathID": 997752590225333898
+  },
+  "show_zero_dmg": 1,
+  "destory_parent": 1,
+  "stop_parent": 0,
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 5896789235608708879
+  },
+  "count": 6,
+  "angle": 30,
+  "atk": 3,
+  "child_critical": 0,
+  "bullet": {
+    "m_FileID": 0,
+    "m_PathID": -8778589948795894827
+  },
+  "bullet_speed": 20.0
+}

@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2254681703980883886
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3185000836110510298
+  },
+  "m_Name": "",
+  "audio_clip": {
+    "m_FileID": 2,
+    "m_PathID": 4899294914375063769
+  },
+  "isSpecificBranch": 1,
+  "branchIndex": "E",
+  "creator_name": ""
+}

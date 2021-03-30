@@ -1,0 +1,450 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 139
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 144
+  },
+  "m_Name": "",
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "awake": 0,
+  "skill_icons": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 6933330795811923935
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 3722649226132735248
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 8722554930444600179
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -1599025496053915175
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 958183429159885224
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 7099471452677342425
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -4869754426330156045
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 1189472574016503496
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -1711570142722070744
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 7093638819329173507
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 8174729150244322737
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 819990493810905729
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -7218202653398763018
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 7933701019794873808
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 4778731195094286169
+    }
+  ],
+  "buff_sprite": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -2309254629024759690
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -2906663484394192899
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -2030481942624066319
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 215751955531722268
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -16070878057365892
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 3603348036939427594
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 5024818719896736171
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -5922692205606329810
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -7045381363949637378
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -6354246871136225918
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -4412741290048675871
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -1095168006377126366
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 8252869298926435584
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 5989910912416292074
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 6612872961157165114
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -474693539157369469
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 239
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 244
+    }
+  ],
+  "weapon_icon_infos": [
+    {
+      "icon": {
+        "m_FileID": 2,
+        "m_PathID": -4519551836381203921
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 2,
+          "m_PathID": -5801807736126808057
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 219
+        }
+      ],
+      "angle": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 2,
+        "m_PathID": -8157691021017875835
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 2,
+          "m_PathID": 2606619781448220464
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 221
+        }
+      ],
+      "angle": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 2,
+        "m_PathID": -6663707652018217334
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 2,
+          "m_PathID": -1998896384834179411
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 218
+        }
+      ],
+      "angle": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 2,
+        "m_PathID": -7232119498801179723
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 2,
+          "m_PathID": 7406064335290227033
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 223
+        }
+      ],
+      "angle": 90
+    },
+    {
+      "icon": {
+        "m_FileID": 2,
+        "m_PathID": -6831809889584492666
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 2,
+          "m_PathID": 3413122183484861760
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 222
+        }
+      ],
+      "angle": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 2,
+        "m_PathID": 6316776964112681424
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 2,
+          "m_PathID": -4300994094896020064
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 232
+        }
+      ],
+      "angle": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 2,
+        "m_PathID": 5280940165510499606
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 2,
+          "m_PathID": 5976492320468990211
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 225
+        }
+      ],
+      "angle": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 2,
+        "m_PathID": 8866677619729206179
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 2,
+          "m_PathID": 8576646867905794454
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 233
+        }
+      ],
+      "angle": 90
+    },
+    {
+      "icon": {
+        "m_FileID": 2,
+        "m_PathID": -4560093820691732725
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 2,
+          "m_PathID": 4775575898786707055
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 229
+        }
+      ],
+      "angle": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 2,
+        "m_PathID": 6520289254153383783
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 2,
+          "m_PathID": 9083084837593622840
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 228
+        }
+      ],
+      "angle": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 2,
+        "m_PathID": 5591927596500019274
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 2,
+          "m_PathID": 8283060527125366938
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 227
+        }
+      ],
+      "angle": 90
+    },
+    {
+      "icon": {
+        "m_FileID": 2,
+        "m_PathID": 5519549832876861473
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 2,
+          "m_PathID": 4468652493152244942
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 224
+        }
+      ],
+      "angle": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 2,
+        "m_PathID": -84763577360282232
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 2,
+          "m_PathID": -2930623290838834072
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 234
+        }
+      ],
+      "angle": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 2,
+        "m_PathID": -621446551741520076
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 2,
+          "m_PathID": 7568765821536972130
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": 231
+        }
+      ],
+      "angle": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 1,
+        "m_PathID": 215
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 1,
+          "m_PathID": 216
+        }
+      ],
+      "angle": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 1,
+        "m_PathID": 248
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 1,
+          "m_PathID": 245
+        }
+      ],
+      "angle": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 1,
+        "m_PathID": 246
+      },
+      "iconUpdateds": [
+        {
+          "m_FileID": 1,
+          "m_PathID": 247
+        }
+      ],
+      "angle": 135
+    }
+  ],
+  "levelup_clip": {
+    "m_FileID": 2,
+    "m_PathID": 3228828031039560833
+  },
+  "start_clip": {
+    "m_FileID": 2,
+    "m_PathID": -1269844055970695828
+  },
+  "max_buff_position": {
+    "x": -70.0,
+    "y": -120.0,
+    "z": 0.0
+  },
+  "max_weapon_position": {
+    "x": 70.0,
+    "y": -120.0,
+    "z": 0.0
+  }
+}

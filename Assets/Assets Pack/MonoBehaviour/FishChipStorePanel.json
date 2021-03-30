@@ -1,0 +1,575 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2064032063891681599
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 12779284915130230
+  },
+  "m_Name": "",
+  "fishChipPurchaseController": {
+    "m_FileID": 0,
+    "m_PathID": -6669124486063658721
+  },
+  "fishChipStoreView": {
+    "mainTransform": {
+      "m_FileID": 0,
+      "m_PathID": 1929492784009677180
+    },
+    "fishCountText": {
+      "m_FileID": 0,
+      "m_PathID": -239339691186524649
+    },
+    "countDownText": {
+      "m_FileID": 0,
+      "m_PathID": -4958386102967434212
+    },
+    "itemViews": [
+      {
+        "spriteImage": {
+          "m_FileID": 0,
+          "m_PathID": 3955265012485067734
+        },
+        "nameText": {
+          "m_FileID": 0,
+          "m_PathID": 4255081806409242606
+        },
+        "costText": {
+          "m_FileID": 0,
+          "m_PathID": 7060350646862725402
+        },
+        "discountText": {
+          "m_FileID": 0,
+          "m_PathID": 8519691329928075047
+        },
+        "tagText": {
+          "m_FileID": 0,
+          "m_PathID": 6218807792684492515
+        },
+        "extraText": {
+          "m_FileID": 0,
+          "m_PathID": 1689051998235937666
+        },
+        "stayTunedText": {
+          "m_FileID": 0,
+          "m_PathID": -2162751388350021952
+        },
+        "purchaseCountText": {
+          "m_FileID": 0,
+          "m_PathID": 5782957536959916667
+        },
+        "soldOutText": {
+          "m_FileID": 0,
+          "m_PathID": 6726101938805126790
+        },
+        "stayTunedObject": {
+          "m_FileID": 0,
+          "m_PathID": -5708321533881913649
+        },
+        "panelObject": {
+          "m_FileID": 0,
+          "m_PathID": 2747678464272224068
+        },
+        "offObject": {
+          "m_FileID": 0,
+          "m_PathID": 3013360831514406339
+        },
+        "tagObject": {
+          "m_FileID": 0,
+          "m_PathID": 2622346169149583442
+        },
+        "priceObject": {
+          "m_FileID": 0,
+          "m_PathID": 8671838213396309650
+        },
+        "bestFit": {
+          "m_FileID": 0,
+          "m_PathID": 6560605684644592952
+        },
+        "btn": {
+          "m_FileID": 0,
+          "m_PathID": -3338921835896887221
+        }
+      },
+      {
+        "spriteImage": {
+          "m_FileID": 0,
+          "m_PathID": 8336383716669933028
+        },
+        "nameText": {
+          "m_FileID": 0,
+          "m_PathID": 5868070845384395233
+        },
+        "costText": {
+          "m_FileID": 0,
+          "m_PathID": -2068795864792161741
+        },
+        "discountText": {
+          "m_FileID": 0,
+          "m_PathID": 8673458159602896261
+        },
+        "tagText": {
+          "m_FileID": 0,
+          "m_PathID": -1953883729453888086
+        },
+        "extraText": {
+          "m_FileID": 0,
+          "m_PathID": 308516519503541921
+        },
+        "stayTunedText": {
+          "m_FileID": 0,
+          "m_PathID": 363928078536482022
+        },
+        "purchaseCountText": {
+          "m_FileID": 0,
+          "m_PathID": -2834134521980742312
+        },
+        "soldOutText": {
+          "m_FileID": 0,
+          "m_PathID": -2722692407616680181
+        },
+        "stayTunedObject": {
+          "m_FileID": 0,
+          "m_PathID": -14987321157455250
+        },
+        "panelObject": {
+          "m_FileID": 0,
+          "m_PathID": -7938823652941852939
+        },
+        "offObject": {
+          "m_FileID": 0,
+          "m_PathID": -6176349285894547009
+        },
+        "tagObject": {
+          "m_FileID": 0,
+          "m_PathID": -6240105731401137676
+        },
+        "priceObject": {
+          "m_FileID": 0,
+          "m_PathID": -2080311564776113619
+        },
+        "bestFit": {
+          "m_FileID": 0,
+          "m_PathID": -5702721613057730482
+        },
+        "btn": {
+          "m_FileID": 0,
+          "m_PathID": 5709112643880276449
+        }
+      },
+      {
+        "spriteImage": {
+          "m_FileID": 0,
+          "m_PathID": -2352866131545405351
+        },
+        "nameText": {
+          "m_FileID": 0,
+          "m_PathID": -5721256129777492179
+        },
+        "costText": {
+          "m_FileID": 0,
+          "m_PathID": -7607779621634154738
+        },
+        "discountText": {
+          "m_FileID": 0,
+          "m_PathID": -8888739758497010456
+        },
+        "tagText": {
+          "m_FileID": 0,
+          "m_PathID": -8571571123895550596
+        },
+        "extraText": {
+          "m_FileID": 0,
+          "m_PathID": -1767222287524731877
+        },
+        "stayTunedText": {
+          "m_FileID": 0,
+          "m_PathID": 4996369046001420617
+        },
+        "purchaseCountText": {
+          "m_FileID": 0,
+          "m_PathID": -6278300716131360486
+        },
+        "soldOutText": {
+          "m_FileID": 0,
+          "m_PathID": 6513025822088763468
+        },
+        "stayTunedObject": {
+          "m_FileID": 0,
+          "m_PathID": -951704223023754897
+        },
+        "panelObject": {
+          "m_FileID": 0,
+          "m_PathID": -5036518813442378368
+        },
+        "offObject": {
+          "m_FileID": 0,
+          "m_PathID": -4380823019814009934
+        },
+        "tagObject": {
+          "m_FileID": 0,
+          "m_PathID": -5406811155061007512
+        },
+        "priceObject": {
+          "m_FileID": 0,
+          "m_PathID": 690013546123717764
+        },
+        "bestFit": {
+          "m_FileID": 0,
+          "m_PathID": 2430732191153678444
+        },
+        "btn": {
+          "m_FileID": 0,
+          "m_PathID": 3144752786671594183
+        }
+      },
+      {
+        "spriteImage": {
+          "m_FileID": 0,
+          "m_PathID": -4517442753130303154
+        },
+        "nameText": {
+          "m_FileID": 0,
+          "m_PathID": 3023071191897174049
+        },
+        "costText": {
+          "m_FileID": 0,
+          "m_PathID": 3725726146443999946
+        },
+        "discountText": {
+          "m_FileID": 0,
+          "m_PathID": -7782920501769772665
+        },
+        "tagText": {
+          "m_FileID": 0,
+          "m_PathID": -7219384278531113346
+        },
+        "extraText": {
+          "m_FileID": 0,
+          "m_PathID": -2082684002536803677
+        },
+        "stayTunedText": {
+          "m_FileID": 0,
+          "m_PathID": -7758698816465897974
+        },
+        "purchaseCountText": {
+          "m_FileID": 0,
+          "m_PathID": -3508067143395544834
+        },
+        "soldOutText": {
+          "m_FileID": 0,
+          "m_PathID": 4836443619382786966
+        },
+        "stayTunedObject": {
+          "m_FileID": 0,
+          "m_PathID": -6178235080860035382
+        },
+        "panelObject": {
+          "m_FileID": 0,
+          "m_PathID": -614884908484529908
+        },
+        "offObject": {
+          "m_FileID": 0,
+          "m_PathID": -4263390042964251654
+        },
+        "tagObject": {
+          "m_FileID": 0,
+          "m_PathID": 2380435864920806610
+        },
+        "priceObject": {
+          "m_FileID": 0,
+          "m_PathID": 2570597034238060474
+        },
+        "bestFit": {
+          "m_FileID": 0,
+          "m_PathID": 6618840095008862253
+        },
+        "btn": {
+          "m_FileID": 0,
+          "m_PathID": -6177603144365676587
+        }
+      },
+      {
+        "spriteImage": {
+          "m_FileID": 0,
+          "m_PathID": -403814630274508884
+        },
+        "nameText": {
+          "m_FileID": 0,
+          "m_PathID": -656973845322583306
+        },
+        "costText": {
+          "m_FileID": 0,
+          "m_PathID": 5335576587397164612
+        },
+        "discountText": {
+          "m_FileID": 0,
+          "m_PathID": 1729950826000972550
+        },
+        "tagText": {
+          "m_FileID": 0,
+          "m_PathID": -2588030718808808090
+        },
+        "extraText": {
+          "m_FileID": 0,
+          "m_PathID": -9003253854127736024
+        },
+        "stayTunedText": {
+          "m_FileID": 0,
+          "m_PathID": -8609261727394010501
+        },
+        "purchaseCountText": {
+          "m_FileID": 0,
+          "m_PathID": -5186361379378859759
+        },
+        "soldOutText": {
+          "m_FileID": 0,
+          "m_PathID": -6401564417145929382
+        },
+        "stayTunedObject": {
+          "m_FileID": 0,
+          "m_PathID": 1684714983076405107
+        },
+        "panelObject": {
+          "m_FileID": 0,
+          "m_PathID": -3669477515686461767
+        },
+        "offObject": {
+          "m_FileID": 0,
+          "m_PathID": -7269800689334419845
+        },
+        "tagObject": {
+          "m_FileID": 0,
+          "m_PathID": 2094477445872711824
+        },
+        "priceObject": {
+          "m_FileID": 0,
+          "m_PathID": -6557447724273925748
+        },
+        "bestFit": {
+          "m_FileID": 0,
+          "m_PathID": -5046675871729913984
+        },
+        "btn": {
+          "m_FileID": 0,
+          "m_PathID": 4111188680225809223
+        }
+      },
+      {
+        "spriteImage": {
+          "m_FileID": 0,
+          "m_PathID": -4509687142714209917
+        },
+        "nameText": {
+          "m_FileID": 0,
+          "m_PathID": 4175066262430851470
+        },
+        "costText": {
+          "m_FileID": 0,
+          "m_PathID": -2900987662938289083
+        },
+        "discountText": {
+          "m_FileID": 0,
+          "m_PathID": 2947569396098457249
+        },
+        "tagText": {
+          "m_FileID": 0,
+          "m_PathID": -5281786692295706240
+        },
+        "extraText": {
+          "m_FileID": 0,
+          "m_PathID": 2197263541989604528
+        },
+        "stayTunedText": {
+          "m_FileID": 0,
+          "m_PathID": -5727144561713512022
+        },
+        "purchaseCountText": {
+          "m_FileID": 0,
+          "m_PathID": 5941548153874654384
+        },
+        "soldOutText": {
+          "m_FileID": 0,
+          "m_PathID": 5150110458245127680
+        },
+        "stayTunedObject": {
+          "m_FileID": 0,
+          "m_PathID": -4558173791715913880
+        },
+        "panelObject": {
+          "m_FileID": 0,
+          "m_PathID": 8181434216217431182
+        },
+        "offObject": {
+          "m_FileID": 0,
+          "m_PathID": 9034100482464374343
+        },
+        "tagObject": {
+          "m_FileID": 0,
+          "m_PathID": 957875038465372996
+        },
+        "priceObject": {
+          "m_FileID": 0,
+          "m_PathID": -8930077110473850496
+        },
+        "bestFit": {
+          "m_FileID": 0,
+          "m_PathID": 6355862892944769877
+        },
+        "btn": {
+          "m_FileID": 0,
+          "m_PathID": -1120294052239378885
+        }
+      }
+    ],
+    "confirmWindowView": {
+      "confirmWindowObject": {
+        "m_FileID": 0,
+        "m_PathID": -5106467420722102074
+      },
+      "canvasGroup": {
+        "m_FileID": 0,
+        "m_PathID": -6798319123471448925
+      },
+      "skinView": {
+        "parent": {
+          "m_FileID": 0,
+          "m_PathID": 2127913880043994610
+        },
+        "characterImage": {
+          "m_FileID": 0,
+          "m_PathID": -6886049870085409674
+        },
+        "characterImageTransform": {
+          "m_FileID": 0,
+          "m_PathID": 6539340097954487094
+        },
+        "skinImage": {
+          "m_FileID": 0,
+          "m_PathID": 6984183311647144027
+        },
+        "skinImageTransform": {
+          "m_FileID": 0,
+          "m_PathID": -2761483738468382205
+        },
+        "characterText": {
+          "m_FileID": 0,
+          "m_PathID": 6485882475009753442
+        },
+        "skinText": {
+          "m_FileID": 0,
+          "m_PathID": 514897054897095742
+        }
+      },
+      "normalView": {
+        "parent": {
+          "m_FileID": 0,
+          "m_PathID": 7294791657989252371
+        },
+        "image": {
+          "m_FileID": 0,
+          "m_PathID": 134786878321498237
+        },
+        "imageRectTransform": {
+          "m_FileID": 0,
+          "m_PathID": 2118217964011158942
+        },
+        "descText": {
+          "m_FileID": 0,
+          "m_PathID": 7636188045952077416
+        }
+      },
+      "bundleView": {
+        "parent": {
+          "m_FileID": 0,
+          "m_PathID": -3674938942886730817
+        },
+        "imageContainer": {
+          "m_FileID": 0,
+          "m_PathID": 5138937846729810415
+        },
+        "bundleNameText": {
+          "m_FileID": 0,
+          "m_PathID": 4834725344476551056
+        },
+        "bundleDescParentTransform": {
+          "m_FileID": 0,
+          "m_PathID": -2786540404682918091
+        },
+        "bundleDescItem": {
+          "m_FileID": 0,
+          "m_PathID": -4881335335977848078
+        },
+        "descScrollRect": {
+          "m_FileID": 0,
+          "m_PathID": -2207207573962202261
+        }
+      },
+      "priceText": {
+        "m_FileID": 0,
+        "m_PathID": -8743046542401677679
+      }
+    }
+  },
+  "fadeInTime": 0.2,
+  "fadeOutTime": 0.2,
+  "fadeOutTargetPosition": {
+    "x": 0.0,
+    "y": 720.0
+  },
+  "alreadyHaveItemImageColor": {
+    "r": 0.494117647,
+    "g": 0.494117647,
+    "b": 0.494117647,
+    "a": 1.0
+  },
+  "alreadyHaveItemTextColor": {
+    "r": 0.305882365,
+    "g": 0.349019617,
+    "b": 0.447058827,
+    "a": 1.0
+  },
+  "normalItemTitleHeight": 95.0,
+  "alreadyHaveItemTitleHeight": 145.0,
+  "confirmWindowConfig": {
+    "fadeInTime": 0.1,
+    "fadeOutTime": 0.1,
+    "sizePerPixel": 4.16666651,
+    "showUpComposedScale": 2.0
+  },
+  "comingSoonKey": "I_ComingSoon",
+  "versionNotSupportKey": "donate/item_not_support",
+  "notEnoughFishKey": "donate/not_enough_fish",
+  "countDownTitleKey": "donate/count_down",
+  "countDownDayKey": "mailbox/day",
+  "countDownHourKey": "mailbox/hour",
+  "countDownMinuteKey": "sb/setting_minute",
+  "rewardCloudSaveTipKey": "donate/cloud_save_tips",
+  "characterLockKey": "Character_lock",
+  "rebootGameKey": "donate/reboot_game_tip",
+  "sellCountRemainKey": "ui/shop_limit_count",
+  "priceDiscountColor": {
+    "r": 0.0,
+    "g": 1.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "priceNormalColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "fishChipItemConfig": {
+    "m_FileID": 0,
+    "m_PathID": -1131835849253470394
+  },
+  "fishAnimDurationPerFish": 0.02,
+  "fishAnimMaxTime": 0.2,
+  "rewardShowUpPrefab": {
+    "m_FileID": 1,
+    "m_PathID": -4090620192185837165
+  }
+}

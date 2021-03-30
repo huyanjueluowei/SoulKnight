@@ -1,0 +1,301 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7365918473955128911
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1890170682100269611
+  },
+  "m_Name": "",
+  "awake": 1,
+  "dead": 0,
+  "p_index": 0,
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rigibody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "target_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fixed_angle": 0.0,
+  "clip_skill": {
+    "m_FileID": 0,
+    "m_PathID": -2655448754900361401
+  },
+  "clip_hit": {
+    "m_FileID": 0,
+    "m_PathID": 8816369113864022606
+  },
+  "skills": [
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 7933701019794873808
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -2655448754900361401
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2655448754900361401
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6212933471517128995
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2655448754900361401
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2655448754900361401
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5716022567780853143
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2655448754900361401
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2655448754900361401
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2655448754900361401
+        }
+      ],
+      "skillObjects": [],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 0,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "maxTime": 0.0,
+      "maxCount": 0,
+      "cd": 4.0,
+      "price": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 5704258856970732850
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -2655448754900361401
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2655448754900361401
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6212933471517128995
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2655448754900361401
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2655448754900361401
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5716022567780853143
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2655448754900361401
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2655448754900361401
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2655448754900361401
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 2780511697275604460
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2780511697275604460
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2780511697275604460
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2780511697275604460
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2780511697275604460
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2780511697275604460
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2780511697275604460
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2780511697275604460
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4294730247655197158
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2780511697275604460
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2780511697275604460
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 792601295108913067
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 1,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "maxTime": 5.0,
+      "maxCount": 0,
+      "cd": 10.0,
+      "price": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 6390081498159508450
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7545239990450617287
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 1402171815076083104
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1402171815076083104
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1402171815076083104
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1402171815076083104
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1402171815076083104
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1402171815076083104
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1402171815076083104
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3986972149070048339
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7149726721740819170
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1402171815076083104
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5234007744603930529
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 9040691353496782081
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 4,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "maxTime": 0.0,
+      "maxCount": 2,
+      "cd": 4.0,
+      "price": -1
+    }
+  ],
+  "in_battle": 0,
+  "statuePosition": {
+    "x": 0.0,
+    "y": -0.1,
+    "z": 0.0
+  },
+  "skillIndex": 0,
+  "masterSkillClip": {
+    "m_FileID": 0,
+    "m_PathID": 6212933471517128995
+  },
+  "masterIndex": 2,
+  "leeSkillClip": {
+    "m_FileID": 0,
+    "m_PathID": -5716022567780853143
+  },
+  "leeIndex": 5,
+  "wuyongIndex": 6,
+  "xxIndex": 8,
+  "wusongIndex": 11,
+  "skill1Config": {
+    "bulletScaleFactor": 0.5,
+    "extraBulletAngle": 10.0,
+    "extraBulletCount": 2,
+    "extraBulletWithMasterShotGunBuff": 1,
+    "extraBulletForLevelUp": 1,
+    "deviation": 10.0,
+    "damageFactor": 0.5
+  }
+}

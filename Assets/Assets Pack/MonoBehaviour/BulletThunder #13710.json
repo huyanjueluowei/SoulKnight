@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4013369351976038272
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4561840552025514749
+  },
+  "m_Name": "",
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 1420409875615434846
+  },
+  "thunder": {
+    "m_FileID": 0,
+    "m_PathID": -3034492841302303429
+  },
+  "intensify": 0,
+  "can_hit_back": 1,
+  "buff_ele": {
+    "m_FileID": 0,
+    "m_PathID": 5256516787903864033
+  },
+  "dizzy_rate": 70,
+  "max_count": 3,
+  "source_object": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "jumpOnly": 1,
+  "bulletSize": 1.0
+}

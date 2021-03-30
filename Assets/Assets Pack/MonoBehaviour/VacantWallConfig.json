@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 557485812765647616
+  },
+  "m_Name": "VacantWallConfig",
+  "fallEffectPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -3325813400593900100
+  },
+  "showEffectPrefab": {
+    "m_FileID": 2,
+    "m_PathID": 8844498908568191491
+  },
+  "effectOffset": {
+    "x": 0.0,
+    "y": 0.7,
+    "z": 0.0
+  },
+  "playerFallDuration": 1.0,
+  "playerImgPath": "img",
+  "playerBodyPath": "img/body"
+}

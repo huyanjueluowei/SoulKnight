@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 126
+  },
+  "m_Name": "",
+  "ProCamera2D": {
+    "m_FileID": 0,
+    "m_PathID": 1177
+  },
+  "Strength": {
+    "x": 2.0,
+    "y": 2.0
+  },
+  "Duration": 0.3,
+  "Vibrato": 10,
+  "Randomness": 0.1,
+  "Smoothness": 0.1,
+  "InitialAngle": 0.0,
+  "UseRandomInitialAngle": 0,
+  "Rotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 3.0
+  },
+  "IgnoreTimeScale": 0,
+  "ShakePresets": [
+    {
+      "Name": "s_shake",
+      "Strength": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "Duration": 0.3,
+      "Vibrato": 10,
+      "Randomness": 0.1,
+      "Smoothness": 0.1,
+      "InitialAngle": 0.0,
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "IgnoreTimeScale": 0
+    },
+    {
+      "Name": "m_shake",
+      "Strength": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 0.0
+      },
+      "Duration": 0.3,
+      "Vibrato": 10,
+      "Randomness": 0.1,
+      "Smoothness": 0.1,
+      "InitialAngle": 0.0,
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 3.0
+      },
+      "IgnoreTimeScale": 0
+    },
+    {
+      "Name": "l_shake",
+      "Strength": {
+        "x": 3.0,
+        "y": 3.0,
+        "z": 0.0
+      },
+      "Duration": 0.4,
+      "Vibrato": 10,
+      "Randomness": 0.1,
+      "Smoothness": 0.1,
+      "InitialAngle": 0.0,
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 5.0
+      },
+      "IgnoreTimeScale": 0
+    }
+  ]
+}

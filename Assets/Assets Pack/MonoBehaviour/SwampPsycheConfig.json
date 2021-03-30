@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4350237345846368592
+  },
+  "m_Name": "SwampPsycheConfig",
+  "countRange": {
+    "x": 1,
+    "y": 3
+  },
+  "enemyPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -4547763795012205250
+  },
+  "enemyRadius": 0.7,
+  "spawnEffect": {
+    "m_FileID": 2,
+    "m_PathID": -6795463131645046848
+  },
+  "radiusRange": {
+    "x": 0.5,
+    "y": 2.0
+  },
+  "factor": 2005,
+  "minDamage": 1,
+  "duration": 0.3,
+  "instantiateColdDown": 10.0
+}

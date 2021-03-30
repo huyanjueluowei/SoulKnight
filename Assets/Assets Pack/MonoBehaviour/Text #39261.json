@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1819551290978640101
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1604146857307713287
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_RaycastTarget": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "m_FontData": {
+    "m_Font": {
+      "m_FileID": 1,
+      "m_PathID": 10102
+    },
+    "m_FontSize": 24,
+    "m_FontStyle": 0,
+    "m_BestFit": 0,
+    "m_MinSize": 2,
+    "m_MaxSize": 65,
+    "m_Alignment": 0,
+    "m_AlignByGeometry": 0,
+    "m_RichText": 0,
+    "m_HorizontalOverflow": 0,
+    "m_VerticalOverflow": 0,
+    "m_LineSpacing": 1.0
+  },
+  "m_Text": "使用云存档之前，请确认已知晓以下事项：\r\n1.云存档使用凉屋游戏账号，与《大家饿餐厅》相通。请勿使用KTPlay账号进行登录。\n2.请使用真实有效的邮箱注册账号，否则将导致账号无法找回。\r\n3.存档上传或下载均需要手动操作，云存档功能仅用于数据备份和满足特定条件下的换机需求。\r\n4.请勿将账号分享给他人，由此带来的包括账号封禁在内的各种问题自行负责。\r\n"
+}

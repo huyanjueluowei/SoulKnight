@@ -1,0 +1,69 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3801826443602182343
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8167419653165781044
+  },
+  "m_Name": "",
+  "spriteModels": [
+    {
+      "rootSprite": {
+        "m_FileID": 0,
+        "m_PathID": 3965816598714540600
+      },
+      "spriteSize": {
+        "x": 1,
+        "y": 1
+      },
+      "weight": 5
+    },
+    {
+      "rootSprite": {
+        "m_FileID": 0,
+        "m_PathID": 7264935059517311263
+      },
+      "spriteSize": {
+        "x": 2,
+        "y": 1
+      },
+      "weight": 5
+    },
+    {
+      "rootSprite": {
+        "m_FileID": 0,
+        "m_PathID": 7152840689083336048
+      },
+      "spriteSize": {
+        "x": 2,
+        "y": 2
+      },
+      "weight": 1
+    },
+    {
+      "rootSprite": {
+        "m_FileID": 0,
+        "m_PathID": 2540157004899097369
+      },
+      "spriteSize": {
+        "x": 2,
+        "y": 2
+      },
+      "weight": 1
+    }
+  ],
+  "countDensityRange": {
+    "x": 0.01,
+    "y": 0.05
+  },
+  "rootPositionOffset": {
+    "x": -0.5,
+    "y": -1.0,
+    "z": 0.0
+  },
+  "rootSortingLayerName": "Floor",
+  "rootSortingOrder": 3
+}

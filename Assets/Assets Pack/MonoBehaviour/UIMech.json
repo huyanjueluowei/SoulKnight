@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5699123194292891100
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6110526251383411150
+  },
+  "m_Name": "",
+  "itemAmount": 0.8,
+  "backgroundToggleTime": 3.0,
+  "backgroundMinAlpha": 0.2,
+  "toggleAmount": 0.5,
+  "toggleInterval": 4.0,
+  "minToggleAnimeTime": 1.0,
+  "maxToggleAnimeTime": 3.0,
+  "toggleIntervalEach": 0.2,
+  "toggleMaxAlpha": 0.8,
+  "fadeInTime": 0.5,
+  "dangerousColorTime": 0.4,
+  "mechNameColorDict": [
+    {
+      "r": 0.5647059,
+      "g": 0.854901969,
+      "b": 1.0,
+      "a": 1.0
+    },
+    {
+      "r": 1.0,
+      "g": 0.470588237,
+      "b": 0.1254902,
+      "a": 1.0
+    },
+    {
+      "r": 0.470588237,
+      "g": 1.0,
+      "b": 0.8901961,
+      "a": 1.0
+    },
+    {
+      "r": 1.0,
+      "g": 0.7254902,
+      "b": 0.0,
+      "a": 1.0
+    },
+    {
+      "r": 0.0,
+      "g": 1.0,
+      "b": 0.956862748,
+      "a": 1.0
+    },
+    {
+      "r": 1.0,
+      "g": 0.309803933,
+      "b": 0.694117665,
+      "a": 1.0
+    }
+  ],
+  "fadeInTimeRange": 0.2
+}

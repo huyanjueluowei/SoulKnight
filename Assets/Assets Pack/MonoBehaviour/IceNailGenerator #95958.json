@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5374810038133428360
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5696152292036779389
+  },
+  "m_Name": "",
+  "mapManagerLevel": {
+    "m_FileID": 0,
+    "m_PathID": 7050524390430635020
+  },
+  "iceCaveConfig": {
+    "m_FileID": 0,
+    "m_PathID": 1421958817906218558
+  }
+}

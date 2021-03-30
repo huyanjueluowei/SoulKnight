@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2606966480785355655
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1624460635836793439
+  },
+  "m_Name": "",
+  "damageType": 8388608,
+  "camp": 0,
+  "speed": 4.0,
+  "rigid2d": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "destroy_time": 5.0,
+  "rotate_angle": 6,
+  "awake": 1,
+  "can_rebound": 0,
+  "autoDirection": 1,
+  "repel": 0,
+  "critical": 0,
+  "bullet": {
+    "m_FileID": 0,
+    "m_PathID": -582718948666604326
+  },
+  "angle": 90,
+  "child_rate": 0.2,
+  "child_bullet_damage": 3,
+  "child_bullet_speed": 4.0,
+  "add_parent_speed": 1,
+  "child_destory_time": 4.0
+}

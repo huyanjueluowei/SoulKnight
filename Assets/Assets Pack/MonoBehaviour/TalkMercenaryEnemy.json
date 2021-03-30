@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6327225609353513566
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6597269025649495268
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "mercenary7_question",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "talk_request": "mercenary7_question",
+  "talk_success": "mercenary7_talk1",
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": 5176889906864298679
+  }
+}

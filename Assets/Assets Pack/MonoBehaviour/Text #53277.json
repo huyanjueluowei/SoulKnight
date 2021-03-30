@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7367005634724149785
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1149782704495732950
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_RaycastTarget": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "m_FontData": {
+    "m_Font": {
+      "m_FileID": 1,
+      "m_PathID": 10102
+    },
+    "m_FontSize": 28,
+    "m_FontStyle": 0,
+    "m_BestFit": 0,
+    "m_MinSize": 2,
+    "m_MaxSize": 43,
+    "m_Alignment": 3,
+    "m_AlignByGeometry": 0,
+    "m_RichText": 1,
+    "m_HorizontalOverflow": 0,
+    "m_VerticalOverflow": 0,
+    "m_LineSpacing": 1.1
+  },
+  "m_Text": "请确认下方是否为你本人的邮箱。若有误，请点击“取消注册”进行修改。\r\n注册时因填写错误造成账号或存档丢失等问题，由玩家自行承担责任。"
+}

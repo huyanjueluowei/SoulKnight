@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8710557938980500985
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1775213011523714532
+  },
+  "m_Name": "",
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "awake": 0,
+  "sprite_info_list": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1613832201353174328
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2768931391023849632
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1403161872239974601
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -849350331871749865
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7627387187806501214
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4201432524218373417
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5259672895906635992
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1881786394556572972
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4318310870044072411
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4154341826084361221
+    }
+  ],
+  "sprite_info_en": {
+    "m_FileID": 0,
+    "m_PathID": 4285906127152830320
+  },
+  "title_cn": {
+    "m_FileID": 0,
+    "m_PathID": -2932748370513024060
+  },
+  "title_en": {
+    "m_FileID": 0,
+    "m_PathID": -2932748370513024060
+  },
+  "e_index": 1,
+  "unlock_char_index": 2,
+  "unlock_skin_index": 3,
+  "tip": "分享到朋友圈有概率获得皮肤"
+}

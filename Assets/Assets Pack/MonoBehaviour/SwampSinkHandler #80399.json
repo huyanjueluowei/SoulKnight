@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 141816198924442433
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3675783491765769197
+  },
+  "m_Name": "",
+  "swampFloorColliderPath": "Grid/floor_tile",
+  "targetTags": [
+    "Body_P",
+    "Pet"
+  ],
+  "sinkParentPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 843674465877715086
+  },
+  "speedDownPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -6955017783537770550
+  },
+  "speedDownPoolCount": 8,
+  "sinkSpeed": 0.25,
+  "maxSinkAmount": 0.85,
+  "speedInfluenceMax": 0.35,
+  "maskPositionOffset": {
+    "x": 0.0,
+    "y": -9.8,
+    "z": 0.0
+  },
+  "fadeMaskPositionOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "particlePositionOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

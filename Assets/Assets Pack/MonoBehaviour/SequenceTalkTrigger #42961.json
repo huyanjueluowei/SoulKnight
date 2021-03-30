@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8108849192162438006
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 565751648371108974
+  },
+  "m_Name": "",
+  "npc_name": "Character14_name_skin0",
+  "height": 1.6,
+  "talk_list": [
+    {
+      "talk_content": "new_c14_talk1",
+      "talk_time": 1.0
+    },
+    {
+      "talk_content": "new_c14_talk2",
+      "talk_time": 1.0
+    }
+  ],
+  "cur_talk_idx": -1,
+  "onShowTalk": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

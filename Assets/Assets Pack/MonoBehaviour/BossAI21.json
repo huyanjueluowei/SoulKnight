@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1735839366385616255
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1950746142843046901
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 2,
+    "m_PathID": -6201922266148862781
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 30,
+  "enemyTag": 20,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "boss21",
+  "ai_level": 1,
+  "consume": 50,
+  "e_size": 2,
+  "reward_rate": 100,
+  "reward_value": [
+    5,
+    3,
+    0,
+    10
+  ],
+  "shoot_cd": 2.0,
+  "friction": 0.0,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 0.3,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bullets": [],
+  "boss_clip": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1519470586920110138
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 1826340476550598763
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 8270253285184107491
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9064672422100881703
+    }
+  ],
+  "angry_clip": {
+    "m_FileID": 0,
+    "m_PathID": 4843618172516748031
+  },
+  "boss_weapon": {
+    "m_FileID": 2,
+    "m_PathID": -1563961572469471650
+  },
+  "levelModeDropWeapon": 1,
+  "doubleboss_offset": {
+    "x": 2.0,
+    "y": 0.0
+  },
+  "bullet01": {
+    "m_FileID": 0,
+    "m_PathID": -1433408346547920179
+  },
+  "bullet02": {
+    "m_FileID": 0,
+    "m_PathID": -3084975164746088877
+  },
+  "bullet03": {
+    "m_FileID": 0,
+    "m_PathID": -8589016414738647172
+  },
+  "laser_bullet": {
+    "m_FileID": 3,
+    "m_PathID": -8581832644604583940
+  },
+  "laser_bullet2": {
+    "m_FileID": 3,
+    "m_PathID": -6214431351729628238
+  },
+  "explode_obj": {
+    "m_FileID": 2,
+    "m_PathID": -1617597536786052396
+  }
+}

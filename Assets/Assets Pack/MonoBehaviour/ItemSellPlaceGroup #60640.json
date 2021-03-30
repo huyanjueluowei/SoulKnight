@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6561186730359420892
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2331104843492564708
+  },
+  "m_Name": "",
+  "specialRanData": {
+    "objectType": 0,
+    "level": 0,
+    "maxLevel": 0,
+    "distributeProbability": 0.0,
+    "objectDistribution": []
+  }
+}

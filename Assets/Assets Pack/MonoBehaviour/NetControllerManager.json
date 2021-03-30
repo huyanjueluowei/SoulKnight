@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 45
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 2
+  },
+  "m_Name": "",
+  "controllers": [],
+  "localControllerIndex": 0,
+  "isServer": 0,
+  "readyClient": []
+}

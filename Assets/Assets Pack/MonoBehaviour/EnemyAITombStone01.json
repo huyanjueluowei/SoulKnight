@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6649197581450334583
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4968619205558635510
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 2,
+    "m_PathID": 8262888682005009416
+  },
+  "awake": 0,
+  "temp_enemy": 1,
+  "start_awake": 0,
+  "levelScene": 31,
+  "enemyTag": 8,
+  "has_change_shape": 0,
+  "destory_on_dead": 1,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "",
+  "ai_level": 3,
+  "consume": 1,
+  "e_size": 2,
+  "reward_rate": 100,
+  "reward_value": [
+    0,
+    0,
+    0,
+    3
+  ],
+  "shoot_cd": 3.0,
+  "friction": 0.9,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 1.0,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "has_lifetime": 1,
+  "lifetime": 10.0,
+  "spawn_time": 3.0,
+  "spawn_max": 3,
+  "spawn_enemy_list": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4532234153639355668
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8945896385760482080
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -237507076265166319
+    }
+  ]
+}

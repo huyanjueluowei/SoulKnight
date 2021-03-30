@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1526049042161992181
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8894060843532752804
+  },
+  "m_Name": "",
+  "Content": {
+    "m_FileID": 0,
+    "m_PathID": 3042116890554136841
+  },
+  "GuideText": {
+    "m_FileID": 0,
+    "m_PathID": -2741062941059637252
+  },
+  "InputPhoneAccount": {
+    "m_FileID": 0,
+    "m_PathID": -5227797651685265840
+  },
+  "InputPhoneSMSCode": {
+    "m_FileID": 0,
+    "m_PathID": -6392044838537265625
+  },
+  "CloseBtn": {
+    "m_FileID": 0,
+    "m_PathID": 8747081782671473414
+  },
+  "SendSMSCodeBtn": {
+    "m_FileID": 0,
+    "m_PathID": -708222992993146416
+  },
+  "VerifySMSCode": {
+    "m_FileID": 0,
+    "m_PathID": 610388624407702903
+  },
+  "ShowSendSmsSprite": {
+    "m_FileID": 0,
+    "m_PathID": 2147562057701033660
+  },
+  "HideSendSmsSprite": {
+    "m_FileID": 0,
+    "m_PathID": -2876719620434306127
+  },
+  "LogoGa": {
+    "m_FileID": 0,
+    "m_PathID": -4078332438696205718
+  }
+}

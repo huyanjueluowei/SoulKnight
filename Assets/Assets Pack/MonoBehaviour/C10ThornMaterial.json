@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -683452302866563750
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -761496078098109222
+  },
+  "m_Name": "",
+  "nomalMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 4068051902315010577
+  },
+  "master2Material": {
+    "m_FileID": 0,
+    "m_PathID": -7814825062221943983
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2273108409831232989
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8585863688375451780
+  },
+  "m_Name": "",
+  "triggerInterval": 0.2,
+  "lifeTime": 2.0,
+  "triggerDistance": 15.0,
+  "triggerCount": 5,
+  "extraCountBuff": 3,
+  "extraCount": 3
+}

@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4466866786689782860
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7083559006767002192
+  },
+  "m_Name": "",
+  "animBoolNameIsLight": "isLight",
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": -7734573346492493428
+  },
+  "localPosition": {
+    "x": 0.0,
+    "y": 1.36,
+    "z": 0.0
+  },
+  "hideBulletWhileSurround": 1,
+  "releasePositions": [
+    {
+      "x": -1.17,
+      "y": -0.15,
+      "z": 0.0
+    },
+    {
+      "x": 1.17,
+      "y": -0.15,
+      "z": 0.0
+    }
+  ]
+}

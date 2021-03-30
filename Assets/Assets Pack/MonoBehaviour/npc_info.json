@@ -1,0 +1,855 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4272678814053267321
+  },
+  "m_Name": "npc_info",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "npcs": [
+    {
+      "icon": {
+        "m_FileID": 4,
+        "m_PathID": -4963294977002847293
+      },
+      "npcName": "皇家骑士",
+      "name": "npc_01",
+      "i2Key": "npc/npc_01",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 4,
+        "m_PathID": 8316652144565192716
+      },
+      "npcName": "头套英雄",
+      "name": "npc_02",
+      "i2Key": "npc/npc_02",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 4,
+        "m_PathID": -7514724605880801630
+      },
+      "npcName": "见习佣兵",
+      "name": "npc_03",
+      "i2Key": "npc/npc_03",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 4,
+        "m_PathID": 4115497867360369371
+      },
+      "npcName": "传奇学徒",
+      "name": "npc_04",
+      "i2Key": "npc/npc_04",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 4,
+        "m_PathID": -6038955417245966840
+      },
+      "npcName": "巴巴六",
+      "name": "npc_05",
+      "i2Key": "npc/npc_05",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 4,
+        "m_PathID": 9188883992762531796
+      },
+      "npcName": "小黑",
+      "name": "npc_06",
+      "i2Key": "npc/npc_06",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -1064539225878465338
+      },
+      "npcName": "疯狂博士",
+      "name": "npc_07",
+      "i2Key": "npc/npc_07",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 6717735915487445291
+      },
+      "npcName": "糖吉坷德",
+      "name": "npc_08",
+      "i2Key": "npc/npc_08",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 20,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -4183685643904777924
+      },
+      "npcName": "库烈",
+      "name": "npc_09",
+      "i2Key": "npc/npc_09",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -7906365928894816315
+      },
+      "npcName": "投币式护卫机器人",
+      "name": "npc_10",
+      "i2Key": "npc/npc_10",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 383794498111560512
+      },
+      "npcName": "希望骑士",
+      "name": "npc_11",
+      "i2Key": "npc/npc_11",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 20,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 6217915225547047272
+      },
+      "npcName": "法老王",
+      "name": "npc_12",
+      "i2Key": "npc/npc_12",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -1226162864150255492
+      },
+      "price": 1,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -3522836840717691565
+      },
+      "npcName": "吉姆.思迈雷",
+      "name": "npc_13",
+      "i2Key": "npc/npc_13",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 4,
+        "m_PathID": -7140275308393205471
+      },
+      "npcName": "侍者",
+      "name": "bar",
+      "i2Key": "object/waiter",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -7373026339967164666
+      },
+      "npcName": "牢笼",
+      "name": "cage_obj",
+      "i2Key": "object/cage",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -8141386699053471783
+      },
+      "npcName": "扭蛋",
+      "name": "item_egg",
+      "i2Key": "object/gashapon",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": 5540377519320292076
+      },
+      "price": 200,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -1679197893224610218
+      },
+      "npcName": "重铸熔炉",
+      "name": "furance",
+      "i2Key": "object/furnace",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 5,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -182457540496288133
+      },
+      "npcName": "起源熔炉",
+      "name": "furance_inverse",
+      "i2Key": "object/furnace_inverse",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 6,
+        "m_PathID": -2562708767970064165
+      },
+      "npcName": "魔法石",
+      "name": "magic_stone",
+      "i2Key": "Object_magic_stone",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 4,
+        "m_PathID": 347876269660152235
+      },
+      "npcName": "熊孩子",
+      "name": "naughtyboy",
+      "i2Key": "npc/naughty_boy_name",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 5,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 4,
+        "m_PathID": 2336298399947770897
+      },
+      "npcName": "奸商",
+      "name": "npc_banker",
+      "i2Key": "I_gambling",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 10,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -39112816040631684
+      },
+      "npcName": "坐骑商人",
+      "name": "npc_mount",
+      "i2Key": "object/mount_seller_creature",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -6422095513008544917
+      },
+      "npcName": "导师",
+      "name": "npc_skill_update",
+      "i2Key": "defence/npc_tutor",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 30,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -4350467879023131976
+      },
+      "npcName": "特别神秘的商贩",
+      "name": "npc_seller_mystery",
+      "i2Key": "I_businessman_mystery",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -1226162864150255492
+      },
+      "price": 1,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 2292473757130411384
+      },
+      "npcName": "工匠",
+      "name": "npc_smith",
+      "i2Key": "npc/smith",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -7105492655085820603
+      },
+      "npcName": "教官",
+      "name": "npc_trainer",
+      "i2Key": "object/trainer",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 10,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 6,
+        "m_PathID": 4496675814024333730
+      },
+      "npcName": "自动贩卖机 药水",
+      "name": "vending_machine_i",
+      "i2Key": "Object_vending_machine",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 10,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 6,
+        "m_PathID": 6488767115842574314
+      },
+      "npcName": "自动贩卖机 武器",
+      "name": "vending_machine_w",
+      "i2Key": "Object_vending_machine",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 12,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -9079621830902001340
+      },
+      "npcName": "饮水机",
+      "name": "water_dispenser",
+      "i2Key": "object/water_machine",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 6,
+        "m_PathID": -2873375935558836738
+      },
+      "npcName": "许愿池",
+      "name": "wishing_well",
+      "i2Key": "object/wishing_well",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 1,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 1757238233549443390
+      },
+      "npcName": "宝箱",
+      "name": "chest00",
+      "i2Key": "Object_chest",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -1030680351873490442
+      },
+      "npcName": "宝箱",
+      "name": "chest01",
+      "i2Key": "Object_chest",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -5571156936921208898
+      },
+      "npcName": "宝箱",
+      "name": "chest02",
+      "i2Key": "Object_chest",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -5625101082233283227
+      },
+      "npcName": "宝箱",
+      "name": "chest03",
+      "i2Key": "Object_chest",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 6,
+        "m_PathID": -2963679967621817353
+      },
+      "npcName": "宝箱",
+      "name": "chest_big",
+      "i2Key": "Object_chest",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -148794212174025488
+      },
+      "npcName": "宝箱",
+      "name": "chest_gold_single_big",
+      "i2Key": "Object_chest",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -1407250767510874312
+      },
+      "npcName": "宝箱",
+      "name": "chest_single_big",
+      "i2Key": "Object_chest",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 4,
+        "m_PathID": 4112542543599786735
+      },
+      "npcName": "神秘商贩",
+      "name": "npc_seller",
+      "i2Key": "I_businessman",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 3737455882900068259
+      },
+      "npcName": "传送门",
+      "name": "transfer_gate",
+      "i2Key": "Object_transfer_gate",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 0,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 6,
+        "m_PathID": -572590384671212048
+      },
+      "npcName": "巫师雕像",
+      "name": "statue_01",
+      "i2Key": "statue_wizard_name",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 6,
+        "m_PathID": -8782533317212036452
+      },
+      "npcName": "骑士雕像",
+      "name": "statue_02",
+      "i2Key": "statue_kinght_name",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 6,
+        "m_PathID": 3869177884177378522
+      },
+      "npcName": "牧师雕像",
+      "name": "statue_03",
+      "i2Key": "statue_minister_name",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 6,
+        "m_PathID": 1771879376816640771
+      },
+      "npcName": "刺客雕像",
+      "name": "statue_04",
+      "i2Key": "statue_assassin_name",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 6,
+        "m_PathID": -8561300749983332951
+      },
+      "npcName": "精灵雕像",
+      "name": "statue_05",
+      "i2Key": "statue_spirit_name",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 6,
+        "m_PathID": 196954583783311255
+      },
+      "npcName": "盗贼雕像",
+      "name": "statue_06",
+      "i2Key": "statue_thief_name",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 6,
+        "m_PathID": -1542388288958620144
+      },
+      "npcName": "圣骑士雕像",
+      "name": "statue_07",
+      "i2Key": "statue_paladin_name",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 6,
+        "m_PathID": -5638276061512923335
+      },
+      "npcName": "工程师雕像",
+      "name": "statue_08",
+      "i2Key": "statue_engineer_name",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 6,
+        "m_PathID": -1245225836099754811
+      },
+      "npcName": "狂战士雕像",
+      "name": "statue_09",
+      "i2Key": "statue_viking_name",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 6,
+        "m_PathID": 3097183856420040489
+      },
+      "npcName": "狼人雕像",
+      "name": "statue_10",
+      "i2Key": "statue_wolf_name",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 15,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 8245780262903094329
+      },
+      "npcName": "机械大师",
+      "name": "npc_battery_master",
+      "i2Key": "defence/npc_battery_master",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 10,
+      "showInCell": 1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -3709094116830158162
+      },
+      "npcName": "召唤师",
+      "name": "npc_summoner",
+      "i2Key": "defence/npc_summoner",
+      "level": 0,
+      "tokenIcon": {
+        "m_FileID": 0,
+        "m_PathID": -5632134089111274327
+      },
+      "price": 3,
+      "showInCell": 1
+    }
+  ],
+  "coinIcon": {
+    "m_FileID": 0,
+    "m_PathID": -5632134089111274327
+  },
+  "gemIcon": {
+    "m_FileID": 0,
+    "m_PathID": 5540377519320292076
+  },
+  "hpIcon": {
+    "m_FileID": 0,
+    "m_PathID": -1226162864150255492
+  }
+}

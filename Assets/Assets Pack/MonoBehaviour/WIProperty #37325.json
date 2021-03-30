@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7750217575802356625
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7395664834512197743
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "wi3_grindstone",
+  "item_value": 20,
+  "repeat": 0,
+  "statisticKey": "",
+  "supportWeaponList": [
+    {
+      "id": 0,
+      "weaponType": 13,
+      "supportWeaponScripts": [
+        "GunThrow"
+      ]
+    },
+    {
+      "id": 0,
+      "weaponType": 6,
+      "supportWeaponScripts": [
+        "GunMagicBow"
+      ]
+    }
+  ],
+  "byWeapon": 0,
+  "processName": "",
+  "item_level": 1,
+  "show_level": 0,
+  "weapon_item_sprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_id": 0,
+  "propertyTypes": [
+    0
+  ],
+  "values": [
+    1.0
+  ]
+}

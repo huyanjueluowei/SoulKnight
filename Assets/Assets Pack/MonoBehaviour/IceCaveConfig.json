@@ -1,0 +1,93 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7314114693710386087
+  },
+  "m_Name": "IceCaveConfig",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "entranceConfig": {
+    "probability": 0.5,
+    "entranceRoomPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -3296588297183038140
+    },
+    "cagePrefab": {
+      "m_FileID": 3,
+      "m_PathID": -4000521194820732564
+    },
+    "stoneObstaclePrefab": {
+      "m_FileID": 3,
+      "m_PathID": -8403475379419847974
+    },
+    "cageShowEffectScale": 2.5,
+    "bossRoomPatternIndex": 5,
+    "bossRoomTypeIndex": 2,
+    "transferGatePosition": {
+      "x": -4.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cagePosition": {
+      "x": 4.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "entranceRoomNpcPosition": {
+      "x": -5.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "iceNailConfig": {
+    "roomSize": 41,
+    "aisleWidth": 5,
+    "roomPositionOffset": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": 0.0
+    },
+    "nailBullet": {
+      "bulletProto": {
+        "m_FileID": 2,
+        "m_PathID": -8014143316531512531
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "smallExplodeNailCountRate": 0.01,
+    "bigExplodeNailCountRate": 0.02,
+    "bigExplodeTriggerRate": 0.5,
+    "smallExplodeTriggerRate": 0.3,
+    "explodeScaleRange": {
+      "x": 1.0,
+      "y": 1.5
+    },
+    "explodeDurationRange": {
+      "x": 0.01,
+      "y": 0.1
+    },
+    "nailCamp": 0,
+    "explodeColdDown": 5.0
+  }
+}

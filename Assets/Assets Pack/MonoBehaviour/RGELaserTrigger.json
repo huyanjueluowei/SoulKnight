@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5995736745791601866
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4966410670338953914
+  },
+  "m_Name": "",
+  "damage": 1,
+  "repel": 3.0,
+  "camp": 0,
+  "rate": 0.2,
+  "hit_object": {
+    "m_FileID": 1,
+    "m_PathID": -7198334486031958363
+  },
+  "source_objcet": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

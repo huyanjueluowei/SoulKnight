@@ -1,0 +1,117 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9065428902219446404
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4079086679098351897
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 2,
+    "m_PathID": -3535308189402168697
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 23,
+  "enemyTag": 4,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 3189303780278500646
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "e_iceKnight",
+  "ai_level": 3,
+  "consume": 2,
+  "e_size": 2,
+  "reward_rate": 40,
+  "reward_value": [
+    0,
+    0,
+    3,
+    2
+  ],
+  "shoot_cd": 1.5,
+  "friction": 0.6,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 1.0,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "attackCallBacks": [
+    {
+      "m_PersistentCalls": {
+        "m_Calls": [
+          {
+            "m_Target": {
+              "m_FileID": 0,
+              "m_PathID": 137884901997251042
+            },
+            "m_MethodName": "ReleaseBullet",
+            "m_Mode": 0,
+            "m_Arguments": {
+              "m_ObjectArgument": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+              "m_IntArgument": 0,
+              "m_FloatArgument": 0.0,
+              "m_StringArgument": "",
+              "m_BoolArgument": 0
+            },
+            "m_CallState": 2
+          }
+        ]
+      }
+    },
+    {
+      "m_PersistentCalls": {
+        "m_Calls": [
+          {
+            "m_Target": {
+              "m_FileID": 0,
+              "m_PathID": -3118601162557902060
+            },
+            "m_MethodName": "OnAttack",
+            "m_Mode": 0,
+            "m_Arguments": {
+              "m_ObjectArgument": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+              "m_IntArgument": 0,
+              "m_FloatArgument": 0.0,
+              "m_StringArgument": "",
+              "m_BoolArgument": 0
+            },
+            "m_CallState": 2
+          }
+        ]
+      }
+    }
+  ],
+  "atk1Only": 0
+}

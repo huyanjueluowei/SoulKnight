@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4941836595196886196
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -688156735445690192
+  },
+  "m_Name": "",
+  "sprite_img": {
+    "m_FileID": 0,
+    "m_PathID": 3404568927325072448
+  },
+  "ui_window": {
+    "m_FileID": 0,
+    "m_PathID": -879367850645492483
+  },
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": -7319475116925131574
+  },
+  "level": 0,
+  "ring_pos": []
+}

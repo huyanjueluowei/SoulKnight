@@ -1,0 +1,70 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 98518597411981169
+  },
+  "m_Name": "race_floor",
+  "m_DefaultSprite": {
+    "m_FileID": 0,
+    "m_PathID": -5791311923231522861
+  },
+  "m_DefaultColliderType": 0,
+  "RuleNames": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "firstExists": 1,
+  "These": 0,
+  "DefaultNumOfThese": 0,
+  "TheseNumberOfTiles": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "NotZero": 5,
+  "firstExists2": 1,
+  "NotThese": 0,
+  "DefaultNumOfNotThese": 0,
+  "NotTheseNumberOfTiles": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "t1": [],
+  "t2": [],
+  "t3": [],
+  "t4": [],
+  "t5": [],
+  "t6": [],
+  "t7": [],
+  "n1": [],
+  "n2": [],
+  "n3": [],
+  "n4": [],
+  "n5": [],
+  "n6": [],
+  "m_TilingRules": []
+}

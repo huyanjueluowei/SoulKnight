@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7910593210992682799
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4983717282948558958
+  },
+  "m_Name": "",
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": 5176889906864298679
+  },
+  "item_value": 10,
+  "object_list": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 1353544225015482181
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 2160395733777964393
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 4609030187183147387
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": -9037238039887709215
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": -3252686300617064890
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": -4888574329250660395
+    }
+  ]
+}

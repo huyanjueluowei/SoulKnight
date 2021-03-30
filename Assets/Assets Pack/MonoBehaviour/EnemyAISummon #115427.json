@@ -1,0 +1,87 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6531274276598686509
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3198733810405140522
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 2,
+    "m_PathID": 8184099885297121370
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 31,
+  "enemyTag": 12,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 1,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "e_lavaHive",
+  "ai_level": 3,
+  "consume": 10,
+  "e_size": 2,
+  "reward_rate": 25,
+  "reward_value": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "shoot_cd": 6.0,
+  "friction": 0.9,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 6.0,
+  "is_lock": 0,
+  "buff_immune": 1.0,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "summonClip": {
+    "m_FileID": 2,
+    "m_PathID": 5778059149852892030
+  },
+  "summonPrefabs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4829314780581397208
+    }
+  ],
+  "dead_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "maxSummonCount": 2,
+  "enemyDelayTime": 0.3,
+  "summonEffect": {
+    "m_FileID": 0,
+    "m_PathID": -2969746576577578664
+  },
+  "summonPosition": {
+    "x": 0.0,
+    "y": 2.05,
+    "z": 0.0
+  }
+}

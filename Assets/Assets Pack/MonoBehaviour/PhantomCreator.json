@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6154092514495923430
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8438154374697837299
+  },
+  "m_Name": "",
+  "interval": 0.1,
+  "fadeSpeed": 1.6,
+  "endAlpha": 0.15,
+  "sprite_color": {
+    "r": 0.937254965,
+    "g": 0.6862745,
+    "b": 0.2509804,
+    "a": 1.0
+  }
+}

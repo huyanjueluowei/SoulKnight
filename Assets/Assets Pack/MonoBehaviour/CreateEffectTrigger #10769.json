@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5840225107625292969
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 258633835036404601
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "damageFactor": 1.0,
+  "isTemp": 1,
+  "creation": {
+    "m_FileID": 0,
+    "m_PathID": 1178131768849595586
+  },
+  "probability": 100,
+  "destroyAfterCreate": 0,
+  "audioClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2945329511304610022
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -978170615391963525
+  },
+  "m_Name": "",
+  "targetMushrooms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1116490805630587538
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -274201409844247489
+    }
+  ],
+  "generateMushroomRate": 25,
+  "mapManagerLevel": {
+    "m_FileID": 0,
+    "m_PathID": -5701666680629068874
+  }
+}

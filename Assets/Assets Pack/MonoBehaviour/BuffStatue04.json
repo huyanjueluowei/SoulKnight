@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5930401122196976361
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2615521889231597086
+  },
+  "m_Name": "",
+  "cd": 60.0,
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": -2655448754900361401
+  },
+  "hp": 1,
+  "energy": 0,
+  "armor": 0,
+  "bullet": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

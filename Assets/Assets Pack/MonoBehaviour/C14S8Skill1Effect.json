@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 792601295108913067
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2558289431638931554
+  },
+  "m_Name": "",
+  "particle": {
+    "m_FileID": 0,
+    "m_PathID": 4710134886285258624
+  },
+  "startSpeed": 3.0,
+  "initSize": 1.91
+}

@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2029871287117411496
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1532351667297286933
+  },
+  "m_Name": "",
+  "theRoomInfo": {
+    "gameId": 0,
+    "isBadass": 0,
+    "gameMode": 0,
+    "factors": [],
+    "isNewGame": 0,
+    "roomName": "",
+    "gameVer": "",
+    "netVer": "",
+    "initSampleSeed": 0,
+    "initMapSeed": 0,
+    "lastLevel": 0,
+    "curPlayerCount": 0,
+    "maxPlayerCount": 4,
+    "openGame": 0
+  },
+  "gameId": 0
+}

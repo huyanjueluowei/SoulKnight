@@ -1,0 +1,138 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9097202007509175411
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7058773032811911327
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 2,
+    "m_PathID": -6201922266148862781
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 30,
+  "enemyTag": 532,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_lock_target": 0,
+  "enemy_id": "boss06",
+  "ai_level": 1,
+  "consume": 50,
+  "e_size": 2,
+  "reward_rate": 100,
+  "reward_value": [
+    5,
+    3,
+    0,
+    10
+  ],
+  "shoot_cd": 2.0,
+  "friction": 0.0,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 0.3,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bullets": [],
+  "boss_clip": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -8489294477021106069
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -4333631859766836164
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 4316199098600088263
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 3277162434867069318
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 1053594411552611365
+    }
+  ],
+  "angry_clip": {
+    "m_FileID": 2,
+    "m_PathID": 1053594411552611365
+  },
+  "boss_weapon": {
+    "m_FileID": 2,
+    "m_PathID": -918243578924496975
+  },
+  "levelModeDropWeapon": 1,
+  "doubleboss_offset": {
+    "x": 2.0,
+    "y": 0.0
+  },
+  "ball_obj": {
+    "m_FileID": 0,
+    "m_PathID": -6171708603389094819
+  },
+  "bullet01": {
+    "m_FileID": 3,
+    "m_PathID": 5690858042361544150
+  },
+  "bullet02": {
+    "m_FileID": 3,
+    "m_PathID": 5616273063364228740
+  },
+  "bullet03": {
+    "m_FileID": 3,
+    "m_PathID": -6084962866040371717
+  },
+  "bullet04": {
+    "m_FileID": 3,
+    "m_PathID": -740664540428081167
+  },
+  "angry_body": {
+    "m_FileID": 0,
+    "m_PathID": 2889937868037626674
+  },
+  "angry_circle": {
+    "m_FileID": 0,
+    "m_PathID": -4626030772412228929
+  },
+  "angry_child1": {
+    "m_FileID": 0,
+    "m_PathID": 2380036223768706709
+  },
+  "angry_child2": {
+    "m_FileID": 0,
+    "m_PathID": 321313729201810185
+  },
+  "body_dead": {
+    "m_FileID": 0,
+    "m_PathID": -6369749876927212257
+  }
+}

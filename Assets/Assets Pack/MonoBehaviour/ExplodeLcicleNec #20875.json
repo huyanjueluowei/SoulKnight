@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5282013055142128579
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7847701144796366386
+  },
+  "m_Name": "",
+  "damageType": 0,
+  "camp": 0,
+  "broken_effect": {
+    "m_FileID": 0,
+    "m_PathID": -1568561749432235912
+  },
+  "targetbuff": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "hit_player": 0,
+  "hit_enemy": 1
+}

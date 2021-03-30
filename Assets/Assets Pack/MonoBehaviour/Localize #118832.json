@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 329
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 109
+  },
+  "m_Name": "",
+  "mTerm": "gamemode/bossrush",
+  "mTermSecondary": "",
+  "PrimaryTermModifier": 0,
+  "SecondaryTermModifier": 0,
+  "TermPrefix": "",
+  "TermSuffix": "",
+  "LocalizeOnAwake": 1,
+  "IgnoreRTL": 0,
+  "MaxCharactersInRTL": 0,
+  "IgnoreNumbersInRTL": 1,
+  "CorrectAlignmentForRTL": 1,
+  "AddSpacesToJoinedLanguages": 0,
+  "AllowLocalizedParameters": 1,
+  "TranslatedObjects": [],
+  "LocalizeEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "AlwaysForceLocalize": 0,
+  "LocalizeCallBack": {
+    "Target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "MethodName": ""
+  },
+  "mGUI_ShowReferences": 0,
+  "mGUI_ShowTems": 1,
+  "mGUI_ShowCallback": 0,
+  "mLocalizeTarget": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mLocalizeTargetName": "I2.Loc.LocalizeTarget_UnityUI_Text"
+}

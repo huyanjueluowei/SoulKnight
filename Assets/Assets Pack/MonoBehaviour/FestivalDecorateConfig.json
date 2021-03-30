@@ -1,0 +1,180 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7421313077887254653
+  },
+  "m_Name": "FestivalDecorateConfig",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "configs": [
+    {
+      "fromDate": {
+        "year": 2020,
+        "month": 11,
+        "date": 19,
+        "hour": 0,
+        "minute": 0
+      },
+      "toDate": {
+        "year": 2021,
+        "month": 1,
+        "date": 7,
+        "hour": 0,
+        "minute": 0
+      },
+      "key": "christmas_1"
+    },
+    {
+      "fromDate": {
+        "year": 2020,
+        "month": 11,
+        "date": 26,
+        "hour": 0,
+        "minute": 0
+      },
+      "toDate": {
+        "year": 2021,
+        "month": 1,
+        "date": 7,
+        "hour": 0,
+        "minute": 0
+      },
+      "key": "christmas_2"
+    },
+    {
+      "fromDate": {
+        "year": 2020,
+        "month": 12,
+        "date": 3,
+        "hour": 0,
+        "minute": 0
+      },
+      "toDate": {
+        "year": 2021,
+        "month": 1,
+        "date": 7,
+        "hour": 0,
+        "minute": 0
+      },
+      "key": "christmas_3"
+    },
+    {
+      "fromDate": {
+        "year": 2020,
+        "month": 12,
+        "date": 10,
+        "hour": 0,
+        "minute": 0
+      },
+      "toDate": {
+        "year": 2021,
+        "month": 1,
+        "date": 7,
+        "hour": 0,
+        "minute": 0
+      },
+      "key": "christmas_4"
+    },
+    {
+      "fromDate": {
+        "year": 2020,
+        "month": 11,
+        "date": 19,
+        "hour": 0,
+        "minute": 0
+      },
+      "toDate": {
+        "year": 2020,
+        "month": 12,
+        "date": 10,
+        "hour": 0,
+        "minute": 0
+      },
+      "key": "christmas_1_to_3"
+    },
+    {
+      "fromDate": {
+        "year": 2021,
+        "month": 1,
+        "date": 15,
+        "hour": 0,
+        "minute": 0
+      },
+      "toDate": {
+        "year": 2021,
+        "month": 2,
+        "date": 27,
+        "hour": 0,
+        "minute": 0
+      },
+      "key": "spring_festival"
+    },
+    {
+      "fromDate": {
+        "year": 2021,
+        "month": 1,
+        "date": 15,
+        "hour": 0,
+        "minute": 0
+      },
+      "toDate": {
+        "year": 2021,
+        "month": 2,
+        "date": 4,
+        "hour": 0,
+        "minute": 0
+      },
+      "key": "spring_festival_2"
+    },
+    {
+      "fromDate": {
+        "year": 2021,
+        "month": 2,
+        "date": 4,
+        "hour": 0,
+        "minute": 0
+      },
+      "toDate": {
+        "year": 2021,
+        "month": 2,
+        "date": 27,
+        "hour": 0,
+        "minute": 0
+      },
+      "key": "spring_festival_3"
+    },
+    {
+      "fromDate": {
+        "year": 2021,
+        "month": 4,
+        "date": 4,
+        "hour": 0,
+        "minute": 0
+      },
+      "toDate": {
+        "year": 2021,
+        "month": 4,
+        "date": 7,
+        "hour": 0,
+        "minute": 0
+      },
+      "key": "easter_1"
+    }
+  ]
+}

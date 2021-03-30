@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3733462586902429665
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4594459741798001533
+  },
+  "m_Name": "",
+  "UserAgreeBtn": {
+    "m_FileID": 0,
+    "m_PathID": -7840998373405819726
+  },
+  "PrivacyNoticeBtn": {
+    "m_FileID": 0,
+    "m_PathID": 1800739651055719013
+  },
+  "ChildPrivacyBtn": {
+    "m_FileID": 0,
+    "m_PathID": -3135157920296219209
+  },
+  "AgreeBtn": {
+    "m_FileID": 0,
+    "m_PathID": 5872314051429326728
+  },
+  "DisAgreeBtn": {
+    "m_FileID": 0,
+    "m_PathID": 8536444040108594975
+  },
+  "UserAgreeSR": {
+    "m_FileID": 0,
+    "m_PathID": 1138218858671598584
+  },
+  "PrivacyNoticeSR": {
+    "m_FileID": 0,
+    "m_PathID": -749878264077247234
+  },
+  "ChildPrivacySR": {
+    "m_FileID": 0,
+    "m_PathID": -428364481109931405
+  },
+  "ClickSprite": {
+    "m_FileID": 0,
+    "m_PathID": -6803732031374807271
+  },
+  "UnClickSprite": {
+    "m_FileID": 0,
+    "m_PathID": -7008271725214523928
+  },
+  "UserAgreeMentText": {
+    "m_FileID": 0,
+    "m_PathID": -3998538605490940232
+  },
+  "PrivateNoticeText": {
+    "m_FileID": 0,
+    "m_PathID": -5536027902764847547
+  },
+  "ChildPrivacyNoticeText": {
+    "m_FileID": 0,
+    "m_PathID": -5418257518798776872
+  }
+}

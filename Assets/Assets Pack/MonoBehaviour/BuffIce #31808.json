@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3246398346868965432
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2532012295308206094
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "is_enemy": 1,
+  "buff_time": 2.75,
+  "canMultiple": 0,
+  "ice_end": {
+    "m_FileID": 0,
+    "m_PathID": 3485854188369714355
+  },
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": -3697264472016340514
+  },
+  "onBuffEnd": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

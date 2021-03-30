@@ -1,0 +1,70 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1084896998945525927
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5070018889198051879
+  },
+  "m_Name": "",
+  "awake": 1,
+  "dead": 0,
+  "p_index": 0,
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rigibody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "target_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fixed_angle": 0.0,
+  "clip_skill": {
+    "m_FileID": 3,
+    "m_PathID": -7326920467610586067
+  },
+  "clip_hit": {
+    "m_FileID": 3,
+    "m_PathID": -8481735201391930515
+  },
+  "skills": [
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "audioClips": [],
+      "skillObjects": [],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 0,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "maxTime": 0.0,
+      "maxCount": 0,
+      "cd": 0.0,
+      "price": 0
+    }
+  ],
+  "in_battle": 0,
+  "statuePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "skillIndex": 0,
+  "theFriction": 0.975,
+  "force": 0.333,
+  "forceFriction": 0.05,
+  "power": 4.0,
+  "angleForce": 0.666,
+  "maxIntertial": 8.0
+}

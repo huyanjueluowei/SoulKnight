@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3669633996233210809
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3879290208680591761
+  },
+  "m_Name": "",
+  "hideObjects": [],
+  "npcPosition": {
+    "x": -1.125,
+    "y": -1.25,
+    "z": 0.0
+  },
+  "npcRotate": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "pivot": {
+    "x": -1.05,
+    "y": -0.48,
+    "z": 0.0
+  },
+  "onNpcObjectInit": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -5118552256974174379
+          },
+          "m_MethodName": "AddSortingObjectForce",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "onNpcHireSuccess": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5164015560081719121
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8972904214953653567
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 2,
+    "m_PathID": -585019104860311462
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 20,
+  "enemyTag": 20,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_lock_target": 0,
+  "enemy_id": "boss01",
+  "ai_level": 2,
+  "consume": 50,
+  "e_size": 2,
+  "reward_rate": 100,
+  "reward_value": [
+    3,
+    3,
+    0,
+    10
+  ],
+  "shoot_cd": 2.0,
+  "friction": 0.0,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 0.5,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bullets": [],
+  "boss_clip": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -9088751832340747206
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -3123158867271594163
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -2209677309484762270
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -9095463867117027172
+    }
+  ],
+  "angry_clip": {
+    "m_FileID": 2,
+    "m_PathID": -9095463867117027172
+  },
+  "boss_weapon": {
+    "m_FileID": 2,
+    "m_PathID": 8588903175243419027
+  },
+  "levelModeDropWeapon": 1,
+  "doubleboss_offset": {
+    "x": 2.0,
+    "y": 0.0
+  },
+  "bullet01": {
+    "m_FileID": 3,
+    "m_PathID": -582718948666604326
+  },
+  "bullet02": {
+    "m_FileID": 3,
+    "m_PathID": -3535739109166281439
+  },
+  "bullet03": {
+    "m_FileID": 3,
+    "m_PathID": -3447612525784300068
+  },
+  "bullet04": {
+    "m_FileID": 3,
+    "m_PathID": 8898610930754665933
+  }
+}

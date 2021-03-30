@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 884659516088510415
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4917548200067241444
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 0,
+  "repeat": 1,
+  "statisticKey": "",
+  "runeIndex": 4,
+  "triggerCollider": {
+    "m_FileID": 0,
+    "m_PathID": -3070030881120483678
+  },
+  "onEnter": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onExit": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onTrigger": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -7619836046594794793
+          },
+          "m_MethodName": "TriggerRune",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": 2441258682516436000
+  },
+  "activeAnimKey": "active",
+  "inActiveAnimKey": "inactive"
+}

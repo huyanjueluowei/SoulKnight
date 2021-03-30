@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6099514258872986991
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3629243897129150713
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "object/br_npc",
+  "item_value": 25,
+  "repeat": 0,
+  "statisticKey": "",
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": 5176889906864298679
+  },
+  "effectParticle": {
+    "m_FileID": 0,
+    "m_PathID": 346627072196057263
+  }
+}

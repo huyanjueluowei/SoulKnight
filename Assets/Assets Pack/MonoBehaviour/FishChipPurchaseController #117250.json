@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 100
+  },
+  "m_Name": "FishChipPurchaseController",
+  "fishChipModels": [
+    {
+      "fishChipAmount": 5,
+      "purchaseId": "fish_chips_5",
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -335050032115725065
+      }
+    },
+    {
+      "fishChipAmount": 12,
+      "purchaseId": "fish_chips_10",
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -303340602417468815
+      }
+    },
+    {
+      "fishChipAmount": 28,
+      "purchaseId": "fish_chips_20",
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 5916801817748873085
+      }
+    }
+  ]
+}

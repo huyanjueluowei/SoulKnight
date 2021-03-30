@@ -1,0 +1,63 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3967111994294852280
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5097128656613678190
+  },
+  "m_Name": "",
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": 5176889906864298679
+  },
+  "item_value": 5,
+  "max_time": 8,
+  "talk_name": "npc/naughty_boy_name",
+  "talk_money": "npc/naughty_girl_money",
+  "talk_answer": "npc/naughty_boy_answer2",
+  "talk_item": "npc/naughty_boy_item",
+  "talk_enough": "npc/noughty_boy_enough2",
+  "first_object_list": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 3147182505651334941
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": -2831725156926289582
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 3243585602181548729
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": -7360591776379394708
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 3147182505651334941
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 2295794416394246452
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 2295794416394246452
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 2295794416394246452
+    }
+  ],
+  "object_list": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 2295794416394246452
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1659358397780788493
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3821458467931077766
+  },
+  "m_Name": "",
+  "tap": {
+    "m_FileID": 0,
+    "m_PathID": -3327813159361490860
+  },
+  "tapPressed": {
+    "m_FileID": 0,
+    "m_PathID": -3431153845412318231
+  },
+  "tapAudio": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

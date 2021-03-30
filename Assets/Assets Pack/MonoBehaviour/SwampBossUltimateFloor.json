@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8556326359322885922
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1596671373413270973
+  },
+  "m_Name": "",
+  "animRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -8062820445750491076
+  },
+  "fadePropertyName": "_Alpha",
+  "showDuration": 7.5,
+  "fadeTime": 0.5
+}

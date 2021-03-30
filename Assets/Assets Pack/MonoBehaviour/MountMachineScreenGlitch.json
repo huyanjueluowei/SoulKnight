@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7966234402027617674
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1092470553709629272
+  },
+  "m_Name": "",
+  "renderer": {
+    "m_FileID": 0,
+    "m_PathID": 4640839025715393467
+  },
+  "saturatorModel": {
+    "baseValue": 1.0,
+    "range": 0.2,
+    "period": 4.0,
+    "power": 3.0
+  },
+  "x": {
+    "baseValue": 1.0,
+    "range": 5.0,
+    "period": 10.0,
+    "power": 1.0
+  },
+  "y": {
+    "baseValue": 1.0,
+    "range": 1.0,
+    "period": 10.0,
+    "power": 1.0
+  },
+  "z": {
+    "baseValue": 1.0,
+    "range": 1000.0,
+    "period": 10.0,
+    "power": 1.0
+  },
+  "w": {
+    "baseValue": 1.0,
+    "range": 1000.0,
+    "period": 10.0,
+    "power": 1.0
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 602965549115031922
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9071976762760088641
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 2,
+    "m_PathID": 8184099885297121370
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 25,
+  "enemyTag": 65,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": -7662570632547617581
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "e_relicScarabIce",
+  "ai_level": 3,
+  "consume": 1,
+  "e_size": 1,
+  "reward_rate": 15,
+  "reward_value": [
+    0,
+    0,
+    2,
+    1
+  ],
+  "shoot_cd": 1.0,
+  "friction": 0.8,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 1.0,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bulletInfo": {
+    "bulletProto": {
+      "m_FileID": 2,
+      "m_PathID": -6732066155799339704
+    },
+    "speed": 16.0,
+    "size": 1.5,
+    "damage": 3,
+    "critic": 10,
+    "repel": 10,
+    "throughCount": 0
+  },
+  "triggerRange": 3.0,
+  "atkCd": 1.0,
+  "atkAnimKey": "gas",
+  "atkProbability": 80,
+  "atkReleaseTransform": {
+    "m_FileID": 0,
+    "m_PathID": 4904062040203881330
+  },
+  "atkPositionOffset": {
+    "x": 0.0,
+    "y": 0.76,
+    "z": 0.0
+  },
+  "attackClip": {
+    "m_FileID": 2,
+    "m_PathID": 9208900048884022347
+  }
+}

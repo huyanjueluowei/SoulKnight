@@ -1,0 +1,115 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5222967085326139472
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7702011926523963045
+  },
+  "m_Name": "",
+  "weapon_type": 5,
+  "weapon_tags": [],
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 9208900048884022347
+  },
+  "activate": 1,
+  "item_level": 5,
+  "item_value": 66,
+  "bulletsInfo": [
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 6750913639922069774
+      },
+      "speed": 20.0,
+      "size": 1.5,
+      "damage": 6,
+      "critic": 6,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 3571881549168622231
+      },
+      "speed": 0.0,
+      "size": 2.75,
+      "damage": 10,
+      "critic": 6,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 6750913639922069774
+      },
+      "speed": 0.0,
+      "size": 2.5,
+      "damage": 10,
+      "critic": 6,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -8020051952786063815
+      },
+      "speed": 0.0,
+      "size": 6.0,
+      "damage": 12,
+      "critic": 6,
+      "repel": 2,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 4918481946756151848
+      },
+      "speed": 12.0,
+      "size": 1.0,
+      "damage": 4,
+      "critic": 6,
+      "repel": 3,
+      "throughCount": 999
+    }
+  ],
+  "deviation": 0,
+  "consume": 0,
+  "weapon_speed": 0.8,
+  "atk_move_speed": 0.1,
+  "need_lock": 1,
+  "has_effect": 0,
+  "is_melee": 1,
+  "not_forgeable": 0,
+  "can_use": 1,
+  "limitUseInMultiRoom": 0,
+  "swordScale": 0.0,
+  "sword_reverse": 0,
+  "speedTimes": 1,
+  "force": 10,
+  "spearFirst": 0,
+  "alwaysAxe": 0,
+  "audioClip2": {
+    "m_FileID": 0,
+    "m_PathID": 9208900048884022347
+  },
+  "bigClip": {
+    "m_FileID": 0,
+    "m_PathID": 6045324316190699373
+  },
+  "littleClip": {
+    "m_FileID": 0,
+    "m_PathID": 3666922161491305920
+  },
+  "multiCount": 1,
+  "mode3Consume": 4,
+  "mode3AtkMoveSpeed": -0.1,
+  "angle": 30
+}

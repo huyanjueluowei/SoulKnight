@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4890557591009859159
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7709798176674947581
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 2,
+    "m_PathID": 8262888682005009416
+  },
+  "awake": 1,
+  "temp_enemy": 1,
+  "start_awake": 1,
+  "levelScene": 0,
+  "enemyTag": 40,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_lock_target": 0,
+  "enemy_id": "mineral_gold",
+  "ai_level": 3,
+  "consume": 1,
+  "e_size": 2,
+  "reward_rate": 40,
+  "reward_value": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "shoot_cd": 3.0,
+  "friction": 0.9,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 1.0,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mineral_obj": {
+    "m_FileID": 2,
+    "m_PathID": 738686776489015123
+  },
+  "sprite_dead": {
+    "m_FileID": 3,
+    "m_PathID": -5234704099877877912
+  },
+  "mineral_count": 10,
+  "intensive_rate": 15
+}

@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1991453728589317812
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3089546200685260800
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 2000,
+  "repeat": 0,
+  "statisticKey": "",
+  "itemType": 3,
+  "cnName": "磁带 守护神殿",
+  "item_level": 0,
+  "bgmName": "bgm_defence",
+  "tepeSprite": {
+    "m_FileID": 0,
+    "m_PathID": -7121210597398186617
+  }
+}

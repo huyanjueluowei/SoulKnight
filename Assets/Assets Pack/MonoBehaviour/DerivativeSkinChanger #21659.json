@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8464889716112947515
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2742991763344095712
+  },
+  "m_Name": "",
+  "rootObject": {
+    "m_FileID": 0,
+    "m_PathID": -6018997555237992604
+  },
+  "source_hero": 5,
+  "need_skill": 0,
+  "cur_skill_idx": 0,
+  "skins": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5314398452453180053
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3095925921270961161
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8159210286349120728
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6649652740432348154
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8297372317826544579
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3144440223061332510
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7865932694092025782
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6060760312950486288
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7363631496813697268
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5983049886573988223
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7605405619671492606
+    }
+  ],
+  "colors": [],
+  "multiUseDefault": 0
+}

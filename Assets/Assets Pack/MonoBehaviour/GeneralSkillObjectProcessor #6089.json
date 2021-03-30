@@ -1,0 +1,247 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8750918653079633220
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4480888773459305409
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": -5282511117582490889
+  },
+  "skillObjects": [
+    {
+      "skillIndex": 0,
+      "skinIndex": 0,
+      "key": "bottle",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -597841444608803161
+      }
+    },
+    {
+      "skillIndex": 0,
+      "skinIndex": 1,
+      "key": "bottle",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6387105309729894913
+      }
+    },
+    {
+      "skillIndex": 0,
+      "skinIndex": 2,
+      "key": "bottle",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4753478953438196277
+      }
+    },
+    {
+      "skillIndex": 0,
+      "skinIndex": 3,
+      "key": "bottle",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8722581777782901535
+      }
+    },
+    {
+      "skillIndex": 0,
+      "skinIndex": 4,
+      "key": "bottle",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -5170897713480227905
+      }
+    },
+    {
+      "skillIndex": 0,
+      "skinIndex": 5,
+      "key": "bottle",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -1087338055090593596
+      }
+    },
+    {
+      "skillIndex": 0,
+      "skinIndex": 6,
+      "key": "bottle",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 1443108995625306590
+      }
+    },
+    {
+      "skillIndex": 0,
+      "skinIndex": 7,
+      "key": "bottle",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 968349623571439357
+      }
+    },
+    {
+      "skillIndex": 1,
+      "skinIndex": 0,
+      "key": "gas",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7407628010412777144
+      }
+    },
+    {
+      "skillIndex": 1,
+      "skinIndex": 0,
+      "key": "explode",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7265091909347929742
+      }
+    },
+    {
+      "skillIndex": 1,
+      "skinIndex": 0,
+      "key": "frost",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2643505218973456041
+      }
+    },
+    {
+      "skillIndex": 1,
+      "skinIndex": 4,
+      "key": "gas",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3432543251114881725
+      }
+    },
+    {
+      "skillIndex": 1,
+      "skinIndex": 4,
+      "key": "explode",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7706086482864559027
+      }
+    },
+    {
+      "skillIndex": 1,
+      "skinIndex": 4,
+      "key": "frost",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -4110058059541366324
+      }
+    },
+    {
+      "skillIndex": 1,
+      "skinIndex": 6,
+      "key": "gas",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 6853947687393906772
+      }
+    },
+    {
+      "skillIndex": 1,
+      "skinIndex": 6,
+      "key": "explode",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6903102874130197634
+      }
+    },
+    {
+      "skillIndex": 1,
+      "skinIndex": 6,
+      "key": "frost",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -761614011705271499
+      }
+    },
+    {
+      "skillIndex": 1,
+      "skinIndex": 7,
+      "key": "gas",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3045187265002032321
+      }
+    },
+    {
+      "skillIndex": 1,
+      "skinIndex": 7,
+      "key": "explode",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -2593252022603000895
+      }
+    },
+    {
+      "skillIndex": 1,
+      "skinIndex": 7,
+      "key": "frost",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7554230192865931051
+      }
+    },
+    {
+      "skillIndex": 0,
+      "skinIndex": 8,
+      "key": "bottle",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7141999867009159507
+      }
+    },
+    {
+      "skillIndex": 1,
+      "skinIndex": 8,
+      "key": "gas",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 373209707592296099
+      }
+    },
+    {
+      "skillIndex": 1,
+      "skinIndex": 8,
+      "key": "explode",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -9172215414341331677
+      }
+    },
+    {
+      "skillIndex": 1,
+      "skinIndex": 8,
+      "key": "frost",
+      "skillObjectPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5293630407729519920
+      }
+    }
+  ]
+}

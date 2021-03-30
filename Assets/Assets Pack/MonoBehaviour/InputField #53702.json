@@ -1,0 +1,128 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6294064743068875802
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4205018238442339842
+  },
+  "m_Name": "",
+  "m_Navigation": {
+    "m_Mode": 3,
+    "m_SelectOnUp": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_SelectOnDown": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_SelectOnLeft": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_SelectOnRight": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "m_Transition": 1,
+  "m_Colors": {
+    "m_NormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "m_HighlightedColor": {
+      "r": 0.9607843,
+      "g": 0.9607843,
+      "b": 0.9607843,
+      "a": 1.0
+    },
+    "m_PressedColor": {
+      "r": 0.784313738,
+      "g": 0.784313738,
+      "b": 0.784313738,
+      "a": 1.0
+    },
+    "m_DisabledColor": {
+      "r": 0.784313738,
+      "g": 0.784313738,
+      "b": 0.784313738,
+      "a": 0.5019608
+    },
+    "m_ColorMultiplier": 1.0,
+    "m_FadeDuration": 0.1
+  },
+  "m_SpriteState": {
+    "m_HighlightedSprite": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_PressedSprite": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_DisabledSprite": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "m_AnimationTriggers": {
+    "m_NormalTrigger": "Normal",
+    "m_HighlightedTrigger": "Highlighted",
+    "m_PressedTrigger": "Pressed",
+    "m_DisabledTrigger": "Disabled"
+  },
+  "m_Interactable": 1,
+  "m_TargetGraphic": {
+    "m_FileID": 0,
+    "m_PathID": -7142985358971680234
+  },
+  "m_TextComponent": {
+    "m_FileID": 0,
+    "m_PathID": -3661125324449961615
+  },
+  "m_Placeholder": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_ContentType": 0,
+  "m_InputType": 0,
+  "m_AsteriskChar": 42,
+  "m_KeyboardType": 0,
+  "m_LineType": 0,
+  "m_HideMobileInput": 0,
+  "m_CharacterValidation": 0,
+  "m_CharacterLimit": 14,
+  "m_OnEndEdit": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "m_OnValueChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "m_CaretColor": {
+    "r": 0.196078435,
+    "g": 0.196078435,
+    "b": 0.196078435,
+    "a": 1.0
+  },
+  "m_CustomCaretColor": 0,
+  "m_SelectionColor": {
+    "r": 0.65882355,
+    "g": 0.807843149,
+    "b": 1.0,
+    "a": 0.7529412
+  },
+  "m_Text": "",
+  "m_CaretBlinkRate": 0.85,
+  "m_CaretWidth": 1,
+  "m_ReadOnly": 0
+}

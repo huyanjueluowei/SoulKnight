@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8076714662362165509
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3718103623543925376
+  },
+  "m_Name": "",
+  "unlock_key": "blueprint_m_mech_5",
+  "itemLevel": 3,
+  "itemValue": 20,
+  "defence": 1,
+  "canTriggerItem": 1,
+  "deadObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "deadClip": {
+    "m_FileID": 0,
+    "m_PathID": -7273493238577079056
+  },
+  "speedRate": -0.2,
+  "drivePosition": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "hands": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2002826738500896606
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1505480901596871818
+    }
+  ],
+  "useControllerWeapon": 0,
+  "coverController": 1,
+  "runAnim": 0,
+  "idleAnim": 0,
+  "hideInactiveWeapon": 0,
+  "isCreature": 0,
+  "hasHp": 1,
+  "keep": 1,
+  "hasFx": 1
+}

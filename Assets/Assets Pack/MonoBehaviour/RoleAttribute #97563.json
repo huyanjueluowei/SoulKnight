@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8061904937295423825
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 474460016855012348
+  },
+  "m_Name": "",
+  "camp": 0,
+  "speed": 8.0,
+  "speed_rate": 0.0,
+  "max_hp": 25,
+  "hp": 25,
+  "critical": 0
+}

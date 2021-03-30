@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 914462632657082670
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8603303910598961157
+  },
+  "m_Name": "",
+  "weapon_type": 8,
+  "weapon_tags": [],
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": -1273511569000823963
+  },
+  "activate": 1,
+  "item_level": 2,
+  "item_value": 32,
+  "bulletsInfo": [
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -4265439376124185628
+      },
+      "speed": 0.15,
+      "size": 1.0,
+      "damage": 2,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    }
+  ],
+  "deviation": 0,
+  "consume": 0,
+  "weapon_speed": 1.0,
+  "atk_move_speed": -0.3,
+  "need_lock": 1,
+  "has_effect": 0,
+  "is_melee": 0,
+  "not_forgeable": 0,
+  "can_use": 1,
+  "limitUseInMultiRoom": 0,
+  "reflectCount": 0,
+  "multiCount": 1,
+  "defaultType": 8,
+  "laserRange": 16.0,
+  "laserClip": {
+    "m_FileID": 0,
+    "m_PathID": 4944605230948321484
+  }
+}

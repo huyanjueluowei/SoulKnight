@@ -1,0 +1,156 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6821769093633443472
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -165470198664967812
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 0,
+  "repeat": 1,
+  "statisticKey": "",
+  "gameStartKey": "item/relic_entrance_confirm",
+  "onTriggerSuccess": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -7619836046594794793
+          },
+          "m_MethodName": "StartGame",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        },
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 206862156394985965
+          },
+          "m_MethodName": "OnGateTriggerSuccess",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": -2151145699759945811
+  },
+  "openAnimKey": "open",
+  "inactiveAnimKey": "inactive",
+  "openDoorDuration": 0.4,
+  "gatePrefab": {
+    "m_FileID": 2,
+    "m_PathID": -6418184588040510124
+  },
+  "gatePositionOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "triggerCollider": {
+    "m_FileID": 0,
+    "m_PathID": 7543185689386689452
+  },
+  "brokenDamageMin": 500,
+  "bulletTags": [
+    "Bullet",
+    "Sword",
+    "Explode"
+  ],
+  "openShakeDelay": 0.2,
+  "openShakeDuration": 1.0,
+  "openShakeVibrato": 30,
+  "openShakeStrength": 0.2,
+  "onOpenDoorDirectly": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -7619836046594794793
+          },
+          "m_MethodName": "OnOpenDoorDirectly",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        },
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 206862156394985965
+          },
+          "m_MethodName": "OnGameComplete",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "openDoorClip": {
+    "m_FileID": 0,
+    "m_PathID": -4588935999055510959
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2185782367366414718
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -722435671495266572
+  },
+  "m_Name": "",
+  "audio_clip": {
+    "m_FileID": 2,
+    "m_PathID": -7319475116925131574
+  },
+  "level": 0,
+  "award_count": 4,
+  "has_coin": 0,
+  "onEmptyChestOpen": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

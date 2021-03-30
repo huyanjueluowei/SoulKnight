@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2814630648679151105
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7692586414782720251
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 1200,
+  "repeat": 0,
+  "statisticKey": "",
+  "itemType": 3,
+  "cnName": "黄天印",
+  "item_level": 0,
+  "maxCount": 4,
+  "blueprint": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bossName": "",
+  "is_boss_fragment": 0
+}

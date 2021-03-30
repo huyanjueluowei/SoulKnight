@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -295833641424531003
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1511858622998899592
+  },
+  "m_Name": "",
+  "weapon_type": 11,
+  "weapon_tags": [
+    311
+  ],
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 9225684652868089
+  },
+  "activate": 1,
+  "item_level": 0,
+  "item_value": 20,
+  "bulletsInfo": [
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -5506494358489593852
+      },
+      "speed": 0.0,
+      "size": 1.0,
+      "damage": 0,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    }
+  ],
+  "deviation": 0,
+  "consume": 8,
+  "weapon_speed": 0.5,
+  "atk_move_speed": 0.0,
+  "need_lock": 0,
+  "has_effect": 0,
+  "is_melee": 0,
+  "not_forgeable": 0,
+  "can_use": 1,
+  "limitUseInMultiRoom": 0,
+  "sprite_ready": {
+    "m_FileID": 0,
+    "m_PathID": -8257932203175006373
+  },
+  "sprite_cd": {
+    "m_FileID": 0,
+    "m_PathID": -8257932203175006373
+  },
+  "gray_mat": {
+    "m_FileID": 0,
+    "m_PathID": 3258628281820486407
+  },
+  "color_mat": {
+    "m_FileID": 0,
+    "m_PathID": -7210720170875152267
+  },
+  "add_atkspeed": 200.0,
+  "add_movespeed": 0.0
+}

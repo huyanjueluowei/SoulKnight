@@ -1,0 +1,155 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5157811435310435503
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5142640038708462478
+  },
+  "m_Name": "",
+  "size": {
+    "x": 24,
+    "y": 24
+  },
+  "tileMap": {
+    "m_FileID": 0,
+    "m_PathID": 6986518592845145043
+  },
+  "tiles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2798676398423612016
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7920159588768084856
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4536532639418587362
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5900264702357381573
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3626141343141237606
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8518726797539890476
+    }
+  ],
+  "coverRange": 0.4,
+  "startPoint": {
+    "x": 0,
+    "y": 0
+  },
+  "branchProbability": 0.65,
+  "onUpdatePositionEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 8819636106664271344
+          },
+          "m_MethodName": "UpdateColliderSize",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "hasFusionTile": 1,
+  "fusionTileMap": {
+    "m_FileID": 0,
+    "m_PathID": -3152354959366068496
+  },
+  "rightFusionTiles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 443549746740442486
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4713477927292560051
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1174375776336184115
+    }
+  ],
+  "upFusionTiles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -123041032843639626
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7354953086435935093
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3428809223484164615
+    }
+  ],
+  "leftFusionTiles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6993094989868926768
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4029779315833774213
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6980925209531879661
+    }
+  ],
+  "bottomFusionTiles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -438227681536539045
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 790677639927521507
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2286362979790859549
+    }
+  ],
+  "rightFusionIceTiles": {
+    "m_FileID": 0,
+    "m_PathID": -8534171667531149056
+  },
+  "upFusionIceTiles": {
+    "m_FileID": 0,
+    "m_PathID": 3339532028521236234
+  },
+  "leftFusionIceTiles": {
+    "m_FileID": 0,
+    "m_PathID": -5525058024784318855
+  },
+  "bottomFusionIceTiles": {
+    "m_FileID": 0,
+    "m_PathID": 9017052068439065042
+  }
+}

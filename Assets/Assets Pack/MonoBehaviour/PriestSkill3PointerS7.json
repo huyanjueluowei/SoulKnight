@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -984417566497089846
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1762775427595530736
+  },
+  "m_Name": "",
+  "localPosition": {
+    "x": 0.03,
+    "y": 2.41,
+    "z": 0.0
+  },
+  "count3": {
+    "stateItem": {
+      "pointerSprite": {
+        "m_FileID": 0,
+        "m_PathID": -1591432810687415313
+      }
+    },
+    "countItems": [
+      {
+        "pointerSprite": {
+          "m_FileID": 0,
+          "m_PathID": 4047762847568070525
+        }
+      },
+      {
+        "pointerSprite": {
+          "m_FileID": 0,
+          "m_PathID": 2953833451702400972
+        }
+      },
+      {
+        "pointerSprite": {
+          "m_FileID": 0,
+          "m_PathID": -1832649908513871889
+        }
+      }
+    ]
+  },
+  "count4": {
+    "stateItem": {
+      "pointerSprite": {
+        "m_FileID": 0,
+        "m_PathID": 5266449908490870855
+      }
+    },
+    "countItems": [
+      {
+        "pointerSprite": {
+          "m_FileID": 0,
+          "m_PathID": -7682091822702778044
+        }
+      },
+      {
+        "pointerSprite": {
+          "m_FileID": 0,
+          "m_PathID": -2602691007764230061
+        }
+      },
+      {
+        "pointerSprite": {
+          "m_FileID": 0,
+          "m_PathID": -4299082520754275142
+        }
+      },
+      {
+        "pointerSprite": {
+          "m_FileID": 0,
+          "m_PathID": -6346589351966423051
+        }
+      }
+    ]
+  },
+  "canRotate": 0
+}

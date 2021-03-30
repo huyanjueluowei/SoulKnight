@@ -1,0 +1,120 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6362835731464761803
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2760622909991510691
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 2,
+    "m_PathID": -3535308189402168697
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 31,
+  "enemyTag": 4,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 3320062243449135669
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "e_robberMonkey",
+  "ai_level": 3,
+  "consume": 1,
+  "e_size": 2,
+  "reward_rate": 40,
+  "reward_value": [
+    0,
+    0,
+    3,
+    2
+  ],
+  "shoot_cd": 2.0,
+  "friction": 0.6,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 1.0,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "need_tap": 1,
+  "weaponStateAnimKey": "weapon",
+  "atkAnimKey": "release_atk",
+  "shootProbability": 70,
+  "switchProbability": 50,
+  "w0Index": 0,
+  "w1Index": 1,
+  "h0Transform": {
+    "m_FileID": 0,
+    "m_PathID": -4356715771720579105
+  },
+  "h1Transform": {
+    "m_FileID": 0,
+    "m_PathID": 2877548924997608970
+  },
+  "releaseTransform0": {
+    "m_FileID": 0,
+    "m_PathID": 2909032508106772505
+  },
+  "releaseTransform1": {
+    "m_FileID": 0,
+    "m_PathID": -2612558906305035535
+  },
+  "bullet0": {
+    "bulletProto": {
+      "m_FileID": 3,
+      "m_PathID": -8636964204106365222
+    },
+    "speed": 8.0,
+    "size": 1.0,
+    "damage": 5,
+    "critic": 10,
+    "repel": 5,
+    "throughCount": 0
+  },
+  "atk0Duration": 1.0,
+  "atk0ReleaseTimes": 15,
+  "bullet1": {
+    "bulletProto": {
+      "m_FileID": 0,
+      "m_PathID": 6173776117580839420
+    },
+    "speed": 16.0,
+    "size": 1.0,
+    "damage": 3,
+    "critic": 10,
+    "repel": 8,
+    "throughCount": 0
+  },
+  "atk1Duration": 1.0,
+  "atkClip0": {
+    "m_FileID": 2,
+    "m_PathID": -501349891459713432
+  },
+  "atkClip1": {
+    "m_FileID": 0,
+    "m_PathID": 295298152871753756
+  }
+}

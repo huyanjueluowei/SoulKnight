@@ -1,0 +1,63 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 191472711813815851
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3765588625756446278
+  },
+  "m_Name": "",
+  "unlock_key": "",
+  "itemLevel": 0,
+  "itemValue": 30,
+  "defence": 0,
+  "canTriggerItem": 1,
+  "deadObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "deadClip": {
+    "m_FileID": 0,
+    "m_PathID": 8184099885297121370
+  },
+  "speedRate": 0.2,
+  "drivePosition": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "hands": [],
+  "useControllerWeapon": 1,
+  "coverController": 0,
+  "runAnim": 1,
+  "idleAnim": 1,
+  "hideInactiveWeapon": 0,
+  "isCreature": 1,
+  "hasHp": 1,
+  "keep": 0,
+  "hasFx": 1,
+  "bulletEx": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "h1Tf": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bulletInfo": {
+    "bulletProto": {
+      "m_FileID": 0,
+      "m_PathID": 8337977746303094121
+    },
+    "speed": 12.0,
+    "size": 1.0,
+    "damage": 4,
+    "critic": 0,
+    "repel": 3,
+    "throughCount": 999
+  },
+  "mountSortorder": 4,
+  "unmountSortorder": 4,
+  "atkCd": 1.5
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7737768381934985501
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8214867388609506052
+  },
+  "m_Name": "",
+  "weaponPrefab": {
+    "m_FileID": 1,
+    "m_PathID": 509383085520185374
+  },
+  "probability": 5,
+  "dropPositionOffset": {
+    "x": 0.0,
+    "y": 1.21,
+    "z": 0.0
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5164528468868690248
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7149229299789225451
+  },
+  "m_Name": "",
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": 1903323882817261165
+  },
+  "countdownText": {
+    "m_FileID": 0,
+    "m_PathID": 8189458645910150459
+  },
+  "playerReadyText": {
+    "m_FileID": 0,
+    "m_PathID": -282513963309509845
+  },
+  "waitBtn": {
+    "m_FileID": 0,
+    "m_PathID": 2789959212428139120
+  },
+  "cancelBtn": {
+    "m_FileID": 0,
+    "m_PathID": -5161064402192207773
+  },
+  "confirmBtn": {
+    "m_FileID": 0,
+    "m_PathID": -4277345685168849967
+  }
+}

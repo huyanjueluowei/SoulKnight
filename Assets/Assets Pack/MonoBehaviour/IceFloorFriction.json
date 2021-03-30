@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4402031475559077660
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4601688890150244362
+  },
+  "m_Name": "",
+  "targetTags": [
+    "Body_P",
+    "Pet"
+  ],
+  "forcePerSecond": 40.0,
+  "maxForce": 15,
+  "extraFriction": 0.17,
+  "frictionCollider": {
+    "m_FileID": 0,
+    "m_PathID": 7260822212510908103
+  }
+}

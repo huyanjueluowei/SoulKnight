@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4848425450462169891
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3691063829881455
+  },
+  "m_Name": "",
+  "hit_player": 1,
+  "hit_enemy": 1,
+  "buff": {
+    "m_FileID": 0,
+    "m_PathID": 2751085908002610372
+  }
+}

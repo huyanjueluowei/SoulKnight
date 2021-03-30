@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9034971863164114221
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1041038260825864848
+  },
+  "m_Name": "",
+  "damageType": 8,
+  "camp": 1,
+  "rigid2d": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "source_objcet": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "isReflect": 0,
+  "reflectCount": 0
+}

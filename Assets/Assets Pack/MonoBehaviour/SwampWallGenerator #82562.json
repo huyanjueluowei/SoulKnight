@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9030119561701288710
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7110300467913418385
+  },
+  "m_Name": "",
+  "wallTilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 3855525911580353095
+  },
+  "treeTiles": [
+    {
+      "bottomTile": {
+        "m_FileID": 0,
+        "m_PathID": -1885289020810911053
+      },
+      "topTile": {
+        "m_FileID": 0,
+        "m_PathID": -8364658346848404193
+      },
+      "weight": 5
+    },
+    {
+      "bottomTile": {
+        "m_FileID": 0,
+        "m_PathID": 677933441183463033
+      },
+      "topTile": {
+        "m_FileID": 0,
+        "m_PathID": -7898426665632448134
+      },
+      "weight": 2
+    }
+  ],
+  "floorTile": {
+    "m_FileID": 0,
+    "m_PathID": 6393734981378580365
+  }
+}

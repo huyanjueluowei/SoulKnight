@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1334399665072443051
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5254692592296543489
+  },
+  "m_Name": "",
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "awake": 0,
+  "gem_list": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4986953838073216144
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2303480052932866300
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5150539660506648435
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6266995621187229069
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6064972368670376644
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1009508190398411029
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3669218335453801672
+    }
+  ],
+  "bgdge_bg_list": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8409530572140781969
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8409530572140781969
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5567616972846279495
+    }
+  ],
+  "bgdge_bg_list2": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -451503108409741537
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -451503108409741537
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -988182171235138935
+    }
+  ],
+  "mode_icon_list": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 926168437587299172
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3433986151687885224
+    }
+  ],
+  "bgConfig": {
+    "m_FileID": 0,
+    "m_PathID": 3856173965388469240
+  }
+}

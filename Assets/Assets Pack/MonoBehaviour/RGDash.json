@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8836189348344475405
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4468106653806330567
+  },
+  "m_Name": "",
+  "damageType": 0,
+  "camp": 0,
+  "damage": 4,
+  "atk_cd": 0.5,
+  "source": {
+    "m_FileID": 0,
+    "m_PathID": 1735839366385616255
+  },
+  "repel": 3.0,
+  "critical": 0,
+  "hit_object": {
+    "m_FileID": 2,
+    "m_PathID": 997752590225333898
+  }
+}

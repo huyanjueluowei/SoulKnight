@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4149786164055193424
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5875950305987298109
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [
+      45,
+      1,
+      19,
+      0,
+      0,
+      0,
+      111,
+      0,
+      98,
+      0,
+      106,
+      0,
+      101,
+      0,
+      99,
+      0,
+      116,
+      0,
+      95,
+      0,
+      100,
+      0,
+      105,
+      0,
+      115,
+      0,
+      116,
+      0,
+      114,
+      0,
+      105,
+      0,
+      98,
+      0,
+      117,
+      0,
+      116,
+      0,
+      105,
+      0,
+      111,
+      0,
+      110,
+      0
+    ],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": 5176889906864298679
+  },
+  "isWeapon": 1,
+  "level": 3
+}

@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2317074223457300321
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5669282117854782222
+  },
+  "m_Name": "",
+  "bossAI25": {
+    "m_FileID": 0,
+    "m_PathID": -4476388413604227884
+  },
+  "maxArmor": 100
+}

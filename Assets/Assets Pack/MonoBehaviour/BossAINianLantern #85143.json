@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -718797600114542719
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2272661749812271167
+  },
+  "m_Name": "",
+  "isAttack": 0,
+  "exploded": 0,
+  "explodeObj": {
+    "m_FileID": 2,
+    "m_PathID": -191294516729579941
+  }
+}

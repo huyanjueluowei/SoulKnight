@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4265439376124185628
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7455253401620379825
+  },
+  "m_Name": "",
+  "buff": 2,
+  "scriptTypeName": "BezierLaser",
+  "fieldName": "customScaleFactor",
+  "modifyType": 1,
+  "intModifyValue": 0,
+  "floatModifyValue": 1.5
+}

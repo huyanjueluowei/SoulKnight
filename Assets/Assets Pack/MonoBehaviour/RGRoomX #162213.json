@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6735154004001217376
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3517707351753331472
+  },
+  "m_Name": "",
+  "process": 0,
+  "rect": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "room_width": 15,
+  "room_height": 21,
+  "room_type": 1,
+  "canGenerateIceFloor": [],
+  "random_room": 0,
+  "room_x": 0,
+  "room_y": 0,
+  "openDirection": 0,
+  "onRoomClear": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "door_open": 1,
+  "create_with_close_state": 0,
+  "need_cage": 0
+}

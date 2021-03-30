@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 181
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 86
+  },
+  "m_Name": "",
+  "text_levelup_1": {
+    "m_FileID": 0,
+    "m_PathID": 1199
+  },
+  "text_levelup_2": {
+    "m_FileID": 0,
+    "m_PathID": 1307
+  }
+}

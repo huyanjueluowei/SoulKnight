@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9011229347118453393
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 466415015443869072
+  },
+  "m_Name": "",
+  "boundingBoxes": [
+    {
+      "position": {
+        "x": 0.2,
+        "y": 2.1
+      },
+      "size": {
+        "x": 5.8,
+        "y": 3.5
+      }
+    }
+  ]
+}

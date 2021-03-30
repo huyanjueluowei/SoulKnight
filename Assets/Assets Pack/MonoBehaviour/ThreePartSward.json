@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5336484128236590147
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1146319111994728301
+  },
+  "m_Name": "",
+  "sward1": {
+    "m_FileID": 0,
+    "m_PathID": -1054639274457009610
+  },
+  "sward2": {
+    "m_FileID": 0,
+    "m_PathID": 3581663046313674772
+  },
+  "sward3": {
+    "m_FileID": 0,
+    "m_PathID": -2961881109638577464
+  },
+  "sward4": {
+    "m_FileID": 0,
+    "m_PathID": 1064652769910407660
+  },
+  "duration": 10,
+  "virbot": 2,
+  "randomness": 20,
+  "strength": 0.05,
+  "strengthVector3": {
+    "x": 0.015,
+    "y": 0.015,
+    "z": 0.0
+  },
+  "ga": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

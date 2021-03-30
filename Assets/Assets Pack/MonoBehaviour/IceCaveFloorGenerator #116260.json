@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2945329511304610022
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9018576197364432263
+  },
+  "m_Name": "",
+  "iceFloorPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2401025863870755971
+  },
+  "hasAisleMargin": 1,
+  "aisleWidth": 5,
+  "bossRoomCoverage": 0.3,
+  "aisleIceCoverage": 0.8,
+  "fullIceRate": 0.3,
+  "onInstantiateIceFloorEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -3231981773423821026
+          },
+          "m_MethodName": "OnInstantiateSwampFloor",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "onInstantiateAisleIceFloorEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "exclusiveRoomTypes": [
+    3,
+    0
+  ],
+  "canGenerateIndex": 1
+}

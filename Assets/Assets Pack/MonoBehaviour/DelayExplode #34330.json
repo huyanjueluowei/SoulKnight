@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4506380999648006923
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6195887980130857742
+  },
+  "m_Name": "",
+  "damageType": 0,
+  "camp": 0,
+  "bullet": {
+    "m_FileID": 0,
+    "m_PathID": 3738293572874290553
+  },
+  "boom_time": 3.0,
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "delay_clip": {
+    "m_FileID": 0,
+    "m_PathID": 7561537851218411192
+  },
+  "destroyTime": 4
+}

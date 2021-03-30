@@ -1,0 +1,316 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 141816198924442433
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6047775244432035991
+  },
+  "m_Name": "",
+  "obstacles": [
+    {
+      "index": 0,
+      "probability": 40,
+      "obstacleItems": [
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 7708982800858355967
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 1943029941219061167
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 116307130693693755
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": -7315403542014753207
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": -4212454565862353094
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 2505158826283284790
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": -2641977228531041593
+          }
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "probability": 40,
+      "obstacleItems": [
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 7708982800858355967
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 1943029941219061167
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 116307130693693755
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": -7315403542014753207
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": -4212454565862353094
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 2505158826283284790
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": -2641977228531041593
+          }
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "probability": 100,
+      "obstacleItems": [
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": -7711962704720527740
+          }
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "probability": 100,
+      "obstacleItems": [
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 606201588050583103
+          }
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "probability": 100,
+      "obstacleItems": [
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 3,
+            "m_PathID": 289643587246134535
+          }
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "probability": 15,
+      "obstacleItems": [
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 4516992988915662050
+          }
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "probability": 40,
+      "obstacleItems": [
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 7708982800858355967
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 1943029941219061167
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 116307130693693755
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": -7315403542014753207
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": -4212454565862353094
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 2505158826283284790
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": -2641977228531041593
+          }
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "probability": 40,
+      "obstacleItems": [
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 7708982800858355967
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 1943029941219061167
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 116307130693693755
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": -7315403542014753207
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": -4212454565862353094
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 2505158826283284790
+          }
+        },
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": -2641977228531041593
+          }
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "probability": 100,
+      "obstacleItems": [
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 2,
+            "m_PathID": 4023697638528844197
+          }
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "probability": 100,
+      "obstacleItems": [
+        {
+          "weight": 1,
+          "prefab": {
+            "m_FileID": 0,
+            "m_PathID": 3544512670629856309
+          }
+        }
+      ]
+    }
+  ],
+  "mapManagerLevel": {
+    "m_FileID": 0,
+    "m_PathID": -5701666680629068874
+  }
+}

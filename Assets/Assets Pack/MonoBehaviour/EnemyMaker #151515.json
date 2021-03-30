@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5311543145900429291
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5130951664472723666
+  },
+  "m_Name": "",
+  "level": 1,
+  "this_count": 0,
+  "the_room": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "always_badass": 0,
+  "all_badass": 0
+}

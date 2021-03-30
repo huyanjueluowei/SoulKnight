@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 356
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 102
+  },
+  "m_Name": "",
+  "sortingSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 470
+    }
+  ],
+  "sortingGroups": []
+}

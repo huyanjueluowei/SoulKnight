@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3880752676811627926
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5979733668738714049
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "npc/swamp_entrance",
+  "item_value": 0,
+  "repeat": 1,
+  "statisticKey": "",
+  "talkStates": [
+    "item/swamp_entrance_confirm"
+  ],
+  "talkFail": "item/swamp_entrance_enough",
+  "talkSuccess": "item/swamp_entrance_success",
+  "totalState": 2,
+  "triggerCollider": {
+    "m_FileID": 0,
+    "m_PathID": -5481814526736542914
+  },
+  "recordCounts": [
+    2,
+    3,
+    5,
+    9,
+    10,
+    12
+  ],
+  "effectPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -8841827402807858713
+  },
+  "exclusiveWeaponNames": [
+    "weapon_troop_armor",
+    "weapon_troop_atk_speed",
+    "weapon_troop_book",
+    "weapon_troop_cd",
+    "weapon_troop_critic",
+    "weapon_troop_defence",
+    "weapon_troop_fire",
+    "weapon_troop_hp"
+  ],
+  "noWeaponKey": "item/swamp_entrance_no_weapon"
+}

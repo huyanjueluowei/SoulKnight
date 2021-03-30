@@ -1,0 +1,328 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7956743744005869555
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 431358479322184057
+  },
+  "m_Name": "",
+  "awake": 1,
+  "dead": 0,
+  "p_index": 0,
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rigibody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "target_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fixed_angle": 0.0,
+  "clip_skill": {
+    "m_FileID": 0,
+    "m_PathID": -5898441787356934763
+  },
+  "clip_hit": {
+    "m_FileID": 0,
+    "m_PathID": -7679522820309108262
+  },
+  "skills": [
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -1711570142722070744
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -5898441787356934763
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 3314062287300616439
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3314062287300616439
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3314062287300616439
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3314062287300616439
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3314062287300616439
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3314062287300616439
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3314062287300616439
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7079858405915448381
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6679943951751314690
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7009876283872840036
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 0,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "maxTime": 0.0,
+      "maxCount": 0,
+      "cd": 6.0,
+      "price": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 741238523006945488
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 6360258858163212833
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -927125235075307877
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -909153012206174843
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3804860511754961339
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -235276993984835066
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2077753002502091230
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1799337610577610024
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1522614838045748643
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6598943043879925606
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8981406764919872239
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4978563355036595147
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 2,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "maxTime": 1.5,
+      "maxCount": 0,
+      "cd": 9.0,
+      "price": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 6605187037412165028
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2194855489963722353
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3150488904984120107
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2138041291659840983
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -3203737345418518288
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4583899729893109413
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1688325682197389932
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5693702323764029763
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 414602119349034100
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7509162970466182860
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 0,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 7421490441745114676
+      },
+      "maxTime": 0.0,
+      "maxCount": 0,
+      "cd": 12.0,
+      "price": 10000
+    }
+  ],
+  "in_battle": 0,
+  "statuePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "skillIndex": 0,
+  "clip_arrow": {
+    "m_FileID": 0,
+    "m_PathID": -8489294477021106069
+  },
+  "reload_obj": {
+    "m_FileID": 0,
+    "m_PathID": -779509960976722261
+  },
+  "bows": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3179663967918620462
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3179663967918620462
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3179663967918620462
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3179663967918620462
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3179663967918620462
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6509019509765648812
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3179663967918620462
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3916338455696095381
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -961922788410919155
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7498524475254171851
+    }
+  ],
+  "vine_pt_arr": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 819778763042837990
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 819778763042837990
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 819778763042837990
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 819778763042837990
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 819778763042837990
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 819778763042837990
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1404685518611583941
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 737240236109830569
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 819778763042837990
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 819778763042837990
+    }
+  ]
+}

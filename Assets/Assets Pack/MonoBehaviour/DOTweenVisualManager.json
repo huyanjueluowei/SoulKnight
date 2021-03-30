@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3037151318321987523
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1698081802803219195
+  },
+  "m_Name": "",
+  "preset": 0,
+  "onEnableBehaviour": 1,
+  "onDisableBehaviour": 1
+}

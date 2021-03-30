@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7597158763705861628
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7395664834512197743
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "wi17_fast_continuous",
+  "item_value": 20,
+  "repeat": 0,
+  "statisticKey": "",
+  "supportWeaponList": [
+    {
+      "id": 0,
+      "weaponType": 1,
+      "supportWeaponScripts": [
+        "Gun008"
+      ]
+    },
+    {
+      "id": 0,
+      "weaponType": 14,
+      "supportWeaponScripts": [
+        "Gun008"
+      ]
+    },
+    {
+      "id": 0,
+      "weaponType": 9,
+      "supportWeaponScripts": [
+        "GunNext4"
+      ]
+    },
+    {
+      "id": 0,
+      "weaponType": 2,
+      "supportWeaponScripts": [
+        "Gun019"
+      ]
+    }
+  ],
+  "byWeapon": 0,
+  "processName": "",
+  "item_level": 2,
+  "show_level": -1,
+  "weapon_item_sprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_id": 0,
+  "propertyTypes": [
+    8
+  ],
+  "values": [
+    1.0
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7453595241253963498
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8916707062309982147
+  },
+  "m_Name": "",
+  "explode": {
+    "m_FileID": 1,
+    "m_PathID": -191294516729579941
+  },
+  "explodeScale": 4.0,
+  "fireFx": {
+    "m_FileID": 1,
+    "m_PathID": -3864549781280756665
+  },
+  "fireFxPosition": {
+    "x": 9.64,
+    "y": 7.62,
+    "z": 0.0
+  },
+  "explodePosition": {
+    "x": 0.0,
+    "y": -1.0,
+    "z": 0.0
+  },
+  "hitDistance": 11.61,
+  "fireworkNormal": {
+    "m_FileID": 0,
+    "m_PathID": 1919601530178599872
+  },
+  "fireworkExplodePrepare": {
+    "m_FileID": 0,
+    "m_PathID": -5732576414412634502
+  },
+  "fireworkPlay": {
+    "m_FileID": 0,
+    "m_PathID": 8435060029958828587
+  }
+}

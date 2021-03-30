@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8940179839742689282
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1874129283680175974
+  },
+  "m_Name": "",
+  "weapon_type": 16,
+  "weapon_tags": [
+    303
+  ],
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": -5320813973430249721
+  },
+  "activate": 1,
+  "item_level": 5,
+  "item_value": 50,
+  "bulletsInfo": [
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 7956369513698066127
+      },
+      "speed": 42.0,
+      "size": 1.0,
+      "damage": 8,
+      "critic": 5,
+      "repel": 2,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -1856460526421227183
+      },
+      "speed": 42.0,
+      "size": 1.25,
+      "damage": 8,
+      "critic": 20,
+      "repel": 2,
+      "throughCount": 999
+    }
+  ],
+  "deviation": 6,
+  "consume": 1,
+  "weapon_speed": 1.0,
+  "atk_move_speed": 0.0,
+  "need_lock": 1,
+  "has_effect": 0,
+  "is_melee": 0,
+  "not_forgeable": 1,
+  "can_use": 1,
+  "limitUseInMultiRoom": 0,
+  "weaponNameId": "weapon/weapon_init_officerxx",
+  "delay": 0.1,
+  "maxCount": 5,
+  "onReloadGun": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onAttack": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4982774077701133358
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3397255233499319964
+  },
+  "m_Name": "",
+  "UnClickSprite": {
+    "m_FileID": 0,
+    "m_PathID": 8407158864642892457
+  },
+  "ClickSprite": {
+    "m_FileID": 0,
+    "m_PathID": 8407158864642892457
+  },
+  "ShowOrHideGa": {
+    "m_FileID": 0,
+    "m_PathID": 6853651276201546156
+  },
+  "ClearOrCipherInputField": [],
+  "button": {
+    "m_FileID": 0,
+    "m_PathID": 5377194602395033568
+  },
+  "SpriteImage": {
+    "m_FileID": 0,
+    "m_PathID": -4292752065995363268
+  }
+}

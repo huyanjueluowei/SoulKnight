@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8177315756389040438
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3384107925262159928
+  },
+  "m_Name": "",
+  "reflectionTags": [
+    "Body_P",
+    "Body_E",
+    "Pet"
+  ],
+  "shadowPool": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "shadowTriggerCollider": {
+    "m_FileID": 0,
+    "m_PathID": 604672764650323281
+  }
+}

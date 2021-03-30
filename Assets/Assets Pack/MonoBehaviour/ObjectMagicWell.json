@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6701299970675562427
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8749520187570877605
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "object/magic_well",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "wellAudio": {
+    "m_FileID": 0,
+    "m_PathID": 3150488904984120107
+  },
+  "frogManProbability": 5,
+  "frogManPrefab": {
+    "m_FileID": 6,
+    "m_PathID": -2829861449745783661
+  },
+  "waterClip": {
+    "m_FileID": 0,
+    "m_PathID": -5065387218325491208
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5832431941316871794
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3018034173618277421
+  },
+  "m_Name": "",
+  "targetTransform": {
+    "m_FileID": 0,
+    "m_PathID": 3101850508199610396
+  },
+  "expandTime": 0.05,
+  "shrinkTime": 0.3,
+  "maxScale": {
+    "x": 2.0,
+    "y": 2.0,
+    "z": 2.0
+  }
+}

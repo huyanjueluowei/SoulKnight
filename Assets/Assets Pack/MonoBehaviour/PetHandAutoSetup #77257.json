@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2154720071459842338
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5233468060729412554
+  },
+  "m_Name": "",
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": -7232378544176120761
+  },
+  "weaponChanger": {
+    "m_FileID": 0,
+    "m_PathID": 7598203301608800963
+  }
+}

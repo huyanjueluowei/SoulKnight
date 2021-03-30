@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6171708603389094819
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7666780095371533414
+  },
+  "m_Name": "",
+  "aim": {
+    "m_FileID": 2,
+    "m_PathID": -1881801198962760180
+  },
+  "bullet01": {
+    "m_FileID": 3,
+    "m_PathID": -6375121971487325845
+  },
+  "bullet02": {
+    "m_FileID": 3,
+    "m_PathID": -8581832644604583940
+  },
+  "bullet03": {
+    "m_FileID": 3,
+    "m_PathID": 7890579633746288624
+  },
+  "atk_clip1": {
+    "m_FileID": 2,
+    "m_PathID": -6157145428504221030
+  },
+  "atk_clip2": {
+    "m_FileID": 2,
+    "m_PathID": -1448364804562760397
+  }
+}

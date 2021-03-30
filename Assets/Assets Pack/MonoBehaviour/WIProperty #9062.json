@@ -1,0 +1,87 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 669705012152339399
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7395664834512197743
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "wi14_ammo",
+  "item_value": 20,
+  "repeat": 0,
+  "statisticKey": "",
+  "supportWeaponList": [
+    {
+      "id": 0,
+      "weaponType": 1,
+      "supportWeaponScripts": [
+        "Gun002"
+      ]
+    },
+    {
+      "id": 0,
+      "weaponType": 2,
+      "supportWeaponScripts": []
+    },
+    {
+      "id": 0,
+      "weaponType": 14,
+      "supportWeaponScripts": [
+        "Gun002"
+      ]
+    },
+    {
+      "id": 0,
+      "weaponType": 6,
+      "supportWeaponScripts": [
+        "GunMagicBow",
+        "GunHeroBow"
+      ]
+    },
+    {
+      "id": 0,
+      "weaponType": 13,
+      "supportWeaponScripts": [
+        "GunThrow"
+      ]
+    },
+    {
+      "id": 0,
+      "weaponType": 12,
+      "supportWeaponScripts": [
+        "Gun002"
+      ]
+    }
+  ],
+  "byWeapon": 0,
+  "processName": "",
+  "item_level": 2,
+  "show_level": -1,
+  "weapon_item_sprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_id": 0,
+  "propertyTypes": [
+    7
+  ],
+  "values": [
+    1.0
+  ]
+}

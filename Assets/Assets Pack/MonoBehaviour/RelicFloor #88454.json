@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4083705374370802917
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1328731787932081244
+  },
+  "m_Name": "",
+  "hollowTile": {
+    "m_FileID": 0,
+    "m_PathID": 284311862437918206
+  },
+  "topEdgeTile": {
+    "m_FileID": 0,
+    "m_PathID": -1512211215725114722
+  },
+  "size": {
+    "x": 4,
+    "y": 4
+  },
+  "hollowTilemap": {
+    "m_FileID": 0,
+    "m_PathID": -2954250962500831465
+  },
+  "edgeTilemap": {
+    "m_FileID": 0,
+    "m_PathID": -361851061741284432
+  },
+  "leftFusionTiles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8256293037381120869
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5209947914674286866
+    }
+  ],
+  "upFusionTiles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4879210312201136095
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1425267043293203270
+    }
+  ],
+  "rightFusionTiles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8356188576356258924
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3930298143353210880
+    }
+  ],
+  "downFusionTiles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1335665243703864692
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1705973081988203159
+    }
+  ]
+}

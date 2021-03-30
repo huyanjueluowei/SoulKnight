@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4537585709945415502
+  },
+  "m_Enabled": 0,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7637477445895215791
+  },
+  "m_Name": "",
+  "escape_talk": "cage/pet_talk_2",
+  "talk_transform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "label_height": 2.5
+}

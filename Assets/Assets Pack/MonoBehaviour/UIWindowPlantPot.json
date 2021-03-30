@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6112311373393478372
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8127807550128911561
+  },
+  "m_Name": "",
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "awake": 0,
+  "text_btn_price": {
+    "m_FileID": 0,
+    "m_PathID": -6755382734143249691
+  },
+  "levelup_clip": {
+    "m_FileID": 1,
+    "m_PathID": 3228828031039560833
+  }
+}

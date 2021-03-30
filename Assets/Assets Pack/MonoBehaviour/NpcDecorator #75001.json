@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7651284844472182428
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3879290208680591761
+  },
+  "m_Name": "",
+  "hideObjects": [],
+  "npcPosition": {
+    "x": -3.875,
+    "y": 1.125,
+    "z": 0.0
+  },
+  "npcRotate": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "pivot": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "onNpcObjectInit": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onNpcHireSuccess": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

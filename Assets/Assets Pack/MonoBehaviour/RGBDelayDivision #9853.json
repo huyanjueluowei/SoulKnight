@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1985504572894172231
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 226022796685345262
+  },
+  "m_Name": "",
+  "damageType": 16432,
+  "camp": 1,
+  "speed": 10.0,
+  "rigid2d": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "destroy_time": 5.0,
+  "rotate_angle": 0,
+  "awake": 1,
+  "can_rebound": 0,
+  "autoDirection": 1,
+  "repel": 0,
+  "critical": 0,
+  "delay_time": 0.28,
+  "c_audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 5896789235608708879
+  },
+  "c_count": 3,
+  "multiCount": 1,
+  "c_angle": 22,
+  "c_atk": 3,
+  "c_critical": 0,
+  "c_bullet": {
+    "m_FileID": 0,
+    "m_PathID": -521339198514471491
+  },
+  "c_bullet_speed": 16.0,
+  "canInfluencedByBuff": 1
+}

@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6272603043850193873
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7669940488953911777
+  },
+  "m_Name": "",
+  "hpRestoreSkillIndex": 1,
+  "hpRestoreAmount": 1,
+  "roleAttribute": {
+    "m_FileID": 0,
+    "m_PathID": 875058046780301679
+  },
+  "healClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "healthEffectPrefab": {
+    "m_FileID": 2,
+    "m_PathID": 6258594406079282139
+  }
+}

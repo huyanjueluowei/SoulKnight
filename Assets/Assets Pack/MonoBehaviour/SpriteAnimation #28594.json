@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3278235748811265243
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7197708514470847702
+  },
+  "m_Name": "",
+  "sprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1004960412581826916
+    }
+  ],
+  "frameRate": 30.0,
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -5317738855006083003
+  },
+  "mode": 0
+}

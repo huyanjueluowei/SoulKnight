@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9065428902219446404
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3748740367302610856
+  },
+  "m_Name": "",
+  "bulletCount": 4,
+  "releaseDuration": 0.15,
+  "mainBullet": {
+    "bulletProto": {
+      "m_FileID": 3,
+      "m_PathID": -8581832644604583940
+    },
+    "speed": 16.0,
+    "size": 1.0,
+    "damage": 3,
+    "critic": 10,
+    "repel": 3,
+    "throughCount": 0
+  },
+  "scatterBullet": {
+    "bulletProto": {
+      "m_FileID": 3,
+      "m_PathID": 702287952586584070
+    },
+    "speed": 16.0,
+    "size": 1.0,
+    "damage": 3,
+    "critic": 10,
+    "repel": 3,
+    "throughCount": 0
+  }
+}

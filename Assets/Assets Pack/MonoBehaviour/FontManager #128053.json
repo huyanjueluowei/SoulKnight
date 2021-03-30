@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 65
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 32
+  },
+  "m_Name": "",
+  "number": {
+    "m_FileID": 5,
+    "m_PathID": 5542306090058290256
+  },
+  "pixelBold": {
+    "m_FileID": 5,
+    "m_PathID": 1976739107073487392
+  },
+  "iranYekanBold": {
+    "m_FileID": 5,
+    "m_PathID": -6706156885911368340
+  }
+}

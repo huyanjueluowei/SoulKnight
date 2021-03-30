@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3889584152883132569
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6460248692865718816
+  },
+  "m_Name": "",
+  "windowShowPrefab": {
+    "m_FileID": 2,
+    "m_PathID": -2108043646609663861
+  },
+  "descTextPath": "desc_text",
+  "showDelay": 1.5
+}

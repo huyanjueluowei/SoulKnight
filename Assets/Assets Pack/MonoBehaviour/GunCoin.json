@@ -1,0 +1,85 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7201417163583610043
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4877889781875044018
+  },
+  "m_Name": "",
+  "weapon_type": 1,
+  "weapon_tags": [],
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": -1394743294411731189
+  },
+  "activate": 1,
+  "item_level": 5,
+  "item_value": 0,
+  "bulletsInfo": [
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 1492907111942761637
+      },
+      "speed": 36.0,
+      "size": 1.0,
+      "damage": 2,
+      "critic": 10,
+      "repel": 2,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 7464485204773857448
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 5137473347319081482
+      },
+      "speed": 24.0,
+      "size": 1.0,
+      "damage": 36,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    }
+  ],
+  "deviation": 0,
+  "consume": 1,
+  "weapon_speed": 1.0,
+  "atk_move_speed": 0.1,
+  "need_lock": 1,
+  "has_effect": 0,
+  "is_melee": 0,
+  "not_forgeable": 0,
+  "can_use": 1,
+  "limitUseInMultiRoom": 0,
+  "normal_count": 4,
+  "normal_time_interval": 0.1,
+  "multiCount": 8,
+  "speed_correction": 15.0,
+  "angle": 5,
+  "silver_consume": 2,
+  "gold_consume": 3,
+  "shake_audio": {
+    "m_FileID": 0,
+    "m_PathID": 5176889906864298679
+  },
+  "probability": [
+    0.1,
+    0.4,
+    0.5
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6102699578358940881
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6096266657759449988
+  },
+  "m_Name": "",
+  "layerName": "Body_P",
+  "castRadius": 5.0
+}

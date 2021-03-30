@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4995953732842771348
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8067206108406201982
+  },
+  "m_Name": "",
+  "playerTags": [
+    "Body_P"
+  ],
+  "scaleLevelFactor": 0.25,
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 7190919945379944861
+  },
+  "animSpriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 5587122548159963889
+  },
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": -5346477397839205629
+  },
+  "activeAnimKey": "active",
+  "shieldEffectObject": {
+    "m_FileID": 0,
+    "m_PathID": 5885452575054228605
+  },
+  "initShieldSize": 2.5,
+  "shieldParticle": {
+    "m_FileID": 0,
+    "m_PathID": 5370315332138471660
+  }
+}

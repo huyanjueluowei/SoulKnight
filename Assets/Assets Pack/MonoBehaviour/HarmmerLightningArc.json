@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7554534362746239548
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5409571733975068029
+  },
+  "m_Name": "",
+  "damageType": 0,
+  "camp": 1,
+  "thunderObject": {
+    "m_FileID": 0,
+    "m_PathID": -2000313622806355764
+  },
+  "triggerAudioClip": {
+    "m_FileID": 0,
+    "m_PathID": 7064950869084921188
+  },
+  "thunderTime": 0.3
+}

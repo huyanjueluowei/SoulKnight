@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6584283120063992241
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6833590402814787348
+  },
+  "m_Name": "",
+  "change_hero": "talk/change_char",
+  "have_mount": "",
+  "height": 1.6,
+  "can_use": 1
+}

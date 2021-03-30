@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1855628467422735255
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1259253509348025712
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "defence/npc_tutor",
+  "item_value": 10,
+  "repeat": 1,
+  "statisticKey": "npc_skill_update",
+  "talkStates": [
+    "defence/npc_tutor_talk"
+  ],
+  "talkFail": "",
+  "talkSuccess": "",
+  "totalState": 2
+}

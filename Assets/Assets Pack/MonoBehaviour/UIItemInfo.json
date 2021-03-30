@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 247
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 83
+  },
+  "m_Name": "",
+  "weaponInfoIcon": {
+    "m_FileID": 1,
+    "m_PathID": 174
+  },
+  "large_font_size": 24,
+  "small_font_size": 17,
+  "backgrounds": [
+    {
+      "m_FileID": 3,
+      "m_PathID": -45643079425849532
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 5842417271966812420
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -1320887440386984272
+    }
+  ]
+}

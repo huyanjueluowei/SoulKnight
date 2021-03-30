@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4673781983808818730
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7587334046036487002
+  },
+  "m_Name": "",
+  "damageType": 72,
+  "camp": 1,
+  "hit_object": {
+    "m_FileID": 0,
+    "m_PathID": -6958349370921270268
+  },
+  "shoot_max_time": 5.0,
+  "need_start_end_scale": 0,
+  "buff": {
+    "m_FileID": 0,
+    "m_PathID": 3246398346868965432
+  },
+  "buff_probability": 4
+}

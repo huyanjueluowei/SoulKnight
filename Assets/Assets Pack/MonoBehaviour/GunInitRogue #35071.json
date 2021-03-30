@@ -1,0 +1,105 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1128253708506580731
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4036723987331775237
+  },
+  "m_Name": "",
+  "weapon_type": 13,
+  "weapon_tags": [
+    305
+  ],
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": -5320813973430249721
+  },
+  "activate": 1,
+  "item_level": 1,
+  "item_value": 20,
+  "bulletsInfo": [
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -6514612270367510135
+      },
+      "speed": 36.0,
+      "size": 1.0,
+      "damage": 5,
+      "critic": 0,
+      "repel": 0,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -6514612270367510135
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 5,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -6514612270367510135
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 5,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    }
+  ],
+  "deviation": 0,
+  "consume": 1,
+  "weapon_speed": 1.8,
+  "atk_move_speed": 0.0,
+  "need_lock": 0,
+  "has_effect": 0,
+  "is_melee": 1,
+  "not_forgeable": 1,
+  "can_use": 1,
+  "limitUseInMultiRoom": 0,
+  "startTriggers": [
+    "start"
+  ],
+  "bullet2": {
+    "m_FileID": 0,
+    "m_PathID": -84882678904754206
+  },
+  "right_hand_bullet": {
+    "m_FileID": 0,
+    "m_PathID": 4150368921488556493
+  },
+  "left_hand_bullet": {
+    "m_FileID": 0,
+    "m_PathID": -558551817488245651
+  },
+  "sting_bullet": {
+    "m_FileID": 0,
+    "m_PathID": -6996424814462084459
+  },
+  "left_sting_bullet": {
+    "m_FileID": 0,
+    "m_PathID": 8165516372537769016
+  },
+  "audio_clip2": {
+    "m_FileID": 0,
+    "m_PathID": 9208900048884022347
+  },
+  "melee_distance": 2.9,
+  "melee_right_scale": 2.0,
+  "melee_left_scale": 2.0,
+  "atk_force": 25,
+  "throw_offset": 5.0,
+  "sting_atk": 5,
+  "sword_atk": 5
+}

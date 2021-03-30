@@ -1,0 +1,939 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5124298321453264327
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5046197152891381193
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [
+      1,
+      1,
+      13,
+      0,
+      0,
+      0,
+      114,
+      0,
+      111,
+      0,
+      111,
+      0,
+      109,
+      0,
+      95,
+      0,
+      114,
+      0,
+      101,
+      0,
+      108,
+      0,
+      97,
+      0,
+      116,
+      0,
+      105,
+      0,
+      111,
+      0,
+      110,
+      0,
+      47,
+      0,
+      0,
+      0,
+      0,
+      1,
+      25,
+      0,
+      0,
+      0,
+      83,
+      0,
+      121,
+      0,
+      115,
+      0,
+      116,
+      0,
+      101,
+      0,
+      109,
+      0,
+      46,
+      0,
+      73,
+      0,
+      110,
+      0,
+      116,
+      0,
+      51,
+      0,
+      50,
+      0,
+      91,
+      0,
+      44,
+      0,
+      93,
+      0,
+      44,
+      0,
+      32,
+      0,
+      109,
+      0,
+      115,
+      0,
+      99,
+      0,
+      111,
+      0,
+      114,
+      0,
+      108,
+      0,
+      105,
+      0,
+      98,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6,
+      25,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      39,
+      1,
+      5,
+      0,
+      0,
+      0,
+      114,
+      0,
+      97,
+      0,
+      110,
+      0,
+      107,
+      0,
+      115,
+      0,
+      1,
+      3,
+      0,
+      0,
+      0,
+      53,
+      0,
+      124,
+      0,
+      53,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      7,
+      5,
+      45,
+      1,
+      24,
+      0,
+      0,
+      0,
+      114,
+      0,
+      111,
+      0,
+      111,
+      0,
+      109,
+      0,
+      95,
+      0,
+      115,
+      0,
+      116,
+      0,
+      97,
+      0,
+      114,
+      0,
+      116,
+      0,
+      95,
+      0,
+      100,
+      0,
+      105,
+      0,
+      115,
+      0,
+      116,
+      0,
+      114,
+      0,
+      105,
+      0,
+      98,
+      0,
+      117,
+      0,
+      116,
+      0,
+      105,
+      0,
+      111,
+      0,
+      110,
+      0,
+      115,
+      0,
+      1,
+      1,
+      24,
+      0,
+      0,
+      0,
+      114,
+      0,
+      111,
+      0,
+      111,
+      0,
+      109,
+      0,
+      95,
+      0,
+      99,
+      0,
+      104,
+      0,
+      101,
+      0,
+      115,
+      0,
+      116,
+      0,
+      95,
+      0,
+      100,
+      0,
+      105,
+      0,
+      115,
+      0,
+      116,
+      0,
+      114,
+      0,
+      105,
+      0,
+      98,
+      0,
+      117,
+      0,
+      116,
+      0,
+      105,
+      0,
+      111,
+      0,
+      110,
+      0,
+      115,
+      0,
+      47,
+      1,
+      0,
+      0,
+      0,
+      1,
+      37,
+      0,
+      0,
+      0,
+      79,
+      0,
+      98,
+      0,
+      106,
+      0,
+      101,
+      0,
+      99,
+      0,
+      116,
+      0,
+      68,
+      0,
+      105,
+      0,
+      115,
+      0,
+      116,
+      0,
+      114,
+      0,
+      105,
+      0,
+      98,
+      0,
+      117,
+      0,
+      116,
+      0,
+      105,
+      0,
+      111,
+      0,
+      110,
+      0,
+      91,
+      0,
+      93,
+      0,
+      44,
+      0,
+      32,
+      0,
+      65,
+      0,
+      115,
+      0,
+      115,
+      0,
+      101,
+      0,
+      109,
+      0,
+      98,
+      0,
+      108,
+      0,
+      121,
+      0,
+      45,
+      0,
+      67,
+      0,
+      83,
+      0,
+      104,
+      0,
+      97,
+      0,
+      114,
+      0,
+      112,
+      0,
+      1,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      5,
+      1,
+      1,
+      26,
+      0,
+      0,
+      0,
+      114,
+      0,
+      111,
+      0,
+      111,
+      0,
+      109,
+      0,
+      95,
+      0,
+      115,
+      0,
+      112,
+      0,
+      101,
+      0,
+      99,
+      0,
+      105,
+      0,
+      97,
+      0,
+      108,
+      0,
+      95,
+      0,
+      100,
+      0,
+      105,
+      0,
+      115,
+      0,
+      116,
+      0,
+      114,
+      0,
+      105,
+      0,
+      98,
+      0,
+      117,
+      0,
+      116,
+      0,
+      105,
+      0,
+      111,
+      0,
+      110,
+      0,
+      115,
+      0,
+      48,
+      1,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      5
+    ],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "level": "2-5",
+  "bgm_clip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "camera_bg": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "centerPoint": {
+    "x": 82,
+    "y": 82
+  },
+  "_baseManager": {
+    "m_FileID": 0,
+    "m_PathID": -7684335163399809154
+  },
+  "chest_level": 4,
+  "this_room_x": 0,
+  "this_room_y": 0,
+  "the_room": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "map_long": 4,
+  "room_end_list": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5829220408050279879
+    }
+  ],
+  "floor_list": [],
+  "useWeightedPattern": 0,
+  "floorWeight": [],
+  "floorChangeNeedCount": 0,
+  "baseTileChangeRate": 0.0,
+  "wall_list": [],
+  "obstacle_list": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7708982800858355967
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7708982800858355967
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7711962704720527740
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 606201588050583103
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 289643587246134535
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4516992988915662050
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1943029941219061167
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 116307130693693755
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 4023697638528844197
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3544512670629856309
+    }
+  ],
+  "useCustomObstacleList": 1,
+  "use_new_floor_pattern": 0,
+  "enemy_infos": [
+    {
+      "enemy": {
+        "m_FileID": 0,
+        "m_PathID": -7957557565771954452
+      },
+      "exEnemy": {
+        "m_FileID": 0,
+        "m_PathID": -3781331374371855526
+      },
+      "weight": 10,
+      "generateConditions": []
+    },
+    {
+      "enemy": {
+        "m_FileID": 0,
+        "m_PathID": -8323177614744973234
+      },
+      "exEnemy": {
+        "m_FileID": 0,
+        "m_PathID": 3631513549653799058
+      },
+      "weight": 20,
+      "generateConditions": []
+    },
+    {
+      "enemy": {
+        "m_FileID": 0,
+        "m_PathID": -9143705045276607512
+      },
+      "exEnemy": {
+        "m_FileID": 0,
+        "m_PathID": 6277706053965453602
+      },
+      "weight": 20,
+      "generateConditions": []
+    },
+    {
+      "enemy": {
+        "m_FileID": 0,
+        "m_PathID": -274201409844247489
+      },
+      "exEnemy": {
+        "m_FileID": 0,
+        "m_PathID": 3483186849101956278
+      },
+      "weight": 10,
+      "generateConditions": []
+    },
+    {
+      "enemy": {
+        "m_FileID": 0,
+        "m_PathID": -4547763795012205250
+      },
+      "exEnemy": {
+        "m_FileID": 0,
+        "m_PathID": 6062861497543883990
+      },
+      "weight": 20,
+      "generateConditions": []
+    },
+    {
+      "enemy": {
+        "m_FileID": 0,
+        "m_PathID": 2051972652644716773
+      },
+      "exEnemy": {
+        "m_FileID": 0,
+        "m_PathID": 3127498277221628038
+      },
+      "weight": 20,
+      "generateConditions": []
+    },
+    {
+      "enemy": {
+        "m_FileID": 0,
+        "m_PathID": -1607181852672265112
+      },
+      "exEnemy": {
+        "m_FileID": 0,
+        "m_PathID": -7098579879413081735
+      },
+      "weight": 10,
+      "generateConditions": []
+    },
+    {
+      "enemy": {
+        "m_FileID": 0,
+        "m_PathID": -3933464768847257778
+      },
+      "exEnemy": {
+        "m_FileID": 0,
+        "m_PathID": 4664440696281840646
+      },
+      "weight": 10,
+      "generateConditions": []
+    }
+  ],
+  "onManagerInstantiate": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onRoomCreated": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 1691681386390645343
+          },
+          "m_MethodName": "OnRoomCreated",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        },
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -6378124597846096522
+          },
+          "m_MethodName": "OnRoomCreated",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        },
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 7295267895719462175
+          },
+          "m_MethodName": "OnRoomCreated",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "beforeRoomCreated": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 4929384664887349445
+          },
+          "m_MethodName": "BeforeRoomCreated",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        },
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -7036602243763333472
+          },
+          "m_MethodName": "BeforeRoomCreated",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "afterRoomCreatedEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 1691681386390645343
+          },
+          "m_MethodName": "AfterRoomCreatedEvent",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "onAfterGenerateRoomPattern": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onRoomInstantiate": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onRoomInstantiateObstacle": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 8196409207662702129
+          },
+          "m_MethodName": "OnInstantiateObstacle",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "branch_room_list": []
+}

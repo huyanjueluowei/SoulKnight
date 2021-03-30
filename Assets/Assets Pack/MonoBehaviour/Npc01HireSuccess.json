@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9098495214354578768
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7004295520844346533
+  },
+  "m_Name": "",
+  "hideObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3582861401114317259
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4877685501180859710
+    }
+  ],
+  "petPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -1237560579046530872
+  }
+}

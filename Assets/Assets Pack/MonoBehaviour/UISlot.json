@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2675303345649088846
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1525167986925845481
+  },
+  "m_Name": "",
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "awake": 1,
+  "reslut": [
+    0,
+    0,
+    0
+  ],
+  "bullet_boom": {
+    "m_FileID": 0,
+    "m_PathID": 4598804307132084426
+  },
+  "levelup_clip": {
+    "m_FileID": 0,
+    "m_PathID": 5176889906864298679
+  },
+  "error_clip": {
+    "m_FileID": 0,
+    "m_PathID": -2662607896134422115
+  },
+  "gems_icon": {
+    "m_FileID": 0,
+    "m_PathID": 6624518080793128174
+  },
+  "gems_icon2": {
+    "m_FileID": 0,
+    "m_PathID": -128933244921816288
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3228182500194841499
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8614027350867568184
+  },
+  "m_Name": "",
+  "targetObj": {
+    "m_FileID": 0,
+    "m_PathID": 4293670498047814645
+  },
+  "validSkins": [
+    {
+      "hero": 2,
+      "skinIndex": 6,
+      "position": {
+        "x": 0.0,
+        "y": 2.1,
+        "z": 0.0
+      }
+    }
+  ]
+}

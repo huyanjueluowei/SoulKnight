@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 31
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 114
+  },
+  "m_Name": "",
+  "boss_logo": {
+    "m_FileID": 3,
+    "m_PathID": -767567638623847008
+  },
+  "special_logo": {
+    "m_FileID": 3,
+    "m_PathID": -7676328036675337508
+  },
+  "chest_logo": {
+    "m_FileID": 3,
+    "m_PathID": 5622851051793106809
+  },
+  "home_logo": {
+    "m_FileID": 3,
+    "m_PathID": -2577946329355324422
+  },
+  "cage_logo": {
+    "m_FileID": 3,
+    "m_PathID": -971038367638907866
+  },
+  "color_0": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "color_1": {
+    "r": 0.7058823,
+    "g": 0.7058823,
+    "b": 0.7058823,
+    "a": 0.784313738
+  },
+  "color_2": {
+    "r": 0.274509817,
+    "g": 0.274509817,
+    "b": 0.274509817,
+    "a": 0.784313738
+  }
+}

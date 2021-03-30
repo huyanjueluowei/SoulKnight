@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3203737345418518288
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3798107910352256237
+  },
+  "m_Name": "",
+  "awake": 0,
+  "dead": 0,
+  "p_index": 0,
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rigibody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "target_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fixed_angle": 0.0,
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "state": 0,
+  "damage": 2,
+  "move_direction": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "min_distance": 100.0,
+  "scout_rate": 0.5,
+  "atk_cd": 2.5,
+  "summon": 0,
+  "can_atk": 1,
+  "master_tf": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "min_follow_distance": 2.0,
+  "max_follow_distance": 20.0,
+  "OnAttackStart": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "ignoreAllAlone": 1,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "is_char": 0,
+  "is_phantom": 0,
+  "isSummon": 1,
+  "talk_get_mercenary": "",
+  "talk_fire": [],
+  "talk_finish": [],
+  "talk_dead": "...",
+  "talk_pick_weapon": "",
+  "aiLevel": 8,
+  "escape_from_cage": 0,
+  "is_melee": 0,
+  "atk_range": 8.0,
+  "atk_mode": 0,
+  "focus_time": 1.0,
+  "back_min": 1,
+  "back_max": 5,
+  "validWeaponScript": [],
+  "validWeaponType": [],
+  "allianceTarget": 0
+}

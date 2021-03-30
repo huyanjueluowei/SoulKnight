@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -288417567096796442
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6396672920866898586
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "npc/promote",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "uiPrefab": "window_promotion",
+  "gemsIcon": {
+    "m_FileID": 1,
+    "m_PathID": -8664936848216772103
+  },
+  "gameId": "",
+  "movable": 0,
+  "moveSpeed": 2.5,
+  "speedReduce": 0.99
+}

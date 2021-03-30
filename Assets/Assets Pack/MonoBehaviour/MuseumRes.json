@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4271687893046236637
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4962986856635069891
+  },
+  "m_Name": "",
+  "boards": [
+    {
+      "m_FileID": 3,
+      "m_PathID": 9174073701824102213
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -2451462726232523623
+    }
+  ],
+  "edges_normal": [
+    {
+      "m_FileID": 3,
+      "m_PathID": -9187435937714436750
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -2182695880598376487
+    }
+  ],
+  "edges_badass": [
+    {
+      "m_FileID": 3,
+      "m_PathID": -2626475765046613160
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -1074278395443552120
+    }
+  ],
+  "season_prizes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -2471414582821252208
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 6110267264026312283
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 7298021856698531069
+    }
+  ]
+}

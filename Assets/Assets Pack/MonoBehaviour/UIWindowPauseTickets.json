@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 353
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 93
+  },
+  "m_Name": "",
+  "rebornCardConfig": {
+    "normalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "inactiveColor": {
+      "r": 0.360784322,
+      "g": 0.360784322,
+      "b": 0.360784322,
+      "a": 0.8862745
+    }
+  },
+  "rebornImage": {
+    "m_FileID": 0,
+    "m_PathID": 1432
+  },
+  "hopperTicketView": {
+    "hopperTicketObject": {
+      "m_FileID": 0,
+      "m_PathID": 273
+    },
+    "freeStateModels": [
+      {
+        "stateText": {
+          "m_FileID": 0,
+          "m_PathID": 1387
+        },
+        "modeName": "BossRush"
+      },
+      {
+        "stateText": {
+          "m_FileID": 0,
+          "m_PathID": 1386
+        },
+        "modeName": "Defence"
+      }
+    ]
+  },
+  "uiWindowPause": {
+    "m_FileID": 0,
+    "m_PathID": 1467
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 272041258329467803
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7070688974139031367
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [
+      45,
+      1,
+      15,
+      0,
+      0,
+      0,
+      100,
+      0,
+      114,
+      0,
+      105,
+      0,
+      110,
+      0,
+      107,
+      0,
+      68,
+      0,
+      105,
+      0,
+      115,
+      0,
+      116,
+      0,
+      114,
+      0,
+      105,
+      0,
+      98,
+      0,
+      117,
+      0,
+      116,
+      0,
+      101,
+      0
+    ],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "char_npc_type": 8,
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": -6439993345896670778
+  },
+  "char_index": 11,
+  "talk_name": "Character11_name_skin0",
+  "talk_string1": "Character11_talk1",
+  "talk_string2": "Character11_talk2",
+  "the_object": {
+    "m_FileID": 1,
+    "m_PathID": -7719692127683324532
+  },
+  "item_value": 0
+}

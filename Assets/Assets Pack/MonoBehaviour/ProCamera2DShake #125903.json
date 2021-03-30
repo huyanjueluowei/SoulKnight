@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 10
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 35
+  },
+  "m_Name": "",
+  "ProCamera2D": {
+    "m_FileID": 0,
+    "m_PathID": 119
+  },
+  "Strength": {
+    "x": 2.0,
+    "y": 2.0
+  },
+  "Duration": 0.3,
+  "Vibrato": 10,
+  "Randomness": 0.1,
+  "Smoothness": 0.1,
+  "InitialAngle": 0.0,
+  "UseRandomInitialAngle": 0,
+  "Rotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 3.0
+  },
+  "IgnoreTimeScale": 0,
+  "ShakePresets": []
+}

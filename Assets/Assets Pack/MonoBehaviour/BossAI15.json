@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1362890924884855365
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6963062257066950979
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 0,
+    "m_PathID": -4912060361879732615
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 22,
+  "enemyTag": 20,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "boss15",
+  "ai_level": 1,
+  "consume": 50,
+  "e_size": 2,
+  "reward_rate": 100,
+  "reward_value": [
+    5,
+    3,
+    0,
+    10
+  ],
+  "shoot_cd": 2.0,
+  "friction": 0.7,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 0.3,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bullets": [],
+  "boss_clip": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -5204139684259155487
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -1765832051076196083
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -6209751179876916391
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -1030642333278441972
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 4316199098600088263
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8925017486794324806
+    }
+  ],
+  "angry_clip": {
+    "m_FileID": 0,
+    "m_PathID": -3309911433813349449
+  },
+  "boss_weapon": {
+    "m_FileID": 2,
+    "m_PathID": 1840572932117064666
+  },
+  "levelModeDropWeapon": 1,
+  "doubleboss_offset": {
+    "x": 2.0,
+    "y": 0.0
+  },
+  "bullet01": {
+    "m_FileID": 3,
+    "m_PathID": -3447612525784300068
+  },
+  "bullet02": {
+    "m_FileID": 3,
+    "m_PathID": 3904344245950065695
+  },
+  "bullet03": {
+    "m_FileID": 3,
+    "m_PathID": -8581832644604583940
+  },
+  "bullet04": {
+    "m_FileID": 3,
+    "m_PathID": -6214431351729628238
+  },
+  "bullet05": {
+    "m_FileID": 3,
+    "m_PathID": -3561354627053175784
+  },
+  "bullet06": {
+    "m_FileID": 0,
+    "m_PathID": -273714849037375640
+  },
+  "ghost_count": 3,
+  "bulletPoly": {
+    "m_FileID": 2,
+    "m_PathID": -4822465842016716682
+  }
+}

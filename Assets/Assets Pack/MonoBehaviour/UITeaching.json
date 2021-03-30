@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8236403863816812127
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5451591102089642669
+  },
+  "m_Name": "",
+  "tip_list": [
+    "I_teaching_00",
+    "I_teaching_001",
+    "I_teaching_01"
+  ],
+  "point_list": [
+    {
+      "x": 1180.0,
+      "y": 120.0
+    },
+    {
+      "x": 1180.0,
+      "y": 260.0
+    }
+  ],
+  "teach_target_infos": [
+    {
+      "canvas_name": "Canvas",
+      "canvas_path": "control/btn_skill"
+    },
+    {
+      "canvas_name": "Canvas",
+      "canvas_path": "control/btn_weapon"
+    }
+  ]
+}

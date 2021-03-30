@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3162351923115293922
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4134030011689234996
+  },
+  "m_Name": "",
+  "hitEffect": {
+    "m_FileID": 1,
+    "m_PathID": 7863834224160470188
+  },
+  "delayTime": 1.0,
+  "startClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "hitClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

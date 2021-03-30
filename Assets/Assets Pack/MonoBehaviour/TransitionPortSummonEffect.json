@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1315161471028220073
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8581434879438290201
+  },
+  "m_Name": "",
+  "effectPosition": {
+    "x": 0.0,
+    "y": 2.15,
+    "z": 0.0
+  },
+  "effectPrefab": {
+    "m_FileID": 2,
+    "m_PathID": -7069108922142801098
+  },
+  "delayTime": 0.5,
+  "effectScale": 1.0
+}

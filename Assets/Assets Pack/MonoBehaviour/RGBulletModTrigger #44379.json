@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5578116897325748402
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3468313515912567983
+  },
+  "m_Name": "",
+  "damage": 2,
+  "critical": 0,
+  "hit_object": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "buffMark": ""
+}

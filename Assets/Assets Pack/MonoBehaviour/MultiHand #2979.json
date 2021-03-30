@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4776231803881824317
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3822521117519450638
+  },
+  "m_Name": "",
+  "target_layer": 7,
+  "front_weapon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "handTarget": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "max_angle": 90,
+  "allShoot": 0,
+  "playAni": 1,
+  "needLock": 0,
+  "continuous": 0,
+  "autoUse": 0,
+  "autoSwitch": 0,
+  "weaponSpeed": 1.0,
+  "weapons": [],
+  "_consume": -1
+}

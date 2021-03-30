@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 274
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 73
+  },
+  "m_Name": "",
+  "syncMode": 0,
+  "syncInterval": 0.1,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "isServerController": 0,
+  "needSendEnterMultiRoom": 0
+}

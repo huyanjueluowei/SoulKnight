@@ -1,0 +1,268 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -834270210865507331
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1629212815666209883
+  },
+  "m_Name": "",
+  "awake": 0,
+  "dead": 0,
+  "p_index": 0,
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rigibody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "target_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fixed_angle": 0.0,
+  "clip_skill": {
+    "m_FileID": 0,
+    "m_PathID": -6439993345896670778
+  },
+  "clip_hit": {
+    "m_FileID": 0,
+    "m_PathID": -1529775803319007610
+  },
+  "skills": [
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 819990493810905729
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -6439993345896670778
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6439993345896670778
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6439993345896670778
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6439993345896670778
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4036030280357970862
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6439993345896670778
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6439993345896670778
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6439993345896670778
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7719692127683324532
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1731696751510573256
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 0,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "maxTime": 0.0,
+      "maxCount": 0,
+      "cd": 2.5,
+      "price": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 7371249041047437163
+      },
+      "audioClips": [],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -528516757448091264
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -528516757448091264
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -528516757448091264
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -528516757448091264
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -528516757448091264
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1870567214951968172
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8773122171832208808
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6753574578750998839
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6240964272079082689
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 0,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "maxTime": 0.0,
+      "maxCount": 0,
+      "cd": 12.0,
+      "price": -1
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 1601707630491031577
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7785051889859731414
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -1340266337134668219
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 0,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": -7383977686106085951
+      },
+      "maxTime": 0.0,
+      "maxCount": 0,
+      "cd": 10.0,
+      "price": 10000
+    }
+  ],
+  "in_battle": 0,
+  "statuePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "skillIndex": 0,
+  "skill_obj1": {
+    "m_FileID": 0,
+    "m_PathID": -7719692127683324532
+  },
+  "skill_obj2": {
+    "m_FileID": 0,
+    "m_PathID": -1731696751510573256
+  },
+  "skill_clips": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6439993345896670778
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6439993345896670778
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6439993345896670778
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6439993345896670778
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4036030280357970862
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4036030280357970862
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6182409531669778274
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6439993345896670778
+    }
+  ],
+  "skill2_clips": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8430954511190068215
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8430954511190068215
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8430954511190068215
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8430954511190068215
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8430954511190068215
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4659105123406697326
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5287165363637959095
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5287165363637959095
+    }
+  ],
+  "skill_show_effects": []
+}

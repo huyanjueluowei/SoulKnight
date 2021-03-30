@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8155102463088030231
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -883191684177392132
+  },
+  "m_Name": "",
+  "head": {
+    "m_FileID": 0,
+    "m_PathID": -3723590704413495137
+  },
+  "body": {
+    "m_FileID": 0,
+    "m_PathID": 1764477998212333417
+  },
+  "tail": {
+    "m_FileID": 0,
+    "m_PathID": -2513414658804592690
+  },
+  "power": {
+    "m_FileID": 0,
+    "m_PathID": -4563933363141913963
+  },
+  "offset_x_speed": -2.5,
+  "offset_count": 0.0,
+  "curve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 3.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3.01218939,
+        "value": 0.672485232,
+        "inSlope": -1.47695708,
+        "outSlope": -1.47695708,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.307414263
+      },
+      {
+        "time": 4.0,
+        "value": 0.15,
+        "inSlope": -0.1048513,
+        "outSlope": -0.1048513,
+        "weightedMode": 0,
+        "inWeight": 1.0,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

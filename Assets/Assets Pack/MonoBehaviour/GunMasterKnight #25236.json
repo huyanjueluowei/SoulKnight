@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5069919356104522204
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7075000770020967399
+  },
+  "m_Name": "",
+  "weapon_type": 14,
+  "weapon_tags": [],
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": -1394743294411731189
+  },
+  "activate": 1,
+  "item_level": 1,
+  "item_value": 20,
+  "bulletsInfo": [
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 3205921451686524956
+      },
+      "speed": 36.0,
+      "size": 1.0,
+      "damage": 4,
+      "critic": 0,
+      "repel": 2,
+      "throughCount": 0
+    }
+  ],
+  "deviation": 7,
+  "consume": 0,
+  "weapon_speed": 1.1,
+  "atk_move_speed": -0.1,
+  "need_lock": 1,
+  "has_effect": 0,
+  "is_melee": 0,
+  "not_forgeable": 1,
+  "can_use": 1,
+  "limitUseInMultiRoom": 0,
+  "need_set_trigger_start": 0,
+  "probability": 8,
+  "multiCount": 5,
+  "speed_correction": 15,
+  "angle": 5,
+  "max_audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": -6825057062157277178
+  },
+  "master_skin_index": 5,
+  "master2_skin_index": 0,
+  "master_skill_sprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6416562154871690181
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7314393274297083032
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1050259342137640157
+    }
+  ],
+  "init_sprite": {
+    "m_FileID": 0,
+    "m_PathID": -5801807736126808057
+  }
+}

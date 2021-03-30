@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7807678898590369610
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 288660131578074419
+  },
+  "m_Name": "",
+  "reloadAfterSell": 0,
+  "maxRefreshTime": 0
+}

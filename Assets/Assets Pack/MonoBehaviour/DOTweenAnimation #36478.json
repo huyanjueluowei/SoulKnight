@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1122923269895061592
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6380373314413769357
+  },
+  "m_Name": "",
+  "updateType": 0,
+  "isSpeedBased": 0,
+  "hasOnStart": 0,
+  "hasOnPlay": 0,
+  "hasOnUpdate": 0,
+  "hasOnStepComplete": 0,
+  "hasOnComplete": 0,
+  "hasOnTweenCreated": 0,
+  "hasOnRewind": 0,
+  "onStart": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onPlay": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onUpdate": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onStepComplete": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onComplete": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onTweenCreated": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onRewind": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "delay": 0.05,
+  "duration": 0.2,
+  "easeType": 6,
+  "easeCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "loopType": 0,
+  "loops": 1,
+  "id": "",
+  "isRelative": 0,
+  "isFrom": 0,
+  "isIndependentUpdate": 0,
+  "autoKill": 1,
+  "isActive": 1,
+  "isValid": 1,
+  "target": {
+    "m_FileID": 0,
+    "m_PathID": 8093850491066297331
+  },
+  "animationType": 7,
+  "targetType": 7,
+  "forcedTargetType": 0,
+  "autoPlay": 1,
+  "useTargetAsV3": 0,
+  "endValueFloat": 0.0,
+  "endValueV3": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "endValueV2": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "endValueColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "endValueString": "",
+  "endValueRect": {
+    "x": 0.0,
+    "y": 0.0,
+    "width": 0.0,
+    "height": 0.0
+  },
+  "endValueTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "optionalBool0": 0,
+  "optionalFloat0": 0.0,
+  "optionalInt0": 0,
+  "optionalRotationMode": 0,
+  "optionalScrambleMode": 0,
+  "optionalString": ""
+}

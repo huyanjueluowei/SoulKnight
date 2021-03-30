@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2317074223457300321
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1693932716383516622
+  },
+  "m_Name": "",
+  "armorModel": {
+    "m_FileID": 0,
+    "m_PathID": -4670349809690932120
+  },
+  "armorDamage": 2
+}

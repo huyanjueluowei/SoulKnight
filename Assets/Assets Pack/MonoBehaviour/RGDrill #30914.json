@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6173776117580839420
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 97726218901679290
+  },
+  "m_Name": "",
+  "damageType": 131586,
+  "camp": 0,
+  "splitOffset": 0.8
+}

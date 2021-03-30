@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4327197595513922364
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3337858365660888240
+  },
+  "m_Name": "",
+  "animationTime": 1.5,
+  "initDelay": 0.0,
+  "swampEntrancePosition": {
+    "x": 4.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "scaleAnimCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 0.575291753,
+        "value": 0.281024069,
+        "inSlope": 0.753591239,
+        "outSlope": 0.753591239,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.168002024
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "rotationAmount": 360.0
+}

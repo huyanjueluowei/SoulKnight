@@ -1,0 +1,95 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 76
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 95
+  },
+  "m_Name": "",
+  "emotion_btn_rect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "netSps": [
+    {
+      "m_FileID": 3,
+      "m_PathID": -9160414316850770154
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -895781349466042902
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -7180181567096729109
+    }
+  ],
+  "canvas_world": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "temp_ui": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "object_level": [
+    {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    {
+      "r": 0.239215687,
+      "g": 0.8862745,
+      "b": 0.3529412,
+      "a": 1.0
+    },
+    {
+      "r": 0.05490196,
+      "g": 0.647058845,
+      "b": 1.0,
+      "a": 1.0
+    },
+    {
+      "r": 0.744952857,
+      "g": 0.0289251544,
+      "b": 0.786764741,
+      "a": 1.0
+    },
+    {
+      "r": 1.0,
+      "g": 0.56078434,
+      "b": 0.003921569,
+      "a": 1.0
+    },
+    {
+      "r": 0.882352948,
+      "g": 0.101960786,
+      "b": 0.101960786,
+      "a": 1.0
+    }
+  ],
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "control_mode": 0,
+  "axis_mode": 0,
+  "switchBettleUI": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "useSwitchControl": 1,
+  "stateBarInvalidColor": {
+    "r": 0.235849082,
+    "g": 0.235849082,
+    "b": 0.235849082,
+    "a": 1.0
+  },
+  "stateBarInvalidText": "???/???",
+  "coinInvalidText": "???"
+}

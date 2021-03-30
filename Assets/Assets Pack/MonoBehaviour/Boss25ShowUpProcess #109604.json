@@ -1,0 +1,127 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3889584152883132569
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4137239413847864724
+  },
+  "m_Name": "",
+  "animationObject": {
+    "m_FileID": 0,
+    "m_PathID": 1532827365944595581
+  },
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": 1646939216178829548
+  },
+  "animBoss25ImgTransform": {
+    "m_FileID": 0,
+    "m_PathID": -7714534794812769518
+  },
+  "showAnimKey": "show",
+  "animCompleteCallbackKey": "complete",
+  "uiMask": {
+    "m_FileID": 0,
+    "m_PathID": 6587911274887567769
+  },
+  "uiMaskDuration": 0.2,
+  "cameraMoveDuration": 0.0,
+  "cameraTargetTransform": {
+    "m_FileID": 0,
+    "m_PathID": 2136292758465843638
+  },
+  "cameraCenterOffset": {
+    "x": 0.0,
+    "y": 1.0
+  },
+  "bossId": "boss27",
+  "onShowComplete": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -8091080857280986868
+          },
+          "m_MethodName": "SetActive",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        },
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 1927315784057553072
+          },
+          "m_MethodName": "SetActive",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        },
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 6566318217660158656
+          },
+          "m_MethodName": "SetActive",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        },
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 5369082373486429969
+          },
+          "m_MethodName": "SetActive",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  }
+}

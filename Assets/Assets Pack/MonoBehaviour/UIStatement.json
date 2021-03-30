@@ -1,0 +1,153 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 27
+  },
+  "m_Name": "",
+  "cartons_open": {
+    "m_FileID": 4,
+    "m_PathID": 4868746616103613828
+  },
+  "object_img": [
+    {
+      "m_FileID": 4,
+      "m_PathID": 4156066875714249232
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 47
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -4447257103808143787
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 49
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 7180554140360840880
+    },
+    {
+      "m_FileID": 5,
+      "m_PathID": -1088557949365611158
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -2667954054484714054
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -9107189734596130106
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 6378025285214700182
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 44
+    }
+  ],
+  "object_name": [
+    "Object_cellar",
+    "Object_workshop",
+    "Object_safe",
+    "Object_garden",
+    "Object_book",
+    "Object_task",
+    "Object_petfood",
+    "Object_plant",
+    "Object_hostess",
+    "item/gate_defence"
+  ],
+  "magic_area_img": {
+    "m_FileID": 1,
+    "m_PathID": 60
+  },
+  "magic_area_name": "Object_magiczone",
+  "magic_stone_sps": [
+    {
+      "m_FileID": 6,
+      "m_PathID": -7995476334936356357
+    },
+    {
+      "m_FileID": 6,
+      "m_PathID": -4654417778031748979
+    },
+    {
+      "m_FileID": 6,
+      "m_PathID": -4102036030137304840
+    },
+    {
+      "m_FileID": 6,
+      "m_PathID": -5324052527869142765
+    },
+    {
+      "m_FileID": 6,
+      "m_PathID": -6438212019338349169
+    },
+    {
+      "m_FileID": 6,
+      "m_PathID": -341856127873610206
+    }
+  ],
+  "magic_stone_light_color": [
+    {
+      "r": 0.141176477,
+      "g": 1.0,
+      "b": 0.3254902,
+      "a": 1.0
+    },
+    {
+      "r": 0.870588243,
+      "g": 0.3764706,
+      "b": 0.192156866,
+      "a": 1.0
+    },
+    {
+      "r": 0.141176477,
+      "g": 0.6431373,
+      "b": 1.0,
+      "a": 1.0
+    },
+    {
+      "r": 0.9882353,
+      "g": 0.141176477,
+      "b": 1.0,
+      "a": 1.0
+    },
+    {
+      "r": 0.694117665,
+      "g": 0.368627459,
+      "b": 0.870588243,
+      "a": 1.0
+    },
+    {
+      "r": 1.0,
+      "g": 0.2627451,
+      "b": 0.141176477,
+      "a": 1.0
+    }
+  ],
+  "gamemode_icons": [
+    {
+      "m_FileID": 3,
+      "m_PathID": 926168437587299172
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 3433986151687885224
+    }
+  ],
+  "get_award_clip": {
+    "m_FileID": 1,
+    "m_PathID": 17
+  }
+}

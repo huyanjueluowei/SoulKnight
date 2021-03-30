@@ -1,0 +1,167 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8476663528018852715
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6860665290230757575
+  },
+  "m_Name": "",
+  "awake": 0,
+  "dead": 0,
+  "p_index": 0,
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rigibody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "target_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fixed_angle": 0.0,
+  "clip_skill": {
+    "m_FileID": 0,
+    "m_PathID": -7326920467610586067
+  },
+  "clip_hit": {
+    "m_FileID": 0,
+    "m_PathID": -8481735201391930515
+  },
+  "skills": [
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 8043672919030593136
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 5536464364534366918
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -6584151050188802737
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6185951267028220300
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1276459874087227876
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -719681399069491514
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5018387475841716299
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 0,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "maxTime": 0.0,
+      "maxCount": 0,
+      "cd": 8.5,
+      "price": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -5678287254885339398
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 2194855489963722353
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -724327543301322608
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6405394534811669426
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -724327543301322608
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4442249912616922387
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4344627891924545134
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 1,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "maxTime": 5.0,
+      "maxCount": 0,
+      "cd": 10.0,
+      "price": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 225848535162609328
+      },
+      "audioClips": [],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 3719900825162897356
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8349719384819938959
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 1,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": -5391290772748241601
+      },
+      "maxTime": 2.5,
+      "maxCount": 0,
+      "cd": 11.0,
+      "price": 10000
+    }
+  ],
+  "in_battle": 0,
+  "statuePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "skillIndex": 0,
+  "skill1FadeShader": {
+    "m_FileID": 0,
+    "m_PathID": -9158833772137298309
+  }
+}

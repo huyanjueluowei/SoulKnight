@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4802226980571627479
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5346678733927163929
+  },
+  "m_Name": "",
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": -6157145428504221030
+  },
+  "activate": 1,
+  "atk": 2,
+  "repel": 3,
+  "bullet": {
+    "m_FileID": 0,
+    "m_PathID": -519190853546482194
+  },
+  "bullet_speed": 24.0,
+  "deviation": 5,
+  "can_through": 0,
+  "need_lock": 1,
+  "facing": 1,
+  "fx_play_alone": 1,
+  "aim": {
+    "m_FileID": 0,
+    "m_PathID": -2376159883086853546
+  },
+  "shootDelayTime": 0.5,
+  "atkDuration": 1.0,
+  "laserPrepareTime": 0.5,
+  "endDuration": 0.3,
+  "weaponSpriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -1168582444156360513
+  },
+  "idleSprite": {
+    "m_FileID": 0,
+    "m_PathID": -7678859791717390341
+  },
+  "attackSprite": {
+    "m_FileID": 0,
+    "m_PathID": 3172910253960536604
+  }
+}

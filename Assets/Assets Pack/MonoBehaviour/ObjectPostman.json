@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3566426296136302473
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -975356331144564162
+  },
+  "m_Name": "",
+  "spriteObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "award_clip": {
+    "m_FileID": 1,
+    "m_PathID": -1269844055970695828
+  },
+  "gems_icon": {
+    "m_FileID": 0,
+    "m_PathID": 1802532210995029630
+  },
+  "packageProto": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

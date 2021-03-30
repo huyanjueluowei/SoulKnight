@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -382889293658704824
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -988449787484764462
+  },
+  "m_Name": "",
+  "sourceWeapons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -382889293658704824
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -382889293658704824
+    }
+  ],
+  "targetWeapon": {
+    "m_FileID": 0,
+    "m_PathID": -6250321086816646160
+  }
+}

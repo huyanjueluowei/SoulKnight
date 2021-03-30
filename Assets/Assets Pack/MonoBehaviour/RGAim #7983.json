@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1881801198962760180
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3415835059566685684
+  },
+  "m_Name": "",
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": -5898441787356934763
+  },
+  "isEnemy": 0
+}

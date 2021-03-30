@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2314318236123567553
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1094912152926307001
+  },
+  "m_Name": "",
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": 3150488904984120107
+  },
+  "mercenarySkins": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4056516077243444269
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6086458543889575921
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6144646721419349974
+    }
+  ]
+}

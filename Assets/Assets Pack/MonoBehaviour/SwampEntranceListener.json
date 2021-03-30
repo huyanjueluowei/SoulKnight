@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4237452119518981896
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5585433405963122912
+  },
+  "m_Name": "",
+  "bossRoomPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 6309937165295312693
+  },
+  "bossRoomType": 2,
+  "entranceGatePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2254681703980883886
+  },
+  "originalGatePosition": {
+    "x": -4.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "swampGatePosition": {
+    "x": 4.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

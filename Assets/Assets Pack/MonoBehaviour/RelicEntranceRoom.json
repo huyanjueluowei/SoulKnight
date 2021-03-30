@@ -1,0 +1,409 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2317880336336702636
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2389424007060759335
+  },
+  "m_Name": "",
+  "levelPatternConfig": {
+    "m_FileID": 0,
+    "m_PathID": -7279526967115119942
+  },
+  "runePrefabs": [
+    {
+      "prefab": {
+        "m_FileID": 0,
+        "m_PathID": -6766844946068113714
+      },
+      "coloredTile": {
+        "m_FileID": 0,
+        "m_PathID": -472382016039852268
+      },
+      "index": 1
+    },
+    {
+      "prefab": {
+        "m_FileID": 0,
+        "m_PathID": 2753697370966527191
+      },
+      "coloredTile": {
+        "m_FileID": 0,
+        "m_PathID": 5217556643124809983
+      },
+      "index": 2
+    },
+    {
+      "prefab": {
+        "m_FileID": 0,
+        "m_PathID": 5344958218030210865
+      },
+      "coloredTile": {
+        "m_FileID": 0,
+        "m_PathID": -844490063724797840
+      },
+      "index": 3
+    },
+    {
+      "prefab": {
+        "m_FileID": 0,
+        "m_PathID": -8159977070675720338
+      },
+      "coloredTile": {
+        "m_FileID": 0,
+        "m_PathID": 2876289583953542648
+      },
+      "index": 4
+    },
+    {
+      "prefab": {
+        "m_FileID": 0,
+        "m_PathID": -7868821468793831702
+      },
+      "coloredTile": {
+        "m_FileID": 0,
+        "m_PathID": 3629706758004713995
+      },
+      "index": 5
+    }
+  ],
+  "runeControllers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2278564321850841102
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -522817632979235239
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 539246488385996231
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4048958167969042124
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8675933555212614924
+    }
+  ],
+  "relicEntranceGate": {
+    "m_FileID": 0,
+    "m_PathID": 5230635651933123009
+  },
+  "onComplete": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 5230635651933123009
+          },
+          "m_MethodName": "OpenDoor",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "runeParentTransform": {
+    "m_FileID": 0,
+    "m_PathID": 4096986945342970720
+  },
+  "runePositionOffset": {
+    "x": -2.0,
+    "y": -2.0,
+    "z": 0.0
+  },
+  "room": {
+    "m_FileID": 0,
+    "m_PathID": 3285721461954040916
+  },
+  "cameraFocus": {
+    "m_FileID": 0,
+    "m_PathID": 2180695784125885919
+  },
+  "controlDuration": 0.1,
+  "puzzleDuration": 90.0,
+  "lightPointerPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 8255530446647190516
+  },
+  "pointerMoveDuration": 0.2,
+  "pointerFadeDuration": 0.1,
+  "pointerAlpha": 0.15,
+  "controllerActiveDuration": 0.3,
+  "runeEffectPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 215794624228821209
+  },
+  "pointerFailShakeDuration": 0.1,
+  "pointerFailShakeStrength": {
+    "x": 0.05,
+    "y": 0.05,
+    "z": 0.0
+  },
+  "pointerFailShakeVibrato": 3,
+  "startTriggerEffectDuration": 0.2,
+  "completeControllerDelay": 0.3,
+  "completeFadeDuration": 0.5,
+  "completeTileColor": {
+    "r": 0.874,
+    "g": 0.874,
+    "b": 0.874,
+    "a": 0.298039228
+  },
+  "fadeInRenderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7406753748509523266
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3976503015358267150
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4886654741517857846
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6590781050666197378
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -488428535669179532
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5839563033212082481
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8521455174591677158
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7420230857443378355
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4890727916370738235
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8149441993629191106
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 183447315312274836
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3339864339302750824
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3033759131735372473
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8346435908648632828
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7008551347197980677
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4914085896437729533
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3246952051976241912
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4895149967171291066
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2966977090798566711
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1141495914306356219
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -488437507863686697
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3320116415072804547
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1509233877478403115
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3672023411650187442
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5013928402489040142
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 423567207981284710
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7524754810442307221
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5473037583583543894
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3925879613983756339
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 408867272613332870
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8615882842365852993
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1293268161365601643
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1067814999352726721
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7973503753347685670
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5518909115364211275
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3074006720629104940
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5241357451257777538
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5941103847812945074
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7724000212596827541
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1549183174785141108
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 115418154092067580
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3570271234405996309
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 357686429271111683
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3193984246710584191
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1359484153044842082
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9032071843213008778
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4214734429994478792
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5202027796732113033
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3281365483573541947
+    }
+  ],
+  "fadeInDuration": 0.3,
+  "pointerArriveClip": {
+    "m_FileID": 0,
+    "m_PathID": 6313430333720706424
+  },
+  "pointerNotMoveClip": {
+    "m_FileID": 0,
+    "m_PathID": -1233463303286936860
+  },
+  "puzzleStartClip": {
+    "m_FileID": 0,
+    "m_PathID": -7504932383945451894
+  },
+  "onGameComplete": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 206862156394985965
+          },
+          "m_MethodName": "OnGameComplete",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  }
+}

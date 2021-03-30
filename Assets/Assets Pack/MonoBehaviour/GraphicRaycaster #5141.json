@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1102811172433151614
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 149582597659468005
+  },
+  "m_Name": "",
+  "m_IgnoreReversedGraphics": 1,
+  "m_BlockingObjects": 0,
+  "m_BlockingMask": {
+    "m_Bits": 4294967295
+  }
+}

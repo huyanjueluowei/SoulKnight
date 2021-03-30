@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1028655154078444935
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8710791613718241594
+  },
+  "m_Name": "",
+  "strengthen": 0,
+  "armor_buff": {
+    "m_FileID": 0,
+    "m_PathID": -3249634204883646581
+  },
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 5778059149852892030
+  },
+  "duration": 4.5
+}

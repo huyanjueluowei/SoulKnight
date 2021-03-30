@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6445410288996316235
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4945444708790487678
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "npc/smith",
+  "item_value": 15,
+  "repeat": 0,
+  "statisticKey": "npc_smith",
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": 5176889906864298679
+  },
+  "forging_clip": {
+    "m_FileID": 1,
+    "m_PathID": -3432046202908210464
+  },
+  "success_clip": {
+    "m_FileID": 1,
+    "m_PathID": -7319475116925131574
+  },
+  "success_text": "object/smith_done",
+  "no_money_text": "object/smith_no_money",
+  "no_suitable_weapon_text": "object/smith_no_suitable",
+  "instantiate_position": {
+    "x": -0.3,
+    "y": -1.0,
+    "z": 0.0
+  }
+}

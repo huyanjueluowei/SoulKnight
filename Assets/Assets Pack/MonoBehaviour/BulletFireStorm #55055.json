@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4467888487829225022
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3259203951108569734
+  },
+  "m_Name": "",
+  "damageType": 16,
+  "camp": 1,
+  "speed": 10.0,
+  "rigid2d": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "destroy_time": 15.0,
+  "rotate_angle": 0,
+  "awake": 1,
+  "can_rebound": 0,
+  "autoDirection": 0,
+  "repel": 0,
+  "critical": 0,
+  "sprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -409018865450487318
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6200868346876023068
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4425676303949563869
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2346716886172799792
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7912001706215526750
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4107893508071193210
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6014529499736627503
+    }
+  ],
+  "lightColors": [],
+  "trailColors": [],
+  "radiusDir": 1
+}

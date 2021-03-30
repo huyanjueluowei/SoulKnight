@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3885622177002841951
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4374885989419575360
+  },
+  "m_Name": "",
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": 2624611385742618836
+  },
+  "armorBarTransform": {
+    "m_FileID": 0,
+    "m_PathID": 1050068832914082144
+  },
+  "showAnimKey": "show",
+  "restoreDuration": 0.3,
+  "hurtDuration": 0.0
+}

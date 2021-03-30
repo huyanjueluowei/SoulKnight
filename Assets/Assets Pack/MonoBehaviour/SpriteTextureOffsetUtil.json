@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4145275689777549990
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8164086969901830962
+  },
+  "m_Name": "",
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -1828643142364343653
+  },
+  "offset_speed": {
+    "x": 0.1,
+    "y": 0.1
+  },
+  "curve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": -1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5.0,
+        "value": 1.0,
+        "inSlope": -0.00311982748,
+        "outSlope": -0.00311982748,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 1.0
+      },
+      {
+        "time": 10.0,
+        "value": -1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

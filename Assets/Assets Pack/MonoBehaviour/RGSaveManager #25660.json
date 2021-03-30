@@ -1,0 +1,1375 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7325434557747101081
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6959612292580600566
+  },
+  "m_Name": "",
+  "char_list": [
+    {
+      "char_name": "骑士",
+      "unlock": 1,
+      "level": 0,
+      "unlock_gem": 0,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        2000,
+        -2,
+        5000,
+        -3,
+        12000,
+        0,
+        -1,
+        0,
+        10000,
+        8000,
+        15000,
+        -8
+      ]
+    },
+    {
+      "char_name": "游侠",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 2000,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        2000,
+        5000,
+        5000,
+        0,
+        0,
+        -5,
+        0,
+        0,
+        8000,
+        0
+      ]
+    },
+    {
+      "char_name": "法师",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 3000,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        2000,
+        5000,
+        2000,
+        2000,
+        0,
+        0,
+        -5,
+        8000,
+        0,
+        8000,
+        -4
+      ]
+    },
+    {
+      "char_name": "刺客",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 4000,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        2000,
+        5000,
+        0,
+        2000,
+        5000,
+        0,
+        0,
+        0,
+        8000,
+        0
+      ]
+    },
+    {
+      "char_name": "炼金",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 5000,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        2000,
+        5000,
+        0,
+        8000,
+        0,
+        0,
+        -1,
+        -5
+      ]
+    },
+    {
+      "char_name": "工程师",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 0,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        2000,
+        5000,
+        0,
+        2000,
+        5000,
+        0,
+        0,
+        -5,
+        6000,
+        15000
+      ]
+    },
+    {
+      "char_name": "吸血鬼",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 0,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        2000,
+        0,
+        2000,
+        2000,
+        5000,
+        0,
+        -5,
+        0,
+        0
+      ]
+    },
+    {
+      "char_name": "圣骑士",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 0,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        2000,
+        0,
+        5000,
+        0,
+        -3,
+        -4,
+        -5,
+        -4,
+        0,
+        0,
+        -8
+      ]
+    },
+    {
+      "char_name": "精灵",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 12000,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        2000,
+        0,
+        0,
+        -3,
+        0,
+        -5,
+        0,
+        0,
+        -5
+      ]
+    },
+    {
+      "char_name": "狼人",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 0,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        2000,
+        0,
+        2000,
+        2000,
+        0,
+        2000,
+        0,
+        0,
+        -5,
+        12000,
+        -3,
+        8000,
+        0
+      ]
+    },
+    {
+      "char_name": "牧师",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 12000,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        5000,
+        2000,
+        0,
+        18000,
+        -5,
+        8000,
+        0,
+        6000,
+        8000,
+        0
+      ]
+    },
+    {
+      "char_name": "德鲁伊",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 0,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        5000,
+        0,
+        5000,
+        0,
+        0,
+        0,
+        0,
+        15000
+      ]
+    },
+    {
+      "char_name": "机器人",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 10,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        5000,
+        -1,
+        -4,
+        0,
+        -1,
+        -5,
+        6000,
+        -6,
+        15000
+      ]
+    },
+    {
+      "char_name": "狂战士",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 0,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        0,
+        -4,
+        0,
+        -5,
+        0,
+        -5,
+        12000,
+        -6,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "char_name": "死灵法师",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 0,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        -5,
+        -7,
+        10000,
+        0,
+        0
+      ]
+    },
+    {
+      "char_name": "警官",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 0,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        8000,
+        0,
+        12000,
+        -4
+      ]
+    },
+    {
+      "char_name": "道士",
+      "unlock": 0,
+      "level": 0,
+      "unlock_gem": 0,
+      "skillCount": 3,
+      "skin_list": [
+        1,
+        -6,
+        8000,
+        0,
+        0
+      ]
+    }
+  ],
+  "pet_list": [
+    {
+      "unlock": 1,
+      "unlock_gem": 1000,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 2506273103514169914
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": 1000,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 5771184646852179283
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": 1000,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -1325302123936194903
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": 1000,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 5650781173326338659
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": 1000,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 1126110153533080963
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": 0,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -7117541218572365289
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": 1000,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 9008018620013671286
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": 1000,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -303421984885510061
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": -3,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -3327813159361490860
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": -3,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -5346169502084938349
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": 6666,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -8252751993288517556
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": -1,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 35660705304719412
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": -1,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -4603829215658329847
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": -1,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -7186193774305124386
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": -1,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -5171567478132944083
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": -1,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 5090965711160510858
+      },
+      "skin_list": [
+        0
+      ]
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": -1,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -5133867657952355944
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": -2,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 1807132178858809712
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": -4,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -3088784033808985950
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": -1,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -8745818882120303887
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": -4,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -1264409714671312013
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": 3000,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 3422947503006131336
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": 2500,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 767390118012468525
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": -4,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 3932216805826514416
+      },
+      "skin_list": []
+    },
+    {
+      "unlock": 0,
+      "unlock_gem": -2,
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 889904026162921414
+      },
+      "skin_list": []
+    }
+  ],
+  "hero_skin_list": [
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -6579341754942437300
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -697687317048880075
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2893682246655137570
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7903855573894340761
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3702463533542037241
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3511419069976769239
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7895606061067452498
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6774459398792861449
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2868578275284055205
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6312229761897463045
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1447787948125540643
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7912731748840864615
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4562085534701253635
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 3432312922362956874
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7773883515709084280
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -898978429349059432
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6908346373644862697
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1869598927573573105
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2908355356126675229
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3611947796045285990
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8839206103680361705
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7107439762973538941
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1796558759746767841
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 335150034715444795
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 4120635045814312600
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -395983861087633239
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8541411011026775017
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5389588516217795704
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -593160093882881607
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1303728958389064174
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5852924277645745546
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8000882320257020798
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8854935250130456889
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4153044951960446382
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2729374595260705872
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3040401355409774522
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 52508582621563214
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2979342922471196989
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6556683990806854932
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7647981118765750846
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7920097529214159564
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4504947365060754991
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -376393294496974984
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5014226455399456109
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3063640912649345512
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 127934892435264223
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8328872012257455197
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 5292997322147844230
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2137115079192019448
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 685885423408337112
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7030303824582489307
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3774748833766412900
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8937680087520450542
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -262593416618690632
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1669330360188008917
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7526112395867480434
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -2883895602089927824
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5988146367089251082
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 57979125419328583
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1878118622477708705
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6601535811871578238
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4852965784731134543
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2429097506544409092
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2568894348517147294
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6490291042354426799
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7406620142960996248
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8708896741503668845
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -492967439914641135
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5684627813528910447
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3117253556512355024
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7495386982432187078
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5707806459526946972
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4068709697222357346
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2953954776212101287
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 9079215596258766581
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6177874276231334693
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3206374282910848844
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7417736464952791040
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2805114050175619123
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8814610381538545113
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -353904382685319203
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8167564464311227806
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8034686157900801411
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4284300318265165271
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7563019399496897527
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -448964794258410386
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8057897663571354641
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8827757514819331574
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7971672401716673341
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 4577381655759709209
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4572172929136009326
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8891354270185977963
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3695923652764359880
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2524856165971279988
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8303185566850539559
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4587623918455229146
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6200583367927210641
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8869940245543092493
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1828807886396705008
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7712566621983585941
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2819831227640344879
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6117731086358035950
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 273124099227068460
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 604161696315555610
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 140841625666318490
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 738093506819097743
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6834145083311347888
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -642977586768457614
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8084379990658283798
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 9149928380264485606
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5183791135944692104
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6160217437206265189
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8870258884699181333
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -807361174006968579
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7058285160525876957
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -815354726864526966
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 39163773781277425
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1641549284130350096
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4070848687320179547
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6721472064768908363
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7084398889521958087
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7301952119708572198
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7691737440871202528
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2769854818910634185
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 2662241246354083279
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8261349004946656317
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2076168727170008108
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1649393742854818831
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2334655766015472740
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4424249408145953993
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3789926175699395898
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -938541852925734115
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1391270637946857718
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -4600396586960645730
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7253471202253266393
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2984769502160204590
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4364430573758574638
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7084962649329448419
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5574256281791011941
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6000620503422180265
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 705430615454567149
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4899371035271700156
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3158515389436253378
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -6193974310602566726
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1046559054645710440
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5907455338533527290
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6513019288125498412
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4778790954033356572
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8286379878851324163
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7339580542053154628
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7906985049827208337
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7285933916956211400
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4663273913228976904
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3687724560066963485
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6452531443657269652
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -6726501796455064557
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1616367617350083389
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6307569116407703024
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8261378770969861018
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 261873019213982612
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5013388302980324429
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 3635451765529341040
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6911919968325703565
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5529769583605105264
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1856519416576818613
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3267147842457076463
+        }
+      ]
+    },
+    {
+      "sprite_list": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 3847250060860545054
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8347054520034618537
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7702303193568151413
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2419428050699276756
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5140537949019815675
+        }
+      ]
+    }
+  ],
+  "game_data": {
+    "usedSecretKeys": [],
+    "unlockRoomDecorate": [],
+    "currentRoomDecorate": 0,
+    "itemData": {
+      "sellerRefreshTime": 0,
+      "cumulativeFishCount": 0,
+      "itemUnlock": [],
+      "forgeWeapons": [
+        "weapon_057",
+        "weapon_062",
+        ""
+      ],
+      "mechInRoom": "",
+      "restoreKeys": [],
+      "alreadyGetRealNameAward": 0,
+      "hopperEnteredModes": [],
+      "fishChipConfigId": "",
+      "bossrush_time": 0,
+      "got_bossrush_ticket": 0,
+      "TodayStatueTimes": 0
+    },
+    "gems": 0,
+    "lastGems": 0,
+    "varGems": 0,
+    "rebornCard": 0,
+    "hasTutorial": 0,
+    "firstInRoom": 0,
+    "roomLevel": 0,
+    "fishChip": 0,
+    "gameVersion": 0,
+    "lastPlayTime": 0,
+    "totalIndex": 0,
+    "totalGameTime": 0,
+    "generalSeed": 0
+  },
+  "gems_icon": {
+    "m_FileID": 0,
+    "m_PathID": -8664936848216772103
+  },
+  "fish_icon": {
+    "m_FileID": 0,
+    "m_PathID": -335050032115725065
+  },
+  "c_levelup_gems": [
+    500,
+    1000,
+    1500,
+    2000,
+    2500,
+    5000,
+    8000
+  ],
+  "store_key": "smg"
+}

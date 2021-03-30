@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5903259671000243981
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5383512010272431867
+  },
+  "m_Name": "",
+  "m_HorizontalAxis": "Horizontal",
+  "m_VerticalAxis": "Vertical",
+  "m_SubmitButton": "Submit",
+  "m_CancelButton": "Cancel",
+  "m_InputActionsPerSecond": 10.0,
+  "m_RepeatDelay": 0.5,
+  "m_ForceModuleActive": 0
+}

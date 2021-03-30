@@ -1,0 +1,268 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2549981415615892425
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 887566994467418290
+  },
+  "m_Name": "",
+  "teamImgCfgs": [
+    {
+      "normalColor": {
+        "r": 0.2627451,
+        "g": 0.372549027,
+        "b": 0.8509804,
+        "a": 1.0
+      },
+      "bg": {
+        "m_FileID": 0,
+        "m_PathID": -4593520997947706229
+      },
+      "kickBg": {
+        "m_FileID": 0,
+        "m_PathID": 5976290873706661571
+      }
+    },
+    {
+      "normalColor": {
+        "r": 0.7058824,
+        "g": 0.152941182,
+        "b": 0.105882354,
+        "a": 1.0
+      },
+      "bg": {
+        "m_FileID": 0,
+        "m_PathID": 5246023714591238135
+      },
+      "kickBg": {
+        "m_FileID": 0,
+        "m_PathID": 5214439035879010769
+      }
+    },
+    {
+      "normalColor": {
+        "r": 0.9254902,
+        "g": 0.6627451,
+        "b": 0.243137255,
+        "a": 1.0
+      },
+      "bg": {
+        "m_FileID": 0,
+        "m_PathID": 6000965381404422419
+      },
+      "kickBg": {
+        "m_FileID": 0,
+        "m_PathID": 6747746542555558377
+      }
+    },
+    {
+      "normalColor": {
+        "r": 0.498039216,
+        "g": 0.827451,
+        "b": 0.360784322,
+        "a": 1.0
+      },
+      "bg": {
+        "m_FileID": 0,
+        "m_PathID": 6967291006091052512
+      },
+      "kickBg": {
+        "m_FileID": 0,
+        "m_PathID": -3638486779884582510
+      }
+    }
+  ],
+  "InfoPanel": {
+    "itemViews": [
+      {
+        "panel": {
+          "m_FileID": 0,
+          "m_PathID": -7317223695945538374
+        },
+        "hpImg": {
+          "m_FileID": 0,
+          "m_PathID": -4439290252022903002
+        },
+        "mpImg": {
+          "m_FileID": 0,
+          "m_PathID": -5736723875366223654
+        },
+        "headImg": {
+          "m_FileID": 0,
+          "m_PathID": -8066859844032425419
+        },
+        "headBgImg": {
+          "m_FileID": 0,
+          "m_PathID": 7776785833010486384
+        },
+        "missRoot": {
+          "m_FileID": 0,
+          "m_PathID": -7118363638193072127
+        },
+        "kickBtn": {
+          "m_FileID": 0,
+          "m_PathID": 7147930231978122548
+        },
+        "kickImg": {
+          "m_FileID": 0,
+          "m_PathID": -6937586834701251895
+        },
+        "backgroundDescText": {
+          "m_FileID": 0,
+          "m_PathID": 8893405086658845244
+        }
+      },
+      {
+        "panel": {
+          "m_FileID": 0,
+          "m_PathID": -7333172941352100192
+        },
+        "hpImg": {
+          "m_FileID": 0,
+          "m_PathID": 5844232875557957693
+        },
+        "mpImg": {
+          "m_FileID": 0,
+          "m_PathID": 4072876927027040004
+        },
+        "headImg": {
+          "m_FileID": 0,
+          "m_PathID": -8219612847581865219
+        },
+        "headBgImg": {
+          "m_FileID": 0,
+          "m_PathID": 3181337499409416759
+        },
+        "missRoot": {
+          "m_FileID": 0,
+          "m_PathID": -4304632280546114129
+        },
+        "kickBtn": {
+          "m_FileID": 0,
+          "m_PathID": -4582335283286791859
+        },
+        "kickImg": {
+          "m_FileID": 0,
+          "m_PathID": -4693797110902670313
+        },
+        "backgroundDescText": {
+          "m_FileID": 0,
+          "m_PathID": -2267492661085578350
+        }
+      },
+      {
+        "panel": {
+          "m_FileID": 0,
+          "m_PathID": 3169453016624444239
+        },
+        "hpImg": {
+          "m_FileID": 0,
+          "m_PathID": 3882588981355462061
+        },
+        "mpImg": {
+          "m_FileID": 0,
+          "m_PathID": -8022036854599379957
+        },
+        "headImg": {
+          "m_FileID": 0,
+          "m_PathID": -7987353974954814820
+        },
+        "headBgImg": {
+          "m_FileID": 0,
+          "m_PathID": -7105080325403949788
+        },
+        "missRoot": {
+          "m_FileID": 0,
+          "m_PathID": 7148800751457836852
+        },
+        "kickBtn": {
+          "m_FileID": 0,
+          "m_PathID": -1356786284551891494
+        },
+        "kickImg": {
+          "m_FileID": 0,
+          "m_PathID": 2508512648938785330
+        },
+        "backgroundDescText": {
+          "m_FileID": 0,
+          "m_PathID": -3524078576310665442
+        }
+      },
+      {
+        "panel": {
+          "m_FileID": 0,
+          "m_PathID": 9099508201006112416
+        },
+        "hpImg": {
+          "m_FileID": 0,
+          "m_PathID": -5874823056669238844
+        },
+        "mpImg": {
+          "m_FileID": 0,
+          "m_PathID": 4659121192811213073
+        },
+        "headImg": {
+          "m_FileID": 0,
+          "m_PathID": -2623162223608847313
+        },
+        "headBgImg": {
+          "m_FileID": 0,
+          "m_PathID": 8180271449215341847
+        },
+        "missRoot": {
+          "m_FileID": 0,
+          "m_PathID": -8692446713910538727
+        },
+        "kickBtn": {
+          "m_FileID": 0,
+          "m_PathID": -8887379907936541320
+        },
+        "kickImg": {
+          "m_FileID": 0,
+          "m_PathID": 4669420841030620992
+        },
+        "backgroundDescText": {
+          "m_FileID": 0,
+          "m_PathID": 2349366225067284122
+        }
+      }
+    ]
+  },
+  "offlineColor": {
+    "r": 0.5137255,
+    "g": 0.5137255,
+    "b": 0.5137255,
+    "a": 1.0
+  },
+  "offlineBg": {
+    "m_FileID": 0,
+    "m_PathID": -5343919778058671940
+  },
+  "emptySp": {
+    "m_FileID": 0,
+    "m_PathID": 3831356273125266908
+  },
+  "backgroundState": "multi/player_bg_state",
+  "kickTips": "multi/kick_player",
+  "PSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -9087190295803399501
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6789145614861624275
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5429052273333480265
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2381789620301112094
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8109554243197685610
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3910263190616953519
+  },
+  "m_Name": "",
+  "hp": 4,
+  "explode": {
+    "m_FileID": 2,
+    "m_PathID": -7976718081178035304
+  },
+  "boxDestroyEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

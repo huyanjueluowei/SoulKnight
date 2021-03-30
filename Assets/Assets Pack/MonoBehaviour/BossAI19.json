@@ -1,0 +1,136 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -458324577250974406
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2169064150578415951
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 0,
+    "m_PathID": -6377473631347012161
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 10,
+  "enemyTag": 532,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "boss19",
+  "ai_level": 1,
+  "consume": 50,
+  "e_size": 2,
+  "reward_rate": 100,
+  "reward_value": [
+    3,
+    3,
+    0,
+    10
+  ],
+  "shoot_cd": 3.0,
+  "friction": 0.0,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 0.5,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bullets": [],
+  "boss_clip": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 1705599016201267756
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -5093006080760716364
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4160523735678134816
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -5204139684259155487
+    }
+  ],
+  "angry_clip": {
+    "m_FileID": 0,
+    "m_PathID": 4160523735678134816
+  },
+  "boss_weapon": {
+    "m_FileID": 2,
+    "m_PathID": 1976446667977205909
+  },
+  "levelModeDropWeapon": 1,
+  "doubleboss_offset": {
+    "x": 2.0,
+    "y": 0.0
+  },
+  "bullet01": {
+    "m_FileID": 3,
+    "m_PathID": -2307803340101706261
+  },
+  "bullet02": {
+    "m_FileID": 3,
+    "m_PathID": -4361902470819367586
+  },
+  "bullet03": {
+    "m_FileID": 3,
+    "m_PathID": -4484584046202028102
+  },
+  "bullet04": {
+    "m_FileID": 3,
+    "m_PathID": -4292877192937992169
+  },
+  "bullet05": {
+    "m_FileID": 3,
+    "m_PathID": -4292877192937992169
+  },
+  "bullet06": {
+    "m_FileID": 3,
+    "m_PathID": -4292877192937992169
+  },
+  "bullet07": {
+    "m_FileID": 3,
+    "m_PathID": 3270141452872565635
+  },
+  "bullet08": {
+    "m_FileID": 2,
+    "m_PathID": -6496729574128041765
+  },
+  "bullet09": {
+    "m_FileID": 0,
+    "m_PathID": -1692734467942474298
+  },
+  "bullet10": {
+    "m_FileID": 0,
+    "m_PathID": 2622910154579861104
+  },
+  "big_egg_offset_y": 30.0,
+  "call_egg_count": 8
+}

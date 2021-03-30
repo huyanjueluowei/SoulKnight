@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9015879745886558375
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2693988726471376091
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "is_enemy": 1,
+  "buff_time": 10.0,
+  "canMultiple": 0,
+  "initSaturation": 0.5,
+  "maxSaturation": 4.0,
+  "maxDamage": 50,
+  "skinColorCfgs": [
+    {
+      "needChangeColor": 1,
+      "initSaturation": 0.5,
+      "maxSaturation": 4.0,
+      "hueShift": 0.0,
+      "spriteColor": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    {
+      "needChangeColor": 1,
+      "initSaturation": 0.5,
+      "maxSaturation": 4.0,
+      "hueShift": 0.0,
+      "spriteColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "needChangeColor": 1,
+      "initSaturation": 0.5,
+      "maxSaturation": 4.0,
+      "hueShift": 0.0,
+      "spriteColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "needChangeColor": 1,
+      "initSaturation": 0.5,
+      "maxSaturation": 4.0,
+      "hueShift": 0.0,
+      "spriteColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "needChangeColor": 1,
+      "initSaturation": 0.5,
+      "maxSaturation": 4.0,
+      "hueShift": 0.0,
+      "spriteColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "needChangeColor": 1,
+      "initSaturation": 0.5,
+      "maxSaturation": 4.0,
+      "hueShift": 0.0,
+      "spriteColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  ],
+  "icons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6269067773365192564
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2094504510643268697
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3029375336949874803
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1609235853665951949
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6016317695255426442
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1953986445414787159
+    }
+  ]
+}

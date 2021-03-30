@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7695924794049808604
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3586401235092102364
+  },
+  "m_Name": "",
+  "speedDown": 3.0,
+  "ignoreMount": 1
+}

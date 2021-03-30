@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3325813400593900100
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5587591082178124305
+  },
+  "m_Name": "",
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 1543899324824885940
+  },
+  "scaleTransform": {
+    "m_FileID": 0,
+    "m_PathID": -8156320613037759581
+  }
+}

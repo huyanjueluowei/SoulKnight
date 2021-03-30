@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4271687893046236637
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 201430608511646314
+  },
+  "m_Name": "",
+  "floor": {
+    "m_FileID": 0,
+    "m_PathID": -8990296530811864414
+  },
+  "booth": {
+    "m_FileID": 0,
+    "m_PathID": -8118544369232840613
+  },
+  "boothLarge": {
+    "m_FileID": 0,
+    "m_PathID": -4730121656777138430
+  },
+  "seasonPrize": {
+    "m_FileID": 0,
+    "m_PathID": 8930448908816781221
+  },
+  "barrierRight": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "barrierLeft": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "floorMap": {
+    "m_FileID": 0,
+    "m_PathID": 8070475461051176801
+  }
+}

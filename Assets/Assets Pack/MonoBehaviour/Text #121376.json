@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3993837589638611033
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1149782704495732950
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Color": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_RaycastTarget": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "m_FontData": {
+    "m_Font": {
+      "m_FileID": 2,
+      "m_PathID": 4590363050347844806
+    },
+    "m_FontSize": 32,
+    "m_FontStyle": 0,
+    "m_BestFit": 1,
+    "m_MinSize": 12,
+    "m_MaxSize": 32,
+    "m_Alignment": 4,
+    "m_AlignByGeometry": 0,
+    "m_RichText": 1,
+    "m_HorizontalOverflow": 1,
+    "m_VerticalOverflow": 1,
+    "m_LineSpacing": 1.0
+  },
+  "m_Text": "B"
+}

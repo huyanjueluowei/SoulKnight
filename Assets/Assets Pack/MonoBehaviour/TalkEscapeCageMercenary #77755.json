@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6943587868289145640
+  },
+  "m_Enabled": 0,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5909804843427115665
+  },
+  "m_Name": "",
+  "escape_talk": "cage/mercenary_talk_3",
+  "talk_transform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "label_height": 2.5,
+  "change_zero_value": 1
+}

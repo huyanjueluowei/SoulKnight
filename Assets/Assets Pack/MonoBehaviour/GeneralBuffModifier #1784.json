@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7695924794049808604
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7455253401620379825
+  },
+  "m_Name": "",
+  "buff": 5,
+  "scriptTypeName": "GunGiantBow",
+  "fieldName": "maxAtkInterval",
+  "modifyType": 1,
+  "intModifyValue": 0,
+  "floatModifyValue": 0.5
+}

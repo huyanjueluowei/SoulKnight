@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5129824707800241658
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -935745897217334902
+  },
+  "m_Name": "",
+  "force": 0.3,
+  "angleForce": 1.0,
+  "maxForce": 20,
+  "consume": 0,
+  "audio_clip": {
+    "m_FileID": 3,
+    "m_PathID": 4533874070273519759
+  },
+  "bullet": {
+    "m_FileID": 0,
+    "m_PathID": -8809823481094804429
+  }
+}

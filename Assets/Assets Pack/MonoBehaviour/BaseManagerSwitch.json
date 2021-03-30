@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4308574534487039601
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1268745971816133938
+  },
+  "m_Name": "",
+  "baseManager": {
+    "m_FileID": 0,
+    "m_PathID": 5063598740586993625
+  },
+  "troopManager": {
+    "m_FileID": 3,
+    "m_PathID": -8118275412759276748
+  }
+}

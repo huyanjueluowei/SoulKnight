@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2987811387816811830
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6526614455517452876
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "defence/npc_battery_master",
+  "item_value": 10,
+  "repeat": 1,
+  "statisticKey": "npc_battery_master",
+  "talkStates": [
+    "defence/npc_battery_master_talk"
+  ],
+  "talkFail": "",
+  "talkSuccess": "",
+  "totalState": 2
+}

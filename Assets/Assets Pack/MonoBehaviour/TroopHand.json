@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5815165572968061737
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2385144851055229976
+  },
+  "m_Name": "",
+  "target_layer": 7,
+  "front_weapon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "handTarget": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

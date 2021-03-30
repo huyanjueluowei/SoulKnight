@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 353
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 65
+  },
+  "m_Name": "",
+  "activateOnOrientation": 4,
+  "mode": 0
+}

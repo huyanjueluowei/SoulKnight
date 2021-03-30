@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3050049867974718641
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5169739212363355757
+  },
+  "m_Name": "",
+  "renderer": {
+    "m_FileID": 0,
+    "m_PathID": -5356180331507293279
+  },
+  "textureName": "_SpriteTex",
+  "hasYLimited": 0,
+  "yOffsetRange": {
+    "x": 0.0,
+    "y": 0.8
+  },
+  "hasXLimited": 0,
+  "xOffsetRange": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "distance": 0.05,
+  "initOffset": {
+    "x": 0.56,
+    "y": 0.47
+  },
+  "showRadius": 0.0,
+  "fadeName": "_Fade"
+}

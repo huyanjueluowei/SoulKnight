@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1250720596177794552
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1747339145333574283
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 0,
+    "m_PathID": -5113187824965183060
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 12,
+  "enemyTag": 2,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": -8061904937295423825
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "e_malphite01",
+  "ai_level": 3,
+  "consume": 1,
+  "e_size": 1,
+  "reward_rate": 15,
+  "reward_value": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "shoot_cd": 3.0,
+  "friction": 0.9,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 1.0,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "later_time": 1.5,
+  "bullet01": {
+    "m_FileID": 2,
+    "m_PathID": 815939732839467372
+  },
+  "bullet02": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "dead_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

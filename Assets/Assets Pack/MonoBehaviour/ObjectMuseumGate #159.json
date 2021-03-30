@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7653898045548099171
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8672083983969499891
+  },
+  "m_Name": "",
+  "text": "I_back",
+  "targetPosition": {
+    "x": 6.5,
+    "y": -38.0,
+    "z": 0.0
+  },
+  "speedRate": 0.0,
+  "labelHeight": 3.0
+}

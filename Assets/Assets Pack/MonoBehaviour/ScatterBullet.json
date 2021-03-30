@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -29471578672439631
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1856910300180150892
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "bullet": {
+    "bulletProto": {
+      "m_FileID": 3,
+      "m_PathID": 8898610930754665933
+    },
+    "speed": 12.0,
+    "size": 1.0,
+    "damage": 1,
+    "critic": 0,
+    "repel": 3,
+    "throughCount": 0
+  },
+  "bulletCount": 4,
+  "initAngleOffset": 30,
+  "deviation": 0
+}

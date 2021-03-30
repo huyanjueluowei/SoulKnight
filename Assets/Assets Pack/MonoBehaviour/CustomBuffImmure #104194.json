@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3189303780278500646
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1201766125407668188
+  },
+  "m_Name": "",
+  "immureBuff": [
+    "buff_ice",
+    "buff_ice_c05_s8"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1374201827943263494
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 78122676401483183
+  },
+  "m_Name": "",
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": 3375563172645521454
+  },
+  "string_name": "statue_kinght_name",
+  "string_info": "statue_kinght_info",
+  "item_value": 15,
+  "statue": 2
+}

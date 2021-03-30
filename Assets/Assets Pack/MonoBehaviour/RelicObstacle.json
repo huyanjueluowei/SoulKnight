@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8633349363207356625
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4115019449994445003
+  },
+  "m_Name": "",
+  "hp": 40,
+  "explode": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "boxDestroyEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 9213615566280217118
+          },
+          "m_MethodName": "OnBoxDestroy",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -19952211535975570
+  },
+  "idleSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1060712199446746893
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 932657608225855410
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7300845447005685662
+    }
+  ],
+  "destroyedSprite": {
+    "m_FileID": 0,
+    "m_PathID": -1176498441856279818
+  },
+  "spriteTransform": {
+    "m_FileID": 0,
+    "m_PathID": 7998463535504764755
+  },
+  "xRange": {
+    "x": -0.05,
+    "y": 0.05
+  },
+  "yRange": {
+    "x": -0.05,
+    "y": 0.05
+  },
+  "duration": 0.1,
+  "shakeCount": 3,
+  "effectPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 3765826598227518279
+  },
+  "effectCountRange": {
+    "x": 1,
+    "y": 5
+  },
+  "destroyEffectCountRange": {
+    "x": 5,
+    "y": 8
+  }
+}

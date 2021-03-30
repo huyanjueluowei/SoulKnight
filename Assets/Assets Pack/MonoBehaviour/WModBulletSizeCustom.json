@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5309554806479040052
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8469365212325679289
+  },
+  "m_Name": "",
+  "buff": 2,
+  "index": 2,
+  "buffScale": 2.0,
+  "damageType": 264
+}

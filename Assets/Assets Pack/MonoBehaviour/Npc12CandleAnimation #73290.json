@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1977845153060919002
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4185803388880256453
+  },
+  "m_Name": "",
+  "delay": 1.6,
+  "sprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3196983852184845011
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3355937392973076230
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7839510243096524073
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4608144076626313758
+    }
+  ],
+  "spriteAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -4529534327566405674
+  },
+  "smokeEffect": {
+    "m_FileID": 1,
+    "m_PathID": -7904729553666848654
+  },
+  "particleSystem": {
+    "m_FileID": 0,
+    "m_PathID": 299313707686823517
+  }
+}

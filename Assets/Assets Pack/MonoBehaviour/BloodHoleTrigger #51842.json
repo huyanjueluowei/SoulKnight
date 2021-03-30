@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1408130783885016516
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6369881976934704006
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "damageFactor": 1.0,
+  "isTemp": 0,
+  "damage": 2,
+  "radius": 3.0,
+  "interval": 1.0,
+  "hit_enemy": 1,
+  "hit_player": 0,
+  "max_mul_time": 1,
+  "tmp_damage": 0,
+  "bloodSpot": {
+    "m_FileID": 0,
+    "m_PathID": 2895196642128145286
+  }
+}

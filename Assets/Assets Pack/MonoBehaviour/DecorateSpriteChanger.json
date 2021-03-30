@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 273106816712673255
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6273752686318595164
+  },
+  "m_Name": "",
+  "dest_sprite": {
+    "m_FileID": 0,
+    "m_PathID": -636332799903943700
+  },
+  "skins": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5191321915285420239
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5191321915285420239
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5191321915285420239
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2333043775613612719
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2360562213286630165
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8118850624492230814
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3916338455696095381
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3916338455696095381
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2013333362750848212
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3916338455696095381
+    }
+  ]
+}

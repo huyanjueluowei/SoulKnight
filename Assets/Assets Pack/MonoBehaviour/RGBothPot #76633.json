@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8794816487385854895
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6712457179625303294
+  },
+  "m_Name": "",
+  "health": 1,
+  "energy": 40,
+  "item_value": 22,
+  "item_name": "item_dumplings",
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": 3150488904984120107
+  }
+}

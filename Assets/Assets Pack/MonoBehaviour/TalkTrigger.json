@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2430863113063258614
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8583698329884306739
+  },
+  "m_Name": "",
+  "npc_name": "item/fence_garden",
+  "talk_list": [],
+  "talk_time": [],
+  "height": 1.6
+}

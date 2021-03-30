@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7144583201454007720
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9103617812649738665
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "permanent": 1,
+  "restartState": 2,
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": -6933446156341901612
+  },
+  "usableState": 3,
+  "weapon": {
+    "m_FileID": 0,
+    "m_PathID": 9196002900586990628
+  },
+  "youngWeapon": {
+    "m_FileID": 0,
+    "m_PathID": 7015222370622075839
+  },
+  "angle": 90
+}

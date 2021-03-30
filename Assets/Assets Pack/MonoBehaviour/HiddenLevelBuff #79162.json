@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5295030355111387896
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1577137681317181673
+  },
+  "m_Name": "",
+  "positiveMarkId": "IceCaveGetHurtHp",
+  "negativeMarkId": "IceCaveReborn",
+  "troopDeadMarkId": "IceCaveTroopDead",
+  "levelClearMarkId": "level_clear_ice_cave",
+  "positiveFactor": {
+    "factor": 2002,
+    "nameKey": "task/might_name",
+    "descKey": "task/might_desc"
+  },
+  "negativeFactor": {
+    "factor": 2001,
+    "nameKey": "task/frozen_name",
+    "descKey": "task/frozen_desc"
+  }
+}

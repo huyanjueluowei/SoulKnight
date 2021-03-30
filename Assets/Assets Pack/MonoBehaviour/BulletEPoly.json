@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4822465842016716682
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3857366544525565529
+  },
+  "m_Name": "",
+  "range": 20,
+  "power": 36,
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 7714463989765790460
+  },
+  "is_poly": 1
+}

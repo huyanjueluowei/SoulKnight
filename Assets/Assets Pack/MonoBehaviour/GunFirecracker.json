@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2831725156926289582
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5982074054725847056
+  },
+  "m_Name": "",
+  "weapon_type": 11,
+  "weapon_tags": [
+    304
+  ],
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": -5320813973430249721
+  },
+  "activate": 1,
+  "item_level": 2,
+  "item_value": 26,
+  "bulletsInfo": [
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -558551817488245651
+      },
+      "speed": 14.0,
+      "size": 1.75,
+      "damage": 5,
+      "critic": 0,
+      "repel": 2,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -558238298440380908
+      },
+      "speed": 14.0,
+      "size": 1.0,
+      "damage": 2,
+      "critic": 10,
+      "repel": 0,
+      "throughCount": 0
+    }
+  ],
+  "deviation": 6,
+  "consume": 3,
+  "weapon_speed": 1.0,
+  "atk_move_speed": -0.1,
+  "need_lock": 1,
+  "has_effect": 0,
+  "is_melee": 1,
+  "not_forgeable": 0,
+  "can_use": 1,
+  "limitUseInMultiRoom": 0,
+  "multiCount": 3,
+  "angle": 15
+}

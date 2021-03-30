@@ -1,0 +1,151 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2085225744526099698
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5861016538952400421
+  },
+  "m_Name": "",
+  "emptyIndex": 0,
+  "hollowIndex": 1,
+  "obstacleBoxIndex": 2,
+  "awardBoxIndex": 3,
+  "relicFloorPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -4083705374370802917
+  },
+  "floorPositionOffset": {
+    "x": -0.5,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "obstacleBox": {
+    "prefab": {
+      "m_FileID": 0,
+      "m_PathID": 8633349363207356625
+    },
+    "size": {
+      "x": 2,
+      "y": 3
+    },
+    "positionOffset": {
+      "x": 0.51,
+      "y": 0.2,
+      "z": 0.0
+    }
+  },
+  "awardBox": {
+    "prefab": {
+      "m_FileID": 0,
+      "m_PathID": -4922553255219308010
+    },
+    "size": {
+      "x": 2,
+      "y": 3
+    },
+    "positionOffset": {
+      "x": 0.51,
+      "y": 0.2,
+      "z": 0.0
+    }
+  },
+  "levelPatternConfig": {
+    "m_FileID": 0,
+    "m_PathID": 5255806421823987491
+  },
+  "processRoomType": 1,
+  "brazierPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 7231375620054231477
+  },
+  "obstacles": [
+    {
+      "prefab": {
+        "m_FileID": 0,
+        "m_PathID": -3999864325193542613
+      },
+      "densityRange": {
+        "x": 0.015625,
+        "y": 0.03125
+      },
+      "size": {
+        "x": 4,
+        "y": 3
+      },
+      "boxContents": [],
+      "floors": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 1524850884041976163
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2869926907352986660
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4002355865283251898
+        }
+      ],
+      "positionOffset": {
+        "x": 1.5,
+        "y": 0.73,
+        "z": 0.0
+      },
+      "extraFloorRate": 51
+    }
+  ],
+  "fallColliders": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4355454910490179306
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7232240072127295208
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4685449470327256415
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3205342387373744233
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5366253556886138746
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -400704455409999466
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8410573841871477914
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8146488427220266336
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4451704670412712846
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6110050091754859671
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5841160347419796706
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6048843693287233597
+    }
+  ]
+}

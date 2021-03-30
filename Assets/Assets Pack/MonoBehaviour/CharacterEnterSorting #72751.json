@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8984706249845877403
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -640031411430126429
+  },
+  "m_Name": "",
+  "sortingSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6085526452780865513
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8751276646053939731
+    }
+  ],
+  "sortingGroups": []
+}

@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8308081627179118423
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3089546200685260800
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 2000,
+  "repeat": 0,
+  "statisticKey": "",
+  "itemType": 3,
+  "cnName": "磁带 遗迹",
+  "item_level": 0,
+  "bgmName": "bgm_8Low",
+  "tepeSprite": {
+    "m_FileID": 0,
+    "m_PathID": -802435266061490183
+  }
+}

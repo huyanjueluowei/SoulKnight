@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7578486273247935104
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8583698329884306739
+  },
+  "m_Name": "",
+  "npc_name": "dinner/guest",
+  "talk_list": [
+    "mercenary5_rejection"
+  ],
+  "talk_time": [
+    1
+  ],
+  "height": 1.6
+}

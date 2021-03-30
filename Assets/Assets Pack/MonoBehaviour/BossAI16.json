@@ -1,0 +1,134 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7292810876872351312
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8306776514789146117
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 0,
+    "m_PathID": 4729240954966274172
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 22,
+  "enemyTag": 20,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "boss16",
+  "ai_level": 2,
+  "consume": 50,
+  "e_size": 2,
+  "reward_rate": 100,
+  "reward_value": [
+    3,
+    3,
+    0,
+    7
+  ],
+  "shoot_cd": 2.0,
+  "friction": 0.0,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 0.5,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bullets": [],
+  "boss_clip": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -9088751832340747206
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -2209677309484762270
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 6713645988816589734
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4348446973511300915
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 8270253285184107491
+    }
+  ],
+  "angry_clip": {
+    "m_FileID": 0,
+    "m_PathID": -1126738032005587410
+  },
+  "boss_weapon": {
+    "m_FileID": 2,
+    "m_PathID": -5874791572236528508
+  },
+  "levelModeDropWeapon": 1,
+  "doubleboss_offset": {
+    "x": 2.0,
+    "y": 0.0
+  },
+  "aim": {
+    "m_FileID": 0,
+    "m_PathID": -2376159883086853546
+  },
+  "bullet01": {
+    "m_FileID": 3,
+    "m_PathID": -6375121971487325845
+  },
+  "bullet02_1": {
+    "m_FileID": 3,
+    "m_PathID": 702287952586584070
+  },
+  "bullet02_2": {
+    "m_FileID": 3,
+    "m_PathID": 9062102777111376161
+  },
+  "bullet03": {
+    "m_FileID": 3,
+    "m_PathID": -582718948666604326
+  },
+  "bullet04": {
+    "m_FileID": 3,
+    "m_PathID": 8898610930754665933
+  },
+  "bullet05": {
+    "m_FileID": 0,
+    "m_PathID": -5479453353343297487
+  },
+  "bullet06": {
+    "m_FileID": 3,
+    "m_PathID": 742874767089925242
+  },
+  "horsePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -5186950262829428721
+  }
+}

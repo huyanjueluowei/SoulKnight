@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3374562404804324543
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8237893948690457824
+  },
+  "m_Name": "",
+  "explodePosition": {
+    "x": 3.5,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "explodeRadius": 1.0,
+  "explodeIndex0": 1,
+  "explodeIndex1": 2,
+  "endBulletUp": {
+    "bulletCount": 4,
+    "extraBulletCount": 2,
+    "bulletInitAngleOffset": 45.0,
+    "extraBulletBuff": 3,
+    "bulletIndex": 3,
+    "explodeRadius": 0.7
+  },
+  "endBulletDown": {
+    "bulletCount": 3,
+    "extraBulletCount": 1,
+    "bulletInitAngleOffset": 0.0,
+    "extraBulletBuff": 3,
+    "bulletIndex": 4,
+    "explodeRadius": 0.7
+  },
+  "delayTime": 0.2
+}

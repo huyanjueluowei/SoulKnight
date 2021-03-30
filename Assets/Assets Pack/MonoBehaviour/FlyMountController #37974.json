@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3719900825162897356
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8286018987116189950
+  },
+  "m_Name": "",
+  "unlock_key": "",
+  "itemLevel": 0,
+  "itemValue": 15,
+  "defence": 0,
+  "canTriggerItem": 1,
+  "deadObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "deadClip": {
+    "m_FileID": 0,
+    "m_PathID": 8184099885297121370
+  },
+  "speedRate": 2.22,
+  "drivePosition": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "hands": [],
+  "useControllerWeapon": 1,
+  "coverController": 0,
+  "runAnim": 1,
+  "idleAnim": 1,
+  "hideInactiveWeapon": 0,
+  "isCreature": 1,
+  "hasHp": 0,
+  "keep": 0,
+  "hasFx": 1,
+  "rotate": 1
+}

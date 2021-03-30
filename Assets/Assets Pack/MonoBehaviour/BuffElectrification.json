@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2406740068853767901
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 360631838327099178
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "is_enemy": 1,
+  "buff_time": 6.0,
+  "canMultiple": 0,
+  "max_distance": 10,
+  "multiCount": 3,
+  "atk": 3,
+  "cooling_time": 0.4,
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 7064950869084921188
+  },
+  "thunder_object": {
+    "m_FileID": 0,
+    "m_PathID": -3046851719510193281
+  },
+  "thunder_buff": {
+    "m_FileID": 0,
+    "m_PathID": -1888743792046103517
+  }
+}

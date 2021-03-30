@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -818540671766984342
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8246887376938223968
+  },
+  "m_Name": "",
+  "riseSprites": [
+    {
+      "m_FileID": 4,
+      "m_PathID": 4278788510787372188
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -260752575400050752
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -5280520646025729012
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -440807783588377074
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 3746443504555880024
+    }
+  ],
+  "lavaSprites": [
+    {
+      "m_FileID": 4,
+      "m_PathID": 4911400993427387720
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -5674944030818328630
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -2839223562139367763
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 7602976446692295547
+    }
+  ],
+  "fallSprites": [
+    {
+      "m_FileID": 4,
+      "m_PathID": 3746443504555880024
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -440807783588377074
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -5280520646025729012
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -260752575400050752
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": 4278788510787372188
+    }
+  ]
+}

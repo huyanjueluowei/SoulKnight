@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 135
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 92
+  },
+  "m_Name": "",
+  "newSkinConfig": {
+    "m_FileID": 1,
+    "m_PathID": 172
+  },
+  "newTipImages": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1391
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1436
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1402
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1400
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1445
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1495
+    }
+  ],
+  "leftNewSkinObject": {
+    "m_FileID": 0,
+    "m_PathID": 288
+  },
+  "rightNewSkinObject": {
+    "m_FileID": 0,
+    "m_PathID": 333
+  },
+  "titleNewSkinObject": {
+    "m_FileID": 0,
+    "m_PathID": 282
+  },
+  "titleMoveTargetY": 6.0,
+  "titleTransform": {
+    "m_FileID": 0,
+    "m_PathID": 971
+  },
+  "moveDuration": 1.0
+}

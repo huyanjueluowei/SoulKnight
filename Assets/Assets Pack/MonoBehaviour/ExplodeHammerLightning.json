@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -947793940739606827
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2583118324696589591
+  },
+  "m_Name": "",
+  "damageType": 133120,
+  "camp": 1,
+  "targetbuff": {
+    "m_FileID": 0,
+    "m_PathID": 5256516787903864033
+  },
+  "clip": {
+    "m_FileID": 0,
+    "m_PathID": 1705599016201267756
+  },
+  "hit_player": 0,
+  "hit_enemy": 1,
+  "damage": 6,
+  "repel": 3.0,
+  "critic": 0,
+  "influencedByMasterLaserBuff": 1,
+  "count": 3,
+  "maxDistance": 6,
+  "release_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

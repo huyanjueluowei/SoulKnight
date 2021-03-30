@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3291595576017161158
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5979517555984404003
+  },
+  "m_Name": "",
+  "cd": 1.0,
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": 1826340476550598763
+  },
+  "bullet": {
+    "m_FileID": 1,
+    "m_PathID": -7785104860859845468
+  },
+  "speed": 24.0,
+  "atk": 4,
+  "count": 3,
+  "multiCount": 4,
+  "angle": 12,
+  "pierced": 1,
+  "offset": 0.0,
+  "buff_accurate": 1
+}

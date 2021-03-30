@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5612800052759771644
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 805014727915582113
+  },
+  "m_Name": "",
+  "award_clip": {
+    "m_FileID": 1,
+    "m_PathID": 3375563172645521454
+  },
+  "multi_game_can_use": 0,
+  "noEmailObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "allReadEmailObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "notReadEmailObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "NoEmailSprite": {
+    "m_FileID": 0,
+    "m_PathID": 3933621236881265980
+  },
+  "AllReadEmailSprite": {
+    "m_FileID": 0,
+    "m_PathID": -4154970230648175091
+  },
+  "NotReadEmailSprite": {
+    "m_FileID": 0,
+    "m_PathID": 1103284744955720060
+  },
+  "tab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "pos1": {
+    "x": -14.6,
+    "y": -0.5,
+    "z": 0.0
+  },
+  "pos2": {
+    "x": -12.3,
+    "y": -0.5,
+    "z": 0.0
+  }
+}

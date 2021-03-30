@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2761961869486961010
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5680536007092038358
+  },
+  "m_Name": "",
+  "cd": 8.0,
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": 2194855489963722353
+  },
+  "bullet": {
+    "m_FileID": 1,
+    "m_PathID": 414602119349034100
+  },
+  "player_parent": 0,
+  "speed_factor": 0.0,
+  "info": {
+    "bulletProto": {
+      "m_FileID": 1,
+      "m_PathID": 414602119349034100
+    },
+    "speed": 0.0,
+    "size": 1.0,
+    "damage": 5,
+    "critic": 0,
+    "repel": 0,
+    "throughCount": 0
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2185018538718380941
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8373002163857401749
+  },
+  "m_Name": "",
+  "awake": 0,
+  "dead": 0,
+  "p_index": 0,
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rigibody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "target_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fixed_angle": 0.0,
+  "clip_skill": {
+    "m_FileID": 0,
+    "m_PathID": 7011765324417210051
+  },
+  "clip_hit": {
+    "m_FileID": 0,
+    "m_PathID": -6352638248920538980
+  },
+  "skills": [
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 958183429159885224
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 7011765324417210051
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -597841444608803161
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6387105309729894913
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4753478953438196277
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8722581777782901535
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5170897713480227905
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1087338055090593596
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1443108995625306590
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 968349623571439357
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7141999867009159507
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 0,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "maxTime": 0.0,
+      "maxCount": 0,
+      "cd": 6.0,
+      "price": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 8232777257332386992
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 7011765324417210051
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 7407628010412777144
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7265091909347929742
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2643505218973456041
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3432543251114881725
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7706086482864559027
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4110058059541366324
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6853947687393906772
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6903102874130197634
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -761614011705271499
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3045187265002032321
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2593252022603000895
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7554230192865931051
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 4,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "maxTime": 0.0,
+      "maxCount": 2,
+      "cd": 4.0,
+      "price": 8000
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 423712769303401683
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 8544843392687201365
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -5655459132814355315
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 4,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": -2569987719650943730
+      },
+      "maxTime": 0.0,
+      "maxCount": 3,
+      "cd": 5.0,
+      "price": 0
+    }
+  ],
+  "in_battle": 0,
+  "statuePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "skillIndex": 0,
+  "skill0UpdateBottle": {
+    "m_FileID": 0,
+    "m_PathID": 5122207782735799336
+  },
+  "bottleIndexToKey": [
+    "gas",
+    "explode",
+    "frost"
+  ]
+}

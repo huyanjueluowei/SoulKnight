@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6911332133188295130
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7300853816341493383
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "object/gashapon",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "item_egg",
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": -7319475116925131574
+  },
+  "level": 0,
+  "gem_obj": {
+    "m_FileID": 0,
+    "m_PathID": -1304693771818088112
+  },
+  "boom_obj": {
+    "m_FileID": 1,
+    "m_PathID": 4598804307132084426
+  },
+  "pot_objs": [
+    {
+      "m_FileID": 1,
+      "m_PathID": -3252686300617064890
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": -4888574329250660395
+    }
+  ]
+}

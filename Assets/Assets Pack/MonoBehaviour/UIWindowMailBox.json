@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5357028324693511978
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2685050943124088424
+  },
+  "m_Name": "",
+  "sprites": [
+    {
+      "m_FileID": 5,
+      "m_PathID": -3161672620674735594
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3635451765529341040
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4663273913228976904
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ],
+  "fishChipStorePrefab": {
+    "m_FileID": 5,
+    "m_PathID": -2064032063891681599
+  },
+  "NoticeText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Speed": {
+    "x": 1.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_MoveEndPoint": 0.0,
+  "_MoveStartPoint": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "_ParentWidth": 0.0,
+  "_SelfWidth": 0.0
+}

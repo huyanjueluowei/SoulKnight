@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2540627484585327003
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2899403692104049027
+  },
+  "m_Name": "",
+  "revolverPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -7197291827896568970
+  },
+  "positionOffset": 10.0,
+  "revolverRadius": 0.66,
+  "throwTime": 0.2,
+  "shootDelayTime": 0.2,
+  "shootTime": 1.0,
+  "afterShootTime": 0.5,
+  "shootAngleVelocity": 1440.0,
+  "triggerInterval": 0.5,
+  "shootCount": 12,
+  "extraShootBuff": 31,
+  "extraShootCount": 4,
+  "coldDown": 8.0,
+  "consumeFactor": 2
+}

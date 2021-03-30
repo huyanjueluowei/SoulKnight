@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9098495214354578768
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3879290208680591761
+  },
+  "m_Name": "",
+  "hideObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8217782472311126573
+    }
+  ],
+  "npcPosition": {
+    "x": 2.98,
+    "y": 1.52,
+    "z": 0.0
+  },
+  "npcRotate": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "pivot": {
+    "x": 0.0,
+    "y": 0.65,
+    "z": 0.0
+  },
+  "onNpcObjectInit": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onNpcHireSuccess": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -2134014826770423361
+          },
+          "m_MethodName": "HireSuccess",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  }
+}

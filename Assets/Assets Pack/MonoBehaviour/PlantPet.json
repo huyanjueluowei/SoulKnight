@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2811463380593944470
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3126750704006912021
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "permanent": 0,
+  "restartState": 2,
+  "icon": {
+    "m_FileID": 0,
+    "m_PathID": 6360582557082920113
+  },
+  "usableState": 0,
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 5176889906864298679
+  },
+  "petSprite": {
+    "m_FileID": 0,
+    "m_PathID": -7677257116517049626
+  },
+  "petName": ""
+}

@@ -1,0 +1,105 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8841827402807858713
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6540095852745559492
+  },
+  "m_Name": "",
+  "explodeItems": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8881178509739911180
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1523183745831773403
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 188994432033133563
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6872170961725600169
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1126343380737782550
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3611400340195552146
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8735839981125461820
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5481524132849303047
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3433424573792762240
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1941682356348629304
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5672991660201059144
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7730509200506449283
+    }
+  ],
+  "weaponSprite": {
+    "m_FileID": 0,
+    "m_PathID": 2641935373093160234
+  },
+  "weaponTransform": {
+    "m_FileID": 0,
+    "m_PathID": -4302899400658138652
+  },
+  "weaponTargetPosition": {
+    "x": 0.0,
+    "y": 2.75,
+    "z": 0.0
+  },
+  "weaponMoveTime": 0.3,
+  "itemExplodeTimeRange": {
+    "x": 0.05,
+    "y": 0.15
+  },
+  "itemExplodeDistanceRange": {
+    "x": 0.7,
+    "y": 1.5
+  },
+  "itemTargetPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "itemTargetTimeRange": {
+    "x": 0.5,
+    "y": 1.0
+  },
+  "itemTargetDistanceRange": {
+    "x": 0.15,
+    "y": 0.37
+  },
+  "hitObject": {
+    "m_FileID": 2,
+    "m_PathID": -7633493232010655664
+  },
+  "weaponExplodeClip": {
+    "m_FileID": 0,
+    "m_PathID": 6642686411346917569
+  }
+}

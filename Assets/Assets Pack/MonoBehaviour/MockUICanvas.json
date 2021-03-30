@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 19
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 40
+  },
+  "m_Name": "",
+  "emotion_btn_rect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "netSps": [],
+  "canvas_world": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "temp_ui": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "object_level": [],
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "control_mode": 0,
+  "axis_mode": 0,
+  "switchBettleUI": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "useSwitchControl": 0,
+  "stateBarInvalidColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.0
+  },
+  "stateBarInvalidText": "???/???",
+  "coinInvalidText": "???"
+}

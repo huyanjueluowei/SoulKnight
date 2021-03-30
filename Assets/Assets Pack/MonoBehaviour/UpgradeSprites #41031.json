@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5788461669742409943
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4202482778988496581
+  },
+  "m_Name": "",
+  "sprites": [
+    {
+      "m_FileID": 5,
+      "m_PathID": -2471414582821252208
+    },
+    {
+      "m_FileID": 5,
+      "m_PathID": 6110267264026312283
+    },
+    {
+      "m_FileID": 5,
+      "m_PathID": 7298021856698531069
+    },
+    {
+      "m_FileID": 5,
+      "m_PathID": 7298021856698531069
+    }
+  ],
+  "colors": [],
+  "changeChildActive": 0
+}

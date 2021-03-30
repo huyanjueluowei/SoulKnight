@@ -1,0 +1,414 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2296545078456760370
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5818397657974818897
+  },
+  "m_Name": "",
+  "weapon_type": 14,
+  "weapon_tags": [],
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": -6825057062157277178
+  },
+  "activate": 1,
+  "item_level": 5,
+  "item_value": 50,
+  "bulletsInfo": [
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -3516116955417036102
+      },
+      "speed": 18.0,
+      "size": 1.0,
+      "damage": 5,
+      "critic": -30,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -8537506160461856939
+      },
+      "speed": 24.0,
+      "size": 1.0,
+      "damage": 4,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 8473087082179460157
+      },
+      "speed": 18.0,
+      "size": 1.0,
+      "damage": 5,
+      "critic": 20,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -7966407545039719297
+      },
+      "speed": 40.0,
+      "size": 1.0,
+      "damage": 8,
+      "critic": 25,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -7904425138986622034
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 1,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -597841444608803161
+      },
+      "speed": 20.0,
+      "size": 1.0,
+      "damage": 1,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 5708568797441124748
+      },
+      "speed": 10.0,
+      "size": 1.0,
+      "damage": 7,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 4723009079578675263
+      },
+      "speed": 40.0,
+      "size": 1.0,
+      "damage": 6,
+      "critic": 30,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 8509223728228455129
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 7,
+      "critic": 20,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 3761867581285664263
+      },
+      "speed": 20.0,
+      "size": 1.0,
+      "damage": 5,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -3391088337092620443
+      },
+      "speed": 12.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 999
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 8381047364663314073
+      },
+      "speed": 32.0,
+      "size": 1.0,
+      "damage": 4,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -1501665240443117401
+      },
+      "speed": 32.0,
+      "size": 1.0,
+      "damage": 4,
+      "critic": 30,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -5297983538474098402
+      },
+      "speed": 32.0,
+      "size": 1.0,
+      "damage": 4,
+      "critic": 20,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -1516566581773207351
+      },
+      "speed": 64.0,
+      "size": 1.0,
+      "damage": 25,
+      "critic": 50,
+      "repel": 3,
+      "throughCount": 999
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 1032111435496841719
+      },
+      "speed": 64.0,
+      "size": 1.0,
+      "damage": 16,
+      "critic": 50,
+      "repel": 3,
+      "throughCount": 999
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -2231784447584390668
+      },
+      "speed": 32.0,
+      "size": 1.0,
+      "damage": 7,
+      "critic": 25,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 3698552649163497416
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 8,
+      "critic": 25,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 4500298642415619545
+      },
+      "speed": 32.0,
+      "size": 1.0,
+      "damage": 15,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 3205921451686524956
+      },
+      "speed": 32.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 3835163468822268863
+      },
+      "speed": 32.0,
+      "size": 1.0,
+      "damage": 10,
+      "critic": 55,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 7600291971014042909
+      },
+      "speed": 22.0,
+      "size": 1.0,
+      "damage": 2,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -1580644748557172145
+      },
+      "speed": 32.0,
+      "size": 1.0,
+      "damage": 5,
+      "critic": 4,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -7778714230657902799
+      },
+      "speed": 32.0,
+      "size": 1.0,
+      "damage": 4,
+      "critic": 22,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -375916898830287989
+      },
+      "speed": 18.0,
+      "size": 1.0,
+      "damage": 8,
+      "critic": 6,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -1468797132114173859
+      },
+      "speed": 30.0,
+      "size": 1.0,
+      "damage": 1,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 999
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -874756427284208461
+      },
+      "speed": 14.0,
+      "size": 1.0,
+      "damage": 6,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 550300834715579641
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 1,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": -5861304263284670412
+      },
+      "speed": 48.0,
+      "size": 1.0,
+      "damage": 16,
+      "critic": 25,
+      "repel": 2,
+      "throughCount": 0
+    }
+  ],
+  "deviation": 5,
+  "consume": 2,
+  "weapon_speed": 1.2,
+  "atk_move_speed": 0.0,
+  "need_lock": 1,
+  "has_effect": 0,
+  "is_melee": 0,
+  "not_forgeable": 0,
+  "can_use": 1,
+  "limitUseInMultiRoom": 0,
+  "weights": [
+    2,
+    2,
+    3,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    1,
+    1,
+    2,
+    2,
+    1,
+    3,
+    1,
+    2,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1
+  ],
+  "allAtOnce": 0,
+  "byOrder": 0,
+  "reflectCount": 0
+}

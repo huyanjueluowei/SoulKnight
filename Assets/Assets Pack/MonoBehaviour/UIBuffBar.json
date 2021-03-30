@@ -1,0 +1,184 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 28
+  },
+  "m_Name": "",
+  "audio_clip": {
+    "m_FileID": 3,
+    "m_PathID": 3375563172645521454
+  },
+  "buff_img_list": [
+    {
+      "m_FileID": 3,
+      "m_PathID": -2309254629024759690
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -2030481942624066319
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 5989910912416292074
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 2138429284957383171
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -16070878057365892
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -6354246871136225918
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -2906663484394192899
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -4412741290048675871
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 3603348036939427594
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 5024818719896736171
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -1889385729839616765
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -5922692205606329810
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -1095168006377126366
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 6612872961157165114
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -474693539157369469
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -2835184535398050426
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 8151806040090137343
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 8252869298926435584
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -7045381363949637378
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -8935102344805862042
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 8805976684397697422
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -8430215381842667
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 2633927458922618960
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -4572647871134128248
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 213448062882857275
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": -8326158415627183957
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 215751955531722268
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 2034555031548026969
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 2769508890007282915
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 44
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 45
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 46
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 47
+    }
+  ],
+  "buff_tip_list": [
+    "buff_master_gun",
+    "buff_master_laser",
+    "buff_master_shotgun",
+    "buff_master_sword",
+    "buff_absorbed",
+    "buff_armor",
+    "buff_immune_sting",
+    "buff_immune_gas",
+    "buff_immune_fire",
+    "buff_bargain",
+    "buff_vampire_hp",
+    "buff_digestive",
+    "buff_energy",
+    "buff_pick_far",
+    "buff_room_reward",
+    "buff_hp_max",
+    "buff_master_pet",
+    "buff_blast",
+    "buff_box_rate",
+    "buff_accurate",
+    "buff_skill_cd",
+    "buff_twice_status",
+    "buff_immune_ice",
+    "buff_reflection",
+    "buff_third_weapon",
+    "buff_element_critic",
+    "buff_master_staff",
+    "buff_immune_hit",
+    "buff_larger_sword",
+    "buff_energy_max",
+    "buff_master_continuous",
+    "buff_atk_speed"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2079949854200538053
+  },
+  "m_Name": "RelicFallConfig",
+  "characterConfig": {
+    "positionOffset": {
+      "x": 0.0,
+      "y": 0.15,
+      "z": 0.0
+    },
+    "warnSize": {
+      "x": 1.6,
+      "y": 1.0
+    },
+    "fallSize": {
+      "x": 0.1,
+      "y": 0.1
+    },
+    "fallLayer": {
+      "m_Bits": 33554432
+    },
+    "bodyImgPath": "img/body",
+    "fallEffect": {
+      "m_FileID": 0,
+      "m_PathID": -3325813400593900100
+    },
+    "showEffect": {
+      "m_FileID": 2,
+      "m_PathID": 8844498908568191491
+    },
+    "effectOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "fallDuration": 1.0,
+    "exclusiveSkills": [
+      {
+        "characterIndex": 13,
+        "skillIndex": 2
+      },
+      {
+        "characterIndex": 1,
+        "skillIndex": 0
+      },
+      {
+        "characterIndex": 1,
+        "skillIndex": 1
+      },
+      {
+        "characterIndex": 1,
+        "skillIndex": 2
+      }
+    ],
+    "fallHurt": 1,
+    "exclusiveMountIds": [
+      "msword",
+      "mtao_sword",
+      "mcloud"
+    ]
+  },
+  "enemyConfig": {
+    "positionOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "warnSize": {
+      "x": 2.5,
+      "y": 2.0
+    },
+    "fallSize": {
+      "x": 0.3,
+      "y": 0.3
+    },
+    "fallLayer": {
+      "m_Bits": 33554432
+    },
+    "bodyImgPath": "img/body",
+    "fallEffect": {
+      "m_FileID": 0,
+      "m_PathID": -3325813400593900100
+    },
+    "showEffect": {
+      "m_FileID": 2,
+      "m_PathID": -6795463131645046848
+    },
+    "effectOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "fallDuration": 1.0,
+    "fallThreshold": 0.05,
+    "fallMaxDamage": 2
+  },
+  "petConfig": {
+    "positionOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "warnSize": {
+      "x": 1.6,
+      "y": 1.0
+    },
+    "fallSize": {
+      "x": 0.1,
+      "y": 0.1
+    },
+    "fallLayer": {
+      "m_Bits": 33554432
+    },
+    "bodyImgPath": "img/body",
+    "fallEffect": {
+      "m_FileID": 0,
+      "m_PathID": -3325813400593900100
+    },
+    "showEffect": {
+      "m_FileID": 2,
+      "m_PathID": 8844498908568191491
+    },
+    "effectOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "fallDuration": 1.0,
+    "fallThreshold": 0.05,
+    "fallMaxDamage": 1
+  },
+  "bossConfig": {
+    "radius": 4.0,
+    "fallLayer": {
+      "m_Bits": 33554432
+    }
+  }
+}

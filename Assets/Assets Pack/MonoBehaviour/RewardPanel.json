@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9100658937880604888
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7634379547130428715
+  },
+  "m_Name": "",
+  "itemProto": {
+    "m_FileID": 0,
+    "m_PathID": -2509508182540947784
+  },
+  "itemRoot": {
+    "m_FileID": 0,
+    "m_PathID": -3981176393098952015
+  },
+  "rewardTitle": {
+    "m_FileID": 0,
+    "m_PathID": -6703209236677056537
+  }
+}

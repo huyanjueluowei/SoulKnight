@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 341
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 99
+  },
+  "m_Name": "",
+  "radius": 20.0,
+  "restore_invert": 2.0,
+  "hp_val": 5,
+  "mp_val": 50
+}

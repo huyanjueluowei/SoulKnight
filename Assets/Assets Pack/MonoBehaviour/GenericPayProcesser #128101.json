@@ -1,0 +1,1044 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 11
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 27
+  },
+  "m_Name": "",
+  "ProductInfos": [
+    {
+      "cnName": "5000宝石",
+      "name": "5000",
+      "productId": "com.chillyroom.dungeonshooter.purchase_gem_1",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 6624518080793128174
+      }
+    },
+    {
+      "cnName": "12000宝石",
+      "name": "12000",
+      "productId": "com.chillyroom.dungeonshooter.purchase_gem_2",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -128933244921816288
+      }
+    },
+    {
+      "cnName": "25000宝石",
+      "name": "25000",
+      "productId": "com.chillyroom.dungeonshooter.purchase_gem_3",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 3501184518162094320
+      }
+    },
+    {
+      "cnName": "小鱼干",
+      "name": "fish1",
+      "productId": "com.chillyroom.dungeonshooter.purchase_fish_1",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -335050032115725065
+      }
+    },
+    {
+      "cnName": "工程师",
+      "name": "engineer",
+      "productId": "com.chillyroom.dungeonshooter.engineer",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -2883895602089927824
+      }
+    },
+    {
+      "cnName": "吸血鬼",
+      "name": "vampire",
+      "productId": "com.chillyroom.dungeonshooter.vampire",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -492967439914641135
+      }
+    },
+    {
+      "cnName": "圣骑士",
+      "name": "paladin",
+      "productId": "com.chillyroom.dungeonshooter.paladin",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -7417736464952791040
+      }
+    },
+    {
+      "cnName": "狼人",
+      "name": "werewolf",
+      "productId": "com.chillyroom.dungeonshooter.werewolf",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -7712566621983585941
+      }
+    },
+    {
+      "cnName": "德鲁伊",
+      "name": "druid",
+      "productId": "com.chillyroom.dungeonshooter.druid",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 2662241246354083279
+      }
+    },
+    {
+      "cnName": "警长",
+      "name": "vampire_skin_2",
+      "productId": "com.chillyroom.dungeonshooter.vampire_skin_2",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 3117253556512355024
+      }
+    },
+    {
+      "cnName": "工业化",
+      "name": "paladin_skin_2",
+      "productId": "com.chillyroom.dungeonshooter.paladin_skin_2",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 8814610381538545113
+      }
+    },
+    {
+      "cnName": "冰雪女王",
+      "name": "elf_skin_2",
+      "productId": "com.chillyroom.dungeonshooter.elf_skin_2",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 8891354270185977963
+      }
+    },
+    {
+      "cnName": "熊孩子",
+      "name": "werewolf_skin_2",
+      "productId": "com.chillyroom.dungeonshooter.werewolf_skin_2",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -6117731086358035950
+      }
+    },
+    {
+      "cnName": "红衣教主",
+      "name": "pastor_skin_2",
+      "productId": "com.chillyroom.dungeonshooter.pastor_skin_2",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -815354726864526966
+      }
+    },
+    {
+      "cnName": "上班族",
+      "name": "druid_skin_2",
+      "productId": "com.chillyroom.dungeonshooter.druid_skin_2",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 2076168727170008108
+      }
+    },
+    {
+      "cnName": "复活卡",
+      "name": "reborn_card",
+      "productId": "com.chillyroom.dungeonshooter.reborn_card",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -2444677923003951627
+      }
+    },
+    {
+      "cnName": "春节炼金术士",
+      "name": "alchemist_skin_3",
+      "productId": "com.chillyroom.dungeonshooter.alchemist_skin_3",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 7030303824582489307
+      }
+    },
+    {
+      "cnName": "春节刺客",
+      "name": "assassin_skin_3",
+      "productId": "com.chillyroom.dungeonshooter.assassin_skin_3",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 7647981118765750846
+      }
+    },
+    {
+      "cnName": "春节德鲁伊",
+      "name": "druid_skin_4",
+      "productId": "com.chillyroom.dungeonshooter.druid_skin_4",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 2334655766015472740
+      }
+    },
+    {
+      "cnName": "春节精灵",
+      "name": "elf_skin_3",
+      "productId": "com.chillyroom.dungeonshooter.elf_skin_3",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 3695923652764359880
+      }
+    },
+    {
+      "cnName": "春节工程师",
+      "name": "engineer_skin_3",
+      "productId": "com.chillyroom.dungeonshooter.engineer_skin_3",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -1878118622477708705
+      }
+    },
+    {
+      "cnName": "春节圣骑士",
+      "name": "paladin_skin_4",
+      "productId": "com.chillyroom.dungeonshooter.paladin_skin_4",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 8167564464311227806
+      }
+    },
+    {
+      "cnName": "春节牧师",
+      "name": "pastor_skin_3",
+      "productId": "com.chillyroom.dungeonshooter.pastor_skin_3",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 39163773781277425
+      }
+    },
+    {
+      "cnName": "春节游侠",
+      "name": "ranger_skin_4",
+      "productId": "com.chillyroom.dungeonshooter.ranger_skin_4",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -1869598927573573105
+      }
+    },
+    {
+      "cnName": "春节狼人",
+      "name": "werewolf_skin_5",
+      "productId": "com.chillyroom.dungeonshooter.werewolf_skin_5",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 140841625666318490
+      }
+    },
+    {
+      "cnName": "春节法师",
+      "name": "wizard_skin_5",
+      "productId": "com.chillyroom.dungeonshooter.mage_skin_5",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -1303728958389064174
+      }
+    },
+    {
+      "cnName": "35000宝石",
+      "name": "35000",
+      "productId": "com.chillyroom.dungeonshooter.purchase_gem_5",
+      "price": 20,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 3501184518162094320
+      }
+    },
+    {
+      "cnName": "800宝石",
+      "name": "800",
+      "productId": "com.chillyroom.dungeonshooter.purchase_gem_5",
+      "price": 1,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -8664936848216772103
+      }
+    },
+    {
+      "cnName": "小鱼干",
+      "name": "fishchip",
+      "productId": "com.chillyroom.dungeonshooter.purchase_gem_5",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -335050032115725065
+      }
+    },
+    {
+      "cnName": "春节游侠",
+      "name": "rogue_skin_4",
+      "productId": "com.chillyroom.dungeonshooter.ranger_skin_4",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -1869598927573573105
+      }
+    },
+    {
+      "cnName": "35000宝石",
+      "name": "35000",
+      "productId": "com.chillyroom.dungeonshooter.purchase_gem_4",
+      "price": 20,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 3501184518162094320
+      }
+    },
+    {
+      "cnName": "狂战士",
+      "name": "viking",
+      "productId": "com.chillyroom.dungeonshooter.viking",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -6193974310602566726
+      }
+    },
+    {
+      "cnName": "额外花圃",
+      "name": "plantpot_1",
+      "productId": "com.chillyroom.dungeonshooter.gardenpot_1",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 58
+      }
+    },
+    {
+      "cnName": "额外花圃2",
+      "name": "plantpot_2",
+      "productId": "com.chillyroom.dungeonshooter.gardenpot_2",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 58
+      }
+    },
+    {
+      "cnName": "美洲豹",
+      "name": "werewolf_skin_7",
+      "productId": "com.chillyroom.dungeonshooter.werewolf_skin_7",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 6834145083311347888
+      }
+    },
+    {
+      "cnName": "摔跤大师",
+      "name": "viking_skin_1",
+      "productId": "com.chillyroom.dungeonshooter.viking_skin_1",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 1046559054645710440
+      }
+    },
+    {
+      "cnName": "夜莺",
+      "name": "rogue_skin_5",
+      "productId": "com.chillyroom.dungeonshooter.ranger_skin_master",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -2908355356126675229
+      }
+    },
+    {
+      "cnName": "拘魂者",
+      "name": "wizard_skin_6",
+      "productId": "com.chillyroom.dungeonshooter.mage_skin_master",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -5852924277645745546
+      }
+    },
+    {
+      "cnName": "风林火山",
+      "name": "assassin_skin_6",
+      "productId": "com.chillyroom.dungeonshooter.assassin_skin_master",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -376393294496974984
+      }
+    },
+    {
+      "cnName": "世界你好",
+      "name": "engineer_skin_6",
+      "productId": "com.chillyroom.dungeonshooter.engineer_skin_master",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 2429097506544409092
+      }
+    },
+    {
+      "cnName": "银爵",
+      "name": "vampire_skin_6",
+      "productId": "com.chillyroom.dungeonshooter.vampire_skin_master",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -2953954776212101287
+      }
+    },
+    {
+      "cnName": "巡林者",
+      "name": "elf_skin_5",
+      "productId": "com.chillyroom.dungeonshooter.elves_skin_master",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -8303185566850539559
+      }
+    },
+    {
+      "cnName": "火焰地狱契约",
+      "name": "werewolf_skin_8",
+      "productId": "com.chillyroom.dungeonshooter.werewolf_skin_master",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -642977586768457614
+      }
+    },
+    {
+      "cnName": "霜烬",
+      "name": "druid_skin_5",
+      "productId": "com.chillyroom.dungeonshooter.druid_skin_master",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -4424249408145953993
+      }
+    },
+    {
+      "cnName": "丧尸",
+      "name": "viking_skin_3",
+      "productId": "com.chillyroom.dungeonshooter.viking_skin_3",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 6513019288125498412
+      }
+    },
+    {
+      "cnName": "电子骑士",
+      "name": "knight_skin_6",
+      "productId": "com.chillyroom.dungeonshooter.knight_skin_6",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 7895606061067452498
+      }
+    },
+    {
+      "cnName": "分身术",
+      "name": "skill_assassin_1",
+      "productId": "com.chillyroom.dungeonshooter.skill_assassin_1",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 64
+      }
+    },
+    {
+      "cnName": "机甲武装",
+      "name": "skill_engineer_1",
+      "productId": "com.chillyroom.dungeonshooter.skill_engineer_1",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 65
+      }
+    },
+    {
+      "cnName": "异界旋涡",
+      "name": "skill_vampire_1",
+      "productId": "com.chillyroom.dungeonshooter.skill_vampire_1",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 67
+      }
+    },
+    {
+      "cnName": "神化",
+      "name": "skill_paladin_1",
+      "productId": "com.chillyroom.dungeonshooter.skill_paladin_1",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 68
+      }
+    },
+    {
+      "cnName": "祈祷",
+      "name": "skill_priest_1",
+      "productId": "com.chillyroom.dungeonshooter.skill_priest_1",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 70
+      }
+    },
+    {
+      "cnName": "无人机集群",
+      "name": "skill_robot_1",
+      "productId": "com.chillyroom.dungeonshooter.skill_robot_1",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 66
+      }
+    },
+    {
+      "cnName": "居合斩",
+      "name": "skill_ranger_1",
+      "productId": "com.chillyroom.dungeonshooter.skill_ranger_1",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 63
+      }
+    },
+    {
+      "cnName": "箭雨",
+      "name": "skill_elves_1",
+      "productId": "com.chillyroom.dungeonshooter.skill_elves_1",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 69
+      }
+    },
+    {
+      "cnName": "巨像祖兰皮肤",
+      "name": "robot_skin_4",
+      "productId": "com.chillyroom.dungeonshooter.robot_skin_4",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 7084962649329448419
+      }
+    },
+    {
+      "cnName": "龙的传人皮肤",
+      "name": "viking_skin_5",
+      "productId": "com.chillyroom.dungeonshooter.viking_skin_5",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 8286379878851324163
+      }
+    },
+    {
+      "cnName": "瓦克恩头目皮肤",
+      "name": "alchemist_skin_5",
+      "productId": "com.chillyroom.dungeonshooter.alchemist_skin_5",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -8937680087520450542
+      }
+    },
+    {
+      "cnName": "黑暗大骑士皮肤",
+      "name": "knight_skin_8",
+      "productId": "com.chillyroom.dungeonshooter.knight_skin_8",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 2868578275284055205
+      }
+    },
+    {
+      "cnName": "骷髅王皮肤",
+      "name": "assassin_skin_7",
+      "productId": "com.chillyroom.dungeonshooter.assassin_skin_7",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 5014226455399456109
+      }
+    },
+    {
+      "cnName": "镭射幽浮皮肤",
+      "name": "engineer_skin_7",
+      "productId": "com.chillyroom.dungeonshooter.engineer_skin_7",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 2568894348517147294
+      }
+    },
+    {
+      "cnName": "年兽皮肤",
+      "name": "druid_skin_6",
+      "productId": "com.chillyroom.dungeonshooter.druid_skin_6",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -3789926175699395898
+      }
+    },
+    {
+      "cnName": "帝江",
+      "name": "paladin_skin_9",
+      "productId": "com.chillyroom.dungeonshooter.paladin_skin_9",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 8057897663571354641
+      }
+    },
+    {
+      "cnName": "应龙",
+      "name": "rogue_skin_7",
+      "productId": "com.chillyroom.dungeonshooter.rogue_skin_7",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 8839206103680361705
+      }
+    },
+    {
+      "cnName": "狰",
+      "name": "assassin_skin_8",
+      "productId": "com.chillyroom.dungeonshooter.assassin_skin_8",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -3063640912649345512
+      }
+    },
+    {
+      "cnName": "毕方",
+      "name": "elf_skin_7",
+      "productId": "com.chillyroom.dungeonshooter.elf_skin_7",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -6200583367927210641
+      }
+    },
+    {
+      "cnName": "九尾狐",
+      "name": "wizard_skin_9",
+      "productId": "com.chillyroom.dungeonshooter.mage_skin_9",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 4153044951960446382
+      }
+    },
+    {
+      "cnName": "猼訑",
+      "name": "pastor_skin_7",
+      "productId": "com.chillyroom.dungeonshooter.pastor_skin_7",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -7084398889521958087
+      }
+    },
+    {
+      "cnName": "梼杌",
+      "name": "vampire_skin_8",
+      "productId": "com.chillyroom.dungeonshooter.vampire_skin_8",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 6177874276231334693
+      }
+    },
+    {
+      "cnName": "白泽",
+      "name": "druid_skin_7",
+      "productId": "com.chillyroom.dungeonshooter.druid_skin_7",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -938541852925734115
+      }
+    },
+    {
+      "cnName": "獓因",
+      "name": "alchemist_skin_6",
+      "productId": "com.chillyroom.dungeonshooter.alchemist_skin_6",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -262593416618690632
+      }
+    },
+    {
+      "cnName": "额外花圃3",
+      "name": "plantpot_3",
+      "productId": "com.chillyroom.dungeonshooter.gardenpot_3",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 58
+      }
+    },
+    {
+      "cnName": "死灵法师",
+      "name": "necromancer",
+      "productId": "com.chillyroom.dungeonshooter.necromancer",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -6726501796455064557
+      }
+    },
+    {
+      "cnName": "散打",
+      "name": "skill_viking_1",
+      "productId": "com.chillyroom.dungeonshooter.skill_viking_1",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 5704258856970732850
+      }
+    },
+    {
+      "cnName": "灾祸之石",
+      "name": "skill_necromancer_1",
+      "productId": "com.chillyroom.dungeonshooter.skill_necromancer_1",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -3744426643889678177
+      }
+    },
+    {
+      "cnName": "入门礼包",
+      "name": "pkg_0",
+      "productId": "com.chillyroom.dungeonshooter.pkg_0",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "cnName": "进阶材料礼包",
+      "name": "pkg_1",
+      "productId": "com.chillyroom.dungeonshooter.pkg_1",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "cnName": "道士",
+      "name": "taoist",
+      "productId": "com.chillyroom.dungeonshooter.taoist",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 3847250060860545054
+      }
+    },
+    {
+      "cnName": "乾坤大挪移",
+      "name": "skill_taoist_1",
+      "productId": "com.chillyroom.dungeonshooter.skill_taoist_1",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 71
+      }
+    },
+    {
+      "cnName": "火焰飓风",
+      "name": "skill_mage_2",
+      "productId": "com.chillyroom.dungeonshooter.skill_mage_2",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 72
+      }
+    },
+    {
+      "cnName": "迎击炮台",
+      "name": "skill_engineer_2",
+      "productId": "com.chillyroom.dungeonshooter.skill_engineer_2",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 73
+      }
+    },
+    {
+      "cnName": "吞噬",
+      "name": "skill_werewolf_2",
+      "productId": "com.chillyroom.dungeonshooter.skill_werewolf_2",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 75
+      }
+    },
+    {
+      "cnName": "月影之息",
+      "name": "skill_priest_2",
+      "productId": "com.chillyroom.dungeonshooter.skill_priest_2",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 74
+      }
+    },
+    {
+      "cnName": "立体主义",
+      "name": "rogue_skin_8",
+      "productId": "com.chillyroom.dungeonshooter.rogue_skin_8",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 7107439762973538941
+      }
+    },
+    {
+      "cnName": "陆吾",
+      "name": "necromancer_skin_4",
+      "productId": "com.chillyroom.dungeonshooter.necromancer_skin_4",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 261873019213982612
+      }
+    },
+    {
+      "cnName": "锦衣卫",
+      "name": "officer_skin_2",
+      "productId": "com.chillyroom.dungeonshooter.officer_skin_2",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 5529769583605105264
+      }
+    },
+    {
+      "cnName": "天君",
+      "name": "taoist_skin_3",
+      "productId": "com.chillyroom.dungeonshooter.taoist_skin_3",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -2419428050699276756
+      }
+    },
+    {
+      "cnName": "小鱼干",
+      "name": "fish_chips_5",
+      "productId": "com.chillyroom.dungeonshooter.fish_chips_5",
+      "price": 5,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -335050032115725065
+      }
+    },
+    {
+      "cnName": "小鱼干 中",
+      "name": "fish_chips_10",
+      "productId": "com.chillyroom.dungeonshooter.fish_chips_10",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -303340602417468815
+      }
+    },
+    {
+      "cnName": "小鱼干 大",
+      "name": "fish_chips_20",
+      "productId": "com.chillyroom.dungeonshooter.fish_chips_20",
+      "price": 20,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 5916801817748873085
+      }
+    },
+    {
+      "cnName": "皇帝的新衣",
+      "name": "viking_skin_10",
+      "productId": "com.chillyroom.dungeonshooter.viking_skin_10",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 3687724560066963485
+      }
+    },
+    {
+      "cnName": "蜜汁饮剂",
+      "name": "skill_alchemist_2",
+      "productId": "com.chillyroom.dungeonshooter.skill_alchemist_2",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 76
+      }
+    },
+    {
+      "cnName": "梅糖仙子",
+      "name": "elf_skin_8",
+      "productId": "com.chillyroom.dungeonshooter.elf_skin_8",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 8869940245543092493
+      }
+    },
+    {
+      "cnName": "地堂刀",
+      "name": "skill_ranger_2",
+      "productId": "com.chillyroom.dungeonshooter.skill_ranger_2",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 77
+      }
+    },
+    {
+      "cnName": "亡灵复生",
+      "name": "skill_necromancer_2",
+      "productId": "com.chillyroom.dungeonshooter.skill_necromancer_2",
+      "price": 10,
+      "sprite": {
+        "m_FileID": 1,
+        "m_PathID": 78
+      }
+    },
+    {
+      "cnName": "武松",
+      "name": "viking_skin_11",
+      "productId": "com.chillyroom.dungeonshooter.viking_skin_11",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 6452531443657269652
+      }
+    },
+    {
+      "cnName": "关羽",
+      "name": "paladin_skin_10",
+      "productId": "com.chillyroom.dungeonshooter.paladin_skin_10",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 8827757514819331574
+      }
+    },
+    {
+      "cnName": "川剧变脸",
+      "name": "rogue_skin_10",
+      "productId": "com.chillyroom.dungeonshooter.rogue_skin_10",
+      "price": 18,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 335150034715444795
+      }
+    },
+    {
+      "cnName": "黑白无常",
+      "name": "vampire_skin_9",
+      "productId": "com.chillyroom.dungeonshooter.vampire_skin_9",
+      "price": 18,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -3206374282910848844
+      }
+    },
+    {
+      "cnName": "哪吒",
+      "name": "werewolf_skin_13",
+      "productId": "com.chillyroom.dungeonshooter.werewolf_skin_13",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 8870258884699181333
+      }
+    },
+    {
+      "cnName": "青蛇",
+      "name": "necromancer_skin_5",
+      "productId": "com.chillyroom.dungeonshooter.necromancer_skin_5",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -5013388302980324429
+      }
+    },
+    {
+      "cnName": "白蛇",
+      "name": "pastor_skin_10",
+      "productId": "com.chillyroom.dungeonshooter.pastor_skin_10",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -2769854818910634185
+      }
+    },
+    {
+      "cnName": "太上老君",
+      "name": "taoist_skin_4",
+      "productId": "com.chillyroom.dungeonshooter.taoist_skin_4",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": 5140537949019815675
+      }
+    },
+    {
+      "cnName": "伍子胥",
+      "name": "assassin_skin_10",
+      "productId": "com.chillyroom.dungeonshooter.assassin_skin_10",
+      "price": 15,
+      "sprite": {
+        "m_FileID": 3,
+        "m_PathID": -8328872012257455197
+      }
+    }
+  ]
+}

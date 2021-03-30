@@ -1,0 +1,136 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 249823136709583830
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 839821576348654998
+  },
+  "m_Name": "",
+  "m_Navigation": {
+    "m_Mode": 4,
+    "m_SelectOnUp": {
+      "m_FileID": 0,
+      "m_PathID": -3438157682970029028
+    },
+    "m_SelectOnDown": {
+      "m_FileID": 0,
+      "m_PathID": -6136017376530406440
+    },
+    "m_SelectOnLeft": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_SelectOnRight": {
+      "m_FileID": 0,
+      "m_PathID": 4030694203889506818
+    }
+  },
+  "m_Transition": 1,
+  "m_Colors": {
+    "m_NormalColor": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "m_HighlightedColor": {
+      "r": 0.9607843,
+      "g": 0.9607843,
+      "b": 0.9607843,
+      "a": 1.0
+    },
+    "m_PressedColor": {
+      "r": 0.784313738,
+      "g": 0.784313738,
+      "b": 0.784313738,
+      "a": 1.0
+    },
+    "m_DisabledColor": {
+      "r": 0.784313738,
+      "g": 0.784313738,
+      "b": 0.784313738,
+      "a": 0.5019608
+    },
+    "m_ColorMultiplier": 1.0,
+    "m_FadeDuration": 0.1
+  },
+  "m_SpriteState": {
+    "m_HighlightedSprite": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_PressedSprite": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_DisabledSprite": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "m_AnimationTriggers": {
+    "m_NormalTrigger": "Normal",
+    "m_HighlightedTrigger": "Highlighted",
+    "m_PressedTrigger": "Pressed",
+    "m_DisabledTrigger": "Disabled"
+  },
+  "m_Interactable": 1,
+  "m_TargetGraphic": {
+    "m_FileID": 0,
+    "m_PathID": -3367133670111315460
+  },
+  "m_Template": {
+    "m_FileID": 0,
+    "m_PathID": 1814855098467321463
+  },
+  "m_CaptionText": {
+    "m_FileID": 0,
+    "m_PathID": 3117101118472533797
+  },
+  "m_CaptionImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_ItemText": {
+    "m_FileID": 0,
+    "m_PathID": -776012074760282254
+  },
+  "m_ItemImage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Value": 0,
+  "m_Options": {
+    "m_Options": [
+      {
+        "m_Text": "Enemy",
+        "m_Image": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "m_Text": "Chest",
+        "m_Image": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "m_Text": "Transfergate",
+        "m_Image": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      }
+    ]
+  },
+  "m_OnValueChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

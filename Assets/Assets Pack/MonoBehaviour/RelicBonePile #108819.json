@@ -1,0 +1,111 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2205796662994689564
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6426479944010899514
+  },
+  "m_Name": "",
+  "hp": 64,
+  "explode": {
+    "m_FileID": 2,
+    "m_PathID": 3492142087621361978
+  },
+  "boxDestroyEvent": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 3821715110881769238
+          },
+          "m_MethodName": "OnBoxDestroy",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -5867547867604633444
+  },
+  "spriteTransform": {
+    "m_FileID": 0,
+    "m_PathID": 1136969494177308600
+  },
+  "spriteModels": [
+    {
+      "sprite": {
+        "m_FileID": 0,
+        "m_PathID": -9036071527879581489
+      },
+      "hpAmount": 64
+    },
+    {
+      "sprite": {
+        "m_FileID": 0,
+        "m_PathID": 3794759952891577200
+      },
+      "hpAmount": 48
+    },
+    {
+      "sprite": {
+        "m_FileID": 0,
+        "m_PathID": -364597828406569798
+      },
+      "hpAmount": 32
+    },
+    {
+      "sprite": {
+        "m_FileID": 0,
+        "m_PathID": -6040790559984336930
+      },
+      "hpAmount": 16
+    }
+  ],
+  "xRange": {
+    "x": -0.05,
+    "y": 0.05
+  },
+  "yRange": {
+    "x": -0.05,
+    "y": 0.05
+  },
+  "duration": 0.1,
+  "shakeCount": 3,
+  "showDamageText": 1,
+  "hurtEffectCountRange": {
+    "x": 1,
+    "y": 5
+  },
+  "hurtEffectDestroyCountRange": {
+    "x": 1,
+    "y": 5
+  },
+  "effectInstantiateRadius": 0.78,
+  "boneEffectPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -2279644515801443387
+  },
+  "effectOffset": {
+    "x": 0.0,
+    "y": 0.7,
+    "z": 0.0
+  },
+  "active": 0
+}

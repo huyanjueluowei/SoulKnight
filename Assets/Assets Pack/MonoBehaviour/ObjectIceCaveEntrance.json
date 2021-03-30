@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8514117741085534597
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8490665372293323230
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "e_miner01",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "triggerRange": 0.5,
+  "moveSpeed": 6.0,
+  "triggerCollider": {
+    "m_FileID": 0,
+    "m_PathID": 6120727918324376468
+  },
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": -5148724295567978752
+  },
+  "touchColliderObject": {
+    "m_FileID": 0,
+    "m_PathID": -6125430234138984601
+  },
+  "animParamNameRun": "run",
+  "animParamNameDig": "dig",
+  "defaultDirection": 1,
+  "textKey1": "object/npc_ice_cave_entrace_talk2",
+  "textKey2": "object/npc_ice_cave_entrace_talk2",
+  "textKey3": "object/npc_ice_cave_entrace_talk3",
+  "digObstacleRange": 1.0,
+  "digFromIndex": 1,
+  "digCenterIndex": 2,
+  "digToIndex": 3,
+  "weaponParentTransform": {
+    "m_FileID": 0,
+    "m_PathID": -5850811421154158996
+  }
+}

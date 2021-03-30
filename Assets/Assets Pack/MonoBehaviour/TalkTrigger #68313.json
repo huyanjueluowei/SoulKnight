@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7469868802030234391
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8583698329884306739
+  },
+  "m_Name": "",
+  "npc_name": "I_businessman_mystery",
+  "talk_list": [
+    "I_businessman_talk"
+  ],
+  "talk_time": [
+    1,
+    1,
+    1
+  ],
+  "height": 4.0
+}

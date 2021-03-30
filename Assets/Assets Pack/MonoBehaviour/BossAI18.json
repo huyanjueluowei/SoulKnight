@@ -1,0 +1,129 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8820843682825282989
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6729968615197857447
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 0,
+    "m_PathID": 8463323891977791163
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 31,
+  "enemyTag": 20,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_lock_target": 0,
+  "enemy_id": "boss18",
+  "ai_level": 1,
+  "consume": 50,
+  "e_size": 2,
+  "reward_rate": 100,
+  "reward_value": [
+    5,
+    3,
+    0,
+    10
+  ],
+  "shoot_cd": 2.0,
+  "friction": 0.0,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 0.3,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "bullets": [],
+  "boss_clip": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4522867129089406511
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6631311533778233628
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 3867011873097407371
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3005313482981315918
+    }
+  ],
+  "angry_clip": {
+    "m_FileID": 0,
+    "m_PathID": 3555529948261276539
+  },
+  "boss_weapon": {
+    "m_FileID": 2,
+    "m_PathID": -6331503417628334696
+  },
+  "levelModeDropWeapon": 1,
+  "doubleboss_offset": {
+    "x": 2.0,
+    "y": 0.0
+  },
+  "bullet01": {
+    "m_FileID": 3,
+    "m_PathID": 742874767089925242
+  },
+  "bullet02": {
+    "m_FileID": 3,
+    "m_PathID": -7234960087062483123
+  },
+  "bullet03": {
+    "m_FileID": 0,
+    "m_PathID": -4924505687102786167
+  },
+  "bullet04": {
+    "m_FileID": 0,
+    "m_PathID": -9200112524412381642
+  },
+  "bullet05": {
+    "m_FileID": 0,
+    "m_PathID": -2675193962425036597
+  },
+  "bullet06": {
+    "m_FileID": 3,
+    "m_PathID": -55510741853349491
+  },
+  "tombstone_obj01": {
+    "m_FileID": 0,
+    "m_PathID": -6649197581450334583
+  },
+  "tombstone_obj02": {
+    "m_FileID": 0,
+    "m_PathID": 6812806922238728590
+  },
+  "forceMagnitude": 140.0,
+  "tombstone01_max": 4,
+  "tombstone02_max": 4
+}

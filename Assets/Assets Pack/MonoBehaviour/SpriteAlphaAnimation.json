@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4691950031961851272
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8368567026190578559
+  },
+  "m_Name": "",
+  "period": 1.0,
+  "alphaRange": {
+    "x": 0.6,
+    "y": 1.0
+  },
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 5460747703292337791
+  }
+}

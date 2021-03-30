@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3629700563742428051
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2044624832691076724
+  },
+  "m_Name": "",
+  "scaleFactor": 0.5,
+  "newBulletShowInterval": 0.02,
+  "positionOffset": 3.0
+}

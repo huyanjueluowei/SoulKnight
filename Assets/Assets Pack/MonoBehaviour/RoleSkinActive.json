@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5390506232544862123
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8658398789663074558
+  },
+  "m_Name": "",
+  "hero_type": 2,
+  "skin_idx": 6,
+  "objs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8594981553466935778
+    }
+  ]
+}

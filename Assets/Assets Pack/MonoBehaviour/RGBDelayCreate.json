@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8003408242798470689
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5941469988337943282
+  },
+  "m_Name": "",
+  "audip_clip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "atk": 3,
+  "speed": 10.0,
+  "critical": 0,
+  "len": 6,
+  "count": 1,
+  "angle": 0,
+  "pierced": 0,
+  "repl": 2.0,
+  "delay_time": 0.5,
+  "destory_time": 8.0,
+  "bullet": {
+    "m_FileID": 0,
+    "m_PathID": 7324908190329561116
+  },
+  "parent_root": {
+    "m_FileID": 0,
+    "m_PathID": -7234960087062483123
+  }
+}

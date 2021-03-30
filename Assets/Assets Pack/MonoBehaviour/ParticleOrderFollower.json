@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4982172280414264297
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3602120631601828389
+  },
+  "m_Name": "",
+  "followRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -8677933799237162500
+  }
+}

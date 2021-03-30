@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2317074223457300321
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6717056917204017681
+  },
+  "m_Name": "",
+  "enemyController": {
+    "m_FileID": 0,
+    "m_PathID": -4476388413604227884
+  },
+  "deadTargetPosition": {
+    "x": -4.63,
+    "y": -1.25,
+    "z": 0.0
+  },
+  "moveSpeed": 4.0,
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": -4338230258695896564
+  },
+  "animKeyRun": "run",
+  "animKeyDead": "dead",
+  "animKeyDeadTalk": "dead_talk",
+  "animSpeed": 0.7,
+  "showGateDelay": 0.5
+}

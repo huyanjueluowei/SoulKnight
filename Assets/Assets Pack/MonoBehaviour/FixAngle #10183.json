@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8217354183614702680
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1921062561222873939
+  },
+  "m_Name": "",
+  "compareZ": 0,
+  "angle": 0.0,
+  "compareY": 1,
+  "angleY": 180.0,
+  "isGlobal": 1
+}

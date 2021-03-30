@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7984771209218225960
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2460232730360690417
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "materialFactor": 1.5,
+  "materials": [
+    {
+      "m_FileID": 1,
+      "m_PathID": -6719486939421190023
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 7863792119235668714
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": -1424370137828387592
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": -6247076512321727902
+    }
+  ],
+  "extraMaterials": []
+}

@@ -1,0 +1,133 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5572702649672312814
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1114586525680719655
+  },
+  "m_Name": "",
+  "mercenaryDistribute": [
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": 5093576159705805351
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": 6468897191671457623
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": 8108430010249764220
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": 8925128983741733316
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": 3014068247241432216
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": -2090412340055538891
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": -5939842090179406403
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": 7614987285663885072
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": 6949027153524299853
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": -1719670025865178692
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": -1369084825349673195
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": 765640723642227222
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": 7007271371753343304
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": -155322476434587326
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": 6220709847012768803
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": 6275581054613826493
+      },
+      "weight": 100
+    },
+    {
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": 7303999173785845492
+      },
+      "weight": 100
+    }
+  ]
+}

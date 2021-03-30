@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5352669923550378994
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4159746241581469908
+  },
+  "m_Name": "",
+  "hero_type": 2,
+  "specialWeaponSkinIndex": 9,
+  "specialWeapon": {
+    "m_FileID": 1,
+    "m_PathID": -5013213612152515846
+  }
+}

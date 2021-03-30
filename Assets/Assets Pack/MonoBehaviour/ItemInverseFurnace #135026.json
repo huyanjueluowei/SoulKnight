@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2681619160656556880
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2232164854485869907
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "object/furnace_inverse",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "furance_inverse",
+  "talkStates": [
+    "object/furnace_talk"
+  ],
+  "talkFail": "",
+  "talkSuccess": "",
+  "totalState": 2,
+  "drop_clip": {
+    "m_FileID": 1,
+    "m_PathID": 7011765324417210051
+  },
+  "rise_clip": {
+    "m_FileID": 1,
+    "m_PathID": 5176889906864298679
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8534977150439277392
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3816620424345484254
+  },
+  "m_Name": "",
+  "saveManger": {
+    "m_FileID": 0,
+    "m_PathID": 7325434557747101081
+  },
+  "saveMangerSwitch": {
+    "m_FileID": 0,
+    "m_PathID": -4915800326619294297
+  }
+}

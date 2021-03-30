@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7718556169070642831
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7273082303477708126
+  },
+  "m_Name": "",
+  "maxBulletCount": 4,
+  "explodeDelay": 1.5,
+  "attackRetriggerTime": 1.0,
+  "explodePrepareTime": 0.3,
+  "explodeEndTime": 0.3,
+  "initSaturator": 1.0,
+  "targetSaturator": 2.0,
+  "endSaturator": 0.4,
+  "explodeIndex": 2,
+  "thunderEffectIndex": 3,
+  "validRange": 20.0,
+  "lightningUpdateBuff": 2,
+  "lightningExtraSize": 0.5,
+  "lightningExtraDamage": 2
+}

@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5849822057817687423
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4285816416029670920
+  },
+  "m_Name": "",
+  "equip_show": 1,
+  "str_val": "boss10"
+}

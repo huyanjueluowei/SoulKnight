@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3885622177002841951
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4742125978431424461
+  },
+  "m_Name": "",
+  "introClip": {
+    "m_FileID": 0,
+    "m_PathID": 662993862309916591
+  },
+  "loopClip": {
+    "m_FileID": 0,
+    "m_PathID": -669419393972037476
+  },
+  "silenceLength": 0.075
+}

@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6309937165295312693
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4137239413847864724
+  },
+  "m_Name": "",
+  "animationObject": {
+    "m_FileID": 0,
+    "m_PathID": -3216369748663365581
+  },
+  "animator": {
+    "m_FileID": 0,
+    "m_PathID": -6095534663005851555
+  },
+  "animBoss25ImgTransform": {
+    "m_FileID": 0,
+    "m_PathID": 4694251312210114500
+  },
+  "showAnimKey": "show",
+  "animCompleteCallbackKey": "show_complete",
+  "uiMask": {
+    "m_FileID": 0,
+    "m_PathID": 6587911274887567769
+  },
+  "uiMaskDuration": 0.2,
+  "cameraMoveDuration": 0.0,
+  "cameraTargetTransform": {
+    "m_FileID": 0,
+    "m_PathID": 5352257163598471910
+  },
+  "cameraCenterOffset": {
+    "x": 0.0,
+    "y": 4.0
+  },
+  "bossId": "boss25",
+  "onShowComplete": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

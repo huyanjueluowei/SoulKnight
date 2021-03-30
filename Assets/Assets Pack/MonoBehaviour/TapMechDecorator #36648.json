@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 689024432458887049
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8668541324266570298
+  },
+  "m_Name": "",
+  "tapActive": {
+    "m_FileID": 0,
+    "m_PathID": -4124719783237897212
+  },
+  "tapInactive": {
+    "m_FileID": 0,
+    "m_PathID": 2007294294132974885
+  }
+}

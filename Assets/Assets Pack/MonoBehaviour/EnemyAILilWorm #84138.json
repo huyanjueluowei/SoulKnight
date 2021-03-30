@@ -1,0 +1,174 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7714262420304705062
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 526169490473688985
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 2,
+    "m_PathID": 7604308821355011775
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 23,
+  "enemyTag": 516,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 1,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "e_lilWorm",
+  "ai_level": 3,
+  "consume": 1,
+  "e_size": 1,
+  "reward_rate": 100,
+  "reward_value": [
+    0,
+    0,
+    2,
+    1
+  ],
+  "shoot_cd": 2.0,
+  "friction": 0.3,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 1.0,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "need_tap": 1,
+  "downOffset": {
+    "x": 3.6,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "enemySize": 0.5,
+  "downAtkTime": 1.33333337,
+  "downAtkPositionCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.004954925,
+        "outSlope": 0.004954925,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.431613952,
+        "value": 0.00213861465,
+        "inSlope": "Infinity",
+        "outSlope": 0.0508112647,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.2533776
+      },
+      {
+        "time": 0.85,
+        "value": 1.0,
+        "inSlope": 4.168551,
+        "outSlope": 4.168551,
+        "weightedMode": 0,
+        "inWeight": 0.0650636852,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "downAttack": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -8940214667161466933
+          },
+          "m_MethodName": "OnAttack",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "upAttack": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -8940214667161466933
+          },
+          "m_MethodName": "OnAttack",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "downReleaseDuration": 0.2,
+  "dirtPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -9071513394380891416
+  },
+  "downThornBullet": {
+    "bulletProto": {
+      "m_FileID": 0,
+      "m_PathID": -7471159645929156403
+    },
+    "speed": 16.0,
+    "size": 1.0,
+    "damage": 1,
+    "critic": 10,
+    "repel": 3,
+    "throughCount": 0
+  },
+  "downIdleStateName": "lilWorm_ide_down"
+}

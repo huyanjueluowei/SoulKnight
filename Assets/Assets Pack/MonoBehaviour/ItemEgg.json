@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -384217962270025849
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7109025019960971944
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": -7319475116925131574
+  },
+  "level": 1,
+  "objects": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 2160395733777964393
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 1353544225015482181
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": -9037238039887709215
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 4609030187183147387
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 4598804307132084426
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 4598804307132084426
+    }
+  ],
+  "mineral_obj": {
+    "m_FileID": 1,
+    "m_PathID": 738686776489015123
+  },
+  "obj_name": "plant_pumpkin",
+  "need_rabbit": 0
+}

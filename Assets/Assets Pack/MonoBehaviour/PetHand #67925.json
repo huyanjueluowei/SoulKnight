@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4305374395204840953
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 865216317906148782
+  },
+  "m_Name": "",
+  "target_layer": 6,
+  "front_weapon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "handTarget": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "default_weapon_name": "",
+  "weapon_sorting_order": 1
+}

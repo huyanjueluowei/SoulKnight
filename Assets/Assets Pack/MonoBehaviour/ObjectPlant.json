@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4166482918658480375
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4137939405851650708
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "img_1": {
+    "m_FileID": 0,
+    "m_PathID": 3014348984988327405
+  },
+  "img_2": {
+    "m_FileID": 0,
+    "m_PathID": 8156161421147920563
+  },
+  "img_0": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "spriteObject0": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "spriteObject1": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "spriteObject2": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ui_window": {
+    "m_FileID": 0,
+    "m_PathID": -879367850645492483
+  },
+  "max_level": 5
+}

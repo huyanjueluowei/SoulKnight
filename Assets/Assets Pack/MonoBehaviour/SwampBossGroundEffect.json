@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3050049867974718641
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2985279693735255121
+  },
+  "m_Name": "",
+  "showTime": 8.0,
+  "fadeInTime": 1.0,
+  "parallaxTexture": {
+    "m_FileID": 0,
+    "m_PathID": 187047477065665783
+  },
+  "bubbleParticle": {
+    "m_FileID": 0,
+    "m_PathID": -3342526320689705761
+  },
+  "targetFadeValue": 1.0,
+  "initFadeValue": 0.0
+}

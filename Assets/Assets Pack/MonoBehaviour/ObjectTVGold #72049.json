@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8063206029851810430
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4692323615496706856
+  },
+  "m_Name": "",
+  "gems_icon": {
+    "m_FileID": 1,
+    "m_PathID": -6721285581069369661
+  },
+  "offset_y": 1.0,
+  "offset_x": 0.0,
+  "otherworldPromo": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

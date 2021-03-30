@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6573873071676185290
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7395664834512197743
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "wi2_gaussiancoil",
+  "item_value": 20,
+  "repeat": 0,
+  "statisticKey": "",
+  "supportWeaponList": [
+    {
+      "id": 0,
+      "weaponType": 12,
+      "supportWeaponScripts": [
+        "Gun001",
+        "Gun002",
+        "GunMissle"
+      ]
+    },
+    {
+      "id": 1,
+      "weaponType": 10,
+      "supportWeaponScripts": []
+    },
+    {
+      "id": 2,
+      "weaponType": 11,
+      "supportWeaponScripts": [
+        "Gun001",
+        "GunInitRobot"
+      ]
+    },
+    {
+      "id": 4,
+      "weaponType": 14,
+      "supportWeaponScripts": []
+    },
+    {
+      "id": 5,
+      "weaponType": 15,
+      "supportWeaponScripts": []
+    }
+  ],
+  "byWeapon": 0,
+  "processName": "",
+  "item_level": 0,
+  "show_level": -1,
+  "weapon_item_sprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "weapon_id": 0,
+  "propertyTypes": [
+    0,
+    4
+  ],
+  "values": [
+    1.0,
+    4.0
+  ]
+}

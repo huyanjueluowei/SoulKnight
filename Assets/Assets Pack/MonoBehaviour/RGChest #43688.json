@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5896392212753176067
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7966136535662796406
+  },
+  "m_Name": "",
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": -7319475116925131574
+  },
+  "statisticKey": "chest00",
+  "level": 0,
+  "itemParent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "hasCustomOpenEffect": 0,
+  "openEffectPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "onEmptyChestOpen": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 9206932010024668430
+          },
+          "m_MethodName": "OnEmptyChestOpen",
+          "m_Mode": 1,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3801826443602182343
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -396318309624504717
+  },
+  "m_Name": "",
+  "roomExtraWidth": 9,
+  "aisleExtraLength": 8,
+  "aisleExtraHeight": 5,
+  "rectMaskMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 170825555739072148
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8394497180359218188
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 657016694994818322
+  },
+  "m_Name": "",
+  "animTriggerName": "eat",
+  "animAudioClip": {
+    "m_FileID": 1,
+    "m_PathID": 3150488904984120107
+  },
+  "shouldSwitchAfterEat": 1,
+  "talk": "",
+  "talkDelay": 0.0,
+  "isSpecialWeapon": 1
+}

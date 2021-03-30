@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8751718552117351186
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -361261726575696120
+  },
+  "m_Name": "",
+  "drop": {
+    "m_FileID": 0,
+    "m_PathID": 5792322929723582179
+  },
+  "inputField": {
+    "m_FileID": 0,
+    "m_PathID": -766711727428136954
+  }
+}

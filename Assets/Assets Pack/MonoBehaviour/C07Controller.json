@@ -1,0 +1,196 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3032318106458171101
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 579220811447095457
+  },
+  "m_Name": "",
+  "awake": 0,
+  "dead": 0,
+  "p_index": 0,
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rigibody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "target_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fixed_angle": 0.0,
+  "clip_skill": {
+    "m_FileID": 0,
+    "m_PathID": 7714463989765790460
+  },
+  "clip_hit": {
+    "m_FileID": 0,
+    "m_PathID": 5278866526355173490
+  },
+  "skills": [
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -4869754426330156045
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 7714463989765790460
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -3557352305634905212
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6780046225167231733
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 0,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 5051428637929423881
+      },
+      "maxTime": 0.0,
+      "maxCount": 0,
+      "cd": 8.0,
+      "price": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": 6009943766867730075
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 4316199098600088263
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 157744339945935874
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 157744339945935874
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 157744339945935874
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 157744339945935874
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1994884054535045766
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 157744339945935874
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5815040238173507657
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7728541000036626294
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8953470162350744256
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 0,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 1332808571558743947
+      },
+      "maxTime": 0.0,
+      "maxCount": 0,
+      "cd": 11.0,
+      "price": 0
+    },
+    {
+      "icon": {
+        "m_FileID": 0,
+        "m_PathID": -8213090861147756767
+      },
+      "audioClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 2263313490480250367
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4928431172963489676
+        }
+      ],
+      "skillObjects": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -8736056008121601107
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2034906711214853423
+        }
+      ],
+      "intent": 0,
+      "range": 14.0,
+      "skillType": 1,
+      "skinSkillCfg": {
+        "m_FileID": 0,
+        "m_PathID": 9047003092571599004
+      },
+      "maxTime": 3.5,
+      "maxCount": 0,
+      "cd": 13.0,
+      "price": 10000
+    }
+  ],
+  "in_battle": 0,
+  "statuePosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "skillIndex": 0,
+  "operaSkill0Prefabs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2821682037153194132
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5526854427779200842
+    }
+  ],
+  "operaSwitchEffects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -862116850861846400
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4747664986111905997
+    }
+  ]
+}

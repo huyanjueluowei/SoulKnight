@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3815623065906949437
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 325258773507411463
+  },
+  "m_Name": "",
+  "parentTransform": {
+    "m_FileID": 0,
+    "m_PathID": -945112124654434073
+  },
+  "sortingLayerName": "Character",
+  "sortingOrder": 1
+}

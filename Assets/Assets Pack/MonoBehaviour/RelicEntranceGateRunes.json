@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6821769093633443472
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8716252051035331900
+  },
+  "m_Name": "",
+  "runes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6012291897698248008
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4008218536626499720
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2296900001727896936
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2334305439548414809
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8422095373397434912
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7849935297155324893
+    }
+  ],
+  "timeDuration": 90.0,
+  "runeShowDelay": 0.2,
+  "light2AlphaIdle": 0.2,
+  "light2AlphaIdleMin": 0.05,
+  "light1AlphaIdleMin": 0.1,
+  "fadeTime": 0.3,
+  "idleDuration": 1.0
+}

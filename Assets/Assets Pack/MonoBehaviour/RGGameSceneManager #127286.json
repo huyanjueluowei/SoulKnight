@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 67
+  },
+  "m_Name": "",
+  "temp_objects_parent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "net_controllers": [],
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "pet": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mercenaries": [],
+  "game_state": 2,
+  "select_hero": 0
+}

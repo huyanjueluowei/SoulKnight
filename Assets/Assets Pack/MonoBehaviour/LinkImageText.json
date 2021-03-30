@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2289500456346103057
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1110998091085659747
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_RaycastTarget": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "m_FontData": {
+    "m_Font": {
+      "m_FileID": 1,
+      "m_PathID": 10102
+    },
+    "m_FontSize": 30,
+    "m_FontStyle": 0,
+    "m_BestFit": 0,
+    "m_MinSize": 3,
+    "m_MaxSize": 40,
+    "m_Alignment": 0,
+    "m_AlignByGeometry": 0,
+    "m_RichText": 1,
+    "m_HorizontalOverflow": 0,
+    "m_VerticalOverflow": 0,
+    "m_LineSpacing": 1.0
+  },
+  "m_Text": "根据国家新闻出版署《关于防止未成年人沉迷网络游戏工作的通知》的要求，游戏用户应尽快完成实名认证，对未完成实名认证的用户将停止提供游戏服务。\n\r\n实名认证功能将在近期开启，请留意相关信息并使用有效身份信息进行实名认证。点击下方<a href=mujian>查看详情</a>阅读通知全文。",
+  "m_OnHrefClick": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

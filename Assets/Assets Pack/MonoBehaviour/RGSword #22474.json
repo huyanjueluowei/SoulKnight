@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5139885746269458070
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -166188731412810291
+  },
+  "m_Name": "",
+  "damageType": 524288,
+  "camp": 0,
+  "revert": 0
+}

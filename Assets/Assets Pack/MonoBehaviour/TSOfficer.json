@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6275581054613826493
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8736325554469989824
+  },
+  "m_Name": "",
+  "scanDelay": 1.0,
+  "scanInterval": 0.2,
+  "skillInfo": {
+    "icon": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "audioClips": [
+      {
+        "m_FileID": 0,
+        "m_PathID": -5024682426361076481
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4465351821823949600
+      }
+    ],
+    "skillObjects": [
+      {
+        "m_FileID": 0,
+        "m_PathID": -2767007843298524351
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6051446270313811560
+      }
+    ],
+    "intent": 0,
+    "range": 14.0,
+    "skillType": 0,
+    "skinSkillCfg": {
+      "m_FileID": 0,
+      "m_PathID": -3447555309514198454
+    },
+    "maxTime": 0.0,
+    "maxCount": 0,
+    "cd": 13.0,
+    "price": 0
+  },
+  "objectReferences": []
+}

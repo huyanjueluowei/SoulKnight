@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 81
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 2,
+    "m_PathID": 99
+  },
+  "m_Name": "",
+  "fishChipText": {
+    "m_FileID": 0,
+    "m_PathID": 1675
+  },
+  "fishChipPurchaseController": {
+    "m_FileID": 2,
+    "m_PathID": 149
+  },
+  "parentTransform": {
+    "m_FileID": 0,
+    "m_PathID": 836
+  }
+}

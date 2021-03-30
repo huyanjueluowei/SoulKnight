@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3140298614568523394
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8293629100495497116
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "",
+  "talkStates": [],
+  "talkFail": "",
+  "talkSuccess": "",
+  "totalState": 0,
+  "chestRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "resetAtStart": 0,
+  "showEdgeTips": 1,
+  "buffRanData": {
+    "objectType": 3,
+    "level": 0,
+    "maxLevel": 0,
+    "distributeProbability": 0.0,
+    "objectDistribution": [
+      {
+        "gameObject": {
+          "m_FileID": 2,
+          "m_PathID": 3297209278456159869
+        },
+        "weight": 1
+      }
+    ]
+  }
+}

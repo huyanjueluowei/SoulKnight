@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4971213255807293464
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7445796292275089649
+  },
+  "m_Name": "",
+  "value": 1,
+  "speed": 20.0,
+  "range": 7.0,
+  "type": 3,
+  "tokenType": 1
+}

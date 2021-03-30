@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3474663216954479459
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2190193481195203761
+  },
+  "m_Name": "",
+  "boss_id": "boss13",
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 8235758314568880983
+  },
+  "onHideHpBar": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "onShowHpBar": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  }
+}

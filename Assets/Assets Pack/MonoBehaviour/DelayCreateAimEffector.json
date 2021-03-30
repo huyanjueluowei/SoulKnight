@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5952630472413192586
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6701019192709262774
+  },
+  "m_Name": "",
+  "bullet": {
+    "bulletProto": {
+      "m_FileID": 0,
+      "m_PathID": -582718948666604326
+    },
+    "speed": 8.0,
+    "size": 1.0,
+    "damage": 3,
+    "critic": 10,
+    "repel": 3,
+    "throughCount": 0
+  },
+  "releaseDuration": 1.0,
+  "initDelay": 1.0,
+  "scanDuration": 3.0,
+  "scanRadius": 20.0,
+  "targetLayer": {
+    "m_Bits": 33280
+  },
+  "obstacleLayer": {
+    "m_Bits": 159744
+  },
+  "parentBullet": {
+    "m_FileID": 0,
+    "m_PathID": 3290411878233112399
+  },
+  "targetPositionOffset": {
+    "x": 0.0,
+    "y": 0.5,
+    "z": 0.0
+  },
+  "releaseCount": 5,
+  "angleInBetween": 30.0
+}

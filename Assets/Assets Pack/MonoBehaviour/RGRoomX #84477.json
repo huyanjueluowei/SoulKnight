@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3889584152883132569
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3517707351753331472
+  },
+  "m_Name": "",
+  "process": 0,
+  "rect": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "room_width": 21,
+  "room_height": 21,
+  "room_type": 2,
+  "canGenerateIceFloor": [],
+  "random_room": 0,
+  "room_x": 0,
+  "room_y": 0,
+  "openDirection": 0,
+  "onRoomClear": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -2833285245689892249
+          },
+          "m_MethodName": "OnRoomCleared",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  },
+  "door_open": 1,
+  "create_with_close_state": 0,
+  "need_cage": 0
+}

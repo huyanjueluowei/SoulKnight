@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6591693984916830273
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1180513833308282279
+  },
+  "m_Name": "",
+  "damageType": 4194432,
+  "camp": 0,
+  "damage_radius": 3.0,
+  "damage": 1,
+  "hit_player": 0,
+  "hit_enemy": 1,
+  "duration": 6,
+  "hit_invert": 0.5
+}

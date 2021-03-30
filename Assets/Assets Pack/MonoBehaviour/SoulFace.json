@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7014001958826829396
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2424109489915532990
+  },
+  "m_Name": "",
+  "target": {
+    "m_FileID": 0,
+    "m_PathID": -2293805785718667836
+  },
+  "lerp_val": 6.0,
+  "face_arr": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6890330620397493177
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7474273944626900127
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6201474275484709332
+    }
+  ],
+  "dead_face": {
+    "m_FileID": 0,
+    "m_PathID": 436833279087336335
+  },
+  "track_mode": 1
+}

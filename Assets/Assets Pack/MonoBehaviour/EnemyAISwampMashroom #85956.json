@@ -1,0 +1,99 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -274201409844247489
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2646396960463280055
+  },
+  "m_Name": "",
+  "clip_dead": {
+    "m_FileID": 2,
+    "m_PathID": 8184099885297121370
+  },
+  "awake": 0,
+  "temp_enemy": 0,
+  "start_awake": 0,
+  "levelScene": 24,
+  "enemyTag": 65,
+  "has_change_shape": 0,
+  "destory_on_dead": 0,
+  "intensive": 0,
+  "exEnemy": {
+    "m_FileID": 0,
+    "m_PathID": 3483186849101956278
+  },
+  "weapon_lock_target": 1,
+  "enemy_id": "e_mushroom",
+  "ai_level": 3,
+  "consume": 1,
+  "e_size": 1,
+  "reward_rate": 15,
+  "reward_value": [
+    0,
+    0,
+    2,
+    1
+  ],
+  "shoot_cd": 1.0,
+  "friction": 0.8,
+  "kinematic": 0,
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scout_rate": 1.0,
+  "is_lock": 0,
+  "buff_immune": 1.0,
+  "ImmunSting": 0,
+  "invincible_mode": 0,
+  "can_award": 1,
+  "height": 1.5,
+  "enemyRoom": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "damage": 2,
+  "later_time": 1.0,
+  "dead_obj": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8867106514075577115
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -1325652754026380856
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 1461913777013055586
+    }
+  ],
+  "hit_object": {
+    "m_FileID": 2,
+    "m_PathID": -7198334486031958363
+  },
+  "releaseGasDuration": 0.5,
+  "gasPrefab": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3307182518017938033
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3538851246780058266
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2001458753776154651
+    }
+  ],
+  "gasAnimTriggerName": "gas",
+  "gasProbability": 30
+}

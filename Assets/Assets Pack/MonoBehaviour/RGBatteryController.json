@@ -1,0 +1,111 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6018997555237992604
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2972752406564769470
+  },
+  "m_Name": "",
+  "awake": 1,
+  "dead": 0,
+  "p_index": 0,
+  "anim": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rigibody": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "target_obj": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fixed_angle": 0.0,
+  "role_attribute": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "state": 0,
+  "damage": 3,
+  "move_direction": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "min_distance": 100.0,
+  "scout_rate": 0.5,
+  "atk_cd": 0.8,
+  "summon": 0,
+  "can_atk": 1,
+  "master_tf": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "min_follow_distance": 2.0,
+  "max_follow_distance": 20.0,
+  "OnAttackStart": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "ignoreAllAlone": 0,
+  "intensify": 0,
+  "missile": {
+    "m_FileID": 0,
+    "m_PathID": 3761867581285664263
+  },
+  "missiles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3761867581285664263
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3761867581285664263
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3761867581285664263
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3761867581285664263
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3761867581285664263
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3761867581285664263
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3761867581285664263
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7875562118212562635
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1923511945501481702
+    }
+  ],
+  "extraUpdateMissle": {
+    "m_FileID": 0,
+    "m_PathID": 4500298642415619545
+  },
+  "hand": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "shoot_time": 2.0,
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 1826340476550598763
+  }
+}

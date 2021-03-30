@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2083423802704771168
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1977935608552635748
+  },
+  "m_Name": "",
+  "sourceWeapons": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2083423802704771168
+    }
+  ],
+  "targetWeapon": {
+    "m_FileID": 0,
+    "m_PathID": 8898887095734259438
+  },
+  "sourceWeaponsRange": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4260398660053684037
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5167595083010059894
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5056058716064459016
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4308224971098345320
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7097364579039208948
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6062526051603529188
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6638483405674268411
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2789701054552515223
+    }
+  ],
+  "inRangeCount": 2,
+  "destroyAllWeapon": 1
+}

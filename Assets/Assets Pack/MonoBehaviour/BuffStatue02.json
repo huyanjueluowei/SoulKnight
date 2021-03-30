@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 386072726547812802
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7648694758554955581
+  },
+  "m_Name": "",
+  "cd": 8.0,
+  "audio_clip": {
+    "m_FileID": 1,
+    "m_PathID": 2138041291659840983
+  },
+  "bullet": {
+    "m_FileID": 1,
+    "m_PathID": -377459478481823936
+  },
+  "smoke_effect": {
+    "m_FileID": 1,
+    "m_PathID": 6201245497394906223
+  }
+}

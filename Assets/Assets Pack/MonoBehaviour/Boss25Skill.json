@@ -1,0 +1,192 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4327197595513922364
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5058080680688046939
+  },
+  "m_Name": "",
+  "predictExplodeModel": {
+    "cd": 1.5,
+    "animationTriggerName": "atk_1",
+    "normalWeight": 1,
+    "angryWeight": 3,
+    "characterBaseRadius": 0.5,
+    "explodeBullet": {
+      "bulletProto": {
+        "m_FileID": 2,
+        "m_PathID": 3578711583494901616
+      },
+      "speed": 0.0,
+      "size": 1.0,
+      "damage": 4,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "releaseDuration": 0.3,
+    "initDelay": 0.3,
+    "attackDelay": 0.3,
+    "releaseCount": 5,
+    "directlyHitPlayerRate": 100
+  },
+  "ringBulletModel": {
+    "cd": 2.0,
+    "animationTriggerName": "atk_2",
+    "normalWeight": 2,
+    "angryWeight": 2,
+    "bulletCount": 6,
+    "releaseTimes": 3,
+    "releaseDuration": 0.4,
+    "initDelay": 0.5,
+    "bulletInfo": {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 6225392572914664886
+      },
+      "speed": 8.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "releaseTransform": {
+      "m_FileID": 0,
+      "m_PathID": -1669916555723549066
+    },
+    "releasePositionOffset": {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 0.5
+    }
+  },
+  "followBulletModel": {
+    "cd": 1.0,
+    "animationTriggerName": "atk_3",
+    "normalWeight": 2,
+    "angryWeight": 2,
+    "bulletInfo": {
+      "bulletProto": {
+        "m_FileID": 3,
+        "m_PathID": 2602485151377952228
+      },
+      "speed": 16.0,
+      "size": 1.0,
+      "damage": 4,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "followTransform": {
+      "m_FileID": 0,
+      "m_PathID": -1669916555723549066
+    },
+    "positionOffset": {
+      "x": 0.0,
+      "y": 1.68,
+      "z": 0.0
+    },
+    "followEaseTime": 1.0,
+    "releaseDelayTime": 0.0,
+    "duration": 10.0
+  },
+  "traceBulletModel": {
+    "cd": 3.0,
+    "animationTriggerName": "atk_4",
+    "normalWeight": 0,
+    "angryWeight": 2,
+    "mainBullet": {
+      "bulletProto": {
+        "m_FileID": 3,
+        "m_PathID": -4550738108971851982
+      },
+      "speed": 8.0,
+      "size": 1.0,
+      "damage": 4,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "shockBullet": {
+      "bulletProto": {
+        "m_FileID": 2,
+        "m_PathID": 815939732839467372
+      },
+      "speed": 0.0,
+      "size": 1.0,
+      "damage": 4,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "traceBullet": {
+      "bulletProto": {
+        "m_FileID": 3,
+        "m_PathID": -9209456617362958447
+      },
+      "speed": 5.0,
+      "size": 1.0,
+      "damage": 4,
+      "critic": 10,
+      "repel": 3,
+      "throughCount": 0
+    },
+    "initDelay": 0.5,
+    "relativeTransform": {
+      "m_FileID": 0,
+      "m_PathID": -1669916555723549066
+    },
+    "mainBulletReleaseOffset": {
+      "x": 1.5,
+      "y": 0.9,
+      "z": 0.0
+    },
+    "releaseCount": 3,
+    "traceBulletAngle": 30.0,
+    "moveCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        },
+        {
+          "time": 0.508031249,
+          "value": 0.24408035,
+          "inSlope": 0.6353376,
+          "outSlope": 0.6353376,
+          "weightedMode": 0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.109833479
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": 1.53651965,
+          "outSlope": 2.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "moveDelay": 0.0,
+    "moveAmount": 7.0,
+    "moveDuration": 0.466666669,
+    "scanRadius": 20.0,
+    "targetMask": {
+      "m_Bits": 512
+    }
+  }
+}

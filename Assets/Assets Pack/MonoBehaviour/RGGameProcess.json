@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 39
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 29
+  },
+  "m_Name": "",
+  "this_index": 0,
+  "coin_value": 0,
+  "kill_count": 0,
+  "start_time": 0.0,
+  "cur_bossrush_room": "",
+  "cur_bossname": "",
+  "use_br_ticket_flag": 0
+}

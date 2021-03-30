@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3179855652938124095
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 16911910789023059
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "weaponWeights": [
+    {
+      "levels": [
+        0,
+        1
+      ],
+      "weight": 50
+    },
+    {
+      "levels": [
+        2,
+        3,
+        4
+      ],
+      "weight": 49
+    },
+    {
+      "levels": [
+        5,
+        6
+      ],
+      "weight": 1
+    }
+  ],
+  "getSelfRate": 0,
+  "maxGetSelfTime": 9,
+  "finalSelfWeaponName": "weapon_000"
+}

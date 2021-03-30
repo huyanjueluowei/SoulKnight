@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6454626125967792419
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3858294658937997238
+  },
+  "m_Name": "",
+  "InputRegistePhonePassword": {
+    "m_FileID": 0,
+    "m_PathID": 6949962999104438944
+  },
+  "InputRegistePhoneConfirmPassword": {
+    "m_FileID": 0,
+    "m_PathID": 7513800286800694119
+  },
+  "RegisteBtn": {
+    "m_FileID": 0,
+    "m_PathID": -4009921308851632553
+  },
+  "EmailRegisteGa": {
+    "m_FileID": 0,
+    "m_PathID": -6102367915329744849
+  },
+  "PhoneRegisteGa": {
+    "m_FileID": 0,
+    "m_PathID": -5884687160224913970
+  },
+  "PhoneRegistSendSMSCodeGa": {
+    "m_FileID": 0,
+    "m_PathID": 1056387294697694029
+  },
+  "PhoneRegistSetPasswordGa": {
+    "m_FileID": 0,
+    "m_PathID": -2829657131728995681
+  },
+  "GuideText": {
+    "m_FileID": 0,
+    "m_PathID": 2239046528122376677
+  }
+}

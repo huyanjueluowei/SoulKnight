@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6871441599733821117
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 20074570014252936
+  },
+  "m_Name": "",
+  "weapon_type": 11,
+  "weapon_tags": [],
+  "audio_clip": {
+    "m_FileID": 0,
+    "m_PathID": 1826340476550598763
+  },
+  "activate": 1,
+  "item_level": 0,
+  "item_value": 12,
+  "bulletsInfo": [
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 7790902613202000037
+      },
+      "speed": 20.0,
+      "size": 1.0,
+      "damage": 3,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    },
+    {
+      "bulletProto": {
+        "m_FileID": 0,
+        "m_PathID": 7790902613202000037
+      },
+      "speed": 20.0,
+      "size": 1.0,
+      "damage": 6,
+      "critic": 0,
+      "repel": 3,
+      "throughCount": 0
+    }
+  ],
+  "deviation": 4,
+  "consume": 2,
+  "weapon_speed": 1.0,
+  "atk_move_speed": 0.0,
+  "need_lock": 1,
+  "has_effect": 0,
+  "is_melee": 0,
+  "not_forgeable": 0,
+  "can_use": 1,
+  "limitUseInMultiRoom": 0,
+  "delay": 0.15,
+  "atk_mode2": 6,
+  "consume_mode2": 5,
+  "critical_mode2": 0,
+  "speed_mode2": 24.0,
+  "gun_point_color_mode1": {
+    "r": 0.5294118,
+    "g": 1.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "gun_point_color_mode2": {
+    "r": 0.443137258,
+    "g": 0.7882353,
+    "b": 0.9098039,
+    "a": 1.0
+  },
+  "continuousCount": 3
+}

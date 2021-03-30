@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2780511697275604460
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8007645559869940078
+  },
+  "m_Name": "",
+  "smoothTime": 0.03,
+  "positionOffset": 0.75,
+  "fadeOutTime": 0.1
+}

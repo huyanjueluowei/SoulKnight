@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1284425544442510242
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8161351464658678542
+  },
+  "m_Name": "",
+  "audip_clip": {
+    "m_FileID": 1,
+    "m_PathID": -1448364804562760397
+  },
+  "atk": 2,
+  "speed": 8.0,
+  "critical": 0,
+  "count": 4,
+  "angle": 45,
+  "pierced": 0,
+  "bullet": {
+    "m_FileID": 0,
+    "m_PathID": -582718948666604326
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5295030355111387896
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1343097999745596668
+  },
+  "m_Name": "",
+  "bossShowEventName": "BossShow",
+  "toAlarmDuration": 2.5,
+  "afterAlarmDuration": 2.5,
+  "animNameAlarm": "alarm",
+  "animNameFadeOut": "fade",
+  "cameraMoveDuration": 0.0,
+  "cameraCenterOffset": {
+    "x": 0.0,
+    "y": 2.0
+  },
+  "uiMask": {
+    "m_FileID": 0,
+    "m_PathID": 6587911274887567769
+  },
+  "animDuration": 0.2,
+  "mineAnimator": {
+    "m_FileID": 0,
+    "m_PathID": -5057198244221075015
+  },
+  "mineTransform": {
+    "m_FileID": 0,
+    "m_PathID": 1919220000024926709
+  },
+  "nailReleaseRange": {
+    "x": 0.05,
+    "y": 0.15
+  },
+  "iceNail": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7466706699677167101
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5489847903541267789
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2344255296399372488
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6753416990450337941
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4064265335670684614
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5603273455332787016
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4318719508137961864
+    }
+  ],
+  "bossId": "boss24",
+  "animObject": {
+    "m_FileID": 0,
+    "m_PathID": -6242054324579680014
+  }
+}

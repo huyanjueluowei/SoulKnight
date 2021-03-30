@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 15
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 33
+  },
+  "m_Name": "",
+  "sample_random_seed": 0,
+  "map_random_seed": 0
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2634149731650436675
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2642950589999962400
+  },
+  "m_Name": "",
+  "damage": 1,
+  "critical": 0,
+  "hit_object": {
+    "m_FileID": 0,
+    "m_PathID": 6760193054124681342
+  },
+  "colliderSize": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3292847427053831887
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1883966701845480630
+  },
+  "m_Name": "",
+  "fallStar": {
+    "m_FileID": 0,
+    "m_PathID": 573961473264413395
+  },
+  "hitRange": 4.5
+}

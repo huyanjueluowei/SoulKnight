@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7366702701619058565
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7455253401620379825
+  },
+  "m_Name": "",
+  "buff": 3,
+  "scriptTypeName": "RGBTDivision",
+  "fieldName": "angle",
+  "modifyType": 0,
+  "intModifyValue": -30,
+  "floatModifyValue": 0.0
+}

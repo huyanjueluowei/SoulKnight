@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 125
+  },
+  "m_Name": "",
+  "CameraTargets": [],
+  "CenterTargetOnStart": 0,
+  "Axis": 0,
+  "UpdateType": 1,
+  "FollowHorizontal": 1,
+  "HorizontalFollowSmoothness": 0.3,
+  "FollowVertical": 1,
+  "VerticalFollowSmoothness": 0.3,
+  "OverallOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "ZoomWithFOV": 0,
+  "CurrentZoomTriggerID": 0,
+  "IsCameraPositionLeftBounded": 0,
+  "IsCameraPositionRightBounded": 0,
+  "IsCameraPositionTopBounded": 0,
+  "IsCameraPositionBottomBounded": 0,
+  "GameCamera": {
+    "m_FileID": 0,
+    "m_PathID": 438
+  }
+}

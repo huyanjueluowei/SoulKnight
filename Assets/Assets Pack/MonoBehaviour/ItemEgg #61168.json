@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6111436157210703552
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7109025019960971944
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 0,
+  "repeat": 0,
+  "statisticKey": "item_egg",
+  "audio_clip": {
+    "m_FileID": 2,
+    "m_PathID": -7319475116925131574
+  },
+  "level": 1,
+  "objects": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 6224357226476863080
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 2160395733777964393
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 1353544225015482181
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -9037238039887709215
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 4609030187183147387
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 4598804307132084426
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 4598804307132084426
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 7974682730190197891
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 2637268907918478756
+    }
+  ],
+  "mineral_obj": {
+    "m_FileID": 2,
+    "m_PathID": 738686776489015123
+  },
+  "obj_name": "object/egg",
+  "need_rabbit": 1
+}

@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7219640158140279301
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8583698329884306739
+  },
+  "m_Name": "",
+  "npc_name": "item/fence_workshop",
+  "talk_list": [],
+  "talk_time": [],
+  "height": 1.6
+}

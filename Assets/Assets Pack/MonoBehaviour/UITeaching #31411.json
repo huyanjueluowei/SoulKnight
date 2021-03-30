@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8468709247493065998
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5451591102089642669
+  },
+  "m_Name": "",
+  "tip_list": [
+    "I_teaching_01",
+    "I_teaching_02",
+    "",
+    "I_teaching_03"
+  ],
+  "point_list": [
+    {
+      "x": 875.0,
+      "y": 515.0
+    },
+    {
+      "x": 1160.0,
+      "y": 80.0
+    },
+    {
+      "x": 1160.0,
+      "y": 80.0
+    }
+  ],
+  "teach_target_infos": [
+    {
+      "canvas_name": "Canvas_world",
+      "canvas_path": "hero_btn/Button00"
+    },
+    {
+      "canvas_name": "Canvas",
+      "canvas_path": "ui_chose/mask_down/btn_ok"
+    },
+    {
+      "canvas_name": "Canvas",
+      "canvas_path": "ui_chose/mask_down/btn_ok"
+    }
+  ]
+}

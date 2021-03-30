@@ -1,0 +1,602 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4543573256434782674
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8792345195421881895
+  },
+  "m_Name": "",
+  "toturial_list": [
+    {
+      "eventType": "ItemTriggerSuccessEvent",
+      "param_list": [
+        "RGChestAppoint",
+        "chest00"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "2",
+            "1"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "ItemTriggerSuccessEvent",
+      "param_list": [
+        "Gun008",
+        "weapon_049"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room2_2"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "ExitDungeonRoomEvent",
+      "param_list": [
+        "room2_2",
+        "e"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room3_2"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "EnterDungeonRoomEvent",
+      "param_list": [
+        "room3_2",
+        "w"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "1",
+            "0"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "ExitDungeonRoomEvent",
+      "param_list": [
+        "room3_2",
+        "n"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room3_3"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "EnterDungeonRoomEvent",
+      "param_list": [
+        "room3_3",
+        "s"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "1",
+            "2"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "ExitDungeonRoomEvent",
+      "param_list": [
+        "room3_3",
+        "w"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "CloseRoomDoor",
+          "param_list": [
+            "room3_3"
+          ]
+        },
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room2_3"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "EnterDungeonRoomEvent",
+      "param_list": [
+        "room2_3",
+        "e"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "CloseRoomDoor",
+          "param_list": [
+            "room2_3"
+          ]
+        },
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "2",
+            "3"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "ItemTriggerSuccessEvent",
+      "param_list": [
+        "ItemFurnace",
+        "furance"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "3",
+            "0"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "ItemTriggerSuccessEvent",
+      "param_list": [
+        "Gun008",
+        "weapon_184"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room2_3"
+          ]
+        },
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room1_3"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "EnterDungeonRoomEvent",
+      "param_list": [
+        "room1_3",
+        "e"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "CloseRoomDoor",
+          "param_list": [
+            "room1_3"
+          ]
+        },
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "2",
+            "4"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "ItemTriggerSuccessEvent",
+      "param_list": [
+        "ItemInverseFurnace",
+        "furance_inverse"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room1_3"
+          ]
+        },
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room1_2"
+          ]
+        },
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "2",
+            "12"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "EnterDungeonRoomEvent",
+      "param_list": [
+        "room1_2",
+        "n"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "CloseRoomDoor",
+          "param_list": [
+            "room1_2"
+          ]
+        },
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "2",
+            "5"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "ItemTriggerSuccessEvent",
+      "param_list": [
+        "ItemChestBig",
+        "chest_single_big_3"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "CloseRoomDoor",
+          "param_list": [
+            "room1_3"
+          ]
+        },
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "2",
+            "6"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "CanFusionEvent",
+      "param_list": [
+        "weapon_173"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "ShowForceTeach",
+          "param_list": [
+            "Canvas",
+            "control/btn_special",
+            "ClickFusionBtn"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "FusionSuccessEvent",
+      "param_list": [
+        "weapon_290"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room1_2"
+          ]
+        },
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room1_1"
+          ]
+        },
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "3",
+            "0"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "ExitDungeonRoomEvent",
+      "param_list": [
+        "room1_1",
+        "e"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room2_1"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "EnterDungeonRoomEvent",
+      "param_list": [
+        "room2_1",
+        "w",
+        ""
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "CloseRoomDoor",
+          "param_list": [
+            "room2_1"
+          ]
+        },
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "2",
+            "7"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "ItemTriggerSuccessEvent",
+      "param_list": [
+        "TalkStatue",
+        "statue_08"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room2_1"
+          ]
+        },
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room3_1"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "ExitDungeonRoomEvent",
+      "param_list": [
+        "room3_1",
+        "e"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "CloseRoomDoor",
+          "param_list": [
+            "room3_1"
+          ]
+        },
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room4_1"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "EnterDungeonRoomEvent",
+      "param_list": [
+        "room4_1",
+        "w"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "CloseRoomDoor",
+          "param_list": [
+            "room4_1"
+          ]
+        },
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "2",
+            "8"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "EnemyDeadEvent",
+      "param_list": [
+        "mineral_gold"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room4_1"
+          ]
+        },
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room4_2"
+          ]
+        },
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "3",
+            "3"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "EnterDungeonRoomEvent",
+      "param_list": [
+        "room4_2",
+        "s"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "CloseRoomDoor",
+          "param_list": [
+            "room4_2"
+          ]
+        },
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "2",
+            "9"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "MountEvent",
+      "param_list": [
+        "m_mech_3"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room4_2"
+          ]
+        },
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room4_3"
+          ]
+        },
+        {
+          "trigger_method": "ShowForceTeach",
+          "param_list": [
+            "Canvas",
+            "control/btn_special",
+            "ClickSpecialBtn"
+          ]
+        },
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "3",
+            "4"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "ExitDungeonRoomEvent",
+      "param_list": [
+        "room4_3",
+        "n"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "CloseRoomDoor",
+          "param_list": [
+            "room4_3"
+          ]
+        },
+        {
+          "trigger_method": "OpenRoomDoor",
+          "param_list": [
+            "room4_4"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "EnterDungeonRoomEvent",
+      "param_list": [
+        "room4_4",
+        "s"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "2",
+            "10"
+          ]
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "EnemyDeadEvent",
+      "param_list": [
+        "e_hammer"
+      ],
+      "trigger_list": [
+        {
+          "trigger_method": "TrainerTalk",
+          "param_list": [
+            "2",
+            "11"
+          ]
+        },
+        {
+          "trigger_method": "EndAdvTourial",
+          "param_list": []
+        }
+      ],
+      "is_complete": 0
+    },
+    {
+      "eventType": "ExitDungeonRoomEvent",
+      "param_list": [
+        "room3_4",
+        "w"
+      ],
+      "trigger_list": [],
+      "is_complete": 0
+    }
+  ]
+}

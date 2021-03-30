@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 59
+  },
+  "m_Name": "NewSkinConfig",
+  "skins": [
+    {
+      "hero": 0,
+      "skinIndex": 11
+    },
+    {
+      "hero": 1,
+      "skinIndex": 10
+    },
+    {
+      "hero": 2,
+      "skinIndex": 11
+    },
+    {
+      "hero": 3,
+      "skinIndex": 10
+    },
+    {
+      "hero": 4,
+      "skinIndex": 8
+    },
+    {
+      "hero": 5,
+      "skinIndex": 10
+    },
+    {
+      "hero": 6,
+      "skinIndex": 9
+    },
+    {
+      "hero": 7,
+      "skinIndex": 10
+    },
+    {
+      "hero": 8,
+      "skinIndex": 9
+    },
+    {
+      "hero": 9,
+      "skinIndex": 13
+    },
+    {
+      "hero": 10,
+      "skinIndex": 10
+    },
+    {
+      "hero": 11,
+      "skinIndex": 8
+    },
+    {
+      "hero": 12,
+      "skinIndex": 9
+    },
+    {
+      "hero": 13,
+      "skinIndex": 11
+    },
+    {
+      "hero": 14,
+      "skinIndex": 5
+    },
+    {
+      "hero": 15,
+      "skinIndex": 4
+    },
+    {
+      "hero": 16,
+      "skinIndex": 4
+    }
+  ]
+}

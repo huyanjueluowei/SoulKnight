@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5536834971756762748
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5225829426180094447
+  },
+  "m_Name": "",
+  "unlock_key": "m_celler_train",
+  "itemLevel": 0,
+  "itemValue": 0,
+  "defence": 0,
+  "canTriggerItem": 1,
+  "deadObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "deadClip": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "speedRate": 4.0,
+  "drivePosition": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "hands": [],
+  "useControllerWeapon": 1,
+  "coverController": 0,
+  "runAnim": 1,
+  "idleAnim": 1,
+  "hideInactiveWeapon": 1,
+  "isCreature": 1,
+  "hasHp": 1,
+  "keep": 1,
+  "hasFx": 1,
+  "raid_clip": {
+    "m_FileID": 2,
+    "m_PathID": 4533874070273519759
+  },
+  "wait_clip": {
+    "m_FileID": 0,
+    "m_PathID": 4567281833327745676
+  },
+  "run_clip": {
+    "m_FileID": 2,
+    "m_PathID": 554953827841968307
+  }
+}

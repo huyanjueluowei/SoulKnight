@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 203713122421606300
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2916973207073226693
+  },
+  "m_Name": "",
+  "isContinue": 0,
+  "room_btn_obj": {
+    "m_FileID": 0,
+    "m_PathID": -2029871287117411496
+  }
+}

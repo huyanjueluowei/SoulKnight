@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2738851056523334620
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3638183031704937178
+  },
+  "m_Name": "",
+  "serializationData": {
+    "SerializedFormat": 0,
+    "SerializedBytes": [],
+    "ReferencedUnityObjects": [],
+    "SerializedBytesString": "",
+    "Prefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "PrefabModificationsReferencedUnityObjects": [],
+    "PrefabModifications": [],
+    "SerializationNodes": []
+  },
+  "item_name": "",
+  "item_value": 200,
+  "repeat": 0,
+  "statisticKey": "",
+  "itemType": 3,
+  "cnName": "",
+  "item_level": 0,
+  "maxCount": 8,
+  "blueprint": {
+    "m_FileID": 0,
+    "m_PathID": 4539199070062394260
+  },
+  "hero": 11,
+  "skillIndex": 1,
+  "useItemName": 0
+}

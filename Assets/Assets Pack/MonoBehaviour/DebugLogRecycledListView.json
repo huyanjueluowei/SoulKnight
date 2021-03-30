@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9143238772462654795
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4251058867508843438
+  },
+  "m_Name": "",
+  "transformComponent": {
+    "m_FileID": 0,
+    "m_PathID": -109101745890661224
+  },
+  "viewportTransform": {
+    "m_FileID": 0,
+    "m_PathID": -2016372928993626139
+  },
+  "debugManager": {
+    "m_FileID": 0,
+    "m_PathID": 2892693035538943357
+  },
+  "logItemNormalColor1": {
+    "r": 0.235294119,
+    "g": 0.235294119,
+    "b": 0.235294119,
+    "a": 0.697
+  },
+  "logItemNormalColor2": {
+    "r": 0.196078435,
+    "g": 0.196078435,
+    "b": 0.196078435,
+    "a": 0.697
+  },
+  "logItemSelectedColor": {
+    "r": 0.329411775,
+    "g": 0.4862745,
+    "b": 0.7058824,
+    "a": 0.697
+  }
+}

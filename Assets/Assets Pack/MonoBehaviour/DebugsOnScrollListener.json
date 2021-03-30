@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 555489015717629761
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6614138507349872638
+  },
+  "m_Name": "",
+  "debugsScrollRect": {
+    "m_FileID": 0,
+    "m_PathID": -1319666832319885862
+  },
+  "debugLogManager": {
+    "m_FileID": 0,
+    "m_PathID": 2892693035538943357
+  }
+}
