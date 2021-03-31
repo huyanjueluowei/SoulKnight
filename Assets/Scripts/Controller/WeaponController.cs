@@ -5,4 +5,5 @@ using UnityEngine;
 public class WeaponController : MonoBehaviour
 {
     public WeaponData_SO weaponData;
+    public BulletPool weaponBulletPool;
 }

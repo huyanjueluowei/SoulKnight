@@ -8,8 +8,11 @@ public class CharacterStats : MonoBehaviour
     public Character_SO characterData;
     public WeaponData_SO weaponData;
 
+    public BulletPool bulletPool;
+
     [Header("Weapon")]
-    public Transform weaponPos;    
+    public Transform weaponPos;
+    public float nextFire;
 
     [HideInInspector]
     public bool isCritical;
@@ -25,6 +28,23 @@ public class CharacterStats : MonoBehaviour
         
     }
 
+    public void ApplyWeapon()
+    {
+        if (GetWeapon())
+        {
+            characterData.ApplyWeaponData(GetWeapon().weaponData);
+        }
+    }
+
+    public WeaponController GetWeapon()   //创建一个获取武器Controller的函数，以免要调用时点很多层
+    {
+        if(weaponPos.GetChild(0)!=null)
+        {
+            weaponData = weaponPos.GetChild(0).GetComponent<WeaponController>().weaponData;  //给人物的weaponData赋值
+            return weaponPos.GetChild(0).GetComponent<WeaponController>();
+        }
+        return null;
+    }
     #region Read from Data_SO   
     public int MaxHealth    //设置这么多属性变量好处可以在调用时简洁一点，直接CharacterStats.MaxHealth而不用CharacterStats.characterData.maxHealth
     {  

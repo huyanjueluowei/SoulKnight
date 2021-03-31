@@ -8,6 +8,8 @@ public class PlayerStats : CharacterStats
     private void Update()
     {
         RotateWeapon();
+        ApplyWeapon();
+        GenerateBullet();
     }
     public void RotateWeapon()
     {
@@ -30,6 +32,26 @@ public class PlayerStats : CharacterStats
         else
         {
             weaponPos.GetChild(0).transform.localEulerAngles = new Vector3(0, 0, 0);
+        }
+    }
+
+
+    void GenerateBullet()         //实现生成子弹和发射子弹效果
+    {
+        if(Input.GetMouseButtonDown(0)) 
+        {
+            if(Time.time>nextFire)
+            {
+                nextFire = Time.time + GetWeapon().weaponData.coolDown;
+                GameObject bullet = GetWeapon().weaponBulletPool.GetBullet();     //子弹池获取子弹
+                bullet.GetComponent<BulletController>().weaponData = Instantiate(weaponData);
+                bullet.SetActive(true);                                     //显示子弹
+                bullet.transform.eulerAngles = weaponPos.eulerAngles;   //生成后就将bullet角度与当时的weaponPos一致
+                bullet.GetComponent<BulletController>().isActive = true;
+                bullet.transform.position = weaponPos.position;
+                Vector3 dir = weaponPos.transform.right;
+                bullet.GetComponent<BulletController>().rb.velocity = new Vector2(dir.x,dir.y)*20;  //二维平面给一个速度
+            }
         }
     }
 }

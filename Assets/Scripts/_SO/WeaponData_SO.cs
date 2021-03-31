@@ -14,6 +14,8 @@ public class WeaponData_SO : ScriptableObject
     public float criticalChance;      //暴击率
     public string weaponName;
 
+    protected bool isCritical = false;
 
+    public GameObject bulletPrefab;
     bool onGround;   //判断是否在地面上
 }
