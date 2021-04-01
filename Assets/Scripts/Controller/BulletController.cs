@@ -21,8 +21,20 @@ public class BulletController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)   //注意相应碰撞体改成trigger
     {
-        if(collision.tag=="Border"||collision.tag=="Enemy")
+        if(CompareTag("PlayerBullet")&&collision.CompareTag("Enemy"))   //直接用tag==这种方法inefficient
         {
+            collision.gameObject.GetComponent<EnemyStats>().TakeDamage(weaponData);
+            gameObject.SetActive(false);
+            isActive = false;
+        }
+        else if(collision.CompareTag("Border"))
+        {
+            gameObject.SetActive(false);
+            isActive = false;
+        }
+        else if(CompareTag("EnemyBullet")&&collision.CompareTag("Player"))
+        {
+            collision.gameObject.GetComponent<PlayerStats>().TakeDamage(weaponData);
             gameObject.SetActive(false);
             isActive = false;
         }

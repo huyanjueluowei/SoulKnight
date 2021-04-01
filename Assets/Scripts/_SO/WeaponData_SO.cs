@@ -10,11 +10,10 @@ public class WeaponData_SO : ScriptableObject
     public float coolDown;
     public int minDamage;
     public int maxDamage;
-    public float criticalMutiplier;   //暴击加成
     public float criticalChance;      //暴击率
     public string weaponName;
 
-    protected bool isCritical = false;
+    public bool isCritical = false;
 
     public GameObject bulletPrefab;
     bool onGround;   //判断是否在地面上

@@ -19,7 +19,6 @@ public class Character_SO : ScriptableObject
     public float coolDown;
     public int minDamage;
     public int maxDamage;
-    public float criticalMutiplier;   //±©»÷¼Ó³É
     public float criticalChance;      //±©»÷ÂÊ
 
     public void ApplyWeaponData(WeaponData_SO weapon)
@@ -28,7 +27,6 @@ public class Character_SO : ScriptableObject
         coolDown = weapon.coolDown;
         minDamage = weapon.minDamage;
         maxDamage = weapon.maxDamage;
-        criticalMutiplier = weapon.criticalMutiplier;
         criticalChance = weapon.criticalChance;
     }
 }

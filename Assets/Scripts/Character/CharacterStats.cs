@@ -10,17 +10,27 @@ public class CharacterStats : MonoBehaviour
 
     public BulletPool bulletPool;
 
+    public Camera mainCamera;
+    protected Animator anim;
+    protected Rigidbody2D rb;
+    protected BoxCollider2D coll;
+
+
     [Header("Weapon")]
     public Transform weaponPos;
     public float nextFire;
 
     [HideInInspector]
     public bool isCritical;
-
-    public void Awake()
+    public bool isDead=false;
+    protected virtual void Awake()    //protected表示自己和子类可以访问，virtual表示可以让子类在此基础上添加
     {
         if (templateData != null)
             characterData = Instantiate(templateData);
+        anim = GetComponent<Animator>();
+        coll = GetComponent<BoxCollider2D>();
+        rb = GetComponent<Rigidbody2D>();
+        mainCamera = Camera.main;
     }
 
     private void Update()
@@ -77,37 +87,6 @@ public class CharacterStats : MonoBehaviour
         set { characterData.currentEnergy = value; }
     }
 
-    //读入武器数据
-    public float AttackRange
-    {
-        get { if (characterData != null) return characterData.attackRange; else return 0; }
-        set { characterData.attackRange = value; }
-    }
-    public float CoolDown
-    {
-        get { if (characterData != null) return characterData.coolDown; else return 0; }
-        set { characterData.coolDown = value; }
-    }
-    public int MinDamage
-    {
-        get { if (characterData != null) return characterData.minDamage; else return 0; }
-        set { characterData.minDamage = value; }
-    }
-    public int MaxDamage
-    {
-        get { if (characterData != null) return characterData.maxDamage; else return 0; }
-        set { characterData.maxDamage = value; }
-    }
-    public float CriticalMutiplier
-    {
-        get { if (characterData != null) return characterData.criticalMutiplier; else return 0; }
-        set { characterData.criticalMutiplier = value; }
-    }
-    public float CriticalChance
-    {
-        get { if (characterData != null) return characterData.criticalChance; else return 0; }
-        set { characterData.criticalChance = value; }
-    }
     #endregion
 
 

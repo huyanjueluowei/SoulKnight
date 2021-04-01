@@ -22,5 +22,4 @@ MonoBehaviour:
   coolDown: 0
   minDamage: 0
   maxDamage: 0
-  criticalMutiplier: 0
   criticalChance: 0
