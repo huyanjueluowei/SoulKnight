@@ -10,13 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a5e79e3f20de6124e8a89079eea67697, type: 3}
-  m_Name: "\u666E\u901A\u7684\u5F13\u7BAD"
+  m_Name: "\u7834\u65E7\u7684\u624B\u67AA"
   m_EditorClassIdentifier: 
   attackRange: 0
-  coolDown: 0.5
-  minDamage: 1
-  maxDamage: 2
-  criticalChance: 0.2
-  weaponName: "\u666E\u901A\u7684\u5F13\u7BAD"
+  coolDown: 0.3
+  minDamage: 2
+  maxDamage: 5
+  bulletAmount: 5
+  criticalChance: 0.15
+  weaponName: "\u7834\u65E7\u7684\u624B\u67AA"
+  bulletPoolName: "\u666E\u901A\u5B50\u5F39\u6C60"
+  weaponType: 0
   isCritical: 0
-  bulletPrefab: {fileID: 2860507923654389979, guid: c603029bad6c41d4b810e75892bd8ced, type: 3}
+  bulletPrefab: {fileID: 3849897796661798087, guid: 9bd4f658fd0a2a346a8871365346eca5, type: 3}

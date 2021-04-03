@@ -18,9 +18,8 @@ MonoBehaviour:
   currentDefence: 1
   maxEnergy: 0
   currentEnergy: 0
-  attackRange: 0
+  attackRange: 8
   coolDown: 0.5
   minDamage: 2
   maxDamage: 3
-  criticalMutiplier: 0.5
   criticalChance: 0.1

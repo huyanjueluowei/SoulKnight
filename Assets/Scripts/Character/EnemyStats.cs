@@ -4,24 +4,29 @@ using UnityEngine;
 using UnityEngine.UI;
 using Pathfinding;
 
-public enum EnemyStates { GUARD,CHASE,DEAD }
+public enum EnemyStates { GUARD,PATROL,CHASE,DEAD }
 public class EnemyStats : CharacterStats
 {
     private GameObject damageText;
-    private GameObject player;
+    private Transform player;
     private AIPath aiPath;
+    private GameObject bullet;
     private bool isChase=true;
-    private bool isGuard = false;
+
     private EnemyStates enemyStates;
 
     protected override void Awake()
     {
         base.Awake();
-        GameManager.Instance.enemyCount++;                              //自己是敌人，生成时候GameManager敌人数量就加一
-        player = FindObjectOfType<PlayerController>().gameObject;
+        player = FindObjectOfType<PlayerController>().transform;
         aiPath = GetComponent<AIPath>();
+        if (GetWeapon().weaponData.weaponType == WeaponType.KNIFE)
+            bullet = transform.GetChild(1).gameObject;
     }
-
+    private void Start()
+    {
+        GameManager.Instance.enemies.Add(gameObject);                              //自己是敌人，生成时候添加到当前敌人列表
+    }
     private void Update()
     {
         Move();
@@ -56,7 +61,8 @@ public class EnemyStats : CharacterStats
             isDead = true;
             anim.SetBool("dead", isDead);
             //aiPath.maxSpeed = 0;   //要获取这个组件还得先引用一下命名空间(这句话我在状态机调用)
-            GameManager.Instance.enemyCount--;
+            if(GameManager.Instance.enemies.Contains(gameObject))
+                GameManager.Instance.enemies.Remove(gameObject);          //用数量计算的话有时--抽风，多减了一次，我就换成列表的形式
             Destroy(gameObject, 2f);
         }
     }
@@ -77,7 +83,7 @@ public class EnemyStats : CharacterStats
     {
         if (GetComponent<EnemyStats>().isDead == false)
         {
-            if (transform.position.x < player.transform.position.x)   //怪物在player左边时怪物对着player，反之则转180度
+            if (transform.position.x < player.position.x)   //怪物在player左边时怪物对着player，反之则转180度
             {
                 transform.eulerAngles = new Vector3(0, 0, 0);
             }
@@ -117,7 +123,7 @@ public class EnemyStats : CharacterStats
     {
         if (isDead == false&&isChase==true)
         {
-            if (Time.time > nextFire)
+            if (GetWeapon().weaponData.weaponType == WeaponType.GUN&&(Time.time > nextFire))   //远程武器攻击
             {
                 nextFire = Time.time + GetWeapon().weaponData.coolDown;
                 GameObject bullet = GetWeapon().weaponBulletPool.GetBullet();     //子弹池获取子弹
@@ -128,6 +134,13 @@ public class EnemyStats : CharacterStats
                 bullet.transform.position = weaponPos.position;
                 Vector3 bulletDir = weaponPos.transform.right;
                 bullet.GetComponent<BulletController>().rb.velocity = new Vector2(bulletDir.x, bulletDir.y) * 20;  //二维平面给一个速度
+            }
+            else if(Time.time>nextFire)    //近战武器
+            {
+                nextFire = Time.time + GetWeapon().weaponData.coolDown;
+                bullet.GetComponent<BulletController>().weaponData = Instantiate(weaponData);
+                bullet.SetActive(true);                                     //显示子弹
+                aiPath.maxSpeed = 8;                                       //以很快速度冲Player
             }
         }
     }
@@ -142,25 +155,45 @@ public class EnemyStats : CharacterStats
         }
         else
         {
-            enemyStates = EnemyStates.CHASE;
+            if(Vector3.Distance(player.transform.position,transform.position)<AttackRange)
+            {
+                //Debug.Log("Found Player!");
+                enemyStates = EnemyStates.CHASE;
+            }
+            else
+                enemyStates = EnemyStates.PATROL;
         }
         switch (enemyStates)
         {
+            case EnemyStates.PATROL:
+                isChase = false;
+                aiPath.maxSpeed = 3;
+                if (bullet) bullet.SetActive(false);      //猪的子弹不显示
+                break;
             case EnemyStates.CHASE:
                 isChase = true;
-                aiPath.maxSpeed = 5;
+                if(GetWeapon().weaponData.weaponType==WeaponType.GUN)
+                    aiPath.maxSpeed = 6;
                 break;
             case EnemyStates.DEAD:
                 isDead = true;
                 aiPath.maxSpeed = 0;
-                transform.GetChild(0).GetChild(0).gameObject.SetActive(false);
+                transform.GetChild(0).GetChild(0).gameObject.SetActive(false);    //武器不显示
+                if (bullet) bullet.SetActive(false);      //猪的子弹不显示
                 coll.enabled = false;      //防止死亡了之后还能被攻击
                 break;
             case EnemyStates.GUARD:
-                isGuard = true;
                 isChase = false;
                 aiPath.maxSpeed = 0;
                 break;
         }
     }
+
+
+
+    //private void OnDrawGizmos()        //在编辑器中可以将AttackRange范围可视化，便于调节
+    //{
+    //    Gizmos.color = Color.green;
+    //    Gizmos.DrawWireSphere(transform.position, 5);
+    //}
 }

@@ -13,7 +13,6 @@ public class CharacterStats : MonoBehaviour
     public Camera mainCamera;
     public GameObject weapon;               //获取武器预制体
     protected Animator anim;
-    protected Rigidbody2D rb;
     protected BoxCollider2D coll;
 
 
@@ -29,7 +28,6 @@ public class CharacterStats : MonoBehaviour
         characterData = Instantiate(templateData);
         anim = GetComponent<Animator>();
         coll = GetComponent<BoxCollider2D>();
-        rb = GetComponent<Rigidbody2D>();
         mainCamera = Camera.main;
     }
 
@@ -88,6 +86,11 @@ public class CharacterStats : MonoBehaviour
         set { characterData.currentEnergy = value; }
     }
 
+    public float AttackRange
+    {
+        get { if (characterData != null) return characterData.attackRange; else return 0; }
+        set { characterData.attackRange = value; }
+    }
     #endregion
 
 

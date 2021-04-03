@@ -6,28 +6,39 @@ using UnityEngine.UI;
 public class PlayerStats : CharacterStats
 {
     private GameObject damageText;
+    private Rigidbody2D rb;
     private float nextDefenceRestore;      //恢复盾牌的时间
 
     [Header("SkillWeapon")]
     public Transform skillWeaponPos;
     public GameObject skillFireEffect;
     private int currentSkillPoint = 0;
-    private const int maxSkillPoint = 4000;       //每秒增加一点，我看它是一秒调用400次，我控制10秒来一次技能
+    private const int maxSkillPoint = 500;       //每秒增加一点，我看它是一秒调用400次(生成出来帧率降低，很奇怪），我控制10秒来一次技能
+    public GameObject mainWeapon;               //主武器
+    public GameObject secondWeapon;              //副武器
+    private bool isSecondWeapon;                  //标记是否为副武器
 
     [Header("Skill")]
     public Image flashSlider;
     private bool isSkill=false;                  //来判断当前是否在使用技能
     private void Update()
     {
-        if (isDead == false)
+        if (isDead == false)             //注意以下几个方法是有顺序的，不然可能出现意想不到的错误，比如Skill如果放RotateWeapon后面，技能枪还没生成，无法旋转
         {
+            Skill();       
             RotateWeapon();
             ApplyWeapon();
+            SwitchWeapon();
             GenerateBullet();
             RestoreDefence();
-            RefreshSkillUI();
-            Skill();
         }
+        RefreshSkillUI();
+    }
+    protected override void Awake()
+    {
+        base.Awake();
+        Instantiate(mainWeapon, weaponPos);
+        rb = GetComponent<Rigidbody2D>();
     }
     public void RotateWeapon()
     {
@@ -47,15 +58,27 @@ public class PlayerStats : CharacterStats
         if (Mathf.Abs(z) > 90)        //枪的角度调整一下,注意不能直接改rotation，否则那改的是相对世界的旋转角度，要用Local改变相对父级角度
         {
             weaponPos.GetChild(0).transform.localEulerAngles = new Vector3(180, 0, 0);
-            if (isSkill) skillWeaponPos.GetChild(0).transform.localEulerAngles = new Vector3(180, 0, 0);
+            if (isSkill&&skillWeaponPos.GetChild(0)!=null) skillWeaponPos.GetChild(0).transform.localEulerAngles = new Vector3(180, 0, 0);
         }
         else
         {
             weaponPos.GetChild(0).transform.localEulerAngles = new Vector3(0, 0, 0);
-            if (isSkill) skillWeaponPos.GetChild(0).transform.localEulerAngles = new Vector3(0, 0, 0);
+            if (isSkill && skillWeaponPos.GetChild(0)!= null) skillWeaponPos.GetChild(0).transform.localEulerAngles = new Vector3(0, 0, 0);
         }
     }
 
+    public void SwitchWeapon()
+    {
+        if(Input.GetAxis("Mouse ScrollWheel")!=0)         //鼠标滚轮切换主副手武器
+        {
+            Destroy(weaponPos.GetChild(0).gameObject);
+            isSecondWeapon = !isSecondWeapon;
+            if (isSecondWeapon)
+                Instantiate(secondWeapon, weaponPos);
+            else
+                Instantiate(mainWeapon, weaponPos);
+        }
+    }
 
     void GenerateBullet()         //实现生成子弹和发射子弹效果
     {
@@ -85,8 +108,8 @@ public class PlayerStats : CharacterStats
             nextFire = Time.time + GetWeapon().weaponData.coolDown / 2;       //间隔时间缩短
             if (skillWeaponPos.childCount == 0)         //保证只生成一把枪，skill时间内每帧调用，不每帧都生成枪
             {
-                GameObject skillWeapon = Instantiate(weapon);
-                skillWeapon.transform.SetParent(skillWeaponPos);
+                GameObject skillWeapon = Instantiate(weapon,skillWeaponPos);
+                skillWeapon.GetComponent<SpriteRenderer>().sortingOrder = 2;    //图层顺序改一下，在Player后面显示
             }
 
             GameObject bullet = GetWeapon().weaponBulletPool.GetBullet();     //子弹池获取子弹
@@ -124,30 +147,33 @@ public class PlayerStats : CharacterStats
     }
     public void RefreshSkillUI()
     {
-        if(Input.GetMouseButtonDown(1)&&flashSlider.fillAmount==1)
+        if (Time.timeScale == 1)   //我发现暂停时flashSlider还会变化，就加这个判断
         {
-            isSkill = true;
-        }
-
-        if(isSkill==false&&currentSkillPoint<maxSkillPoint)
-        {
-            currentSkillPoint++;
-        }
-        else if(isSkill==true)
-        {
-            skillFireEffect.SetActive(true);
-            currentSkillPoint-=2;                               //技能持续5秒钟                               
-            if (currentSkillPoint <= 0)
+            if (Input.GetMouseButtonDown(1) && flashSlider.fillAmount == 1)
             {
-                isSkill = false;
-                skillFireEffect.SetActive(false);
-                for(int i=0;i<skillWeaponPos.childCount;i++)    //将技能枪位置下的武器销毁
+                isSkill = true;
+            }
+
+            if (isSkill == false && currentSkillPoint < maxSkillPoint)
+            {
+                currentSkillPoint++;
+            }
+            else if (isSkill == true)
+            {
+                skillFireEffect.SetActive(true);                      //打开特效
+                currentSkillPoint -= 2;                               //技能持续5秒钟                               
+                if (currentSkillPoint <= 0)
                 {
-                    Destroy(skillWeaponPos.GetChild(i).gameObject);
+                    isSkill = false;
+                    skillFireEffect.SetActive(false);
+                    for (int i = 0; i < skillWeaponPos.childCount; i++)    //将技能枪位置下的武器销毁
+                    {
+                        Destroy(skillWeaponPos.GetChild(i).gameObject);
+                    }
                 }
             }
+            flashSlider.fillAmount = (float)currentSkillPoint / maxSkillPoint;
         }
-        flashSlider.fillAmount = (float)currentSkillPoint / maxSkillPoint;
     }
     public void TakeDamage(WeaponData_SO weaponData)
     {
@@ -199,4 +225,6 @@ public class PlayerStats : CharacterStats
     {
         damageText.transform.position = mainCamera.WorldToScreenPoint(transform.position + new Vector3(0, 1, 0));  //由于UI是屏幕坐标，物体是世界坐标，因此将物体的坐标转换为屏幕坐标再赋值给UI的坐标就行
     }
+
+
 }

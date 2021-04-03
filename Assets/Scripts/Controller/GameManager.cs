@@ -9,8 +9,7 @@ public class GameManager : Singleton<GameManager>
     public GameObject blueRewardBox;          //蓝色宝箱
     public Transform boxPos;   //临时创建的一个宝箱位置
 
-    [HideInInspector]
-    public int enemyCount=0;
+    public List<GameObject> enemies = new List<GameObject>();
     public bool playerDead     //获取player是否死亡
     {
         get { return player.GetComponent<PlayerStats>().isDead; }
@@ -27,7 +26,7 @@ public class GameManager : Singleton<GameManager>
     }
     void GenerateRewardBox()
     {
-        if(enemyCount==0&&isGameOver==false)
+        if(enemies.Count==0&&isGameOver==false)           
         {
             isGameOver = true;
             Instantiate(blueRewardBox, boxPos);
