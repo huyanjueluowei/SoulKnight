@@ -10,6 +10,7 @@ public class WeaponData_SO : ScriptableObject
     public float coolDown;
     public int minDamage;
     public int maxDamage;
+    public int bulletAmount;          //一发子弹要消耗多少精力
     public float criticalChance;      //暴击率
     public string weaponName;
 

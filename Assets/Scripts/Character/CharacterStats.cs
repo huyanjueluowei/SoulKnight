@@ -11,6 +11,7 @@ public class CharacterStats : MonoBehaviour
     public BulletPool bulletPool;
 
     public Camera mainCamera;
+    public GameObject weapon;               //获取武器预制体
     protected Animator anim;
     protected Rigidbody2D rb;
     protected BoxCollider2D coll;
@@ -25,8 +26,7 @@ public class CharacterStats : MonoBehaviour
     public bool isDead=false;
     protected virtual void Awake()    //protected表示自己和子类可以访问，virtual表示可以让子类在此基础上添加
     {
-        if (templateData != null)
-            characterData = Instantiate(templateData);
+        characterData = Instantiate(templateData);
         anim = GetComponent<Animator>();
         coll = GetComponent<BoxCollider2D>();
         rb = GetComponent<Rigidbody2D>();
@@ -42,6 +42,7 @@ public class CharacterStats : MonoBehaviour
     {
         if (GetWeapon())
         {
+            weapon = weaponPos.GetChild(0).gameObject;
             characterData.ApplyWeaponData(GetWeapon().weaponData);
         }
     }

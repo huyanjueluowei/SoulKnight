@@ -6,48 +6,66 @@ using UnityEngine.UI;
 public class PlayerStats : CharacterStats
 {
     private GameObject damageText;
+    private float nextDefenceRestore;      //恢复盾牌的时间
+
+    [Header("SkillWeapon")]
+    public Transform skillWeaponPos;
+    public GameObject skillFireEffect;
+    private int currentSkillPoint = 0;
+    private const int maxSkillPoint = 4000;       //每秒增加一点，我看它是一秒调用400次，我控制10秒来一次技能
+
+    [Header("Skill")]
+    public Image flashSlider;
+    private bool isSkill=false;                  //来判断当前是否在使用技能
     private void Update()
-    {
-        RotateWeapon();
-        ApplyWeapon();
-        GenerateBullet();
-    }
-    public void RotateWeapon()
     {
         if (isDead == false)
         {
-            float z;
-            Vector3 mousePos = mainCamera.ScreenToWorldPoint(Input.mousePosition);
-            mousePos.z += 10;      //我发现mousePos  z是-10，2d里面这都要变成0，如果不改这个的话枪的旋转会很不流畅，因为z的影响角度有偏差
-            if (mousePos.y > weaponPos.position.y)
-            {
-                z = Vector3.Angle(Vector3.right, mousePos - weaponPos.position);
-            }
-            else
-            {
-                z = -Vector3.Angle(Vector3.right, mousePos - weaponPos.position);
-            }
-            weaponPos.rotation = Quaternion.Euler(0, 0, z);
-            if (Mathf.Abs(z) > 90)        //枪的角度调整一下,注意不能直接改rotation，否则那改的是相对世界的旋转角度，要用Local改变相对父级角度
-            {
-                weaponPos.GetChild(0).transform.localEulerAngles = new Vector3(180, 0, 0);
-            }
-            else
-            {
-                weaponPos.GetChild(0).transform.localEulerAngles = new Vector3(0, 0, 0);
-            }
+            RotateWeapon();
+            ApplyWeapon();
+            GenerateBullet();
+            RestoreDefence();
+            RefreshSkillUI();
+            Skill();
+        }
+    }
+    public void RotateWeapon()
+    {
+        float z;         
+        Vector3 mousePos = mainCamera.ScreenToWorldPoint(Input.mousePosition);
+        mousePos.z += 10;      //我发现mousePos  z是-10，2d里面这都要变成0，如果不改这个的话枪的旋转会很不流畅，因为z的影响角度有偏差
+        if (mousePos.y > weaponPos.position.y)
+        {
+            z = Vector3.Angle(Vector3.right, mousePos - weaponPos.position);
+        }
+        else
+        {
+            z = -Vector3.Angle(Vector3.right, mousePos - weaponPos.position);
+        }
+        weaponPos.rotation = Quaternion.Euler(0, 0, z);
+        skillWeaponPos.rotation = Quaternion.Euler(0, 0, z);
+        if (Mathf.Abs(z) > 90)        //枪的角度调整一下,注意不能直接改rotation，否则那改的是相对世界的旋转角度，要用Local改变相对父级角度
+        {
+            weaponPos.GetChild(0).transform.localEulerAngles = new Vector3(180, 0, 0);
+            if (isSkill) skillWeaponPos.GetChild(0).transform.localEulerAngles = new Vector3(180, 0, 0);
+        }
+        else
+        {
+            weaponPos.GetChild(0).transform.localEulerAngles = new Vector3(0, 0, 0);
+            if (isSkill) skillWeaponPos.GetChild(0).transform.localEulerAngles = new Vector3(0, 0, 0);
         }
     }
 
 
     void GenerateBullet()         //实现生成子弹和发射子弹效果
     {
-        if(Input.GetMouseButtonDown(0)&&isDead==false) 
+        if(Input.GetMouseButtonDown(0)&&CurrentEnergy-GetWeapon().weaponData.bulletAmount>=0) 
         {
             if(Time.time>nextFire)
             {
                 nextFire = Time.time + GetWeapon().weaponData.coolDown;
                 GameObject bullet = GetWeapon().weaponBulletPool.GetBullet();     //子弹池获取子弹
+                CurrentEnergy-=GetWeapon().weaponData.bulletAmount;              //打一发子弹消耗对应精力
                 bullet.GetComponent<BulletController>().weaponData = Instantiate(weaponData);
                 bullet.SetActive(true);                                     //显示子弹
                 bullet.transform.eulerAngles = weaponPos.eulerAngles;   //生成后就将bullet角度与当时的weaponPos一致
@@ -59,34 +77,115 @@ public class PlayerStats : CharacterStats
         }
     }
 
+    void Skill()
+    {
+        //if (Input.GetMouseButtonDown(1))                                      //右键技能，打子弹不消耗精力（点一下就可以连续打，巨变态哈哈），在RefreshUI里面已判断isSkill
+        if (Time.time > nextFire && isSkill == true)
+        {
+            nextFire = Time.time + GetWeapon().weaponData.coolDown / 2;       //间隔时间缩短
+            if (skillWeaponPos.childCount == 0)         //保证只生成一把枪，skill时间内每帧调用，不每帧都生成枪
+            {
+                GameObject skillWeapon = Instantiate(weapon);
+                skillWeapon.transform.SetParent(skillWeaponPos);
+            }
+
+            GameObject bullet = GetWeapon().weaponBulletPool.GetBullet();     //子弹池获取子弹
+            bullet.GetComponent<BulletController>().weaponData = Instantiate(weaponData);
+            bullet.SetActive(true);
+
+            bullet.transform.eulerAngles = skillWeaponPos.eulerAngles;   //生成后就将bullet角度与当时的weaponPos一致
+            bullet.GetComponent<BulletController>().isActive = true;
+            bullet.transform.position = skillWeaponPos.position;
+            Vector3 dir = skillWeaponPos.transform.right;
+            bullet.GetComponent<BulletController>().rb.velocity = new Vector2(dir.x, dir.y) * 20;  //二维平面给一个速度
+
+            //正常发射的位置也要生成子弹
+            GameObject bullet2 = GetWeapon().weaponBulletPool.GetBullet();     //子弹池获取子弹
+            bullet2.GetComponent<BulletController>().weaponData = Instantiate(weaponData);
+            bullet2.SetActive(true);                                     //显示子弹
+            bullet2.transform.eulerAngles = weaponPos.eulerAngles;   //生成后就将bullet角度与当时的weaponPos一致
+            bullet2.GetComponent<BulletController>().isActive = true;
+            bullet2.transform.position = weaponPos.position;
+            Vector3 dir2 = weaponPos.transform.right;
+            bullet2.GetComponent<BulletController>().rb.velocity = new Vector2(dir2.x, dir2.y) * 20;  //二维平面给一个速度
+        }
+    }
+
+    public void RestoreDefence()
+    {
+        if(CurrentDefence<BaseDefence)
+        {
+            if (Time.time > nextDefenceRestore)
+            {
+                nextDefenceRestore = Time.time + 1.5f;     //每过1.5s恢复一个盾牌
+                CurrentDefence++;
+            }
+        }
+    }
+    public void RefreshSkillUI()
+    {
+        if(Input.GetMouseButtonDown(1)&&flashSlider.fillAmount==1)
+        {
+            isSkill = true;
+        }
+
+        if(isSkill==false&&currentSkillPoint<maxSkillPoint)
+        {
+            currentSkillPoint++;
+        }
+        else if(isSkill==true)
+        {
+            skillFireEffect.SetActive(true);
+            currentSkillPoint-=2;                               //技能持续5秒钟                               
+            if (currentSkillPoint <= 0)
+            {
+                isSkill = false;
+                skillFireEffect.SetActive(false);
+                for(int i=0;i<skillWeaponPos.childCount;i++)    //将技能枪位置下的武器销毁
+                {
+                    Destroy(skillWeaponPos.GetChild(i).gameObject);
+                }
+            }
+        }
+        flashSlider.fillAmount = (float)currentSkillPoint / maxSkillPoint;
+    }
     public void TakeDamage(WeaponData_SO weaponData)
     {
-        float chance = Random.Range(0, 1f);
-        int damage = Random.Range(weaponData.minDamage, weaponData.maxDamage + 1);
-        if (chance < weaponData.criticalChance) weaponData.isCritical = true;
-        else weaponData.isCritical = false;
-
-        if (weaponData.isCritical) damage=damage*2;
-        CurrentHealth = Mathf.Max(CurrentHealth - damage, 0);
-
-        //damageText = GameObject.Find("DamageInfoText");   //GameObject.Find只能找active的物体，不能找隐藏物体
-        GameObject damageInfo = GameObject.Find("DamageInfo");   //可以把要用的文字挂在一个可见空物体下面，先找这个空物体
-        damageText = damageInfo.transform.Find("DamageInfoText_Player").gameObject;  //再用Transform.Find方法可以找子物体名字，隐藏的也可以找到
-        if (weaponData.isCritical) damageText.GetComponent<Text>().color = Color.red;    //暴击让数字显示为红色
-        else damageText.GetComponent<Text>().color = Color.yellow;            //不暴击让数字显示为黄色
-
-        damageText.GetComponent<Text>().text = damage.ToString();    //更新文字内容为当前的伤害
-        InvokeRepeating("SetDamageInfoTextPos", 0, 0.02f);            //实时更新文字的位置保证在怪物头顶而不是停留在原地
-        damageText.SetActive(true);
-        StartCoroutine(SetDamageInfoTextFalse());   //协程是与这个程序一起跑，协程后面的程序不影响，同时在跑
-
-        if (CurrentHealth <= 0)                 //判断一下是否死亡，若死亡则播放死亡动画、停止运动并销毁
+        if(CurrentDefence!=0)
         {
-            isDead = true;
-            coll.enabled = false;               //死了之后箭撞不到player了
-            rb.velocity = Vector2.zero;         //死了之后不能移动
-            transform.GetChild(0).GetChild(0).gameObject.SetActive(false);  //把武器隐藏
-            anim.SetBool("dead", isDead);
+            CurrentDefence--;
+            nextDefenceRestore = Time.time + 4f;       //受到攻击过4秒才开始恢复
+        }
+        else
+        {
+            nextDefenceRestore = Time.time + 4f;       //受到攻击过4秒才开始恢复
+            float chance = Random.Range(0, 1f);
+            int damage = Random.Range(weaponData.minDamage, weaponData.maxDamage + 1);
+            if (chance < weaponData.criticalChance) weaponData.isCritical = true;
+            else weaponData.isCritical = false;
+
+            if (weaponData.isCritical) damage = damage * 2;
+            CurrentHealth = Mathf.Max(CurrentHealth - damage, 0);
+
+            //damageText = GameObject.Find("DamageInfoText");   //GameObject.Find只能找active的物体，不能找隐藏物体
+            GameObject damageInfo = GameObject.Find("DamageInfo");   //可以把要用的文字挂在一个可见空物体下面，先找这个空物体
+            damageText = damageInfo.transform.Find("DamageInfoText_Player").gameObject;  //再用Transform.Find方法可以找子物体名字，隐藏的也可以找到
+            if (weaponData.isCritical) damageText.GetComponent<Text>().color = Color.red;    //暴击让数字显示为红色
+            else damageText.GetComponent<Text>().color = Color.yellow;            //不暴击让数字显示为黄色
+
+            damageText.GetComponent<Text>().text = damage.ToString();    //更新文字内容为当前的伤害
+            InvokeRepeating("SetDamageInfoTextPos", 0, 0.02f);            //实时更新文字的位置保证在怪物头顶而不是停留在原地
+            damageText.SetActive(true);
+            StartCoroutine(SetDamageInfoTextFalse());   //协程是与这个程序一起跑，协程后面的程序不影响，同时在跑
+
+            if (CurrentHealth <= 0)                 //判断一下是否死亡，若死亡则播放死亡动画、停止运动并销毁
+            {
+                isDead = true;
+                coll.enabled = false;               //死了之后箭撞不到player了
+                rb.velocity = Vector2.zero;         //死了之后不能移动
+                transform.GetChild(0).GetChild(0).gameObject.SetActive(false);  //把武器隐藏
+                anim.SetBool("dead", isDead);
+            }
         }
     }
     IEnumerator SetDamageInfoTextFalse()

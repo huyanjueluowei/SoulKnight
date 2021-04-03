@@ -16,7 +16,8 @@ MonoBehaviour:
   coolDown: 0.3
   minDamage: 2
   maxDamage: 5
-  criticalMutiplier: 0.5
+  bulletAmount: 10
   criticalChance: 0.15
   weaponName: "\u7834\u65E7\u7684\u624B\u67AA"
+  isCritical: 0
   bulletPrefab: {fileID: 2676909704402606760, guid: 05cd7973a635605488ac46c5935adac3, type: 3}

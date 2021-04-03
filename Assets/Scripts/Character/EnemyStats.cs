@@ -17,6 +17,7 @@ public class EnemyStats : CharacterStats
     protected override void Awake()
     {
         base.Awake();
+        GameManager.Instance.enemyCount++;                              //自己是敌人，生成时候GameManager敌人数量就加一
         player = FindObjectOfType<PlayerController>().gameObject;
         aiPath = GetComponent<AIPath>();
     }
@@ -55,6 +56,7 @@ public class EnemyStats : CharacterStats
             isDead = true;
             anim.SetBool("dead", isDead);
             //aiPath.maxSpeed = 0;   //要获取这个组件还得先引用一下命名空间(这句话我在状态机调用)
+            GameManager.Instance.enemyCount--;
             Destroy(gameObject, 2f);
         }
     }
