@@ -12,6 +12,8 @@ public class EnemyStats : CharacterStats
     private AIPath aiPath;
     private GameObject bullet;
     private bool isChase=true;
+    public GameObject debutEffect;  //精英怪登场效果
+    public bool isElite;
 
     private EnemyStates enemyStates;
 
@@ -23,10 +25,7 @@ public class EnemyStats : CharacterStats
         if (GetWeapon().weaponData.weaponType == WeaponType.KNIFE)
             bullet = transform.GetChild(1).gameObject;
     }
-    private void Start()
-    {
-        GameManager.Instance.enemies.Add(gameObject);                              //自己是敌人，生成时候添加到当前敌人列表
-    }
+
     private void Update()
     {
         Move();
@@ -34,6 +33,7 @@ public class EnemyStats : CharacterStats
         GenerateBullet();
         SwitchState();
     }
+    
     public void TakeDamage(WeaponData_SO weaponData)
     {
         float chance = Random.Range(0, 1f);
@@ -61,8 +61,13 @@ public class EnemyStats : CharacterStats
             isDead = true;
             anim.SetBool("dead", isDead);
             //aiPath.maxSpeed = 0;   //要获取这个组件还得先引用一下命名空间(这句话我在状态机调用)
-            if(GameManager.Instance.enemies.Contains(gameObject))
-                GameManager.Instance.enemies.Remove(gameObject);          //用数量计算的话有时--抽风，多减了一次，我就换成列表的形式
+            if (isElite == false && GameManager.Instance.enemiesOne.Contains(gameObject))
+                GameManager.Instance.enemiesOne.Remove(gameObject);          //用数量计算的话有时--抽风，多减了一次，我就换成列表的形式
+            else if (isElite == true && GameManager.Instance.enemiesTwo.Contains(gameObject))
+            {
+                debutEffect.SetActive(false);
+                GameManager.Instance.enemiesTwo.Remove(gameObject);
+            }
             Destroy(gameObject, 2f);
         }
     }
@@ -149,7 +154,7 @@ public class EnemyStats : CharacterStats
     {
         if (isDead)
             enemyStates = EnemyStates.DEAD;
-        else if(GameManager.Instance.playerDead == true)
+        else if(GameManager.Instance.playerDead == true||GameManager.Instance.isPlayerInMainRoom==false)
         {
             enemyStates = EnemyStates.GUARD;
         }

@@ -8,21 +8,22 @@ public class PlayerStats : CharacterStats
     private GameObject damageText;
     private Rigidbody2D rb;
     private float nextDefenceRestore;      //恢复盾牌的时间
+    private Transform originalWeaponPos;   //储存weaponPos初始旋转角，当武器是刀的时候weaponPos变回来
 
     [Header("SkillWeapon")]
     public Transform skillWeaponPos;
     public GameObject skillFireEffect;
     private int currentSkillPoint = 0;
-    private const int maxSkillPoint = 500;       //每秒增加一点，我看它是一秒调用400次(生成出来帧率降低，很奇怪），我控制10秒来一次技能
+    private const int maxSkillPoint = 200;       //每秒增加一点，我看它是一秒调用400次(生成出来帧率降低，很奇怪），我控制10秒来一次技能
     public GameObject mainWeapon;               //主武器
     public GameObject secondWeapon;              //副武器
-    private bool isSecondWeapon;                  //标记是否为副武器
+    public bool isSecondWeapon;                  //标记是否为副武器
 
     [Header("Skill")]
     public Image flashSlider;
     private bool isSkill=false;                  //来判断当前是否在使用技能
-    private void Update()
-    {
+    private void Update()                //Update里面函数有点多，感觉这不是好事，有时顺序错了产生的bug都不知道怎么搞
+    {   
         if (isDead == false)             //注意以下几个方法是有顺序的，不然可能出现意想不到的错误，比如Skill如果放RotateWeapon后面，技能枪还没生成，无法旋转
         {
             Skill();       
@@ -33,17 +34,18 @@ public class PlayerStats : CharacterStats
             KnifeAttack(); 
             RestoreDefence();
         }
-        RefreshSkillUI();
+        RefreshSkillUI();                //这个放外面是因为如果放里面，死了的时候身上有火，火不会消失，显得挺奇怪的
     }
     protected override void Awake()
     {
         base.Awake();
         Instantiate(mainWeapon, weaponPos);
         rb = GetComponent<Rigidbody2D>();
+        originalWeaponPos = weaponPos.transform;
     }
     public void RotateWeapon()
     {
-        if (GetWeapon().weaponData.weaponType == WeaponType.GUN)
+        if (GetWeapon() != null && GetWeapon().weaponData.weaponType == WeaponType.GUN)
         {
             float z;
             Vector3 mousePos = mainCamera.ScreenToWorldPoint(Input.mousePosition);
@@ -71,13 +73,18 @@ public class PlayerStats : CharacterStats
                     skillWeaponPos.GetChild(0).transform.localEulerAngles = new Vector3(0, 0, 0);
             }
         }
+        else   //将weaponPos角度调整为初始角度，免得刀生成到他下面角度会很奇怪
+            weaponPos.rotation = Quaternion.Euler(originalWeaponPos.rotation.x,originalWeaponPos.rotation.y,originalWeaponPos.rotation.z);
     }
 
     public void SwitchWeapon()
     {
+        if (weaponPos.childCount == 0)
+            Instantiate(mainWeapon, weaponPos);
         if(Input.GetAxis("Mouse ScrollWheel")!=0)         //鼠标滚轮切换主副手武器
         {
-            Destroy(weaponPos.GetChild(0).gameObject);
+            if(weaponPos.childCount!=0)
+                Destroy(weaponPos.GetChild(0).gameObject);
             isSecondWeapon = !isSecondWeapon;
             if (isSecondWeapon)
                 Instantiate(secondWeapon, weaponPos);
@@ -188,6 +195,11 @@ public class PlayerStats : CharacterStats
     }
     public void RefreshSkillUI()
     {
+        if(isDead)
+        {
+            skillFireEffect.SetActive(false);
+            return;
+        }
         if (Time.timeScale == 1)   //我发现暂停时flashSlider还会变化，就加这个判断
         {
             if (Input.GetMouseButtonDown(1) && flashSlider.fillAmount == 1)

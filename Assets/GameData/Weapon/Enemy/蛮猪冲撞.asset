@@ -14,11 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackRange: 3
   coolDown: 5
-  minDamage: 1
+  minDamage: 2
   maxDamage: 3
   bulletAmount: 0
   criticalChance: 0.1
   weaponName: "\u86EE\u732A\u51B2\u649E"
+  bulletPoolName: 
   weaponType: 1
+  weaponLevel: 0
+  weaponPrefab: {fileID: 0}
+  weaponOnGroundPrefab: {fileID: 0}
   isCritical: 0
   bulletPrefab: {fileID: 4365019763504953383, guid: d933240780b1a984292442bf0638b11d, type: 3}

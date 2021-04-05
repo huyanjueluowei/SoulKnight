@@ -191,6 +191,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5740171743202988563}
+  - component: {fileID: 4670362386306767794}
   m_Layer: 0
   m_Name: WeaponPos
   m_TagString: Untagged
@@ -212,6 +213,18 @@ Transform:
   m_Father: {fileID: 5089945320848292960}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4670362386306767794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3180597542873764753}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d67f8f058e62b7d4790fd00879ba3045, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3394386335683340388
 GameObject:
   m_ObjectHideFlags: 0
@@ -288,14 +301,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 317c9ea8afa0b7d43b3e3dbde2db3ef4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  weapons:
-  - {fileID: 6348294645794448106, guid: 75ff41575bb67e0409b7a01b57fa55e5, type: 3}
-  - {fileID: 2695030125346255212, guid: 43950b826ea5baa4dbf4c56fa5971a36, type: 3}
-  - {fileID: 3229492234837319561, guid: 3fe1ac6d0e4b3f64c8bb13574b112bbc, type: 3}
-  - {fileID: 6459753265316205911, guid: b9fc3a7f5d96673498a2bfd5d413ee9d, type: 3}
-  - {fileID: 8639690167709682003, guid: 66ceb186704257c429c571559b9b0b24, type: 3}
-  - {fileID: 1595964818296552476, guid: 94985bc53f211dd48a900c3d349ab08d, type: 3}
-  - {fileID: 4874111944188915296, guid: 19057acd9e1ac244493fd317dfaf0f81, type: 3}
+  weapons: []
 --- !u!1 &4467126391706968290
 GameObject:
   m_ObjectHideFlags: 0
@@ -549,6 +555,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 211644947798021336}
     m_Modifications:
+    - target: {fileID: 5422440367488518044, guid: ea182259cf5a2af48bd55be742644cad, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5422440367488518044, guid: ea182259cf5a2af48bd55be742644cad, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5422440367488518044, guid: ea182259cf5a2af48bd55be742644cad, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5422440367488518045, guid: ea182259cf5a2af48bd55be742644cad, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5

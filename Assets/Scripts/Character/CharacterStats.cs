@@ -47,7 +47,7 @@ public class CharacterStats : MonoBehaviour
 
     public WeaponController GetWeapon()   //创建一个获取武器Controller的函数，以免要调用时点很多层
     {
-        if(weaponPos.GetChild(0)!=null)
+        if(weaponPos.childCount!=0)
         {
             weaponData = weaponPos.GetChild(0).GetComponent<WeaponController>().weaponData;  //给人物的weaponData赋值
             return weaponPos.GetChild(0).GetComponent<WeaponController>();

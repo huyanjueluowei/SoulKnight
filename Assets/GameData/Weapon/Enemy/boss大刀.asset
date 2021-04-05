@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e79e3f20de6124e8a89079eea67697, type: 3}
+  m_Name: "boss\u5927\u5200"
+  m_EditorClassIdentifier: 
+  attackRange: 0
+  coolDown: 3
+  minDamage: 1
+  maxDamage: 4
+  bulletAmount: 0
+  criticalChance: 0.15
+  weaponName: "boss\u5927\u5200"
+  bulletPoolName: 
+  weaponType: 1
+  weaponLevel: 0
+  weaponPrefab: {fileID: 0}
+  weaponOnGroundPrefab: {fileID: 0}
+  isCritical: 0
+  bulletPrefab: {fileID: 0}

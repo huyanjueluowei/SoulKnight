@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 906acc9c385c2fc4ead76dde9ab9500d, type: 3}
+  m_Name: Goblin_Elite
+  m_EditorClassIdentifier: 
+  maxHealth: 70
+  currentHealth: 70
+  baseDefence: 2
+  currentDefence: 2
+  maxEnergy: 0
+  currentEnergy: 0
+  attackRange: 7
+  coolDown: 0.6
+  minDamage: 1
+  maxDamage: 4
+  criticalChance: 0.1

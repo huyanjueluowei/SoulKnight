@@ -21,5 +21,8 @@ MonoBehaviour:
   weaponName: "\u5BD2\u51B0\u9886\u57DF"
   bulletPoolName: "\u84DD\u8272\u5B50\u5F39\u6C60"
   weaponType: 0
+  weaponLevel: 2
+  weaponPrefab: {fileID: 3229492234837319561, guid: 3fe1ac6d0e4b3f64c8bb13574b112bbc, type: 3}
+  weaponOnGroundPrefab: {fileID: 3229492234837319561, guid: 71c63a77c718ffb4995f0f2bbb5d05d4, type: 3}
   isCritical: 0
   bulletPrefab: {fileID: 2676909704402606760, guid: 05cd7973a635605488ac46c5935adac3, type: 3}

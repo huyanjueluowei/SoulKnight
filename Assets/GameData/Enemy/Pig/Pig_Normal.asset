@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 906acc9c385c2fc4ead76dde9ab9500d, type: 3}
   m_Name: Pig_Normal
   m_EditorClassIdentifier: 
-  maxHealth: 0
+  maxHealth: 15
   currentHealth: 15
   baseDefence: 1
   currentDefence: 1
@@ -20,6 +20,6 @@ MonoBehaviour:
   currentEnergy: 0
   attackRange: 9
   coolDown: 0
-  minDamage: 0
-  maxDamage: 0
-  criticalChance: 0
+  minDamage: 1
+  maxDamage: 4
+  criticalChance: 0.2

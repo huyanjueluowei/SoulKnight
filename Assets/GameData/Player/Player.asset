@@ -16,8 +16,8 @@ MonoBehaviour:
   currentHealth: 20
   baseDefence: 5
   currentDefence: 5
-  maxEnergy: 180
-  currentEnergy: 180
+  maxEnergy: 360
+  currentEnergy: 360
   attackRange: 0
   coolDown: 0
   minDamage: 0
