@@ -6,6 +6,7 @@ public class GameManager : Singleton<GameManager>
 {
     private GameObject player;
     private bool isGameOver=false;            //作为游戏结束的标志 
+    public PlayerStats playerStats;
     public GameObject blueRewardBox;          //蓝色宝箱
     public Transform boxPos;   //临时创建的一个宝箱位置
 
@@ -19,6 +20,7 @@ public class GameManager : Singleton<GameManager>
         base.Awake();
         Time.timeScale = 1;                               //不加这句退出重新进入会卡死，因为Time.timeScale在打开菜单时变为0，要变回来
         player = FindObjectOfType<PlayerController>().gameObject;
+        playerStats = player.GetComponent<PlayerStats>();
     }
     private void Update()
     {

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e79e3f20de6124e8a89079eea67697, type: 3}
+  m_Name: "\u6012\u706B\u91D1\u521A"
+  m_EditorClassIdentifier: 
+  attackRange: 0
+  coolDown: 0.4
+  minDamage: 1
+  maxDamage: 7
+  bulletAmount: 8
+  criticalChance: 0.15
+  weaponName: "\u6012\u706B\u91D1\u521A"
+  bulletPoolName: "\u91D1\u8272\u5B50\u5F39\u6C60"
+  weaponType: 0
+  isCritical: 0
+  bulletPrefab: {fileID: 5422095312335707429, guid: 57d5e218cb17b4e428d39728eafcb078, type: 3}

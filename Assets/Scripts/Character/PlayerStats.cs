@@ -30,6 +30,7 @@ public class PlayerStats : CharacterStats
             ApplyWeapon();
             SwitchWeapon();
             GenerateBullet();
+            KnifeAttack(); 
             RestoreDefence();
         }
         RefreshSkillUI();
@@ -42,28 +43,33 @@ public class PlayerStats : CharacterStats
     }
     public void RotateWeapon()
     {
-        float z;         
-        Vector3 mousePos = mainCamera.ScreenToWorldPoint(Input.mousePosition);
-        mousePos.z += 10;      //我发现mousePos  z是-10，2d里面这都要变成0，如果不改这个的话枪的旋转会很不流畅，因为z的影响角度有偏差
-        if (mousePos.y > weaponPos.position.y)
+        if (GetWeapon().weaponData.weaponType == WeaponType.GUN)
         {
-            z = Vector3.Angle(Vector3.right, mousePos - weaponPos.position);
-        }
-        else
-        {
-            z = -Vector3.Angle(Vector3.right, mousePos - weaponPos.position);
-        }
-        weaponPos.rotation = Quaternion.Euler(0, 0, z);
-        skillWeaponPos.rotation = Quaternion.Euler(0, 0, z);
-        if (Mathf.Abs(z) > 90)        //枪的角度调整一下,注意不能直接改rotation，否则那改的是相对世界的旋转角度，要用Local改变相对父级角度
-        {
-            weaponPos.GetChild(0).transform.localEulerAngles = new Vector3(180, 0, 0);
-            if (isSkill&&skillWeaponPos.GetChild(0)!=null) skillWeaponPos.GetChild(0).transform.localEulerAngles = new Vector3(180, 0, 0);
-        }
-        else
-        {
-            weaponPos.GetChild(0).transform.localEulerAngles = new Vector3(0, 0, 0);
-            if (isSkill && skillWeaponPos.GetChild(0)!= null) skillWeaponPos.GetChild(0).transform.localEulerAngles = new Vector3(0, 0, 0);
+            float z;
+            Vector3 mousePos = mainCamera.ScreenToWorldPoint(Input.mousePosition);
+            mousePos.z += 10;      //我发现mousePos  z是-10，2d里面这都要变成0，如果不改这个的话枪的旋转会很不流畅，因为z的影响角度有偏差
+            if (mousePos.y > weaponPos.position.y)
+            {
+                z = Vector3.Angle(Vector3.right, mousePos - weaponPos.position);
+            }
+            else
+            {
+                z = -Vector3.Angle(Vector3.right, mousePos - weaponPos.position);
+            }
+            weaponPos.rotation = Quaternion.Euler(0, 0, z);
+            skillWeaponPos.rotation = Quaternion.Euler(0, 0, z);
+            if (Mathf.Abs(z) > 90)        //枪的角度调整一下,注意不能直接改rotation，否则那改的是相对世界的旋转角度，要用Local改变相对父级角度
+            {
+                weaponPos.GetChild(0).transform.localEulerAngles = new Vector3(180, 0, 0);
+                if (isSkill && skillWeaponPos.childCount != 0)
+                    skillWeaponPos.GetChild(0).transform.localEulerAngles = new Vector3(180, 0, 0);
+            }
+            else
+            {
+                weaponPos.GetChild(0).transform.localEulerAngles = new Vector3(0, 0, 0);
+                if (isSkill && skillWeaponPos.childCount != 0)
+                    skillWeaponPos.GetChild(0).transform.localEulerAngles = new Vector3(0, 0, 0);
+            }
         }
     }
 
@@ -82,7 +88,7 @@ public class PlayerStats : CharacterStats
 
     void GenerateBullet()         //实现生成子弹和发射子弹效果
     {
-        if(Input.GetMouseButtonDown(0)&&CurrentEnergy-GetWeapon().weaponData.bulletAmount>=0) 
+        if(Input.GetMouseButtonDown(0)&&GetWeapon().weaponData.weaponType==WeaponType.GUN&&CurrentEnergy-GetWeapon().weaponData.bulletAmount>=0) 
         {
             if(Time.time>nextFire)
             {
@@ -99,11 +105,30 @@ public class PlayerStats : CharacterStats
             }
         }
     }
-
+    void KnifeAttack()           //近战武器攻击
+    {
+        if(Input.GetMouseButtonDown(0) &&GetWeapon().weaponData.weaponType==WeaponType.KNIFE&&CurrentEnergy - GetWeapon().weaponData.bulletAmount >= 0)
+        {
+            if (Time.time > nextFire)
+            {
+                nextFire = Time.time + GetWeapon().weaponData.coolDown;
+                if (transform.childCount == 3)      //本来底下只有武器位置、技能武器位置和愤怒特效三个，现在加一个刀光特效，且不用重复生成销毁
+                    Instantiate(GetWeapon().weaponData.bulletPrefab, transform); 
+                else if(GetWeapon().weaponData.bulletPrefab.name!=transform.GetChild(3).GetComponent<KnifeController>().knifeName)
+                {
+                    Destroy(transform.GetChild(3).gameObject);
+                    Instantiate(GetWeapon().weaponData.bulletPrefab, transform);
+                }
+                GameObject knife = transform.GetChild(3).gameObject;
+                knife.GetComponent<KnifeController>().weaponData = Instantiate(weaponData);
+                knife.SetActive(true);
+            }
+        }
+    }
     void Skill()
     {
         //if (Input.GetMouseButtonDown(1))                                      //右键技能，打子弹不消耗精力（点一下就可以连续打，巨变态哈哈），在RefreshUI里面已判断isSkill
-        if (Time.time > nextFire && isSkill == true)
+        if (Time.time > nextFire && isSkill == true&&GetWeapon().weaponData.weaponType==WeaponType.GUN)
         {
             nextFire = Time.time + GetWeapon().weaponData.coolDown / 2;       //间隔时间缩短
             if (skillWeaponPos.childCount == 0)         //保证只生成一把枪，skill时间内每帧调用，不每帧都生成枪
@@ -132,7 +157,23 @@ public class PlayerStats : CharacterStats
             Vector3 dir2 = weaponPos.transform.right;
             bullet2.GetComponent<BulletController>().rb.velocity = new Vector2(dir2.x, dir2.y) * 20;  //二维平面给一个速度
         }
+        else if(Time.time > nextFire && isSkill == true)
+        {
+            nextFire = Time.time + GetWeapon().weaponData.coolDown / 2;       //间隔时间缩短
+            if (transform.childCount == 3)      //本来底下只有武器位置、技能武器位置和愤怒特效三个，现在加一个刀光特效，且不用重复生成销毁
+                Instantiate(GetWeapon().weaponData.bulletPrefab, transform);
+            else if (GetWeapon().weaponData.bulletPrefab.name != transform.GetChild(3).GetComponent<KnifeController>().knifeName)
+            {
+                Destroy(transform.GetChild(3).gameObject);
+                Instantiate(GetWeapon().weaponData.bulletPrefab, transform);
+            }
+            GameObject knife = transform.GetChild(3).gameObject;
+            knife.GetComponent<KnifeController>().weaponData = Instantiate(weaponData);
+            knife.SetActive(true);
+        }
     }
+
+
 
     public void RestoreDefence()
     {

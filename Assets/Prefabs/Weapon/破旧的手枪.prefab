@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4494706619988632257}
   - component: {fileID: 4494706619988632256}
   - component: {fileID: 4494706619988632287}
+  - component: {fileID: 2626031392400459334}
   m_Layer: 0
   m_Name: "\u7834\u65E7\u7684\u624B\u67AA"
   m_TagString: Untagged
@@ -97,3 +98,29 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   weaponData: {fileID: 11400000, guid: c1cbf1fa1a876a0499da888744a77b82, type: 2}
   weaponBulletPool: {fileID: 0}
+--- !u!61 &2626031392400459334
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4494706619988632258}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.1111112, y: 0.5555556}
+    newSize: {x: 1.25, y: 0.625}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.1111112, y: 0.5555556}
+  m_EdgeRadius: 0
